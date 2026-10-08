@@ -1,0 +1,404 @@
+{
+  "data": {
+    "accession": "Q6P6U0",
+    "component_id": 2679,
+    "component_type": "PROTEIN",
+    "description": "Tyrosine-protein kinase Fgr",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0005102"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005622"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005856"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008283"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0050790"
+      },
+      {
+        "go_id": "GO:0051219"
+      }
+    ],
+    "organism": "Rattus norvegicus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 141
+      }
+    ],
+    "sequence": "MGCVFCKKLEPAPKEDVGLEGDFRSQGAEERYYPDPTQGRSSSISPQPISPAFLNVGNIRSVSGTGVTIFVALYDYEARTGDDLTFTKGEKFHILNNTEYDWWEARSLSSGRTGYVPSNYVAPVDSIQAEEWYFGKISRKDAERQLLSDGNPQGAFLIRESETTKGAYSLSIRDWDQNRGDHIKHYKIRKLDMGGYYITTRAQFESVQDLVRHYMEVNDGLCYLLTAPCMVMKPQTLGLAKDAWEIDRNSIALDRRLGTGCFGDVWLGTWNCSTKVAVKTLKPGTMSPKAFLEEAQIMKLLRHDKLVQLYAVVSEEPIYIVTEFMCYGSLLDFLKDRKGHNLMLPNLVDMAAQVAEGMAYMERMNYIHRDLRAANILVGEHLICKIADFGLARLIVDDEYNPQQGTKFPIKWTAPEAALFGRFTVKSDVWSFGILLTELITKGRVPYPGMNNREVLEQVEHGYHMPCPPGCPVSLYEVMEQTWRLDPEERPTFEYLQSFLEDYFTSTEPQYQPGDQT",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.10.2",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Fgr",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "p55-Fgr",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Proto-oncogene c-Fgr",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Tyrosine-protein kinase Fgr",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q6P6U0",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005743",
+        "xref_name": "mitochondrial inner membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005758",
+        "xref_name": "mitochondrial intermembrane space",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005856",
+        "xref_name": "cytoskeleton",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0015629",
+        "xref_name": "actin cytoskeleton",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016235",
+        "xref_name": "aggresome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032587",
+        "xref_name": "ruffle membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042995",
+        "xref_name": "cell projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0001784",
+        "xref_name": "phosphotyrosine residue binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005102",
+        "xref_name": "signaling receptor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019901",
+        "xref_name": "protein kinase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0034987",
+        "xref_name": "immunoglobulin receptor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0034988",
+        "xref_name": "Fc-gamma receptor I complex binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001819",
+        "xref_name": "positive regulation of cytokine production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007169",
+        "xref_name": "cell surface receptor protein tyrosine kinase signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007229",
+        "xref_name": "integrin-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008360",
+        "xref_name": "regulation of cell shape",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0018108",
+        "xref_name": "peptidyl-tyrosine phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030154",
+        "xref_name": "cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030282",
+        "xref_name": "bone mineralization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030335",
+        "xref_name": "positive regulation of cell migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032815",
+        "xref_name": "negative regulation of natural killer cell activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043306",
+        "xref_name": "positive regulation of mast cell degranulation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045087",
+        "xref_name": "innate immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045088",
+        "xref_name": "regulation of innate immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045859",
+        "xref_name": "regulation of protein kinase activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048705",
+        "xref_name": "skeletal system morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050764",
+        "xref_name": "regulation of phagocytosis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051450",
+        "xref_name": "myoblast proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051897",
+        "xref_name": "positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "Q6P6U0",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000980",
+        "xref_name": "SH2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001245",
+        "xref_name": "Ser-Thr/Tyr_kinase_cat_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001452",
+        "xref_name": "SH3_domain",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008266",
+        "xref_name": "Tyr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017441",
+        "xref_name": "Protein_kinase_ATP_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020635",
+        "xref_name": "Tyr_kinase_cat_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR035693",
+        "xref_name": "Fgr_SH2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036028",
+        "xref_name": "SH3-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036860",
+        "xref_name": "SH2_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050198",
+        "xref_name": "Non-receptor_tyrosine_kinases",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24418",
+        "xref_name": "TYROSINE-PROTEIN KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF00017",
+        "xref_name": "SH2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00018",
+        "xref_name": "SH3_1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF07714",
+        "xref_name": "PK_Tyr_Ser-Thr",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-RNO-2029481",
+        "xref_name": "FCGR activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-432142",
+        "xref_name": "Platelet sensitization by LDL",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-6798695",
+        "xref_name": "Neutrophil degranulation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q63206",
+        "xref_name": "Tyrosine-protein kinase Fgr",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6P6U0",
+        "xref_name": "Tyrosine-protein kinase Fgr",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4362"
+      }
+    ],
+    "tax_id": 10116
+  },
+  "ok": true
+}

@@ -1,0 +1,411 @@
+{
+  "data": {
+    "accession": "P11169",
+    "component_id": 3515,
+    "component_type": "PROTEIN",
+    "description": "Solute carrier family 2, facilitated glucose transporter member 3",
+    "go_slims": [
+      {
+        "go_id": "GO:0003013"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005622"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0005975"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0022857"
+      },
+      {
+        "go_id": "GO:0030246"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0055085"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 691
+      }
+    ],
+    "sequence": "MGTQKVTPALIFAITVATIGSFQFGYNTGVINAPEKIIKEFINKTLTDKGNAPPSEVLLTSLWSLSVAIFSVGGMIGSFSVGLFVNRFGRRNSMLIVNLLAVTGGCFMGLCKVAKSVEMLILGRLVIGLFCGLCTGFVPMYIGEISPTALRGAFGTLNQLGIVVGILVAQIFGLEFILGSEELWPLLLGFTILPAILQSAALPFCPESPRFLLINRKEEENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVTVLELFRVSSYRQPIIISIVLQLSQQLSGINAVFYYSTGIFKDAGVQEPIYATIGAGVVNTIFTVVSLFLVERAGRRTLHMIGLGGMAFCSTLMTVSLLLKDNYNGMSFVCIGAILVFVAFFEIGPGPIPWFIVAELFSQGPRPAAMAVAGCSNWTSNFLVGLLFPSAAHYLGAYVFIIFTGFLITFLAFTFFKVPETRGRTFEDITRAFEGQAHGADRSGKDGVMEMNSIEPAKETTTNV",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Glucose transporter type 3, brain",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "GLUT-3",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "GLUT3",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "SLC2A3",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Solute carrier family 2, facilitated glucose transporter member 3",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Synonyms=GLUT3",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P11169",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P11169",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016235",
+        "xref_name": "aggresome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030667",
+        "xref_name": "secretory granule membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0035579",
+        "xref_name": "specific granule membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042995",
+        "xref_name": "cell projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043204",
+        "xref_name": "perikaryon",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070821",
+        "xref_name": "tertiary granule membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0101003",
+        "xref_name": "ficolin-1-rich granule membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005353",
+        "xref_name": "fructose transmembrane transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005354",
+        "xref_name": "galactose transmembrane transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005536",
+        "xref_name": "D-glucose binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0033300",
+        "xref_name": "dehydroascorbic acid transmembrane transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0055056",
+        "xref_name": "D-glucose transmembrane transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005975",
+        "xref_name": "carbohydrate metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0015755",
+        "xref_name": "fructose transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0015757",
+        "xref_name": "galactose transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019852",
+        "xref_name": "L-ascorbic acid metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046323",
+        "xref_name": "D-glucose import",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070837",
+        "xref_name": "dehydroascorbic acid transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0098708",
+        "xref_name": "D-glucose import across plasma membrane",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0150104",
+        "xref_name": "transport across blood-brain barrier",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904659",
+        "xref_name": "D-glucose transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:11007",
+        "xref_name": "SLC2A3",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P11169",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002945",
+        "xref_name": "Glc_transpt_3",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003663",
+        "xref_name": "Sugar/inositol_transpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR005828",
+        "xref_name": "MFS_sugar_transport-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR005829",
+        "xref_name": "Sugar_transporter_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020846",
+        "xref_name": "MFS_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036259",
+        "xref_name": "MFS_trans_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR045263",
+        "xref_name": "GLUT",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR23503",
+        "xref_name": "SOLUTE CARRIER FAMILY 2",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR23503:SF99",
+        "xref_name": "SOLUTE CARRIER FAMILY 2, FACILITATED GLUCOSE TRANSPORTER MEMBER 3",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "4ZW9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZWB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZWC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5C65",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7CRZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7SPS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7SPT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZW9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZWB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZWC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5C65",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7CRZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7SPS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7SPT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00083",
+        "xref_name": "Sugar_tr",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA35877",
+        "xref_name": "solute carrier family 2 member 3",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P11169",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-189200",
+        "xref_name": "Cellular hexose transport",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-196836",
+        "xref_name": "Vitamin C (ascorbate) metabolism",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6798695",
+        "xref_name": "Neutrophil degranulation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9022699",
+        "xref_name": "MECP2 regulates neuronal receptors and channels",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B2R606",
+        "xref_name": "Solute carrier family 2, facilitated glucose transporter member 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "D3DUU6",
+        "xref_name": "Solute carrier family 2, facilitated glucose transporter member 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P11169",
+        "xref_name": "Solute carrier family 2, facilitated glucose transporter member 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6I9U2",
+        "xref_name": "Solute carrier family 2, facilitated glucose transporter member 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UG15",
+        "xref_name": "Solute carrier family 2, facilitated glucose transporter member 3",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5215"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

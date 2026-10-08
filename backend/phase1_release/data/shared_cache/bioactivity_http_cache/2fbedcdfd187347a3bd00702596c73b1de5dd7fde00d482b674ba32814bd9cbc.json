@@ -1,0 +1,688 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Cyclin-dependent kinase 9",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3116",
+    "target_components": [
+      {
+        "accession": "P50750",
+        "component_description": "Cyclin-dependent kinase 9",
+        "component_id": 5018,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.11.22",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "2.7.11.23",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "C-2K",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CDC2L4",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "CDK9",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Cell division cycle 2-like protein kinase 4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cell division protein kinase 9",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cyclin-dependent kinase 9",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Serine/threonine-protein kinase PITALRE",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=CDC2L4",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TAK",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Tat-associated kinase complex catalytic subunit",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P50750",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P50750",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0008023",
+            "xref_name": "transcription elongation factor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0008024",
+            "xref_name": "cyclin/CDK positive transcription elongation factor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016605",
+            "xref_name": "PML body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0036464",
+            "xref_name": "cytoplasmic ribonucleoprotein granule",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070691",
+            "xref_name": "P-TEFb complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000976",
+            "xref_name": "transcription cis-regulatory region binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000978",
+            "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001223",
+            "xref_name": "transcription coactivator binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003682",
+            "xref_name": "chromatin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016301",
+            "xref_name": "kinase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0017069",
+            "xref_name": "snRNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019901",
+            "xref_name": "protein kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0097322",
+            "xref_name": "7SK snRNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006281",
+            "xref_name": "DNA repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006282",
+            "xref_name": "regulation of DNA repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006468",
+            "xref_name": "protein phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007346",
+            "xref_name": "regulation of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008283",
+            "xref_name": "cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031297",
+            "xref_name": "replication fork processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032968",
+            "xref_name": "positive regulation of transcription elongation by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043923",
+            "xref_name": "positive regulation by host of viral transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051147",
+            "xref_name": "regulation of muscle cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051726",
+            "xref_name": "regulation of cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0120186",
+            "xref_name": "negative regulation of protein localization to chromatin",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0120187",
+            "xref_name": "positive regulation of protein localization to chromatin",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:1780",
+            "xref_name": "CDK9",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P50750",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000719",
+            "xref_name": "Prot_kinase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008271",
+            "xref_name": "Ser/Thr_kinase_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011009",
+            "xref_name": "Kinase-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017441",
+            "xref_name": "Protein_kinase_ATP_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050108",
+            "xref_name": "CDK",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24056",
+            "xref_name": "CELL DIVISION PROTEIN KINASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24056:SF233",
+            "xref_name": "CYCLIN-DEPENDENT KINASE 9",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3BLH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BLQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BLR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3LQ5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3MI9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3MIA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3MY1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3TN8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3TNH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3TNI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4BCF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4BCG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4BCH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4BCI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4BCJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4EC8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4EC9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4IMY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4OGR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4OR5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5L1Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6CYT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6GZH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6W9E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6Z45",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7NWK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8I0L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8K5R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BLH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3BLQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3BLR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3LQ5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3MI9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3MIA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3MY1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3TN8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3TNH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3TNI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4BCF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4BCG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4BCH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4BCI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4BCJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4EC8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4EC9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4IMY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4OGR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4OR5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5L1Z",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6CYT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6GZH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6W9E",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6Z45",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7NWK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8I0L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8K5R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00069",
+            "xref_name": "Pkinase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA26316",
+            "xref_name": "cyclin dependent kinase 9",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P50750",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-112382",
+            "xref_name": "Formation of RNA Pol II elongation complex",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-167152",
+            "xref_name": "Formation of HIV elongation complex in the absence of HIV Tat",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-167200",
+            "xref_name": "Formation of HIV-1 elongation complex containing HIV-1 Tat",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-167238",
+            "xref_name": "Pausing and recovery of Tat-mediated HIV elongation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-167243",
+            "xref_name": "Tat-mediated HIV elongation arrest and recovery",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-167246",
+            "xref_name": "Tat-mediated elongation of the HIV-1 transcript",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-167287",
+            "xref_name": "HIV elongation arrest and recovery",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-167290",
+            "xref_name": "Pausing and recovery of HIV elongation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-176034",
+            "xref_name": "Interactions of Tat with host cellular proteins",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2173796",
+            "xref_name": "SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-674695",
+            "xref_name": "RNA Polymerase II Pre-transcription Events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6796648",
+            "xref_name": "TP53 Regulates Transcription of DNA Repair Genes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6807505",
+            "xref_name": "RNA polymerase II transcribes snRNA genes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-75955",
+            "xref_name": "RNA Polymerase II Transcription Elongation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9018519",
+            "xref_name": "Estrogen-dependent gene expression",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P50750",
+            "xref_name": "Cyclin-dependent kinase 9",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5JU24",
+            "xref_name": "Cyclin-dependent kinase 9",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5JU25",
+            "xref_name": "Cyclin-dependent kinase 9",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5U006",
+            "xref_name": "Cyclin-dependent kinase 9",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96TF1",
+            "xref_name": "Cyclin-dependent kinase 9",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

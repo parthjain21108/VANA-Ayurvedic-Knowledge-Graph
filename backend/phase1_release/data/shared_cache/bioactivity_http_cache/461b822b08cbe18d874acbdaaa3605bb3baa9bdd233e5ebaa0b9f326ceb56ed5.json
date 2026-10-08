@@ -1,0 +1,96 @@
+{
+  "data": {
+    "activities": [
+      {
+        "action_type": {
+          "action_type": "INHIBITOR",
+          "description": "Negatively effects (inhibits) the normal functioning of the protein e.g., prevention of enzymatic reaction or activation of downstream pathway",
+          "parent_type": "NEGATIVE MODULATOR"
+        },
+        "activity_comment": null,
+        "activity_id": 24399576,
+        "activity_properties": [
+          {
+            "comments": null,
+            "relation": "=",
+            "result_flag": 0,
+            "standard_relation": "=",
+            "standard_text_value": null,
+            "standard_type": "Dose",
+            "standard_units": "microM",
+            "standard_value": "30.0",
+            "text_value": null,
+            "type": "Dose",
+            "units": "microM",
+            "value": "30.0"
+          },
+          {
+            "comments": null,
+            "relation": "=",
+            "result_flag": 0,
+            "standard_relation": "=",
+            "standard_text_value": null,
+            "standard_type": "TIME",
+            "standard_units": "hr",
+            "standard_value": "4.0",
+            "text_value": null,
+            "type": "Time",
+            "units": "hrs",
+            "value": "4.0"
+          }
+        ],
+        "assay_chembl_id": "CHEMBL5043481",
+        "assay_description": "Inhibition of RNAase L in human A549 cells assessed as rRNA cleavage pretreated at 30 uM for 4 hrs followed by treated with 20 uM 2-5A by Western blotting analysis",
+        "assay_type": "B",
+        "assay_variant_accession": null,
+        "assay_variant_mutation": null,
+        "bao_endpoint": "BAO_0000181",
+        "bao_format": "BAO_0000219",
+        "bao_label": "cell-based format",
+        "canonical_smiles": "O=C(O)c1cc(O)c(O)c(O)c1Oc1cc2c(=O)oc3c(O)c(O)cc4c(=O)oc(c1O)c2c34",
+        "data_validity_comment": null,
+        "data_validity_description": null,
+        "document_chembl_id": "CHEMBL5042491",
+        "document_journal": "J Med Chem",
+        "document_year": 2022,
+        "ligand_efficiency": null,
+        "modality": null,
+        "molecule_chembl_id": "CHEMBL5079864",
+        "molecule_pref_name": null,
+        "parent_molecule_chembl_id": "CHEMBL5079864",
+        "pchembl_value": null,
+        "potential_duplicate": 0,
+        "qudt_units": "http://www.openphacts.org/units/Micromolar",
+        "record_id": 3780776,
+        "relation": "=",
+        "src_id": 1,
+        "standard_flag": 0,
+        "standard_relation": "=",
+        "standard_text_value": null,
+        "standard_type": "Activity",
+        "standard_units": "uM",
+        "standard_upper_value": null,
+        "standard_value": "30.0",
+        "target_chembl_id": "CHEMBL3575",
+        "target_organism": "Homo sapiens",
+        "target_pref_name": "2-5A-dependent ribonuclease",
+        "target_tax_id": "9606",
+        "text_value": null,
+        "toid": null,
+        "type": "Activity",
+        "units": "uM",
+        "uo_units": "UO_0000064",
+        "upper_value": null,
+        "value": "30.0"
+      }
+    ],
+    "page_meta": {
+      "limit": 1000,
+      "next": null,
+      "offset": 0,
+      "previous": null,
+      "total_count": 1
+    }
+  },
+  "ok": true
+}

@@ -1,0 +1,466 @@
+{
+  "data": {
+    "accession": "O95398",
+    "component_id": 5862,
+    "component_type": "PROTEIN",
+    "description": "Rap guanine nucleotide exchange factor 3",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0005085"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005856"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0019904"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0032880"
+      },
+      {
+        "go_id": "GO:0043085"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0048646"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0050877"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 601
+      }
+    ],
+    "sequence": "MKVGWPGESCWQVGLAVEDSPALGAPRVGALPDVVPEGTLLNMVLRRMHRPRSCSYQLLLEHQRPSCIQGLRWTPLTNSEESLDFSESLEQASTERVLRAGRQLHRHLLATCPNLIRDRKYHLRLYRQCCSGRELVDGILALGLGVHSRSQVVGICQVLLDEGALCHVKHDWAFQDRDAQFYRFPGPEPEPVRTHEMEEELAEAVALLSQRGPDALLTVALRKPPGQRTDEELDLIFEELLHIKAVAHLSNSVKRELAAVLLFEPHSKAGTVLFSQGDKGTSWYIIWKGSVNVVTHGKGLVTTLHEGDDFGQLALVNDAPRAATIILREDNCHFLRVDKQDFNRIIKDVEAKTMRLEEHGKVVLVLERASQGAGPSRPPTPGRNRYTVMSGTPEKILELLLEAMGPDSSAHDPTETFLSDFLLTHRVFMPSAQLCAALLHHFHVEPAGGSEQERSTYVCNKRQQILRLVSQWVALYGSMLHTDPVATSFLQKLSDLVGRDTRLSNLLREQWPERRRCHRLENGCGNASPQMKARNLPVWLPNQDEPLPGSSCAIQVGDKVPYDICRPDHSVLTLQLPVTASVREVMAALAQEDGWTKGQVLVKVNSAGDAIGLQPDARGVATSLGLNERLFVVNPQEVHELIPHPDQLGPTVGSAEGLDLVSAKDLAGQLTDHDWSLFNSIHQVELIHYVLGPQHLRDVTTANLERFMRRFNELQYWVATELCLCPVPGPRAQLLRKFIKLAAHLKEQKNLNSFFAVMFGLSNSAISRLAHTWERLPHKVRKLYSALERLLDPSWNHRVYRLALAKLSPPVIPFMPLLLKDMTFIHEGNHTLVENLINFEKMRMMARAARMLHHCRSHNPVPLSPLRSRVSHLHEDSQVARISTCSEQSLSTRSPASTWAYVQQLKVIDNQRELSRLSRELEP",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "cAMP-GEFI",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "cAMP-regulated guanine nucleotide exchange factor I",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "CGEF1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "EPAC",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "EPAC 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "EPAC1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Exchange factor directly activated by cAMP 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Exchange protein directly activated by cAMP 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Rap1 guanine-nucleotide-exchange factor directly activated by cAMP",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "RAPGEF3",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Rap guanine nucleotide exchange factor 3",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "O95398",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "O95398",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005902",
+        "xref_name": "microvillus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030027",
+        "xref_name": "lamellipodium",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030175",
+        "xref_name": "filopodium",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030864",
+        "xref_name": "cortical actin cytoskeleton",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005085",
+        "xref_name": "guanyl-nucleotide exchange factor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019904",
+        "xref_name": "protein domain specific binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030552",
+        "xref_name": "cAMP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001525",
+        "xref_name": "angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002250",
+        "xref_name": "adaptive immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007165",
+        "xref_name": "signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007189",
+        "xref_name": "adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007264",
+        "xref_name": "small GTPase-mediated signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007265",
+        "xref_name": "Ras protein signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008306",
+        "xref_name": "associative learning",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032486",
+        "xref_name": "Rap protein signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032956",
+        "xref_name": "regulation of actin cytoskeleton organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034242",
+        "xref_name": "negative regulation of syncytium formation by plasma membrane fusion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035556",
+        "xref_name": "intracellular signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043547",
+        "xref_name": "positive regulation of GTPase activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045765",
+        "xref_name": "regulation of angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045766",
+        "xref_name": "positive regulation of angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046827",
+        "xref_name": "positive regulation of protein export from nucleus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050796",
+        "xref_name": "regulation of insulin secretion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051496",
+        "xref_name": "positive regulation of stress fiber assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051896",
+        "xref_name": "regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060143",
+        "xref_name": "positive regulation of syncytium formation by plasma membrane fusion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061028",
+        "xref_name": "establishment of endothelial barrier",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071320",
+        "xref_name": "cellular response to cAMP",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:16629",
+        "xref_name": "RAPGEF3",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "O95398",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000591",
+        "xref_name": "DEP_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000595",
+        "xref_name": "cNMP-bd_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000651",
+        "xref_name": "Ras-like_Gua-exchang_fac_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001895",
+        "xref_name": "RASGEF_cat_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008937",
+        "xref_name": "Ras-like_GEF",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR014710",
+        "xref_name": "RmlC-like_jellyroll",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018490",
+        "xref_name": "cNMP-bd_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR019804",
+        "xref_name": "Ras_G-nucl-exch_fac_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023578",
+        "xref_name": "Ras_GEF_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029071",
+        "xref_name": "Ubiquitin-like_domsf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036388",
+        "xref_name": "WH-like_DNA-bd_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036390",
+        "xref_name": "WH_DNA-bd_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036964",
+        "xref_name": "RASGEF_cat_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR23113",
+        "xref_name": "GUANINE NUCLEOTIDE EXCHANGE FACTOR",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR23113:SF24",
+        "xref_name": "RAP GUANINE NUCLEOTIDE EXCHANGE FACTOR 3",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "6H7E",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6H7E",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00027",
+        "xref_name": "cNMP_binding",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00610",
+        "xref_name": "DEP",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00617",
+        "xref_name": "RasGEF",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00618",
+        "xref_name": "RasGEF_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA134910959",
+        "xref_name": "Rap guanine nucleotide exchange factor 3",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "O95398",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-354192",
+        "xref_name": "Integrin signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-381676",
+        "xref_name": "Glucagon-like Peptide-1 (GLP1) regulates insulin secretion",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-392517",
+        "xref_name": "Rap1 signalling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-422356",
+        "xref_name": "Regulation of insulin secretion",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A8K2G5",
+        "xref_name": "Rap guanine nucleotide exchange factor 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "E7EQC8",
+        "xref_name": "Rap guanine nucleotide exchange factor 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O95398",
+        "xref_name": "Rap guanine nucleotide exchange factor 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O95634",
+        "xref_name": "Rap guanine nucleotide exchange factor 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WVN0",
+        "xref_name": "Rap guanine nucleotide exchange factor 3",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2029197"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,707 @@
+{
+  "data": {
+    "accession": "P09215",
+    "component_id": 1950,
+    "component_type": "PROTEIN",
+    "description": "Protein kinase C delta type",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005764"
+      },
+      {
+        "go_id": "GO:0005768"
+      },
+      {
+        "go_id": "GO:0005783"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0008219"
+      },
+      {
+        "go_id": "GO:0008283"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0030234"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0032880"
+      },
+      {
+        "go_id": "GO:0040011"
+      },
+      {
+        "go_id": "GO:0043065"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048870"
+      },
+      {
+        "go_id": "GO:0055085"
+      },
+      {
+        "go_id": "GO:0070976"
+      }
+    ],
+    "organism": "Rattus norvegicus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 318
+      }
+    ],
+    "sequence": "MAPFLRISFNSYELGSLQAEDDASQPFCAVKMKEALTTDRGKTLVQKKPTMYPEWKSTFDAHIYEGRVIQIVLMRAAEDPMSEVTVGVSVLAERCKKNNGKAEFWLDLQPQAKVLMCVQYFLEDGDCKQSMRSEEEAMFPTMNRRGAIKQAKIHYIKNHEFIATFFGQPTFCSVCKEFVWGLNKQGYKCRQCNAAIHKKCIDKIIGRCTGTATNSRDTIFQKERFNIDMPHRFKVYNYMSPTFCDHCGTLLWGLVKQGLKCEDCGMNVHHKCREKVANLCGINQKLLAEALNQVTQKASRKPETPETVGIYQGFEKKTAVSGNDIPDNNGTYGKIWEGSNRCRLENFTFQKVLGKGSFGKVLLAELKGKERYFAIKYLKKDVVLIDDDVECTMVEKRVLALAWENPFLTHLICTFQTKDHLFFVMEFLNGGDLMFHIQDKGRFELYRATFYAAEIICGLQFLHGKGIIYRDLKLDNVMLDKDGHIKIADFGMCKENIFGENRASTFCGTPDYIAPEILQGLKYSFSVDWWSFGVLLYEMLIGQSPFHGDDEDELFESIRVDTPHYPRWITKESKDIMEKLFERDPAKRLGVTGNIRLHPFFKTINWNLLEKRKVEPPFKPKVKSPSDYSNFDPEFLNEKPQLSFSDKNLIDSMDQTAFKGFSFVNPKYEQFLE",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.11.13",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "nPKC-delta",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Pkcd",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Prkcd",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Protein kinase C delta type",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Protein kinase C delta type catalytic subunit",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Protein kinase C delta type regulatory subunit",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SDK1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Sphingosine-dependent protein kinase-1",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P09215",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005783",
+        "xref_name": "endoplasmic reticulum",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005911",
+        "xref_name": "cell-cell junction",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016363",
+        "xref_name": "nuclear matrix",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0036019",
+        "xref_name": "endolysosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0048471",
+        "xref_name": "perinuclear region of cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0099524",
+        "xref_name": "postsynaptic cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008047",
+        "xref_name": "enzyme activator activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019899",
+        "xref_name": "enzyme binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019901",
+        "xref_name": "protein kinase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043560",
+        "xref_name": "insulin receptor substrate binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070976",
+        "xref_name": "TIR domain binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001666",
+        "xref_name": "response to hypoxia",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006915",
+        "xref_name": "apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006974",
+        "xref_name": "DNA damage response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006979",
+        "xref_name": "response to oxidative stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016064",
+        "xref_name": "immunoglobulin mediated immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0018105",
+        "xref_name": "peptidyl-serine phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0023021",
+        "xref_name": "termination of signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030837",
+        "xref_name": "negative regulation of actin filament polymerization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032869",
+        "xref_name": "cellular response to insulin stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032930",
+        "xref_name": "positive regulation of superoxide anion generation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032956",
+        "xref_name": "regulation of actin cytoskeleton organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032963",
+        "xref_name": "collagen metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034351",
+        "xref_name": "negative regulation of glial cell apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034599",
+        "xref_name": "cellular response to oxidative stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034644",
+        "xref_name": "cellular response to UV",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035556",
+        "xref_name": "intracellular signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042100",
+        "xref_name": "B cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042119",
+        "xref_name": "neutrophil activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042149",
+        "xref_name": "cellular response to glucose starvation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042307",
+        "xref_name": "positive regulation of protein import into nucleus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042542",
+        "xref_name": "response to hydrogen peroxide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043065",
+        "xref_name": "positive regulation of apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043410",
+        "xref_name": "positive regulation of MAPK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046326",
+        "xref_name": "positive regulation of D-glucose import",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046627",
+        "xref_name": "negative regulation of insulin receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051490",
+        "xref_name": "negative regulation of filopodium assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060326",
+        "xref_name": "cell chemotaxis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070301",
+        "xref_name": "cellular response to hydrogen peroxide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070779",
+        "xref_name": "D-aspartate import across plasma membrane",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071447",
+        "xref_name": "cellular response to hydroperoxide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090331",
+        "xref_name": "negative regulation of platelet aggregation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090398",
+        "xref_name": "cellular senescence",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904385",
+        "xref_name": "cellular response to angiotensin",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000303",
+        "xref_name": "regulation of ceramide biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000304",
+        "xref_name": "positive regulation of ceramide biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000753",
+        "xref_name": "positive regulation of glucosylceramide catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000755",
+        "xref_name": "positive regulation of sphingomyelin catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2001235",
+        "xref_name": "positive regulation of apoptotic signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "P09215",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000008",
+        "xref_name": "C2_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000961",
+        "xref_name": "AGC-kinase_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR002219",
+        "xref_name": "PKC_DAG/PE",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008271",
+        "xref_name": "Ser/Thr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR014376",
+        "xref_name": "Prot_kin_PKC_delta",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017441",
+        "xref_name": "Protein_kinase_ATP_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017892",
+        "xref_name": "Pkinase_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020454",
+        "xref_name": "DAG/PE-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR027436",
+        "xref_name": "PKC_delta",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR035892",
+        "xref_name": "C2_domain_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR046349",
+        "xref_name": "C1-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24351",
+        "xref_name": "RIBOSOMAL PROTEIN S6 KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1BDY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7KND",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7KNJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7KO6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7L92",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7LCB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7LEO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7LF3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1BDY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7KND",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7KNJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7KO6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7L92",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7LCB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7LEO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7LF3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00069",
+        "xref_name": "Pkinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00130",
+        "xref_name": "C1_1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00433",
+        "xref_name": "Pkinase_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF21494",
+        "xref_name": "PKC_C2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-RNO-111465",
+        "xref_name": "Apoptotic cleavage of cellular proteins",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-111933",
+        "xref_name": "Calmodulin induced events",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-114508",
+        "xref_name": "Effects of PIP2 hydrolysis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-1250196",
+        "xref_name": "SHC1 events in ERBB2 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-1489509",
+        "xref_name": "DAG and IP3 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-2029485",
+        "xref_name": "Role of phospholipids in phagocytosis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-450520",
+        "xref_name": "HuR (ELAVL1) binds and stabilizes mRNA",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-5218921",
+        "xref_name": "VEGFR2 mediated cell proliferation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-5607764",
+        "xref_name": "CLEC7A (Dectin-1) signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-5668599",
+        "xref_name": "RHO GTPases Activate NADPH Oxidases",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-6798695",
+        "xref_name": "Neutrophil degranulation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-877300",
+        "xref_name": "Interferon gamma signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P09215",
+        "xref_name": "Protein kinase C delta type",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6DG48",
+        "xref_name": "Protein kinase C delta type",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9JK29",
+        "xref_name": "Protein kinase C delta type",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9JL03",
+        "xref_name": "Protein kinase C delta type",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3633"
+      },
+      {
+        "target_chembl_id": "CHEMBL2094266"
+      }
+    ],
+    "tax_id": 10116
+  },
+  "ok": true
+}

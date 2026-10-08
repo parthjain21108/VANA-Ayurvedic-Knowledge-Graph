@@ -1,0 +1,271 @@
+{
+  "data": {
+    "accession": "O95544",
+    "component_id": 4756,
+    "component_type": "PROTEIN",
+    "description": "NAD kinase",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016301"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0032880"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 643
+      }
+    ],
+    "sequence": "MEMEQEKMTMNKELSPDAAAYCCSACHGDETWSYNHPIRGRAKSRSLSASPALGSTKEFRRTRSLHGPCPVTTFGPKACVLQNPQTIMHIQDPASQRLTWNKSPKSVLVIKKMRDASLLQPFKELCTHLMEENMIVYVEKKVLEDPAIASDESFGAVKKKFCTFREDYDDISNQIDFIICLGGDGTLLYASSLFQGSVPPVMAFHLGSLGFLTPFSFENFQSQVTQVIEGNAAVVLRSRLKVRVVKELRGKKTAVHNGLGENGSQAAGLDMDVGKQAMQYQVLNEVVIDRGPSSYLSNVDVYLDGHLITTVQGDGVIVSTPTGSTAYAAAAGASMIHPNVPAIMITPICPHSLSFRPIVVPAGVELKIMLSPEARNTAWVSFDGRKRQEIRHGDSISITTSCYPLPSICVRDPVSDWFESLAQCLHWNVRKKQAHFEEEEEEEEEG",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.1.23",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "NADK",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "NAD kinase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Poly(P)/ATP NAD kinase",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "O95544",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "O95544",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003951",
+        "xref_name": "NAD+ kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016301",
+        "xref_name": "kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006741",
+        "xref_name": "NADP biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016310",
+        "xref_name": "phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019674",
+        "xref_name": "NAD metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035774",
+        "xref_name": "positive regulation of insulin secretion involved in cellular response to glucose stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046034",
+        "xref_name": "ATP metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:29831",
+        "xref_name": "NADK",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "O95544",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002504",
+        "xref_name": "NADK",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016064",
+        "xref_name": "NAD/diacylglycerol_kinase_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017437",
+        "xref_name": "ATP-NAD_kinase_PpnK-typ_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017438",
+        "xref_name": "ATP-NAD_kinase_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR20275",
+        "xref_name": "NAD KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR20275:SF0",
+        "xref_name": "NAD KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3PFN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8KGC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CR3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CR4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CRA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3PFN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF01513",
+        "xref_name": "NAD_kinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF20143",
+        "xref_name": "NAD_kinase_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA142671298",
+        "xref_name": "NAD kinase",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "O95544",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-196807",
+        "xref_name": "Nicotinate metabolism",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A6NNN3",
+        "xref_name": "NAD kinase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "A8K296",
+        "xref_name": "NAD kinase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B7Z434",
+        "xref_name": "NAD kinase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "F5GXR5",
+        "xref_name": "NAD kinase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O95544",
+        "xref_name": "NAD kinase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5QPS4",
+        "xref_name": "NAD kinase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9H2P2",
+        "xref_name": "NAD kinase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9H931",
+        "xref_name": "NAD kinase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL6177"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

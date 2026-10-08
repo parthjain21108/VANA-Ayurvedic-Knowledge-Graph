@@ -1,0 +1,341 @@
+{
+  "data": {
+    "accession": "P11597",
+    "component_id": 1892,
+    "component_type": "PROTEIN",
+    "description": "Cholesteryl ester transfer protein",
+    "go_slims": [
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005576"
+      },
+      {
+        "go_id": "GO:0005615"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0008289"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0044281"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 787
+      }
+    ],
+    "sequence": "MLAATVLTLALLGNAHACSKGTSHEAGIVCRITKPALLVLNHETAKVIQTAFQRASYPDITGEKAMMLLGQVKYGLHNIQISHLSIASSQVELVEAKSIDVSIQNVSVVFKGTLKYGYTTAWWLGIDQSIDFEIDSAIDLQINTQLTCDSGRVRTDAPDCYLSFHKLLLHLQGEREPGWIKQLFTNFISFTLKLVLKGQICKEINVISNIMADFVQTRAASILSDGDIGVDISLTGDPVITASYLESHHKGHFIYKNVSEDLPLPTFSPTLLGDSRMLYFWFSERVFHSLAKVAFQDGRLMLSLMGDEFKAVLETWGFNTNQEIFQEVVGGFPSQAQVTVHCLKMPKISCQNKGVVVNSSVMVKFLFPRPDQQHSVAYTFEEDIVTTVQASYSKKKLFLSLLDFQITPKTVSNLTESSSESVQSFLQSMITAVGIPEVMSRLEVVFTALMNSKGVSLFDIINPEIITRDGFLLLQMDFGFPEHLLVDFLQSLS",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "CETP",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Cholesteryl ester transfer protein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Lipid transfer protein I",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P11597",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P11597",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005576",
+        "xref_name": "extracellular region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005615",
+        "xref_name": "extracellular space",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0034364",
+        "xref_name": "high-density lipoprotein particle",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0008289",
+        "xref_name": "lipid binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0015485",
+        "xref_name": "cholesterol binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0017129",
+        "xref_name": "triglyceride binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031210",
+        "xref_name": "phosphatidylcholine binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006869",
+        "xref_name": "lipid transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008203",
+        "xref_name": "cholesterol metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010745",
+        "xref_name": "negative regulation of macrophage derived foam cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010874",
+        "xref_name": "regulation of cholesterol efflux",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0015914",
+        "xref_name": "phospholipid transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030301",
+        "xref_name": "cholesterol transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032376",
+        "xref_name": "positive regulation of cholesterol transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034197",
+        "xref_name": "triglyceride transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034372",
+        "xref_name": "very-low-density lipoprotein particle remodeling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034374",
+        "xref_name": "low-density lipoprotein particle remodeling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034375",
+        "xref_name": "high-density lipoprotein particle remodeling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042632",
+        "xref_name": "cholesterol homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043691",
+        "xref_name": "reverse cholesterol transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0055088",
+        "xref_name": "lipid homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0055091",
+        "xref_name": "phospholipid homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070328",
+        "xref_name": "triglyceride homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2001140",
+        "xref_name": "positive regulation of phospholipid transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:1869",
+        "xref_name": "CETP",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P11597",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001124",
+        "xref_name": "Lipid-bd_serum_glycop_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017130",
+        "xref_name": "Cholesteryl_ester_transfer",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017942",
+        "xref_name": "Lipid-bd_serum_glycop_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017943",
+        "xref_name": "Bactericidal_perm-incr_a/b_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017954",
+        "xref_name": "Lipid-bd_serum_glycop_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR47616",
+        "xref_name": "CHOLESTERYL ESTER TRANSFER PROTEIN",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR47616:SF1",
+        "xref_name": "CHOLESTERYL ESTER TRANSFER PROTEIN",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2OBD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4EWS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4F2A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2OBD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4EWS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4F2A",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF01273",
+        "xref_name": "LBP_BPI_CETP",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02886",
+        "xref_name": "LBP_BPI_CETP_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA108",
+        "xref_name": "cholesteryl ester transfer protein",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P11597",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-8964041",
+        "xref_name": "LDL remodeling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8964058",
+        "xref_name": "HDL remodeling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9029569",
+        "xref_name": "NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P11597",
+        "xref_name": "Cholesteryl ester transfer protein",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q13987",
+        "xref_name": "Cholesteryl ester transfer protein",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q13988",
+        "xref_name": "Cholesteryl ester transfer protein",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q53YZ1",
+        "xref_name": "Cholesteryl ester transfer protein",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3572"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

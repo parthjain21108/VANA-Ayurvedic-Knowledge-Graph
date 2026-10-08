@@ -1,0 +1,962 @@
+{
+  "data": {
+    "accession": "P04818",
+    "component_id": 276,
+    "component_type": "PROTEIN",
+    "description": "Thymidylate synthase",
+    "go_slims": [
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0003676"
+      },
+      {
+        "go_id": "GO:0003729"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0008168"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0009636"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0021700"
+      },
+      {
+        "go_id": "GO:0032259"
+      },
+      {
+        "go_id": "GO:0040007"
+      },
+      {
+        "go_id": "GO:0042803"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 643
+      }
+    ],
+    "sequence": "MPVAGSELPRRPLPPAAQERDAEPRPPHGELQYLGQIQHILRCGVRKDDRTGTGTLSVFGMQARYSLRDEFPLLTTKRVFWKGVLEELLWFIKGSTNAKELSSKGVKIWDANGSRDFLDSLGFSTREEGDLGPVYGFQWRHFGAEYRDMESDYSGQGVDQLQRVIDTIKTNPDDRRIIMCAWNPRDLPLMALPPCHALCQFYVVNSELSCQLYQRSGDMGLGVPFNIASYALLTYMIAHITGLKPGDFIHTLGDAHIYLNHIEPLKIQLQREPRPFPKLRILRKVEKIDDFKAEDFQIEGYNPHPTIKMEMAV",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.1.1.45",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Thymidylate synthase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "TS",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "TSase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "TYMS",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P04818",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P04818",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005743",
+        "xref_name": "mitochondrial inner membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000900",
+        "xref_name": "mRNA regulatory element binding translation repressor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003729",
+        "xref_name": "mRNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004799",
+        "xref_name": "thymidylate synthase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005542",
+        "xref_name": "folic acid binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008168",
+        "xref_name": "methyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042803",
+        "xref_name": "protein homodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990825",
+        "xref_name": "sequence-specific mRNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006206",
+        "xref_name": "pyrimidine nucleobase metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006231",
+        "xref_name": "dTMP biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006235",
+        "xref_name": "dTTP biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007623",
+        "xref_name": "circadian rhythm",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009165",
+        "xref_name": "nucleotide biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009636",
+        "xref_name": "response to toxic substance",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0017148",
+        "xref_name": "negative regulation of translation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019860",
+        "xref_name": "uracil metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032259",
+        "xref_name": "methylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035999",
+        "xref_name": "tetrahydrofolate interconversion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046653",
+        "xref_name": "tetrahydrofolate metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048589",
+        "xref_name": "developmental growth",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051216",
+        "xref_name": "cartilage development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060574",
+        "xref_name": "intestinal epithelial cell maturation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071897",
+        "xref_name": "DNA biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097421",
+        "xref_name": "liver regeneration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:12441",
+        "xref_name": "TYMS",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P04818",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000398",
+        "xref_name": "Thymidylate_synthase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020940",
+        "xref_name": "Thymidylate_synthase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023451",
+        "xref_name": "Thymidate_synth/dCMP_Mease_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036926",
+        "xref_name": "Thymidate_synth/dCMP_Mease_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR045097",
+        "xref_name": "Thymidate_synth/dCMP_Mease",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11548",
+        "xref_name": "THYMIDYLATE SYNTHASE 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR11548:SF2",
+        "xref_name": "THYMIDYLATE SYNTHASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1HVY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1HW3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1HW4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1HZW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1I00",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1JU6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1JUJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1YPV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ONB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2RD8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2RDA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3EAW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3EBU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3ED7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3EDW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3EF9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3EGY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3EHI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3EJL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3GG5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3GH0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3GH2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3H9K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3HB8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3N5E",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3N5G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3OB7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4E28",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4FGT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4G2O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4G6W",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4GD7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4GYH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4H1I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4JEF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4KPW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4O1U",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4O1X",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4UP1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5HS3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5WRN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5X4W",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5X4X",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5X4Y",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5X5A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5X5D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5X5Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5X66",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5X67",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5X69",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6OJU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6OJV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6PF3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6PF4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6PF5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6PF6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6QXG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6QXH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6QYQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6R2E",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6ZXO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1HVY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1HW3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1HW4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1HZW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1I00",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1JU6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1JUJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1YPV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2ONB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2RD8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2RDA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3EAW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3EBU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3ED7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3EDW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3EF9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3EGY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3EHI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3EJL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3GG5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3GH0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3GH2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3H9K",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3HB8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3N5E",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3N5G",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3OB7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4E28",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4FGT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4G2O",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4G6W",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4GD7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4GYH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4H1I",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4JEF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4KPW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4O1U",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4O1X",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4UP1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5HS3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5WRN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5X4W",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5X4X",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5X4Y",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5X5A",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5X5D",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5X5Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5X66",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5X67",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5X69",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6OJU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6OJV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6PF3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6PF4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6PF5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6PF6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6QXG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6QXH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6QYQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6R2E",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6ZXO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00303",
+        "xref_name": "Thymidylat_synt",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA359",
+        "xref_name": "thymidylate synthetase",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P04818",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-499943",
+        "xref_name": "Interconversion of nucleotide di- and triphosphates",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-69205",
+        "xref_name": "G1/S-Specific Transcription",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P04818",
+        "xref_name": "Thymidylate synthase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WYK3",
+        "xref_name": "Thymidylate synthase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WYK4",
+        "xref_name": "Thymidylate synthase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1952"
+      },
+      {
+        "target_chembl_id": "CHEMBL3885527"
+      },
+      {
+        "target_chembl_id": "CHEMBL3885528"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

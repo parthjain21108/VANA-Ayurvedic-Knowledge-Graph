@@ -1,0 +1,628 @@
+{
+  "data": {
+    "accession": "Q9NYA1",
+    "component_id": 2710,
+    "component_type": "PROTEIN",
+    "description": "Sphingosine kinase 1",
+    "go_slims": [
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0004930"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005516"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005768"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0008283"
+      },
+      {
+        "go_id": "GO:0008289"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016301"
+      },
+      {
+        "go_id": "GO:0016746"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1
+      }
+    ],
+    "sequence": "MDPAGGPRGVLPRPCRVLVLLNPRGGKGKALQLFRSHVQPLLAEAEISFTLMLTERRNHARELVRSEELGRWDALVVMSGDGLMHEVVNGLMERPDWETAIQKPLCSLPAGSGNALAASLNHYAGYEQVTNEDLLTNCTLLLCRRLLSPMNLLSLHTASGLRLFSVLSLAWGFIADVDLESEKYRRLGEMRFTLGTFLRLAALRTYRGRLAYLPVGRVGSKTPASPVVVQQGPVDAHLVPLEEPVPSHWTVVPDEDFVLVLALLHSHLGSEMFAAPMGRCAAGVMHLFYVRAGVSRAMLLRLFLAMEKGRHMEYECPYLVYVPVVAFRLEPKDGKGVFAVDGELMVSEAVQGQVHPNYFWMVSGCVEPPPSWKPQQMPPPEEPL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.3.1.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "2.7.1.91",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Acetyltransferase SPHK1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SK 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Sphingosine kinase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SPHK",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "SPHK1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "SPK",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "SPK 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Synonyms=SK1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q9NYA1",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q9NYA1",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005768",
+        "xref_name": "endosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005905",
+        "xref_name": "clathrin-coated pit",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0010008",
+        "xref_name": "endosome membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031901",
+        "xref_name": "early endosome membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045202",
+        "xref_name": "synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098793",
+        "xref_name": "presynapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000287",
+        "xref_name": "magnesium ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001727",
+        "xref_name": "lipid kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005516",
+        "xref_name": "calmodulin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008289",
+        "xref_name": "lipid binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008481",
+        "xref_name": "sphingosine kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016301",
+        "xref_name": "kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016407",
+        "xref_name": "acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0017050",
+        "xref_name": "D-erythro-sphingosine kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0038036",
+        "xref_name": "sphingosine-1-phosphate receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051721",
+        "xref_name": "protein phosphatase 2A binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001568",
+        "xref_name": "blood vessel development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003376",
+        "xref_name": "sphingosine-1-phosphate receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006629",
+        "xref_name": "lipid metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006670",
+        "xref_name": "sphingosine metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007420",
+        "xref_name": "brain development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008283",
+        "xref_name": "cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008284",
+        "xref_name": "positive regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010800",
+        "xref_name": "positive regulation of peptidyl-threonine phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010803",
+        "xref_name": "regulation of tumor necrosis factor-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019722",
+        "xref_name": "calcium-mediated signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030100",
+        "xref_name": "regulation of endocytosis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030148",
+        "xref_name": "sphingolipid biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030307",
+        "xref_name": "positive regulation of cell growth",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030335",
+        "xref_name": "positive regulation of cell migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031398",
+        "xref_name": "positive regulation of protein ubiquitination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032651",
+        "xref_name": "regulation of interleukin-1 beta production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035556",
+        "xref_name": "intracellular signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043066",
+        "xref_name": "negative regulation of apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045766",
+        "xref_name": "positive regulation of angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045840",
+        "xref_name": "positive regulation of mitotic nuclear division",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045931",
+        "xref_name": "positive regulation of mitotic cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045987",
+        "xref_name": "positive regulation of smooth muscle contraction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046512",
+        "xref_name": "sphingosine biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046521",
+        "xref_name": "sphingoid catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048146",
+        "xref_name": "positive regulation of fibroblast proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050764",
+        "xref_name": "regulation of phagocytosis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070301",
+        "xref_name": "cellular response to hydrogen peroxide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071897",
+        "xref_name": "DNA biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090520",
+        "xref_name": "sphingolipid mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0150077",
+        "xref_name": "regulation of neuroinflammatory response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1900060",
+        "xref_name": "negative regulation of ceramide biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1900745",
+        "xref_name": "positive regulation of p38MAPK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1901224",
+        "xref_name": "positive regulation of non-canonical NF-kappaB signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903978",
+        "xref_name": "regulation of microglial cell activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1905364",
+        "xref_name": "regulation of endosomal vesicle fusion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:11240",
+        "xref_name": "SPHK1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q9NYA1",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001206",
+        "xref_name": "Diacylglycerol_kinase_cat_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016064",
+        "xref_name": "NAD/diacylglycerol_kinase_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017438",
+        "xref_name": "ATP-NAD_kinase_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050187",
+        "xref_name": "Lipid_Phosphate_FormReg",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR12358",
+        "xref_name": "SPHINGOSINE KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR12358:SF47",
+        "xref_name": "SPHINGOSINE KINASE 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3VZB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3VZC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3VZD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4L02",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4V24",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3VZB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3VZC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3VZD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4L02",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4V24",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00781",
+        "xref_name": "DAGK_cat",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA36070",
+        "xref_name": "sphingosine kinase 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q9NYA1",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1660661",
+        "xref_name": "Sphingolipid de novo biosynthesis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-390471",
+        "xref_name": "Association of TriC/CCT with target proteins during biosynthesis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5218921",
+        "xref_name": "VEGFR2 mediated cell proliferation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9009391",
+        "xref_name": "Extra-nuclear estrogen signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9833482",
+        "xref_name": "PKR-mediated signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q8N632",
+        "xref_name": "Sphingosine kinase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96GK1",
+        "xref_name": "Sphingosine kinase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9HD92",
+        "xref_name": "Sphingosine kinase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9NY70",
+        "xref_name": "Sphingosine kinase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9NYA1",
+        "xref_name": "Sphingosine kinase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9NYL3",
+        "xref_name": "Sphingosine kinase 1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4394"
+      },
+      {
+        "target_chembl_id": "CHEMBL4680050"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

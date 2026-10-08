@@ -1,0 +1,630 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "TAR DNA-binding protein 43",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2362981",
+    "target_components": [
+      {
+        "accession": "Q13148",
+        "component_description": "TAR DNA-binding protein 43",
+        "component_id": 7327,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Synonyms=TDP43",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TARDBP",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "TAR DNA-binding protein 43",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TDP-43",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TDP43",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q13148",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q13148",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000785",
+            "xref_name": "chromatin",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005726",
+            "xref_name": "perichromatin fibrils",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0010494",
+            "xref_name": "cytoplasmic stress granule",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016607",
+            "xref_name": "nuclear speck",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035061",
+            "xref_name": "interchromatin granule",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000978",
+            "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003690",
+            "xref_name": "double-stranded DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003723",
+            "xref_name": "RNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003730",
+            "xref_name": "mRNA 3'-UTR binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008289",
+            "xref_name": "lipid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0097157",
+            "xref_name": "pre-mRNA intronic binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140693",
+            "xref_name": "molecular condensate scaffold activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001933",
+            "xref_name": "negative regulation of protein phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006397",
+            "xref_name": "mRNA processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008380",
+            "xref_name": "RNA splicing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010629",
+            "xref_name": "negative regulation of gene expression",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031647",
+            "xref_name": "regulation of protein stability",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032024",
+            "xref_name": "positive regulation of insulin secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034976",
+            "xref_name": "response to endoplasmic reticulum stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042307",
+            "xref_name": "positive regulation of protein import into nucleus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042752",
+            "xref_name": "regulation of circadian rhythm",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042981",
+            "xref_name": "regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043922",
+            "xref_name": "negative regulation by host of viral transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048511",
+            "xref_name": "rhythmic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051726",
+            "xref_name": "regulation of cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061158",
+            "xref_name": "3'-UTR-mediated mRNA destabilization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070935",
+            "xref_name": "3'-UTR-mediated mRNA stabilization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071765",
+            "xref_name": "nuclear inner membrane organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:11571",
+            "xref_name": "TARDBP",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q13148",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000504",
+            "xref_name": "RRM_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012677",
+            "xref_name": "Nucleotide-bd_a/b_plait_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035979",
+            "xref_name": "RBD_domain_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR041105",
+            "xref_name": "TDP-43_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR049124",
+            "xref_name": "TDP-43_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR48033",
+            "xref_name": "RNA-BINDING (RRM/RBD/RNP MOTIFS) FAMILY PROTEIN",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR48033:SF9",
+            "xref_name": "TAR DNA-BINDING PROTEIN 43",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1WF0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2CQG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2N2C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2N3X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2N4G",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2N4H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2N4P",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4BS2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4IUF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Y00",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Y0F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5MDI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5MRG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5W50",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5W52",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5W7V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5WHN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5WHP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5WIA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5WIQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5WKB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5WKD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5X4F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6B1G",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6CF4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6CFH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6N37",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6N3A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6N3B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6N3C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6T4B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KWZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7N9H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7PY2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7Q3U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8A6I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8CG3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8CGG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8CGH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8QX9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8QXA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8QXB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FOF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FOR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4IUF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4Y00",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4Y0F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5MDI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5W50",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5WHN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5WHP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5WIA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5WIQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5WKD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6T4B",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7N9H",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00076",
+            "xref_name": "RRM_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF18694",
+            "xref_name": "TDP-43_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF20910",
+            "xref_name": "TDP-43_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA36336",
+            "xref_name": "TAR DNA binding protein",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q13148",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "A4GUK4",
+            "xref_name": "TAR DNA-binding protein 43",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A4GUK5",
+            "xref_name": "TAR DNA-binding protein 43",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A4GUK6",
+            "xref_name": "TAR DNA-binding protein 43",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B2R629",
+            "xref_name": "TAR DNA-binding protein 43",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4DJ45",
+            "xref_name": "TAR DNA-binding protein 43",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "E2PU12",
+            "xref_name": "TAR DNA-binding protein 43",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q13148",
+            "xref_name": "TAR DNA-binding protein 43",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q53H27",
+            "xref_name": "TAR DNA-binding protein 43",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6FI92",
+            "xref_name": "TAR DNA-binding protein 43",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96DJ0",
+            "xref_name": "TAR DNA-binding protein 43",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

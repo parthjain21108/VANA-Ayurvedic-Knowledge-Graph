@@ -1,0 +1,547 @@
+{
+  "data": {
+    "accession": "Q16881",
+    "component_id": 246,
+    "component_type": "PROTEIN",
+    "description": "Thioredoxin reductase 1, cytoplasmic",
+    "go_slims": [
+      {
+        "go_id": "GO:0000166"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008283"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0048646"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MGCAEGKAVAAAAPTELQTKGKNGDGRRRSAKDHHPGKTLPENPAGFTSTATADSRALLQAYIDGHSVVIFSRSTCTRCTEVKKLFKSLCVPYFVLELDQTEDGRALEGTLSELAAETDLPVVFVKQRKIGGHGPTLKAYQEGRLQKLLKMNGPEDLPKSYDYDLIIIGGGSGGLAAAKEAAQYGKKVMVLDFVTPTPLGTRWGLGGTCVNVGCIPKKLMHQAALLGQALQDSRNYGWKVEETVKHDWDRMIEAVQNHIGSLNWGYRVALREKKVVYENAYGQFIGPHRIKATNNKGKEKIYSAERFLIATGERPRYLGIPGDKEYCISSDDLFSLPYCPGKTLVVGASYVALECAGFLAGIGLDVTVMVRSILLRGFDQDMANKIGEHMEEHGIKFIRQFVPIKVEQIEAGTPGRLRVVAQSTNSEEIIEGEYNTVMLAIGRDACTRKIGLETVGVKINEKTGKIPVTDEEQTNVPYIYAIGDILEDKVELTPVAIQAGRLLAQRLYAGSTVKCDYENVPTTVFTPLEYGACGLSEEKAVEKFGEENIEVYHSYFWPLEWTIPSRDNNKCYAKIICNTKDNERVVGFHVLGPNAGEVTQGFAAALKCGLTKKQLDSTIGIHPVCAEVFTTLSVTKRSGASILQAGCUG",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.11.1.2",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.8.1.9",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Gene associated with retinoic and IFN-induced mortality 12 protein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Gene associated with retinoic and interferon-induced mortality 12 protein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "GRIM-12",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "GRIM12",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "KDRF",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "KM-102-derived reductase-like factor",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Peroxidase TXNRD1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Thioredoxin reductase 1, cytoplasmic",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Thioredoxin reductase TR1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "TXNRD1",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q16881",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0001650",
+        "xref_name": "fibrillar center",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004791",
+        "xref_name": "thioredoxin-disulfide reductase (NADPH) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0050137",
+        "xref_name": "NADPH peroxidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0050660",
+        "xref_name": "flavin adenine dinucleotide binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0071949",
+        "xref_name": "FAD binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001707",
+        "xref_name": "mesoderm formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007165",
+        "xref_name": "signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007369",
+        "xref_name": "gastrulation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008283",
+        "xref_name": "cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0098869",
+        "xref_name": "cellular oxidant detoxification",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:12437",
+        "xref_name": "TXNRD1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q16881",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002109",
+        "xref_name": "Glutaredoxin",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR004099",
+        "xref_name": "Pyr_nucl-diS_OxRdtase_dimer",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006338",
+        "xref_name": "Thioredoxin/glutathione_Rdtase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR012999",
+        "xref_name": "Pyr_OxRdtase_I_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016156",
+        "xref_name": "FAD/NAD-linked_Rdtase_dimer_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023753",
+        "xref_name": "FAD/NAD-binding_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036188",
+        "xref_name": "FAD/NAD-bd_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036249",
+        "xref_name": "Thioredoxin-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR046952",
+        "xref_name": "GSHR/TRXR-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR42737",
+        "xref_name": "GLUTATHIONE REDUCTASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR42737:SF8",
+        "xref_name": "THIOREDOXIN-DISULFIDE REDUCTASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2CFY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2J3N",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ZZ0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ZZB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ZZC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3QFA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3QFB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7X1R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2CFY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2J3N",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2ZZ0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2ZZB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2ZZC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3QFA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3QFB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00462",
+        "xref_name": "Glutaredoxin",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02852",
+        "xref_name": "Pyr_redox_dim",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF07992",
+        "xref_name": "Pyr_redox_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA37093",
+        "xref_name": "thioredoxin reductase 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q16881",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1989781",
+        "xref_name": "PPARA activates gene expression",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2408550",
+        "xref_name": "Metabolism of ingested H2SeO4 and H2SeO3 into H2Se",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-3299685",
+        "xref_name": "Detoxification of Reactive Oxygen Species",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-499943",
+        "xref_name": "Interconversion of nucleotide di- and triphosphates",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5263617",
+        "xref_name": "Metabolism of ingested MeSeO2H into MeSeH",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5336415",
+        "xref_name": "Uptake and function of diphtheria toxin",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5628897",
+        "xref_name": "TP53 Regulates Metabolic Genes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9818027",
+        "xref_name": "NFE2L2 regulating anti-oxidant/detoxification enzymes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B7Z1F4",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B7Z3Y8",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B7Z904",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "E9PMY9",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "F5H780",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q16881",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6FI31",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6VB40",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6VB41",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6VB42",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6VBP2",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6VBP3",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6VBP4",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6VBP5",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6VBP9",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6VBQ0",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6YNQ1",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q76P53",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q7LA96",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WVC8",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q99475",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UES8",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UH79",
+        "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1927"
+      },
+      {
+        "target_chembl_id": "CHEMBL2096978"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

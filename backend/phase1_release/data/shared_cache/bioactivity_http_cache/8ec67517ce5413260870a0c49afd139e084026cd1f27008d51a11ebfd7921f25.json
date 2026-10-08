@@ -1,0 +1,378 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1795098",
+    "target_components": [
+      {
+        "accession": "Q9GZU7",
+        "component_description": "Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1",
+        "component_id": 4985,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.1.3.16",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CTDSP1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "NIF3",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "NLI-IF",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NLIIF",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "NLI-interacting factor 3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Nuclear LIM interactor-interacting factor 3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "SCP1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "SCP1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Small CTD phosphatase 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Small C-terminal domain phosphatase 1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q9GZU7",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q9GZU7",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004721",
+            "xref_name": "phosphoprotein phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004722",
+            "xref_name": "protein serine/threonine phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008420",
+            "xref_name": "RNA polymerase II CTD heptapeptide repeat phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0017018",
+            "xref_name": "myosin phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0033192",
+            "xref_name": "calmodulin-dependent protein phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140791",
+            "xref_name": "histone H2AXS140 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0180004",
+            "xref_name": "RNA polymerase II CTD heptapeptide repeat Y1 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0180005",
+            "xref_name": "RNA polymerase II CTD heptapeptide repeat T4 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0180006",
+            "xref_name": "RNA polymerase II CTD heptapeptide repeat S2 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0180007",
+            "xref_name": "RNA polymerase II CTD heptapeptide repeat S5 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0180008",
+            "xref_name": "RNA polymerase II CTD heptapeptide repeat S7 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990439",
+            "xref_name": "MAP kinase serine/threonine phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006470",
+            "xref_name": "protein dephosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045665",
+            "xref_name": "negative regulation of neuron differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050768",
+            "xref_name": "negative regulation of neurogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000134",
+            "xref_name": "negative regulation of G1/S transition of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:21614",
+            "xref_name": "CTDSP1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q9GZU7",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR004274",
+            "xref_name": "FCP1_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011948",
+            "xref_name": "Dullard_phosphatase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023214",
+            "xref_name": "HAD_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036412",
+            "xref_name": "HAD-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR040078",
+            "xref_name": "RNA_Pol_CTD_Phosphatase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050365",
+            "xref_name": "TIM50",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR12210",
+            "xref_name": "DULLARD PROTEIN PHOSPHATASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1T9Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1TA0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2GHQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2GHT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3L0B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3L0C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3L0Y",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3PGL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4YGY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4YH1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6DU3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1T9Z",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1TA0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2GHQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2GHT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3L0B",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3L0C",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3L0Y",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3PGL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4YGY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4YH1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6DU3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF03031",
+            "xref_name": "NIF",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA134938848",
+            "xref_name": "CTD small phosphatase 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q9GZU7",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "C9IYG0",
+            "xref_name": "Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q7Z5Q3",
+            "xref_name": "Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q7Z5Q4",
+            "xref_name": "Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9GZU7",
+            "xref_name": "Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

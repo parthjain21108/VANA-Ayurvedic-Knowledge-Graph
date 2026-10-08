@@ -1,0 +1,515 @@
+{
+  "data": {
+    "accession": "Q92630",
+    "component_id": 2692,
+    "component_type": "PROTEIN",
+    "description": "Dual specificity tyrosine-phosphorylation-regulated kinase 2",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005856"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008219"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 466
+      }
+    ],
+    "sequence": "MLTRKPSAAAPAAYPTGRGGDSAVRQLQASPGLGAGATRSGVGTGPPSPIALPPLRASNAAAAAHTIGGSKHTMNDHLHVGSHAHGQIQVQQLFEDNSNKRTVLTTQPNGLTTVGKTGLPVVPERQLDSIHRRQGSSTSLKSMEGMGKVKATPMTPEQAMKQYMQKLTAFEHHEIFSYPEIYFLGLNAKKRQGMTGGPNNGGYDDDQGSYVQVPHDHVAYRYEVLKVIGKGSFGQVVKAYDHKVHQHVALKMVRNEKRFHRQAAEEIRILEHLRKQDKDNTMNVIHMLENFTFRNHICMTFELLSMNLYELIKKNKFQGFSLPLVRKFAHSILQCLDALHKNRIIHCDLKPENILLKQQGRSGIKVIDFGSSCYEHQRVYTYIQSRFYRAPEVILGARYGMPIDMWSLGCILAELLTGYPLLPGEDEGDQLACMIELLGMPSQKLLDASKRAKNFVSSKGYPRYCTVTTLSDGSVVLNGGRSRRGKLRGPPESREWGNALKGCDDPLFLDFLKQCLEWDPAVRMTPGQALRHPWLRRRLPKPPTGEKTSVKRITESTGAITSISKLPPPSSSASKLRTNLAQMTDANGNIQQRTVLPKLVS",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.12.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Dual specificity tyrosine-phosphorylation-regulated kinase 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "DYRK2",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q92630",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q92630",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0000151",
+        "xref_name": "ubiquitin ligase complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005856",
+        "xref_name": "cytoskeleton",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:1990904",
+        "xref_name": "ribonucleoprotein complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000287",
+        "xref_name": "magnesium ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030145",
+        "xref_name": "manganese ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006468",
+        "xref_name": "protein phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006915",
+        "xref_name": "apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006974",
+        "xref_name": "DNA damage response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007224",
+        "xref_name": "smoothened signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042771",
+        "xref_name": "intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045725",
+        "xref_name": "positive regulation of glycogen biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070885",
+        "xref_name": "negative regulation of calcineurin-NFAT signaling cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1901796",
+        "xref_name": "regulation of signal transduction by p53 class mediator",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:3093",
+        "xref_name": "DYRK2",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q92630",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008271",
+        "xref_name": "Ser/Thr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017441",
+        "xref_name": "Protein_kinase_ATP_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR042521",
+        "xref_name": "DYRK",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050494",
+        "xref_name": "Ser_Thr_dual-spec_kinase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24058",
+        "xref_name": "DUAL SPECIFICITY PROTEIN KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR24058:SF51",
+        "xref_name": "DUAL SPECIFICITY TYROSINE-PHOSPHORYLATION-REGULATED KINASE 2",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3K2L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3KVW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4AZF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5LXC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5LXD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5ZTN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6HDP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6HDR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6K0J",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7AKF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7AKH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DG4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DH3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DH9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DHC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DHH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DHK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DHN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DHO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DHV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DJO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DL6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7EJV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8HLT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3K2L",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3KVW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4AZF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5LXC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5LXD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5ZTN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6HDP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6HDR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6K0J",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7AKF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7AKH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7DG4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7DH3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7DH9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7DHC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7DHH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7DHK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7DHN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7DHO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7DHV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7DJO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7DL6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7EJV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8HLT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00069",
+        "xref_name": "Pkinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA27550",
+        "xref_name": "dual specificity tyrosine phosphorylation regulated kinase 2",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q92630",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-6804756",
+        "xref_name": "Regulation of TP53 Activity through Phosphorylation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B2R9V9",
+        "xref_name": "Dual specificity tyrosine-phosphorylation-regulated kinase 2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q92630",
+        "xref_name": "Dual specificity tyrosine-phosphorylation-regulated kinase 2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9BRB5",
+        "xref_name": "Dual specificity tyrosine-phosphorylation-regulated kinase 2",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4376"
+      },
+      {
+        "target_chembl_id": "CHEMBL5739547"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

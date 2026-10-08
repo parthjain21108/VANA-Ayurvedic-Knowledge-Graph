@@ -1,0 +1,480 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "M-phase inducer phosphatase 2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4804",
+    "target_components": [
+      {
+        "accession": "P30305",
+        "component_description": "M-phase inducer phosphatase 2",
+        "component_id": 3122,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.1.3.48",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "CDC25B",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "CDC25HU2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Dual specificity phosphatase Cdc25B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "M-phase inducer phosphatase 2",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P30305",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P30305",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000922",
+            "xref_name": "spindle pole",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005813",
+            "xref_name": "centrosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005856",
+            "xref_name": "cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004721",
+            "xref_name": "phosphoprotein phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004725",
+            "xref_name": "protein tyrosine phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004726",
+            "xref_name": "non-membrane spanning protein tyrosine phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019901",
+            "xref_name": "protein kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030946",
+            "xref_name": "protein tyrosine phosphatase activity, metal-dependent",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140793",
+            "xref_name": "histone H2AXY142 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000086",
+            "xref_name": "G2/M transition of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000278",
+            "xref_name": "mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001556",
+            "xref_name": "oocyte maturation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006468",
+            "xref_name": "protein phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007144",
+            "xref_name": "female meiosis I",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008284",
+            "xref_name": "positive regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010971",
+            "xref_name": "positive regulation of G2/M transition of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032467",
+            "xref_name": "positive regulation of cytokinesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045931",
+            "xref_name": "positive regulation of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051301",
+            "xref_name": "cell division",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0110032",
+            "xref_name": "positive regulation of G2/MI transition of meiotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902751",
+            "xref_name": "positive regulation of cell cycle G2/M phase transition",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:1726",
+            "xref_name": "CDC25B",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P30305",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000751",
+            "xref_name": "MPI_Phosphatase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001763",
+            "xref_name": "Rhodanese-like_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036873",
+            "xref_name": "Rhodanese-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10828",
+            "xref_name": "M-PHASE INDUCER PHOSPHATASE DUAL SPECIFICITY PHOSPHATASE CDC25",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10828:SF48",
+            "xref_name": "M-PHASE INDUCER PHOSPHATASE 2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1CWR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1CWS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1CWT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1QB0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1YM9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1YMD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1YMK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1YML",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1YS0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2A2K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2IFD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2IFV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2UZQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3FQT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3FQU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4WH7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4WH9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1CWR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1CWS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1CWT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1QB0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1YM9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1YMD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1YMK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1YML",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1YS0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2A2K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2IFD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2IFV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2UZQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3FQT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3FQU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4WH7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4WH9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00581",
+            "xref_name": "Rhodanese",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF06617",
+            "xref_name": "M-inducer_phosp",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA26260",
+            "xref_name": "cell division cycle 25B",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P30305",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-69273",
+            "xref_name": "Cyclin A/B1/B2 associated events during G2/M transition",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-69656",
+            "xref_name": "Cyclin A:Cdk2-associated events at S phase entry",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8862803",
+            "xref_name": "Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9825892",
+            "xref_name": "Regulation of MITF-M-dependent genes involved in cell cycle and proliferation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "D3DVY1",
+            "xref_name": "M-phase inducer phosphatase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D3DVY2",
+            "xref_name": "M-phase inducer phosphatase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D3DVY3",
+            "xref_name": "M-phase inducer phosphatase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D3DVY4",
+            "xref_name": "M-phase inducer phosphatase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O43551",
+            "xref_name": "M-phase inducer phosphatase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P30305",
+            "xref_name": "M-phase inducer phosphatase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q13971",
+            "xref_name": "M-phase inducer phosphatase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5JX77",
+            "xref_name": "M-phase inducer phosphatase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6RSS1",
+            "xref_name": "M-phase inducer phosphatase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9BRA6",
+            "xref_name": "M-phase inducer phosphatase 2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

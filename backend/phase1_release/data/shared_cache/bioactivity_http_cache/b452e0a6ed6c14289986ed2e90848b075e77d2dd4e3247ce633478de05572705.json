@@ -1,0 +1,855 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Angiopoietin-1 receptor",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4128",
+    "target_components": [
+      {
+        "accession": "Q02763",
+        "component_description": "Angiopoietin-1 receptor",
+        "component_id": 4960,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.10.1",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Angiopoietin-1 receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CD_antigen=CD202b",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Endothelial tyrosine kinase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "hTIE2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "p140 TEK",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=TIE2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TEK",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "TIE2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Tunica interna endothelial cell kinase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tyrosine kinase with Ig and EGF homology domains-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tyrosine-protein kinase receptor TEK",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tyrosine-protein kinase receptor TIE-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "VMCM",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "VMCM1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q02763",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q02763",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0001725",
+            "xref_name": "stress fiber",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005856",
+            "xref_name": "cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005884",
+            "xref_name": "actin filament",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005902",
+            "xref_name": "microvillus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005911",
+            "xref_name": "cell-cell junction",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005925",
+            "xref_name": "focal adhesion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009925",
+            "xref_name": "basal plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016323",
+            "xref_name": "basolateral plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016324",
+            "xref_name": "apical plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034451",
+            "xref_name": "centriolar satellite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043235",
+            "xref_name": "receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045121",
+            "xref_name": "membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070161",
+            "xref_name": "anchoring junction",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004714",
+            "xref_name": "transmembrane receptor protein tyrosine kinase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005004",
+            "xref_name": "GPI-linked ephrin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005005",
+            "xref_name": "transmembrane-ephrin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005006",
+            "xref_name": "epidermal growth factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005007",
+            "xref_name": "fibroblast growth factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005008",
+            "xref_name": "hepatocyte growth factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005009",
+            "xref_name": "insulin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005010",
+            "xref_name": "insulin-like growth factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005011",
+            "xref_name": "macrophage colony-stimulating factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005018",
+            "xref_name": "platelet-derived growth factor alpha-receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005019",
+            "xref_name": "platelet-derived growth factor beta-receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005020",
+            "xref_name": "stem cell factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005021",
+            "xref_name": "vascular endothelial growth factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008288",
+            "xref_name": "boss receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019838",
+            "xref_name": "growth factor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0036332",
+            "xref_name": "placental growth factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0038023",
+            "xref_name": "signaling receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0038062",
+            "xref_name": "protein tyrosine kinase collagen receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0060175",
+            "xref_name": "brain-derived neurotrophic factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001525",
+            "xref_name": "angiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001666",
+            "xref_name": "response to hypoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001934",
+            "xref_name": "positive regulation of protein phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001935",
+            "xref_name": "endothelial cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001938",
+            "xref_name": "positive regulation of endothelial cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001958",
+            "xref_name": "endochondral ossification",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002040",
+            "xref_name": "sprouting angiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007169",
+            "xref_name": "cell surface receptor protein tyrosine kinase signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007173",
+            "xref_name": "epidermal growth factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007267",
+            "xref_name": "cell-cell signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007507",
+            "xref_name": "heart development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008286",
+            "xref_name": "insulin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008543",
+            "xref_name": "fibroblast growth factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010595",
+            "xref_name": "positive regulation of endothelial cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016525",
+            "xref_name": "negative regulation of angiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030154",
+            "xref_name": "cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031547",
+            "xref_name": "brain-derived neurotrophic factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032878",
+            "xref_name": "regulation of establishment or maintenance of cell polarity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034446",
+            "xref_name": "substrate adhesion-dependent cell spreading",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035022",
+            "xref_name": "positive regulation of Rac protein signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035025",
+            "xref_name": "positive regulation of Rho protein signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035790",
+            "xref_name": "platelet-derived growth factor receptor-alpha signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035791",
+            "xref_name": "platelet-derived growth factor receptor-beta signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0036323",
+            "xref_name": "vascular endothelial growth factor receptor-1 signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038063",
+            "xref_name": "collagen-activated tyrosine kinase receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038084",
+            "xref_name": "vascular endothelial growth factor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038109",
+            "xref_name": "Kit signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038145",
+            "xref_name": "macrophage colony-stimulating factor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043066",
+            "xref_name": "negative regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043114",
+            "xref_name": "regulation of vascular permeability",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043410",
+            "xref_name": "positive regulation of MAPK cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045766",
+            "xref_name": "positive regulation of angiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048009",
+            "xref_name": "insulin-like growth factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048012",
+            "xref_name": "hepatocyte growth factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048013",
+            "xref_name": "ephrin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048014",
+            "xref_name": "Tie signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050728",
+            "xref_name": "negative regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051894",
+            "xref_name": "positive regulation of focal adhesion assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051897",
+            "xref_name": "positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060216",
+            "xref_name": "definitive hemopoiesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060347",
+            "xref_name": "heart trabecula formation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0072012",
+            "xref_name": "glomerulus vasculature development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0072359",
+            "xref_name": "circulatory system development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902533",
+            "xref_name": "positive regulation of intracellular signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000351",
+            "xref_name": "regulation of endothelial cell apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000352",
+            "xref_name": "negative regulation of endothelial cell apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:11724",
+            "xref_name": "TEK",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q02763",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000719",
+            "xref_name": "Prot_kinase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000742",
+            "xref_name": "EGF",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001245",
+            "xref_name": "Ser-Thr/Tyr_kinase_cat_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002049",
+            "xref_name": "LE_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003961",
+            "xref_name": "FN3_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR007110",
+            "xref_name": "Ig-like_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008266",
+            "xref_name": "Tyr_kinase_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011009",
+            "xref_name": "Kinase-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013783",
+            "xref_name": "Ig-like_fold",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017441",
+            "xref_name": "Protein_kinase_ATP_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018941",
+            "xref_name": "Tyr_kin_Tie2_Ig-like_dom-1_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020635",
+            "xref_name": "Tyr_kinase_cat_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036116",
+            "xref_name": "FN3_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036179",
+            "xref_name": "Ig-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050122",
+            "xref_name": "RTK",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24416",
+            "xref_name": "TYROSINE-PROTEIN KINASE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24416:SF125",
+            "xref_name": "ANGIOPOIETIN-1 RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1FVR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2GY5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2GY7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2OO8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2OSC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2P4I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2WQB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BEA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3L8P",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4K0V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4X3J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5MYA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5MYB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5UTK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6MWE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7E72",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1FVR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2GY5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2GY7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2OO8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2OSC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2P4I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2WQB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3BEA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3L8P",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4K0V",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4X3J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5MYA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5MYB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5UTK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6MWE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7E72",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00041",
+            "xref_name": "fn3",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF07714",
+            "xref_name": "PK_Tyr_Ser-Thr",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF10430",
+            "xref_name": "Ig_Tie2_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA36441",
+            "xref_name": "TEK receptor tyrosine kinase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q02763",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-210993",
+            "xref_name": "Tie2 Signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5673001",
+            "xref_name": "RAF/MAP kinase cascade",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8K6W0",
+            "xref_name": "Angiopoietin-1 receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4DH20",
+            "xref_name": "Angiopoietin-1 receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4DHD3",
+            "xref_name": "Angiopoietin-1 receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D3DRK5",
+            "xref_name": "Angiopoietin-1 receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "E7EWI2",
+            "xref_name": "Angiopoietin-1 receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q02763",
+            "xref_name": "Angiopoietin-1 receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5TCU2",
+            "xref_name": "Angiopoietin-1 receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8IV34",
+            "xref_name": "Angiopoietin-1 receptor",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

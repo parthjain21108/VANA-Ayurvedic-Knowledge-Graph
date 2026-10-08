@@ -1,0 +1,375 @@
+{
+  "data": {
+    "accession": "Q05823",
+    "component_id": 1895,
+    "component_type": "PROTEIN",
+    "description": "2-5A-dependent ribonuclease",
+    "go_slims": [
+      {
+        "go_id": "GO:0003723"
+      },
+      {
+        "go_id": "GO:0004518"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006397"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0019843"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 646
+      }
+    ],
+    "sequence": "MESRDHNNPQEGPTSSSGRRAAVEDNHLLIKAVQNEDVDLVQQLLEGGANVNFQEEEGGWTPLHNAVQMSREDIVELLLRHGADPVLRKKNGATPFILAAIAGSVKLLKLFLSKGADVNECDFYGFTAFMEAAVYGKVKALKFLYKRGANVNLRRKTKEDQERLRKGGATALMDAAEKGHVEVLKILLDEMGADVNACDNMGRNALIHALLSSDDSDVEAITHLLLDHGADVNVRGERGKTPLILAVEKKHLGLVQRLLEQEHIEINDTDSDGKTALLLAVELKLKKIAELLCKRGASTDCGDLVMTARRNYDHSLVKVLLSHGAKEDFHPPAEDWKPQSSHWGAALKDLHRIYRPMIGKLKFFIDEKYKIADTSEGGIYLGFYEKQEVAVKTFCEGSPRAQREVSCLQSSRENSHLVTFYGSESHRGHLFVCVTLCEQTLEACLDVHRGEDVENEEDEFARNVLSSIFKAVQELHLSCGYTHQDLQPQNILIDSKKAAHLADFDKSIKWAGDPQEVKRDLEDLGRLVLYVVKKGSISFEDLKAQSNEEVVQLSPDEETKDLIHRLFHPGEHVRDCLSDLLGHPFFWTWESRYRTLRNVGNESDIKTRKSESEILRLLQPGPSEHSKSFDKWTTKINECVMKKMNKFYEKRGNFYQNTVGDLLKFIRNLGEHIDEEKHKKMKLKIGDPSLYFQKTFPDLVIYVYTKLQNTEYRKHFPQTHSPNKPQCDGAGGASGLASPGC",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2-5A-dependent ribonuclease",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "2-5A-dependent RNase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "3.1.26.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Ribonuclease 4",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Ribonuclease L",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "RNase L",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "RNASEL",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "RNS4",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q05823",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016363",
+        "xref_name": "nuclear matrix",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003723",
+        "xref_name": "RNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004519",
+        "xref_name": "endonuclease activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004521",
+        "xref_name": "RNA endonuclease activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004540",
+        "xref_name": "RNA nuclease activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019843",
+        "xref_name": "rRNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006364",
+        "xref_name": "rRNA processing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006396",
+        "xref_name": "RNA processing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006397",
+        "xref_name": "mRNA processing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006468",
+        "xref_name": "protein phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043488",
+        "xref_name": "regulation of mRNA stability",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045071",
+        "xref_name": "negative regulation of viral genome replication",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045444",
+        "xref_name": "fat cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046326",
+        "xref_name": "positive regulation of D-glucose import",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:10050",
+        "xref_name": "RNASEL",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q05823",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR002110",
+        "xref_name": "Ankyrin_rpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR010513",
+        "xref_name": "KEN_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036770",
+        "xref_name": "Ankyrin_rpt-contain_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR038357",
+        "xref_name": "KEN_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR042745",
+        "xref_name": "RNase-L_RNase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24141",
+        "xref_name": "2-5A-DEPENDENT RIBONUCLEASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR24141:SF1",
+        "xref_name": "2-5A-DEPENDENT RIBONUCLEASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1WDY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4G8K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4G8L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4OAU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4OAV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1WDY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4G8K",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4G8L",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4OAU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4OAV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00069",
+        "xref_name": "Pkinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF06479",
+        "xref_name": "Ribonuc_2-5A",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF12796",
+        "xref_name": "Ank_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF13857",
+        "xref_name": "Ank_5",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA34418",
+        "xref_name": "ribonuclease L",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q05823",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-8983711",
+        "xref_name": "OAS antiviral response",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-909733",
+        "xref_name": "Interferon alpha/beta signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q05823",
+        "xref_name": "2-5A-dependent ribonuclease",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5W0L2",
+        "xref_name": "2-5A-dependent ribonuclease",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6AI46",
+        "xref_name": "2-5A-dependent ribonuclease",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3575"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

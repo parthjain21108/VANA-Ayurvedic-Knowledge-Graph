@@ -1,0 +1,308 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "DNA repair protein RAD52 homolog",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2362978",
+    "target_components": [
+      {
+        "accession": "P43351",
+        "component_description": "DNA repair protein RAD52 homolog",
+        "component_id": 7324,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "DNA repair protein RAD52 homolog",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "RAD52",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P43351",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P43351",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032991",
+            "xref_name": "protein-containing complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032993",
+            "xref_name": "protein-DNA complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003697",
+            "xref_name": "single-stranded DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000724",
+            "xref_name": "double-strand break repair via homologous recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000730",
+            "xref_name": "DNA recombinase assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006281",
+            "xref_name": "DNA repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006302",
+            "xref_name": "double-strand break repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006310",
+            "xref_name": "DNA recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006312",
+            "xref_name": "mitotic recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010792",
+            "xref_name": "DNA double-strand break processing involved in repair via single-strand annealing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034599",
+            "xref_name": "cellular response to oxidative stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045002",
+            "xref_name": "double-strand break repair via single-strand annealing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000819",
+            "xref_name": "regulation of nucleotide-excision repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9824",
+            "xref_name": "RAD52",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P43351",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR004585",
+            "xref_name": "DNA_recomb/repair_Rad52",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR007232",
+            "xref_name": "Rad52_Rad59_Rad22",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR041247",
+            "xref_name": "Rad52_fam",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR042525",
+            "xref_name": "Rad52_Rad59_Rad22_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR12132",
+            "xref_name": "DNA REPAIR AND RECOMBINATION PROTEIN RAD52, RAD59",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR12132:SF1",
+            "xref_name": "DNA REPAIR PROTEIN RAD52 HOMOLOG",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1H2I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1KN0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5JRB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5XRZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5XS0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BJM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8H1P",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8RIL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8RJ3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8RJW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8TKQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1H2I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1KN0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5JRB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5XRZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5XS0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF04098",
+            "xref_name": "Rad52_Rad22",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA34180",
+            "xref_name": "RAD52 homolog, DNA repair protein",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P43351",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-3108214",
+            "xref_name": "SUMOylation of DNA damage response and repair proteins",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5685938",
+            "xref_name": "HDR through Single Strand Annealing (SSA)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5685939",
+            "xref_name": "HDR through MMEJ (alt-NHEJ)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P43351",
+            "xref_name": "DNA repair protein RAD52 homolog",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q13205",
+            "xref_name": "DNA repair protein RAD52 homolog",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9Y5T7",
+            "xref_name": "DNA repair protein RAD52 homolog",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9Y5T8",
+            "xref_name": "DNA repair protein RAD52 homolog",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9Y5T9",
+            "xref_name": "DNA repair protein RAD52 homolog",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

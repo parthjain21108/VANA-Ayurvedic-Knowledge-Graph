@@ -1,0 +1,512 @@
+{
+  "data": {
+    "accession": "Q9NXA8",
+    "component_id": 6862,
+    "component_type": "PROTEIN",
+    "description": "NAD-dependent protein deacylase sirtuin-5, mitochondrial",
+    "go_slims": [
+      {
+        "go_id": "GO:0003824"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0007005"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016740"
+      },
+      {
+        "go_id": "GO:0016746"
+      },
+      {
+        "go_id": "GO:0016757"
+      },
+      {
+        "go_id": "GO:0016810"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0051287"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 844
+      }
+    ],
+    "sequence": "MRPLQIVPSRLISQLYCGLKPPASTRNQICLKMARPSSSMADFRKFFAKAKHIVIISGAGVSAESGVPTFRGAGGYWRKWQAQDLATPLAFAHNPSRVWEFYHYRREVMGSKEPNAGHRAIAECETRLGKQGRRVVVITQNIDELHRKAGTKNLLEIHGSLFKTRCTSCGVVAENYKSPICPALSGKGAPEPGTQDASIPVEKLPRCEEAGCGGLLRPHVVWFGENLDPAILEEVDRELAHCDLCLVVGTSSVVYPAAMFAPQVAARGVPVAEFNTETTPATNRFRFHFQGPCGTTLPEALACHENETVS",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.3.1.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "NAD-dependent protein deacylase sirtuin-5, mitochondrial",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Regulatory protein SIR2 homolog 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SIR2L5",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "SIR2-like protein 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SIRT5",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q9NXA8",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q9NXA8",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005758",
+        "xref_name": "mitochondrial intermembrane space",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003950",
+        "xref_name": "NAD+-protein poly-ADP-ribosyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016740",
+        "xref_name": "transferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0034979",
+        "xref_name": "NAD-dependent protein lysine deacetylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0036054",
+        "xref_name": "protein-malonyllysine demalonylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0036055",
+        "xref_name": "protein-succinyllysine desuccinylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0061697",
+        "xref_name": "protein-glutaryllysine deglutarylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070403",
+        "xref_name": "NAD+ binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990404",
+        "xref_name": "NAD+-protein ADP-ribosyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0007005",
+        "xref_name": "mitochondrion organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010667",
+        "xref_name": "negative regulation of cardiac muscle cell apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000378",
+        "xref_name": "negative regulation of reactive oxygen species metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:14933",
+        "xref_name": "SIRT5",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q9NXA8",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR003000",
+        "xref_name": "Sirtuin",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR026590",
+        "xref_name": "Ssirtuin_cat_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR026591",
+        "xref_name": "Sirtuin_cat_small_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR027546",
+        "xref_name": "Sirtuin_class_III",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029035",
+        "xref_name": "DHS-like_NAD/FAD-binding_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050134",
+        "xref_name": "NAD-dep_sirtuin_deacylases",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11085",
+        "xref_name": "NAD-DEPENDENT PROTEIN DEACYLASE SIRTUIN-5, MITOCHONDRIAL-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR11085:SF10",
+        "xref_name": "NAD-DEPENDENT PROTEIN DEACYLASE SIRTUIN-5, MITOCHONDRIAL-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2B4Y",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2NYR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3RIG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3RIY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4F4U",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4F56",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4G1C",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4HDA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5BWL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5XHS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6ACE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6ACL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6ACO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6ACP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6EQS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6LJK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6LJM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6LJN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7X3P",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8GBL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8GBN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2B4Y",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2NYR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3RIG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3RIY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4F4U",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4F56",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4G1C",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4HDA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5BWL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5XHS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6ACE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6ACL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6ACO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6ACP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6EQS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6LJK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6LJM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6LJN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7X3P",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8GBL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8GBN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF02146",
+        "xref_name": "SIR2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA37938",
+        "xref_name": "sirtuin 5",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q9NXA8",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-2151201",
+        "xref_name": "Transcriptional activation of mitochondrial biogenesis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B4DFM4",
+        "xref_name": "NAD-dependent protein deacylase sirtuin-5, mitochondrial",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B4DYJ5",
+        "xref_name": "NAD-dependent protein deacylase sirtuin-5, mitochondrial",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "F5H5Z9",
+        "xref_name": "NAD-dependent protein deacylase sirtuin-5, mitochondrial",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5T294",
+        "xref_name": "NAD-dependent protein deacylase sirtuin-5, mitochondrial",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5T295",
+        "xref_name": "NAD-dependent protein deacylase sirtuin-5, mitochondrial",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9NXA8",
+        "xref_name": "NAD-dependent protein deacylase sirtuin-5, mitochondrial",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9Y6E6",
+        "xref_name": "NAD-dependent protein deacylase sirtuin-5, mitochondrial",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2163183"
+      },
+      {
+        "target_chembl_id": "CHEMBL4742324"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

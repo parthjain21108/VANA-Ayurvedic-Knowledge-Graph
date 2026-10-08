@@ -1,0 +1,331 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Rattus norvegicus",
+    "pref_name": "Cytochrome P450 2D4",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4982",
+    "target_components": [
+      {
+        "accession": "Q64680",
+        "component_description": "Cytochrome P450 2D4",
+        "component_id": 3295,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.14.14.1",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Cyp2d-18",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Cyp2d18",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Cyp2d-4",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Cyp2d4",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "CYPIID18",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CYPIID4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450 2D18",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450 2D-29",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450 2D-35",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450 2D4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450-CMF3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450-DB4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Debrisoquine 4-hydroxylase",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q64680",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005789",
+            "xref_name": "endoplasmic reticulum membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004497",
+            "xref_name": "monooxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005506",
+            "xref_name": "iron ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008391",
+            "xref_name": "arachidonate monooxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016712",
+            "xref_name": "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0106309",
+            "xref_name": "progesterone 21-hydroxylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006587",
+            "xref_name": "serotonin biosynthetic process from tryptophan",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006805",
+            "xref_name": "xenobiotic metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007565",
+            "xref_name": "female pregnancy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008202",
+            "xref_name": "steroid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008207",
+            "xref_name": "C21-steroid hormone metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008210",
+            "xref_name": "estrogen metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009804",
+            "xref_name": "coumarin metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009820",
+            "xref_name": "alkaloid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009822",
+            "xref_name": "alkaloid catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016098",
+            "xref_name": "monoterpenoid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019369",
+            "xref_name": "arachidonate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033076",
+            "xref_name": "isoquinoline alkaloid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042178",
+            "xref_name": "xenobiotic catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042416",
+            "xref_name": "dopamine biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042417",
+            "xref_name": "dopamine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042572",
+            "xref_name": "retinol metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070989",
+            "xref_name": "oxidative demethylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090350",
+            "xref_name": "negative regulation of organofluorine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR001128",
+            "xref_name": "Cyt_P450",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002401",
+            "xref_name": "Cyt_P450_E_grp-I",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008069",
+            "xref_name": "Cyt_P450_E_grp-I_CYP2D-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017972",
+            "xref_name": "Cyt_P450_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036396",
+            "xref_name": "Cyt_P450_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050182",
+            "xref_name": "Cytochrome_P450_fam2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24300",
+            "xref_name": "CYTOCHROME P450 508A4-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24300:SF1",
+            "xref_name": "CYTOCHROME P450 2D6-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00067",
+            "xref_name": "p450",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-RNO-211935",
+            "xref_name": "Fatty acids",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-211958",
+            "xref_name": "Miscellaneous substrates",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-211981",
+            "xref_name": "Xenobiotics",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-211999",
+            "xref_name": "CYP2E1 reactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-9027307",
+            "xref_name": "Biosynthesis of maresin-like SPMs",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-9749641",
+            "xref_name": "Aspirin ADME",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "O35107",
+            "xref_name": "Cytochrome P450 2D4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P13108",
+            "xref_name": "Cytochrome P450 2D4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q566D3",
+            "xref_name": "Cytochrome P450 2D4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q64680",
+            "xref_name": "Cytochrome P450 2D4",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 10116
+  },
+  "ok": true
+}

@@ -1,0 +1,360 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "ATP-dependent DNA helicase Q1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1293236",
+    "target_components": [
+      {
+        "accession": "P46063",
+        "component_description": "ATP-dependent DNA helicase Q1",
+        "component_id": 4892,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5.6.2.4",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "ATP-dependent DNA helicase Q1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DNA 3'-5' helicase Q1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DNA-dependent ATPase Q1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DNA helicase, RecQ-like type 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "RecQ1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "RECQ1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "RECQL",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "RECQL1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "RecQ protein-like 1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P46063",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P46063",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005694",
+            "xref_name": "chromosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003676",
+            "xref_name": "nucleic acid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003678",
+            "xref_name": "DNA helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004386",
+            "xref_name": "helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0009378",
+            "xref_name": "four-way junction helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016787",
+            "xref_name": "hydrolase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016853",
+            "xref_name": "isomerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016887",
+            "xref_name": "ATP hydrolysis activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0036121",
+            "xref_name": "double-stranded DNA helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043138",
+            "xref_name": "3'-5' DNA helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0061749",
+            "xref_name": "forked DNA-dependent helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140665",
+            "xref_name": "ATP-dependent H3-H4 histone complex chaperone activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140849",
+            "xref_name": "ATP-dependent H2AZ histone chaperone activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990518",
+            "xref_name": "single-stranded 3'-5' DNA helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990814",
+            "xref_name": "DNA/DNA annealing activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000724",
+            "xref_name": "double-strand break repair via homologous recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006268",
+            "xref_name": "DNA unwinding involved in DNA replication",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006281",
+            "xref_name": "DNA repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006310",
+            "xref_name": "DNA recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031297",
+            "xref_name": "replication fork processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032508",
+            "xref_name": "DNA duplex unwinding",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9948",
+            "xref_name": "RECQL",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P46063",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001650",
+            "xref_name": "Helicase_C-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004589",
+            "xref_name": "DNA_helicase_ATP-dep_RecQ",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011545",
+            "xref_name": "DEAD/DEAH_box_helicase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR014001",
+            "xref_name": "Helicase_ATP-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR027417",
+            "xref_name": "P-loop_NTPase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR032284",
+            "xref_name": "RecQ_Zn-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036388",
+            "xref_name": "WH-like_DNA-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR13710",
+            "xref_name": "DNA HELICASE RECQ FAMILY MEMBER",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR13710:SF105",
+            "xref_name": "ATP-DEPENDENT DNA HELICASE Q1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2V1X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2WWY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4U7D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6JTZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8YRS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2V1X",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2WWY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4U7D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6JTZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8YRS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00270",
+            "xref_name": "DEAD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00271",
+            "xref_name": "Helicase_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF16124",
+            "xref_name": "RecQ_Zn_bind",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA34315",
+            "xref_name": "RecQ like helicase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P46063",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "A8K6G2",
+            "xref_name": "ATP-dependent DNA helicase Q1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P46063",
+            "xref_name": "ATP-dependent DNA helicase Q1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

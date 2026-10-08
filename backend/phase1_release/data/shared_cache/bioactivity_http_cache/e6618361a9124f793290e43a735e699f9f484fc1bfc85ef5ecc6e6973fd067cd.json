@@ -1,0 +1,817 @@
+{
+  "data": {
+    "accession": "P21447",
+    "component_id": 910,
+    "component_type": "PROTEIN",
+    "description": "ATP-dependent translocase ABCB1",
+    "go_slims": [
+      {
+        "go_id": "GO:0003013"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007565"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0009636"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016887"
+      },
+      {
+        "go_id": "GO:0022857"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0046677"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0055085"
+      },
+      {
+        "go_id": "GO:0061024"
+      }
+    ],
+    "organism": "Mus musculus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1132
+      }
+    ],
+    "sequence": "MELEEDLKGRADKNFSKMGKKSKKEKKEKKPAVSVLTMFRYAGWLDRLYMLVGTLAAIIHGVALPLMMLIFGDMTDSFASVGNVSKNSTNMSEADKRAMFAKLEEEMTTYAYYYTGIGAGVLIVAYIQVSFWCLAAGRQIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINEGIGDKIGMFFQAMATFFGGFIIGFTRGWKLTLVILAISPVLGLSAGIWAKILSSFTDKELHAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKAITANISMGAAFLLIYASYALAFWYGTSLVISKEYSIGQVLTVFFSVLIGAFSVGQASPNIEAFANARGAAYEVFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVALVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTIAENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGGVIVEQGNHDELMREKGIYFKLVMTQTAGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIRRRSTRKSICGPHDQDRKLSTKEALDEDVPPASFWRILKLNSTEWPYFVVGIFCAIINGGLQPAFSVIFSKVVGVFTNGGPPETQRQNSNLFSLLFLILGIISFITFFLQGFTFGKAGEILTKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGATGSRLAVIFQNIANLGTGIIISLIYGWQLTLLLLAIVPIIAIAGVVEMKMLSGQALKDKKELEGSGKIATEAIENFRTVVSLTREQKFETMYAQSLQIPYRNAMKKAHVFGITFSFTQAMMYFSYAACFRFGAYLVTQQLMTFENVLLVFSAIVFGAMAVGQVSSFAPDYAKATVSASHIIRIIEKTPEIDSYSTQGLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLERFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEEIVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATSALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQKGIYFSMVSVQAGAKRS",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "7.6.2.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "7.6.2.2",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Abcb1a",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Abcb4",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "ATP-binding cassette sub-family B member 1A",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ATP-dependent translocase ABCB1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Mdr1a",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "MDR1A",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Mdr3",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Multidrug resistance protein 1A",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Multidrug resistance protein 3",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "P-glycoprotein 3",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Pgy-3",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Pgy3",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Phospholipid transporter ABCB1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Synonyms=Abcb4",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P21447",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016324",
+        "xref_name": "apical plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031526",
+        "xref_name": "brush border membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045177",
+        "xref_name": "apical part of cell",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0046581",
+        "xref_name": "intercellular canaliculus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008559",
+        "xref_name": "ABC-type xenobiotic transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0015562",
+        "xref_name": "efflux transmembrane transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016887",
+        "xref_name": "ATP hydrolysis activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0022857",
+        "xref_name": "transmembrane transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042626",
+        "xref_name": "ATPase-coupled transmembrane transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042910",
+        "xref_name": "xenobiotic transmembrane transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140359",
+        "xref_name": "ABC-type transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001666",
+        "xref_name": "response to hypoxia",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001890",
+        "xref_name": "placenta development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007565",
+        "xref_name": "female pregnancy",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007595",
+        "xref_name": "lactation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007623",
+        "xref_name": "circadian rhythm",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009914",
+        "xref_name": "hormone transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010046",
+        "xref_name": "response to mycotoxin",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035633",
+        "xref_name": "maintenance of blood-brain barrier",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0036146",
+        "xref_name": "cellular response to mycotoxin",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043215",
+        "xref_name": "daunorubicin transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045332",
+        "xref_name": "phospholipid translocation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046865",
+        "xref_name": "terpenoid transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0055085",
+        "xref_name": "transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060856",
+        "xref_name": "establishment of blood-brain barrier",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071217",
+        "xref_name": "cellular response to external biotic stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071222",
+        "xref_name": "cellular response to lipopolysaccharide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071236",
+        "xref_name": "cellular response to antibiotic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071312",
+        "xref_name": "cellular response to alkaloid",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071392",
+        "xref_name": "cellular response to estradiol stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071475",
+        "xref_name": "cellular hyperosmotic salinity response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071549",
+        "xref_name": "cellular response to dexamethasone stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0099040",
+        "xref_name": "ceramide translocation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0140115",
+        "xref_name": "export across plasma membrane",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902396",
+        "xref_name": "protein localization to bicellular tight junction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904057",
+        "xref_name": "negative regulation of sensory perception of pain",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904148",
+        "xref_name": "cellular response to nonylphenol",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904446",
+        "xref_name": "positive regulation of establishment of Sertoli cell barrier",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904478",
+        "xref_name": "regulation of intestinal absorption",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1905231",
+        "xref_name": "cellular response to borneol",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1905232",
+        "xref_name": "cellular response to L-glutamate",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1990961",
+        "xref_name": "xenobiotic detoxification by transmembrane export across the plasma membrane",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1990962",
+        "xref_name": "xenobiotic transport across blood-brain barrier",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1990963",
+        "xref_name": "establishment of blood-retinal barrier",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2001025",
+        "xref_name": "positive regulation of response to drug",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR003439",
+        "xref_name": "ABC_transporter-like_ATP-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003593",
+        "xref_name": "AAA+_ATPase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011527",
+        "xref_name": "ABC1_TM_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017871",
+        "xref_name": "ABC_transporter-like_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR027417",
+        "xref_name": "P-loop_NTPase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036640",
+        "xref_name": "ABC1_TM_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR039421",
+        "xref_name": "Type_1_exporter",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR43394",
+        "xref_name": "ATP-DEPENDENT PERMEASE MDL1, MITOCHONDRIAL",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR43394:SF28",
+        "xref_name": "ATP-BINDING CASSETTE SUBFAMILY B MEMBER 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3G5U",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3G60",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3G61",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4KSB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4KSC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4KSD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4LSG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4M1M",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4M2S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4M2T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4Q9H",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4Q9I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4Q9J",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4Q9K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4Q9L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4XWK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5KO2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5KOY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5KPD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5KPI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5KPJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6GDI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6Q81",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UJN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UJP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UJR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UJS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UJT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UJW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7OTG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7OTI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7ZK4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7ZK5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7ZK6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7ZK8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7ZK9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7ZKA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7ZKB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8AVY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PEE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3G5U",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3G60",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3G61",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4KSB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4KSC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4KSD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4LSG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4M1M",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4M2S",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4M2T",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4Q9H",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4Q9I",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4Q9J",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4Q9K",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4Q9L",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4XWK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5KO2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5KOY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5KPD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5KPI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5KPJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UJN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UJP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UJR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UJS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UJT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UJW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00005",
+        "xref_name": "ABC_tran",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00664",
+        "xref_name": "ABC_membrane",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-MMU-382556",
+        "xref_name": "ABC-family proteins mediated transport",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-MMU-9754706",
+        "xref_name": "Atorvastatin ADME",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-MMU-9757110",
+        "xref_name": "Prednisone ADME",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P21447",
+        "xref_name": "ATP-dependent translocase ABCB1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5I1Y5",
+        "xref_name": "ATP-dependent translocase ABCB1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2573"
+      },
+      {
+        "target_chembl_id": "CHEMBL2111404"
+      }
+    ],
+    "tax_id": 10090
+  },
+  "ok": true
+}

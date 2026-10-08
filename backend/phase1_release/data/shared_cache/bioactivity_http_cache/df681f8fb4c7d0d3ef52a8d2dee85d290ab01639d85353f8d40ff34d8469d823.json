@@ -1,0 +1,393 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "P-selectin",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5378",
+    "target_components": [
+      {
+        "accession": "P16109",
+        "component_description": "P-selectin",
+        "component_id": 5014,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "CD62 antigen-like family member P",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CD_antigen=CD62P",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GMP-140",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GMRP",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Granule membrane protein 140",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GRMP",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "LECAM3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Leukocyte-endothelial cell adhesion molecule 3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PADGEM",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Platelet activation dependent granule-external membrane protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "P-selectin",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "SELP",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P16109",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P16109",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009897",
+            "xref_name": "external side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031088",
+            "xref_name": "platelet dense granule membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031092",
+            "xref_name": "platelet alpha granule membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001530",
+            "xref_name": "lipopolysaccharide binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005178",
+            "xref_name": "integrin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005509",
+            "xref_name": "calcium ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008201",
+            "xref_name": "heparin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030246",
+            "xref_name": "carbohydrate binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0033691",
+            "xref_name": "sialic acid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042806",
+            "xref_name": "fucose binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043208",
+            "xref_name": "glycosphingolipid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0048306",
+            "xref_name": "calcium-dependent protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070492",
+            "xref_name": "oligosaccharide binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002687",
+            "xref_name": "positive regulation of leukocyte migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007155",
+            "xref_name": "cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007157",
+            "xref_name": "heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007159",
+            "xref_name": "leukocyte cell-cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010572",
+            "xref_name": "positive regulation of platelet activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016339",
+            "xref_name": "calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033623",
+            "xref_name": "regulation of integrin activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050900",
+            "xref_name": "leukocyte migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050901",
+            "xref_name": "leukocyte tethering or rolling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051897",
+            "xref_name": "positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098609",
+            "xref_name": "cell-cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903238",
+            "xref_name": "positive regulation of leukocyte tethering or rolling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:10721",
+            "xref_name": "SELP",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P16109",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000436",
+            "xref_name": "Sushi_SCR_CCP_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000742",
+            "xref_name": "EGF",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001304",
+            "xref_name": "C-type_lectin-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002396",
+            "xref_name": "Selectin_superfamily",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016186",
+            "xref_name": "C-type_lectin-like/link_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016187",
+            "xref_name": "CTDL_fold",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018378",
+            "xref_name": "C-type_lectin_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033991",
+            "xref_name": "Selectin_CTLD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035976",
+            "xref_name": "Sushi/SCR/CCP_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050350",
+            "xref_name": "Compl-Cell_Adhes-Reg",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR19325",
+            "xref_name": "COMPLEMENT COMPONENT-RELATED SUSHI DOMAIN-CONTAINING",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR19325:SF484",
+            "xref_name": "P-SELECTIN",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1FSB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1G1Q",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1G1R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1G1S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1HES",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1G1Q",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1G1R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1G1S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1HES",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00059",
+            "xref_name": "Lectin_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00084",
+            "xref_name": "Sushi",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA35643",
+            "xref_name": "selectin P",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P16109",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-114608",
+            "xref_name": "Platelet degranulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-202733",
+            "xref_name": "Cell surface interactions at the vascular wall",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P16109",
+            "xref_name": "P-selectin",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5R344",
+            "xref_name": "P-selectin",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8IVD1",
+            "xref_name": "P-selectin",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,997 @@
+{
+  "data": {
+    "accession": "P11473",
+    "component_id": 300,
+    "component_type": "PROTEIN",
+    "description": "Vitamin D3 receptor",
+    "go_slims": [
+      {
+        "go_id": "GO:0000902"
+      },
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008134"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008219"
+      },
+      {
+        "go_id": "GO:0008289"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0043065"
+      },
+      {
+        "go_id": "GO:0043085"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0050790"
+      },
+      {
+        "go_id": "GO:0055085"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 363
+      }
+    ],
+    "sequence": "MEAMAASTSLPDPGDFDRNVPRICGVCGDRATGFHFNAMTCEGCKGFFRRSMKRKALFTCPFNGDCRITKDNRRHCQACRLKRCVDIGMMKEFILTDEEVQRKREMILKRKEEEALKDSLRPKLSEEQQRIIAILLDAHHKTYDPTYSDFCQFRPPVRVNDGGGSHPSRPNSRHTPSFSGDSSSSCSDHCITSSDMMDSSSFSNLDLSEEDSDDPSVTLELSQLSMLPHLADLVSYSIQKVIGFAKMIPGFRDLTSEDQIVLLKSSAIEVIMLRSNESFTMDDMSWTCGNQDYKYRVSDVTKAGHSLELIEPLIKFQVGLKKLNLHEEEHVLLMAICIVSPDRPGVQDAALIEAIQDRLSNTLQTYIRCRHPPPGSHLLYAKMIQKLADLRSLNEEHSKQYRCLSFQPECSMKLTPLVLEVFGNEIS",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1,25-dihydroxyvitamin D3 receptor",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "NR1I1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Nuclear receptor subfamily 1 group I member 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "VDR",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "VDR",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Vitamin D3 receptor",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P11473",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P11473",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0000785",
+        "xref_name": "chromatin",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043235",
+        "xref_name": "receptor complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0090575",
+        "xref_name": "RNA polymerase II transcription regulator complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000978",
+        "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004879",
+        "xref_name": "nuclear receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0038186",
+        "xref_name": "bile acid nuclear receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043565",
+        "xref_name": "sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046965",
+        "xref_name": "nuclear retinoid X receptor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070644",
+        "xref_name": "vitamin D response element binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1902098",
+        "xref_name": "calcitriol binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1902121",
+        "xref_name": "lithocholic acid binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000122",
+        "xref_name": "negative regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0000902",
+        "xref_name": "cell morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001501",
+        "xref_name": "skeletal system development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006816",
+        "xref_name": "calcium ion transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006874",
+        "xref_name": "intracellular calcium ion homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007595",
+        "xref_name": "lactation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008285",
+        "xref_name": "negative regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009887",
+        "xref_name": "animal organ morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010628",
+        "xref_name": "positive regulation of gene expression",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010839",
+        "xref_name": "negative regulation of keratinocyte proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010980",
+        "xref_name": "positive regulation of vitamin D 24-hydroxylase activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030154",
+        "xref_name": "cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030501",
+        "xref_name": "positive regulation of bone mineralization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035435",
+        "xref_name": "phosphate ion transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0038185",
+        "xref_name": "nuclear receptor-mediated bile acid signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045618",
+        "xref_name": "positive regulation of keratinocyte differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045892",
+        "xref_name": "negative regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046697",
+        "xref_name": "decidualization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048384",
+        "xref_name": "retinoic acid receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060057",
+        "xref_name": "apoptotic process involved in mammary gland involution",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060058",
+        "xref_name": "positive regulation of apoptotic process involved in mammary gland involution",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060558",
+        "xref_name": "regulation of calcidiol 1-monooxygenase activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060745",
+        "xref_name": "mammary gland branching involved in pregnancy",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070561",
+        "xref_name": "vitamin D receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070564",
+        "xref_name": "positive regulation of vitamin D receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:12679",
+        "xref_name": "VDR",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P11473",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000324",
+        "xref_name": "VitD_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000536",
+        "xref_name": "Nucl_hrmn_rcpt_lig-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001628",
+        "xref_name": "Znf_hrmn_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001723",
+        "xref_name": "Nuclear_hrmn_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013088",
+        "xref_name": "Znf_NHR/GATA",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR035500",
+        "xref_name": "NHR-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR042153",
+        "xref_name": "DBD_VDR",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050234",
+        "xref_name": "Nuclear_hormone_rcpt_NR1",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24082",
+        "xref_name": "NUCLEAR HORMONE RECEPTOR",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR24082:SF38",
+        "xref_name": "VITAMIN D3 RECEPTOR",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1DB1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1IE8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1IE9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1KB2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1KB4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1KB6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1S0Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1S19",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1TXI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1YNW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2HAM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2HAR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2HAS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2HB7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2HB8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3A2I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3A2J",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3A3Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3A40",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3A78",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3AUQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3AUR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3AX8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3AZ1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3AZ2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3AZ3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3B0T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3CS4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3CS6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3KPZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3M7R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3OGT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3P8X",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3TKC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3VHW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3W0A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3W0C",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3W0Y",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3WGP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3WWR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3X31",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3X36",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4G2I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ITE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ITF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5GT4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5V39",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5YSY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5YT2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7QPP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8IQN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8IQT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1DB1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1IE8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1IE9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1KB2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1KB4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1KB6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1S0Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1S19",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1TXI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1YNW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2HAM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2HAR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2HAS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2HB7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2HB8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3A2I",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3A2J",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3A3Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3A40",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3A78",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3AUQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3AUR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3AX8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3AZ1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3AZ2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3AZ3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3B0T",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3CS4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3CS6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3KPZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3M7R",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3OGT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3P8X",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3TKC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3VHW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3W0A",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3W0C",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3W0Y",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3WGP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3WWR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3X31",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3X36",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4G2I",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ITE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ITF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5GT4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5V39",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5YSY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5YT2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7QPP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8IQN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8IQT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00104",
+        "xref_name": "Hormone_recep",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00105",
+        "xref_name": "zf-C4",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA37301",
+        "xref_name": "vitamin D receptor",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P11473",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-196791",
+        "xref_name": "Vitamin D (calciferol) metabolism",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-383280",
+        "xref_name": "Nuclear Receptor transcription pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-4090294",
+        "xref_name": "SUMOylation of intracellular receptors",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B2R5Q1",
+        "xref_name": "Vitamin D3 receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "G3V1V9",
+        "xref_name": "Vitamin D3 receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P11473",
+        "xref_name": "Vitamin D3 receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5PSV3",
+        "xref_name": "Vitamin D3 receptor",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1977"
+      },
+      {
+        "target_chembl_id": "CHEMBL3885632"
+      },
+      {
+        "target_chembl_id": "CHEMBL4748225"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

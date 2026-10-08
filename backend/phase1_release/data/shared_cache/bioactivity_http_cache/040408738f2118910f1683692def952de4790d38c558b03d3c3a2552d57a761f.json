@@ -1,0 +1,6091 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "GABA-A receptor; anion channel",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2093872",
+    "target_components": [
+      {
+        "accession": "P14867",
+        "component_description": "Gamma-aminobutyric acid receptor subunit alpha-1",
+        "component_id": 23,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit alpha-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit alpha-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRA1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit alpha-1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "6CDU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6D1S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008503",
+            "xref_name": "benzodiazepine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016917",
+            "xref_name": "GABA receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904315",
+            "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051932",
+            "xref_name": "synaptic transmission, GABAergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904862",
+            "xref_name": "inhibitory synapse assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032590",
+            "xref_name": "dendrite membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043197",
+            "xref_name": "dendritic spine",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098794",
+            "xref_name": "postsynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030659",
+            "xref_name": "cytoplasmic vesicle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098982",
+            "xref_name": "GABA-ergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099634",
+            "xref_name": "postsynaptic specialization membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902710",
+            "xref_name": "GABA receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28489",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit alpha1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "D3DQK6",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8N629",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P14867",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "6CDU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6D1S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6D6T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6D6U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6I53",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X40",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7PBD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7PBZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7PC0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QNE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7T0W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7T0Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8DD2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8DD3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SGO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SI9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SID",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VQY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VRN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CRS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CRV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CSB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CT0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CTJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CTP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CTV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CX7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9DRX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9EQG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FAS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9H9E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P14867",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P14867",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:4075",
+            "xref_name": "GABRA1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-1236394",
+            "xref_name": "Signaling by ERBB4",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-977443",
+            "xref_name": "GABA receptor activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P14867",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P14867",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001390",
+            "xref_name": "GABAAa_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005431",
+            "xref_name": "GABBAa1_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047024",
+            "xref_name": "Gabra-1-6_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047079",
+            "xref_name": "GABRA1_ECD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P47870",
+        "component_description": "Gamma-aminobutyric acid receptor subunit beta-2",
+        "component_id": 47,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit beta-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit beta-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRB2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit beta-2",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016917",
+            "xref_name": "GABA receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904315",
+            "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048666",
+            "xref_name": "neuron development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051932",
+            "xref_name": "synaptic transmission, GABAergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060119",
+            "xref_name": "inner ear receptor cell development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060384",
+            "xref_name": "innervation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071420",
+            "xref_name": "cellular response to histamine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090102",
+            "xref_name": "cochlea development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904862",
+            "xref_name": "inhibitory synapse assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043197",
+            "xref_name": "dendritic spine",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030659",
+            "xref_name": "cytoplasmic vesicle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098982",
+            "xref_name": "GABA-ergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099634",
+            "xref_name": "postsynaptic specialization membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28496",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit beta2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "A8K115",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A8K1A0",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D1LYT0",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D1LYT1",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16323",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q4FZB2",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P47870",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "6D6T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6D6U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X40",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7T0W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7T0Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8DD2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8DD3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SGO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SI9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SID",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VQY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VRN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CRS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CRV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CSB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CT0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CTJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CTP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CTV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9DRX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P47870",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P47870",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:4082",
+            "xref_name": "GABRB2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-1236394",
+            "xref_name": "Signaling by ERBB4",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-977443",
+            "xref_name": "GABA receptor activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P47870",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P47870",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002289",
+            "xref_name": "GABAAb_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P18507",
+        "component_description": "Gamma-aminobutyric acid receptor subunit gamma-2",
+        "component_id": 79,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit gamma-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit gamma-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRG2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit gamma-2",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008503",
+            "xref_name": "benzodiazepine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904315",
+            "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030534",
+            "xref_name": "adult behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051932",
+            "xref_name": "synaptic transmission, GABAergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071420",
+            "xref_name": "cellular response to histamine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904862",
+            "xref_name": "inhibitory synapse assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032590",
+            "xref_name": "dendrite membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098794",
+            "xref_name": "postsynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030659",
+            "xref_name": "cytoplasmic vesicle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098982",
+            "xref_name": "GABA-ergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099634",
+            "xref_name": "postsynaptic specialization membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28501",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit gamma2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P18507",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P18507",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "F5HB82",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit gamma-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6GRL6",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit gamma-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6PCC3",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit gamma-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UDB3",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit gamma-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UN15",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit gamma-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P18507",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit gamma-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "6D6T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6D6U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6I53",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X3Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X40",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QNB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QNE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7T0W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7T0Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8DD2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8DD3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SGO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SI9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SID",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VQY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VRN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CRS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CRV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CSB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CT0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CTJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CTP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CTV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CX7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9DRX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9EQG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FAS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P18507",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P18507",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:4087",
+            "xref_name": "GABRG2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-1236394",
+            "xref_name": "Signaling by ERBB4",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-977443",
+            "xref_name": "GABA receptor activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005439",
+            "xref_name": "GABBAg2_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005437",
+            "xref_name": "GABRG-1/4",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P28472",
+        "component_description": "Gamma-aminobutyric acid receptor subunit beta-3",
+        "component_id": 153,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit beta-3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit beta-3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRB3",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit beta-3",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "5O8F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5OJM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4COF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051932",
+            "xref_name": "synaptic transmission, GABAergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060021",
+            "xref_name": "roof of mouth development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071420",
+            "xref_name": "cellular response to histamine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904862",
+            "xref_name": "inhibitory synapse assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043197",
+            "xref_name": "dendritic spine",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030659",
+            "xref_name": "cytoplasmic vesicle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099634",
+            "xref_name": "postsynaptic specialization membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28497",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit beta3",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "B7Z2W1",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B7Z825",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "F5H3D2",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "H7BYV8",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q14352",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96FM5",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P28472",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "4COF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5O8F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5OJM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6A96",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HUP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6I53",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6QFA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7PBD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7PBZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7PC0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QN5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QN6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QN7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QN8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QN9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QNA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QNB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QNC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QND",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QNE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8PVB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CSB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CTJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CX7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9EQG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FAS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FEU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FEV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FEW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FEX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FEY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FEZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FF1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FF2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FFZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FG9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FGH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P28472",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P28472",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:4083",
+            "xref_name": "GABRB3",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-1236394",
+            "xref_name": "Signaling by ERBB4",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-977443",
+            "xref_name": "GABA receptor activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P28472",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P28472",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002289",
+            "xref_name": "GABAAb_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P48169",
+        "component_description": "Gamma-aminobutyric acid receptor subunit alpha-4",
+        "component_id": 813,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit alpha-4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit alpha-4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRA4",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit alpha-4",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008503",
+            "xref_name": "benzodiazepine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904315",
+            "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051932",
+            "xref_name": "synaptic transmission, GABAergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904862",
+            "xref_name": "inhibitory synapse assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032590",
+            "xref_name": "dendrite membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098794",
+            "xref_name": "postsynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098982",
+            "xref_name": "GABA-ergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099634",
+            "xref_name": "postsynaptic specialization membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28492",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit alpha4",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q8IYR7",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P48169",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "7QN5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QN7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QN9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QNA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QNC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P48169",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P48169",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:4078",
+            "xref_name": "GABRA4",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-977443",
+            "xref_name": "GABA receptor activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P48169",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P48169",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001390",
+            "xref_name": "GABAAa_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005434",
+            "xref_name": "GABBAa4_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047024",
+            "xref_name": "Gabra-1-6_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "Q99928",
+        "component_description": "Gamma-aminobutyric acid receptor subunit gamma-3",
+        "component_id": 1075,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit gamma-3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit gamma-3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRG3",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit gamma-3",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008503",
+            "xref_name": "benzodiazepine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904315",
+            "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051932",
+            "xref_name": "synaptic transmission, GABAergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904862",
+            "xref_name": "inhibitory synapse assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032590",
+            "xref_name": "dendrite membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098794",
+            "xref_name": "postsynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005730",
+            "xref_name": "nucleolus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0015630",
+            "xref_name": "microtubule cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097060",
+            "xref_name": "synaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098982",
+            "xref_name": "GABA-ergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28502",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit gamma3",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "G3V594",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit gamma-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9HD46",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit gamma-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NYT2",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit gamma-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q99928",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit gamma-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q99928",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "HGNC:4088",
+            "xref_name": "GABRG3",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-1236394",
+            "xref_name": "Signaling by ERBB4",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-977443",
+            "xref_name": "GABA receptor activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q99928",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "Q99928",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005440",
+            "xref_name": "GABBAg3_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005437",
+            "xref_name": "GABRG-1/4",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "Q9UN88",
+        "component_description": "Gamma-aminobutyric acid receptor subunit theta",
+        "component_id": 1173,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit theta",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit theta",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRQ",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit theta",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004888",
+            "xref_name": "transmembrane signaling receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005326",
+            "xref_name": "neurotransmitter transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006836",
+            "xref_name": "neurotransmitter transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043235",
+            "xref_name": "receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28504",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit theta",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "A6NFN1",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit theta",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q32MB4",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit theta",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NZK8",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit theta",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UN88",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit theta",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UN88",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q9UN88",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:14454",
+            "xref_name": "GABRQ",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-1236394",
+            "xref_name": "Signaling by ERBB4",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-977443",
+            "xref_name": "GABA receptor activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q9UN88",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008101",
+            "xref_name": "GABAAt_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P34903",
+        "component_description": "Gamma-aminobutyric acid receptor subunit alpha-3",
+        "component_id": 1354,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit alpha-3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit alpha-3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRA3",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit alpha-3",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008503",
+            "xref_name": "benzodiazepine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051932",
+            "xref_name": "synaptic transmission, GABAergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904862",
+            "xref_name": "inhibitory synapse assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032590",
+            "xref_name": "dendrite membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098794",
+            "xref_name": "postsynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28491",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit alpha3",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q8TAF9",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P34903",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "9CTP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P34903",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P34903",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:4077",
+            "xref_name": "GABRA3",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-977443",
+            "xref_name": "GABA receptor activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P34903",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001390",
+            "xref_name": "GABAAa_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005433",
+            "xref_name": "GABBAa3_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047024",
+            "xref_name": "Gabra-1-6_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "O00591",
+        "component_description": "Gamma-aminobutyric acid receptor subunit pi",
+        "component_id": 1827,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit pi",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit pi",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRP",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit pi",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016324",
+            "xref_name": "apical plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28503",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit pi",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "A8KA36",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit pi",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D3DQL2",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit pi",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q32MJ1",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit pi",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O00591",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit pi",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "8VSZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VV0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "O00591",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "HGNC:4089",
+            "xref_name": "GABRP",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "O00591",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "O00591",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008100",
+            "xref_name": "GABAAp_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047032",
+            "xref_name": "GABAAR_pi_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "O14764",
+        "component_description": "Gamma-aminobutyric acid receptor subunit delta",
+        "component_id": 1911,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit delta",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit delta",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRD",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit delta",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904315",
+            "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051932",
+            "xref_name": "synaptic transmission, GABAergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098982",
+            "xref_name": "GABA-ergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28498",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit delta",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q8N4N9",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit delta",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O14764",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit delta",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "7QN5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QN6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QN7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QN8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QN9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QNC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QND",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "O14764",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "O14764",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:4084",
+            "xref_name": "GABRD",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "O14764",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "O14764",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008098",
+            "xref_name": "GABAAd_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "Q8N1C3",
+        "component_description": "Gamma-aminobutyric acid receptor subunit gamma-1",
+        "component_id": 2363,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit gamma-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit gamma-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRG1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit gamma-1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008503",
+            "xref_name": "benzodiazepine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050811",
+            "xref_name": "GABA receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051932",
+            "xref_name": "synaptic transmission, GABAergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904862",
+            "xref_name": "inhibitory synapse assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032590",
+            "xref_name": "dendrite membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098794",
+            "xref_name": "postsynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043235",
+            "xref_name": "receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28500",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit gamma1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q5H9T8",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit gamma-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8N1C3",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit gamma-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8N1C3",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q8N1C3",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:4086",
+            "xref_name": "GABRG1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q8N1C3",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005438",
+            "xref_name": "GABBAg1_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005437",
+            "xref_name": "GABRG-1/4",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P18505",
+        "component_description": "Gamma-aminobutyric acid receptor subunit beta-1",
+        "component_id": 2875,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit beta-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit beta-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRB1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit beta-1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005253",
+            "xref_name": "monoatomic anion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015276",
+            "xref_name": "ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050811",
+            "xref_name": "GABA receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099507",
+            "xref_name": "ligand-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0150047",
+            "xref_name": "G protein-coupled neurotransmitter receptor activity involved in regulation of presynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904315",
+            "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006811",
+            "xref_name": "monoatomic ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009636",
+            "xref_name": "response to toxic substance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0021954",
+            "xref_name": "central nervous system neuron development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042698",
+            "xref_name": "ovulation cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071420",
+            "xref_name": "cellular response to histamine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099505",
+            "xref_name": "regulation of presynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005635",
+            "xref_name": "nuclear envelope",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048787",
+            "xref_name": "presynaptic active zone membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098685",
+            "xref_name": "Schaffer collateral - CA1 synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098982",
+            "xref_name": "GABA-ergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099634",
+            "xref_name": "postsynaptic specialization membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043235",
+            "xref_name": "receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28495",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit beta1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "B2R6U7",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D6REL3",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16166",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8TBK3",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P18505",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit beta-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "9CTV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P18505",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P18505",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:4081",
+            "xref_name": "GABRB1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-1236394",
+            "xref_name": "Signaling by ERBB4",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-977443",
+            "xref_name": "GABA receptor activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P18505",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P18505",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002289",
+            "xref_name": "GABAAb_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P78334",
+        "component_description": "Gamma-aminobutyric acid receptor subunit epsilon",
+        "component_id": 2952,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit epsilon",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit epsilon",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRE",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit epsilon",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008503",
+            "xref_name": "benzodiazepine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051932",
+            "xref_name": "synaptic transmission, GABAergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904862",
+            "xref_name": "inhibitory synapse assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2001226",
+            "xref_name": "negative regulation of chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032590",
+            "xref_name": "dendrite membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098794",
+            "xref_name": "postsynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28499",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit epsilon",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "E7ET93",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit epsilon",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O15345",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit epsilon",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O15346",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit epsilon",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6PCD2",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit epsilon",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q99520",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit epsilon",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P78334",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit epsilon",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P78334",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P78334",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:4085",
+            "xref_name": "GABRE",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P78334",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P78334",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008099",
+            "xref_name": "GABAAe_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P47869",
+        "component_description": "Gamma-aminobutyric acid receptor subunit alpha-2",
+        "component_id": 3269,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit alpha-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit alpha-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRA2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit alpha-2",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008503",
+            "xref_name": "benzodiazepine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099507",
+            "xref_name": "ligand-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904315",
+            "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051932",
+            "xref_name": "synaptic transmission, GABAergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099505",
+            "xref_name": "regulation of presynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904862",
+            "xref_name": "inhibitory synapse assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032590",
+            "xref_name": "dendrite membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098794",
+            "xref_name": "postsynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030659",
+            "xref_name": "cytoplasmic vesicle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030672",
+            "xref_name": "synaptic vesicle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0060077",
+            "xref_name": "inhibitory synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098982",
+            "xref_name": "GABA-ergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099634",
+            "xref_name": "postsynaptic specialization membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28490",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit alpha2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "A8K0U7",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B7Z1H8",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q59G14",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P47869",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "9CRV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CSB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CT0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CTJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CTV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CX7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CXC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P47869",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P47869",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:4076",
+            "xref_name": "GABRA2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-977443",
+            "xref_name": "GABA receptor activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P47869",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P47869",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001390",
+            "xref_name": "GABAAa_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005432",
+            "xref_name": "GABBAa2_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047024",
+            "xref_name": "Gabra-1-6_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047023",
+            "xref_name": "Gabra-2_ECD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P31644",
+        "component_description": "Gamma-aminobutyric acid receptor subunit alpha-5",
+        "component_id": 3417,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit alpha-5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit alpha-5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRA5",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit alpha-5",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "5O8F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8BHG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5OJM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8BGI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008503",
+            "xref_name": "benzodiazepine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0038023",
+            "xref_name": "signaling receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050811",
+            "xref_name": "GABA receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099507",
+            "xref_name": "ligand-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904315",
+            "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001662",
+            "xref_name": "behavioral fear response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008306",
+            "xref_name": "associative learning",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048666",
+            "xref_name": "neuron development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051932",
+            "xref_name": "synaptic transmission, GABAergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060119",
+            "xref_name": "inner ear receptor cell development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060384",
+            "xref_name": "innervation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090102",
+            "xref_name": "cochlea development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099505",
+            "xref_name": "regulation of presynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904862",
+            "xref_name": "inhibitory synapse assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032590",
+            "xref_name": "dendrite membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098794",
+            "xref_name": "postsynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032809",
+            "xref_name": "neuronal cell body membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042734",
+            "xref_name": "presynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0044297",
+            "xref_name": "cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098982",
+            "xref_name": "GABA-ergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099634",
+            "xref_name": "postsynaptic specialization membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043235",
+            "xref_name": "receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28493",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit alpha5",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "A8K338",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q14DC2",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q53XL6",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NYT3",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NYT4",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NYT5",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P31644",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "5O8F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5OJM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6A96",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BEJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BGI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BHA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BHB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BHG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BHI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BHK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BHM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BHO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BHQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BHR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BHS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P31644",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P31644",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:4079",
+            "xref_name": "GABRA5",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-977443",
+            "xref_name": "GABA receptor activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P31644",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P31644",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001390",
+            "xref_name": "GABAAa_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005435",
+            "xref_name": "GABBAa5_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047024",
+            "xref_name": "Gabra-1-6_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "Q16445",
+        "component_description": "Gamma-aminobutyric acid receptor subunit alpha-6",
+        "component_id": 4850,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "GABA(A) receptor subunit alpha-6",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABAAR subunit alpha-6",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GABRA6",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Gamma-aminobutyric acid receptor subunit alpha-6",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0004890",
+            "xref_name": "GABA-A receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005254",
+            "xref_name": "chloride channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008503",
+            "xref_name": "benzodiazepine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022851",
+            "xref_name": "GABA-gated chloride ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904315",
+            "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006821",
+            "xref_name": "chloride transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051932",
+            "xref_name": "synaptic transmission, GABAergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902476",
+            "xref_name": "chloride transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904862",
+            "xref_name": "inhibitory synapse assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032590",
+            "xref_name": "dendrite membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098794",
+            "xref_name": "postsynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099192",
+            "xref_name": "cerebellar Golgi cell to granule cell synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099634",
+            "xref_name": "postsynaptic specialization membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034707",
+            "xref_name": "chloride channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902711",
+            "xref_name": "GABA-A receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28494",
+            "xref_name": "gamma-aminobutyric acid type A receptor subunit alpha6",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "A8K096",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-6",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q4VAV2",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-6",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16445",
+            "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-6",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16445",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q16445",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:4080",
+            "xref_name": "GABRA6",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-977443",
+            "xref_name": "GABA receptor activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q16445",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "Q16445",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006028",
+            "xref_name": "GABAA/Glycine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001390",
+            "xref_name": "GABAAa_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005436",
+            "xref_name": "GABBAa6_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047024",
+            "xref_name": "Gabra-1-6_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      }
+    ],
+    "target_type": "PROTEIN COMPLEX GROUP",
+    "tax_id": 9606
+  },
+  "ok": true
+}

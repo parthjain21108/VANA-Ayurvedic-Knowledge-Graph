@@ -1,0 +1,620 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Neuronal acetylcholine receptor subunit alpha-7",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2492",
+    "target_components": [
+      {
+        "accession": "P36544",
+        "component_description": "Neuronal acetylcholine receptor subunit alpha-7",
+        "component_id": 833,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "CHRNA7",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "nAChR7",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NACHRA7",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Neuronal acetylcholine receptor subunit alpha-7",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Nicotinic acetylcholine receptor subunit alpha-7",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P36544",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P36544",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005892",
+            "xref_name": "acetylcholine-gated channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0044853",
+            "xref_name": "plasma membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098794",
+            "xref_name": "postsynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001540",
+            "xref_name": "amyloid-beta binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004888",
+            "xref_name": "transmembrane signaling receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005216",
+            "xref_name": "monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005262",
+            "xref_name": "calcium channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015464",
+            "xref_name": "acetylcholine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022848",
+            "xref_name": "acetylcholine-gated monoatomic cation-selective channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042166",
+            "xref_name": "acetylcholine binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001666",
+            "xref_name": "response to hypoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001934",
+            "xref_name": "positive regulation of protein phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006811",
+            "xref_name": "monoatomic ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006816",
+            "xref_name": "calcium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006874",
+            "xref_name": "intracellular calcium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007271",
+            "xref_name": "synaptic transmission, cholinergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007611",
+            "xref_name": "learning or memory",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007613",
+            "xref_name": "memory",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007614",
+            "xref_name": "short-term memory",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008284",
+            "xref_name": "positive regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032720",
+            "xref_name": "negative regulation of tumor necrosis factor production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043410",
+            "xref_name": "positive regulation of MAPK cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045766",
+            "xref_name": "positive regulation of angiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050808",
+            "xref_name": "synapse organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050890",
+            "xref_name": "cognition",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050893",
+            "xref_name": "sensory processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051247",
+            "xref_name": "positive regulation of protein metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060079",
+            "xref_name": "excitatory postsynaptic potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070588",
+            "xref_name": "calcium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0095500",
+            "xref_name": "acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098815",
+            "xref_name": "modulation of excitatory postsynaptic potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0140059",
+            "xref_name": "dendrite arborization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900273",
+            "xref_name": "positive regulation of long-term synaptic potentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902004",
+            "xref_name": "positive regulation of amyloid-beta formation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902430",
+            "xref_name": "negative regulation of amyloid-beta formation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905906",
+            "xref_name": "regulation of amyloid fibril formation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905920",
+            "xref_name": "positive regulation of CoA-transferase activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000463",
+            "xref_name": "positive regulation of excitatory postsynaptic potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:1960",
+            "xref_name": "CHRNA7",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P36544",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR002394",
+            "xref_name": "Nicotinic_acetylcholine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2MAW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5AFH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5AFJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5AFK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5AFL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5AFM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5AFN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7EKI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7EKP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7EKT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KOO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KOQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KOX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7RPM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8C9X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8CAU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8CE4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8CI1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8CI2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8F4V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8P1H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8UT1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8UTB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8UZJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8V80",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8V82",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8V86",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8V88",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8V89",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8V8A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8V8C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8V8D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9IIR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9IIV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5AFH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5AFJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5AFK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5AFL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5AFM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5AFN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8P1H",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA114",
+            "xref_name": "cholinergic receptor nicotinic alpha 7 subunit",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P36544",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-629594",
+            "xref_name": "Highly calcium permeable postsynaptic nicotinic acetylcholine receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8K7Q4",
+            "xref_name": "Neuronal acetylcholine receptor subunit alpha-7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4DFS0",
+            "xref_name": "Neuronal acetylcholine receptor subunit alpha-7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P36544",
+            "xref_name": "Neuronal acetylcholine receptor subunit alpha-7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q15826",
+            "xref_name": "Neuronal acetylcholine receptor subunit alpha-7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8IUZ4",
+            "xref_name": "Neuronal acetylcholine receptor subunit alpha-7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96RH2",
+            "xref_name": "Neuronal acetylcholine receptor subunit alpha-7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q99555",
+            "xref_name": "Neuronal acetylcholine receptor subunit alpha-7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9BXH0",
+            "xref_name": "Neuronal acetylcholine receptor subunit alpha-7",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

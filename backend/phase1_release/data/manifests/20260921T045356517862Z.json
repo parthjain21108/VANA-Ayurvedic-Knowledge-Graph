@@ -1,0 +1,85 @@
+{
+  "run_id": "20260921T045356517862Z",
+  "input_dir": "/app/Ananas_comosus",
+  "store_root": "/app/phase1_release/data/canonical",
+  "dry_run": false,
+  "node_stats": {
+    "Plant": {
+      "added": 1,
+      "total": 117
+    },
+    "PlantPart": {
+      "added": 6,
+      "total": 606
+    },
+    "Phytochemicals": {
+      "added": 5,
+      "total": 2418
+    },
+    "TherapeuticUses": {
+      "added": 4,
+      "total": 546
+    },
+    "Targets": {
+      "added": 0,
+      "total": 435
+    },
+    "Documents": {
+      "added": 0,
+      "total": 820
+    },
+    "Bioactivities": {
+      "added": 0,
+      "total": 3302,
+      "source_rows": 318
+    }
+  },
+  "relationship_stats": {
+    "HAS_PART.csv": {
+      "added": 6,
+      "total": 606,
+      "source_rows": 6
+    },
+    "CONTAINS.csv": {
+      "added": 12,
+      "total": 8917,
+      "source_rows": 12
+    },
+    "USED_FOR.csv": {
+      "added": 71,
+      "total": 7432,
+      "source_rows": 71
+    },
+    "HAS_BIOACTIVITY.csv": {
+      "added": 0,
+      "total": 3813,
+      "source_rows": 318
+    },
+    "MEASURED_ON.csv": {
+      "added": 0,
+      "total": 3302,
+      "source_rows": 318
+    },
+    "REPORTED_IN.csv": {
+      "added": 0,
+      "total": 3302,
+      "source_rows": 318
+    }
+  },
+  "changed_files": [
+    "Plant.csv",
+    "PlantPart.csv",
+    "Phytochemicals.csv",
+    "TherapeuticUses.csv",
+    "Bioactivities.csv",
+    "Targets.csv",
+    "Documents.csv",
+    "HAS_PART.csv",
+    "CONTAINS.csv",
+    "USED_FOR.csv",
+    "HAS_BIOACTIVITY.csv",
+    "MEASURED_ON.csv",
+    "REPORTED_IN.csv"
+  ],
+  "snapshot": "/app/phase1_release/data/canonical/snapshots/20260921T045356333244Z"
+}

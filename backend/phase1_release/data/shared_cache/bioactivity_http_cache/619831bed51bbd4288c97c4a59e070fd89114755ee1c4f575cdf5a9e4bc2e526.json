@@ -1,0 +1,557 @@
+{
+  "data": {
+    "accession": "P00735",
+    "component_id": 2787,
+    "component_type": "PROTEIN",
+    "description": "Prothrombin",
+    "go_slims": [
+      {
+        "go_id": "GO:0004252"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005576"
+      },
+      {
+        "go_id": "GO:0005615"
+      },
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008233"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0065003"
+      }
+    ],
+    "organism": "Bos taurus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 38
+      }
+    ],
+    "sequence": "MARVRGPRLPGCLALAALFSLVHSQHVFLAHQQASSLLQRARRANKGFLEEVRKGNLERECLEEPCSREEAFEALESLSATDAFWAKYTACESARNPREKLNECLEGNCAEGVGMNYRGNVSVTRSGIECQLWRSRYPHKPEINSTTHPGADLRENFCRNPDGSITGPWCYTTSPTLRREECSVPVCGQDRVTVEVIPRSGGSTTSQSPLLETCVPDRGREYRGRLAVTTSGSRCLAWSSEQAKALSKDQDFNPAVPLAENFCRNPDGDEEGAWCYVADQPGDFEYCDLNYCEEPVDGDLGDRLGEDPDPDAAIEGRTSEDHFQPFFNEKTFGAGEADCGLRPLFEKKQVQDQTEKELFESYIEGRIVEGQDAEVGLSPWQVMLFRKSPQELLCGASLISDRWVLTAAHCLLYPPWDKNFTVDDLLVRIGKHSRTRYERKVEKISMLDKIYIHPRYNWKENLDRDIALLKLKRPIELSDYIHPVCLPDKQTAAKLLHAGFKGRVTGWGNRRETWTTSVAEVQPSVLQVVNLPLVERPVCKASTRIRITDNMFCAGYKPGEGKRGDACEGDSGGPFVMKSPYNNRWYQMGIVSWGEGCDRDGKYGFYTHVFRLKKWIQKVIDRLGS",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.4.21.5",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Activation peptide fragment 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Activation peptide fragment 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Coagulation factor II",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "F2",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Prothrombin",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Thrombin heavy chain",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Thrombin light chain",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P00735",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005576",
+        "xref_name": "extracellular region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005615",
+        "xref_name": "extracellular space",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004252",
+        "xref_name": "serine-type endopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005509",
+        "xref_name": "calcium ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008236",
+        "xref_name": "serine-type peptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006508",
+        "xref_name": "proteolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007596",
+        "xref_name": "blood coagulation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030168",
+        "xref_name": "platelet activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030194",
+        "xref_name": "positive regulation of blood coagulation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051258",
+        "xref_name": "protein polymerization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "P00735",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000001",
+        "xref_name": "Kringle",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000294",
+        "xref_name": "GLA_domain",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001254",
+        "xref_name": "Trypsin_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001314",
+        "xref_name": "Peptidase_S1A",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003966",
+        "xref_name": "Prothrombin/thrombin",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR009003",
+        "xref_name": "Peptidase_S1_PA",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013806",
+        "xref_name": "Kringle-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018056",
+        "xref_name": "Kringle_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018114",
+        "xref_name": "TRYPSIN_HIS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018992",
+        "xref_name": "Thrombin_light_chain",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR033116",
+        "xref_name": "TRYPSIN_SER",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR035972",
+        "xref_name": "GLA-like_dom_SF",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR037111",
+        "xref_name": "Thrombin_light_chain_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR038178",
+        "xref_name": "Kringle_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR043504",
+        "xref_name": "Peptidase_S1_PA_chymotrypsin",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR051659",
+        "xref_name": "Serine_Protease_S1-Domain",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24254",
+        "xref_name": "PROTHROMBIN",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR24254:SF10",
+        "xref_name": "PROTHROMBIN",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1A0H",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1AVG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1BBR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1ETR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1ETS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1ETT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1HRT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1ID5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1MKW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1MKX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1NL1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1NL2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1TBQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1TBR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1TOC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1UCY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1UVT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1UVU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1VIT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1YCP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2A1D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2HPP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ODY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2PF1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2PF2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2SPT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3PMA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3PMB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1A0H",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1AVG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1BBR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1ETR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1ETS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1ETT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1HRT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1ID5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1MKW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1MKX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1NL1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1NL2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1TBQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1TBR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1TOC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1UCY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1UVT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1UVU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1VIT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1YCP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2A1D",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2HPP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2ODY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2PF1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2PF2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2SPT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3PMA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3PMB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00051",
+        "xref_name": "Kringle",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00089",
+        "xref_name": "Trypsin",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00594",
+        "xref_name": "Gla",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF09396",
+        "xref_name": "Thrombin_light",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA157",
+        "xref_name": "coagulation factor II, thrombin",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P00735",
+        "xref_name": "Prothrombin",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q3MHK7",
+        "xref_name": "Prothrombin",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4471"
+      }
+    ],
+    "tax_id": 9913
+  },
+  "ok": true
+}

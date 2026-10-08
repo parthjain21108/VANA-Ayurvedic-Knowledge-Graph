@@ -1,0 +1,622 @@
+{
+  "data": {
+    "accession": "Q9C0B1",
+    "component_id": 7297,
+    "component_type": "PROTEIN",
+    "description": "Alpha-ketoglutarate-dependent dioxygenase FTO",
+    "go_slims": [
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0016740"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MKRTPTAEEREREAKKLRLLEELEDTWLPYLTPKDDEFYQQWQLKYPKLILREASSVSEELHKEVQEAFLTLHKHGCLFRDLVRIQGKDLLTPVSRILIGNPGCTYKYLNTRLFTVPWPVKGSNIKHTEAEIAAACETFLKLNDYLQIETIQALEELAAKEKANEDAVPLCMSADFPRVGMGSSYNGQDEVDIKSRAAYNVTLLNFMDPQKMPYLKEEPYFGMGKMAVSWHHDENLVDRSAVAVYSYSCEGPEEESEDDSHLEGRDPDIWHVGFKISWDIETPGLAIPLHQGDCYFMLDDLNATHQHCVLAGSQPRFSSTHRVAECSTGTLDYILQRCQLALQNVCDDVDNDDVSLKSFEPAVLKQGEEIHNEVEFEWLRQFWFQGNRYRKCTDWWCQPMAQLEALWKKMEGVTNAVLHEVKREGLPVEQRNEILTAILASLTARQNLRREWHARCQSRIARTLPADQKPECRPYWEKDDASMPLPFDLTDIVSELRGQLLEAKP",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.14.11.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.14.11.53",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Alpha-ketoglutarate-dependent dioxygenase FTO",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Fat mass and obesity-associated protein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "FTO",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "KIAA1752",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "m6A(m)-demethylase FTO",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "mRNA (2'-O-methyladenosine-N(6)-)-demethylase FTO",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "mRNA N(6)-methyladenosine demethylase FTO",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Synonyms=KIAA1752",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "tRNA N1-methyl adenine demethylase FTO",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "U6 small nuclear RNA (2'-O-methyladenosine-N(6)-)-demethylase FTO",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "U6 small nuclear RNA N(6)-methyladenosine-demethylase FTO",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q9C0B1",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q9C0B1",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016607",
+        "xref_name": "nuclear speck",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0008198",
+        "xref_name": "ferrous iron binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016706",
+        "xref_name": "2-oxoglutarate-dependent dioxygenase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016740",
+        "xref_name": "transferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0035515",
+        "xref_name": "oxidative RNA demethylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0035516",
+        "xref_name": "broad specificity oxidative DNA demethylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051213",
+        "xref_name": "dioxygenase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990931",
+        "xref_name": "mRNA N6-methyladenosine dioxygenase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990984",
+        "xref_name": "tRNA demethylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001659",
+        "xref_name": "temperature homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006307",
+        "xref_name": "DNA alkylation repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010883",
+        "xref_name": "regulation of lipid storage",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016180",
+        "xref_name": "snRNA processing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0040014",
+        "xref_name": "regulation of multicellular organism growth",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0044065",
+        "xref_name": "regulation of respiratory system process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060612",
+        "xref_name": "adipose tissue development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061157",
+        "xref_name": "mRNA destabilization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070350",
+        "xref_name": "regulation of white fat cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090335",
+        "xref_name": "regulation of brown fat cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:24678",
+        "xref_name": "FTO",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q9C0B1",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR024366",
+        "xref_name": "FTO_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR024367",
+        "xref_name": "FTO_cat_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR032868",
+        "xref_name": "FTO",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR037151",
+        "xref_name": "AlkB-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR038413",
+        "xref_name": "FTO_C_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR31291",
+        "xref_name": "ALPHA-KETOGLUTARATE-DEPENDENT DIOXYGENASE FTO",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR31291:SF2",
+        "xref_name": "ALPHA-KETOGLUTARATE-DEPENDENT DIOXYGENASE FTO",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3LFM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4CXW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4CXX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4CXY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4IDZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4IE0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4IE4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4IE5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4IE6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4IE7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4QHO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4QKN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZS2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZS3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5DAB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5F8P",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5ZMD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6AEJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6AK4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6AKW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7CKK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7E8Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7WCV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8IT9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9KNH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9KNI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9OHS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3LFM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4CXW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4CXX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4CXY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4IDZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4IE0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4IE4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4IE5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4IE6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4IE7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4QHO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4QKN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZS2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZS3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5DAB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5F8P",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5ZMD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6AEJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6AK4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6AKW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7CKK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7E8Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7WCV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8IT9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9KNH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9KNI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9OHS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF12933",
+        "xref_name": "FTO_NTD",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF12934",
+        "xref_name": "FTO_CTD",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA152208656",
+        "xref_name": "FTO alpha-ketoglutarate dependent dioxygenase",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q9C0B1",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-73943",
+        "xref_name": "Reversal of alkylation damage by DNA dioxygenases",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A2RUH1",
+        "xref_name": "Alpha-ketoglutarate-dependent dioxygenase FTO",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B2RNS0",
+        "xref_name": "Alpha-ketoglutarate-dependent dioxygenase FTO",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q0P676",
+        "xref_name": "Alpha-ketoglutarate-dependent dioxygenase FTO",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q7Z785",
+        "xref_name": "Alpha-ketoglutarate-dependent dioxygenase FTO",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9C0B1",
+        "xref_name": "Alpha-ketoglutarate-dependent dioxygenase FTO",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2331065"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

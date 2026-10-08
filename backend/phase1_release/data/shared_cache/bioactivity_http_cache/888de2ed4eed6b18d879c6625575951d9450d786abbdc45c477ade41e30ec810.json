@@ -1,0 +1,661 @@
+{
+  "data": {
+    "accession": "P9WHJ3",
+    "component_id": 5216,
+    "component_type": "PROTEIN",
+    "description": "Protein RecA",
+    "go_slims": [
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0004518"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016485"
+      },
+      {
+        "go_id": "GO:0016887"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0046677"
+      }
+    ],
+    "organism": "Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1
+      }
+    ],
+    "sequence": "MTQTPDREKALELAVAQIEKSYGKGSVMRLGDEARQPISVIPTGSIALDVALGIGGLPRGRVIEIYGPESSGKTTVALHAVANAQAAGGVAAFIDAEHALDPDYAKKLGVDTDSLLVSQPDTGEQALEIADMLIRSGALDIVVIDSVAALVPRAELEGEMGDSHVGLQARLMSQALRKMTGALNNSGTTAIFINQLRDKIGVMFGSPETTTGGKALKFYASVRMDVRRVETLKDGTNAVGNRTRVKVVKNKCLAEGTRIFDPVTGTTHRIEDVVDGRKPIHVVAAAKDGTLHARPVVSWFDQGTRDVIGLRIAGGAIVWATPDHKVLTEYGWRAAGELRKGDRVAQPRRFDGFGDSAPIPADHARLLGYLIGDGRDGWVGGKTPINFINVQRALIDDVTRIAATLGCAAHPQGRISLAIAHRPGERNGVADLCQQAGIYGKLAWEKTIPNWFFEPDIAADIVGNLLFGLFESDGWVSREQTGALRVGYTTTSEQLAHQIHWLLLRFGVGSTVRDYDPTQKRPSIVNGRRIQSKRQVFEVRISGMDNVTAFAESVPMWGPRGAALIQAIPEATQGRRRGSQATYLAAEMTDAVLNYLDERGVTAQEAAAMIGVASGDPRGGMKQVLGASRLRRDRVQALADALDDKFLHDMLAEELRYSVIREVLPTRRARTFDLEVEELHTLVAEGVVVHNCSPPFKQAEFDILYGKGISREGSLIDMGVDQGLIRKSGAWFTYEGEQLGQGKENARNFLVENADVADEIEKKIKEKLGIGAVVTDDPSNDGVLPAPVDF",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.1.-.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Endonuclease PI-MtuI",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Mtu RecA intein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Protein RecA",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "recA",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Recombinase A",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P9WHJ3",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000287",
+        "xref_name": "magnesium ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003684",
+        "xref_name": "damaged DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003697",
+        "xref_name": "single-stranded DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004519",
+        "xref_name": "endonuclease activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004520",
+        "xref_name": "DNA endonuclease activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016887",
+        "xref_name": "ATP hydrolysis activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030145",
+        "xref_name": "manganese ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000725",
+        "xref_name": "recombinational repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006281",
+        "xref_name": "DNA repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006310",
+        "xref_name": "DNA recombination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006314",
+        "xref_name": "intron homing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006974",
+        "xref_name": "DNA damage response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009432",
+        "xref_name": "SOS response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016539",
+        "xref_name": "intein-mediated protein splicing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042148",
+        "xref_name": "DNA strand invasion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046677",
+        "xref_name": "response to antibiotic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR003586",
+        "xref_name": "Hint_dom_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003587",
+        "xref_name": "Hint_dom_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003593",
+        "xref_name": "AAA+_ATPase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR004042",
+        "xref_name": "Intein_endonuc_central",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR004860",
+        "xref_name": "LAGLIDADG_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006141",
+        "xref_name": "Intein_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006142",
+        "xref_name": "INTEIN",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013765",
+        "xref_name": "DNA_recomb/repair_RecA",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020584",
+        "xref_name": "DNA_recomb/repair_RecA_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020587",
+        "xref_name": "RecA_monomer-monomer_interface",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020588",
+        "xref_name": "RecA_ATP-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023400",
+        "xref_name": "RecA_C_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR027417",
+        "xref_name": "P-loop_NTPase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR027434",
+        "xref_name": "Homing_endonucl",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR030934",
+        "xref_name": "Intein_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036844",
+        "xref_name": "Hint_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR049261",
+        "xref_name": "RecA-like_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR049428",
+        "xref_name": "RecA-like_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR45900",
+        "xref_name": "RECA",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR45900:SF1",
+        "xref_name": "MITOCHONDRIAL DNA REPAIR PROTEIN RECA HOMOLOG-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1G18",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1G19",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1MO3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1MO4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1MO5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1MO6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2IMZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2IN0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2IN8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2IN9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2L8L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3IFJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3IGD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4OQF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PO1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PO8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PO9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4POA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PPF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PPG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PPN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PPQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PQF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PQR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PQY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PR0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PSA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PSK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PSV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PTL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5I0A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5K08",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1G18",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1G19",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1MO3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1MO4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1MO5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1MO6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2IMZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2IN0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2IN8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2IN9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3IFJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3IGD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4OQF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PO1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PO8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PO9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4POA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PPF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PPG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PPN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PPQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PQF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PQR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PQY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PR0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PSA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PSK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PSV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PTL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5I0A",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5K08",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00154",
+        "xref_name": "RecA_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF14528",
+        "xref_name": "LAGLIDADG_3",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF14890",
+        "xref_name": "Intein_splicing",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF21096",
+        "xref_name": "RecA_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "L0TAH5",
+        "xref_name": "Protein RecA",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O34519",
+        "xref_name": "Protein RecA",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P0A5U4",
+        "xref_name": "Protein RecA",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P26345",
+        "xref_name": "Protein RecA",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P9WHJ3",
+        "xref_name": "Protein RecA",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1741171"
+      }
+    ],
+    "tax_id": 83332
+  },
+  "ok": true
+}

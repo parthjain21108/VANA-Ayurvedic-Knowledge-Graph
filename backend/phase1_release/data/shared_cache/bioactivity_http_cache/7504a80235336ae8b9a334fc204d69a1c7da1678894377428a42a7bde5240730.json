@@ -1,0 +1,234 @@
+{
+  "data": {
+    "accession": "Q30W70",
+    "component_id": 19692,
+    "component_type": "PROTEIN",
+    "description": "Choline trimethylamine-lyase",
+    "go_slims": [
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0009308"
+      },
+      {
+        "go_id": "GO:0016829"
+      },
+      {
+        "go_id": "GO:0042803"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Desulfovibrio alaskensis (strain ATCC BAA 1058 / DSM 17464 / G20)(Desulfovibrio desulfuricans (strain G20))",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 648
+      }
+    ],
+    "sequence": "MDLQDFSHKLAEATKNLTPAERASLKKIFEGVSAEVFSQPAPVSAVATGAESGIPDGPTPRHVKLKENFLKQVPSITVQRAVAITKIAKENPGLPKPLLRAKTFRYCCETAPLVIQDHELIVGSPNGAPRAGAFSPEVAWRWLQDELDTIGSRPQDPFYISEEDKKVLREEVFPFWQNKSVDEFCEGQYREADLWEMSGESFVSDCSYHAVNGGGDSNPGYDVILMKKGMLDIQREAREKLEQLDYANPEDIDKIYFYKSVIETAEGVMIYARRLSAYAAELAARETDPRRKAELQKISEVNARVPAHAPSNFWEAIQAVWTVESLLVVEENQTGMSIGRVDQYMYPFYRADIDSGRLTEYEAFDLAGCMLVKMSEMMWITSEGASKFFAGYQPFVNMCVGGVTREGHDATNDLTYMLMDAVRHVRIYQPTLATRVHNKSPQKYLKKIVDVIRSGMGFPAVHFDDAHIKMMLAKGVSIEDARDYCLMGCVEPQKSGRLYQWTSTGYTQWPICIELVLNHGVPLWYGKKVTPDMGDLSQYDTYEKFEAAVKEQIRWITKNTSVATVISQRAHRELAPKPLMSLMYEGCMESGRDVSAGGAMYNFGPGVVWSGLATYVDSMAAIKKLVYDDRKYTLAQLNEALKADFAGYDQILADCLAAPKYGNDDDYADMIAADLVHFTETEHRKYKTLYSVLSHGTLSISNNTPFGQLLGASANGRRAWMPLSDGISPTQGADYKGPTAIIKSVSKMANDNMNIGMVHNFKLMSGLLDTPEGENGLITLIRTACMLGNGEMQFNYLDNELLLDAQKHPEKYRDLVVRVAGYSAFFVELCKDVQDEIISRTMLHGF",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "4.3.99.4",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Choline TMA-lyase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Choline trimethylamine-lyase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Choline utilization protein C",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "cutC",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Glycyl radical enzyme CutC",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "GRE CutC",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q30W70",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016829",
+        "xref_name": "lyase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016840",
+        "xref_name": "carbon-nitrogen lyase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0033265",
+        "xref_name": "choline binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042803",
+        "xref_name": "protein homodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0120525",
+        "xref_name": "choline trimethylamine lyase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042426",
+        "xref_name": "choline catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR001150",
+        "xref_name": "Gly_radical",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR004184",
+        "xref_name": "PFL_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR019777",
+        "xref_name": "Form_AcTrfase_GR_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR030897",
+        "xref_name": "Choline_CutC",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR051215",
+        "xref_name": "GRE",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR43641",
+        "xref_name": "FORMATE ACETYLTRANSFERASE 3-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR43641:SF2",
+        "xref_name": "DEHYDRATASE YBIW-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "5FAU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5FAV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5FAW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5FAY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5KDP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6ND3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6VUE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5FAU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5FAV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5FAW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5FAY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5KDP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6ND3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6VUE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF01228",
+        "xref_name": "Gly_radical",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02901",
+        "xref_name": "PFL-like",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "Q30W70",
+        "xref_name": "Choline trimethylamine-lyase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4739856"
+      }
+    ],
+    "tax_id": 207559
+  },
+  "ok": true
+}

@@ -1,0 +1,552 @@
+{
+  "data": {
+    "accession": "P24864",
+    "component_id": 35,
+    "component_type": "PROTEIN",
+    "description": "G1/S-specific cyclin-E1",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005815"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016301"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0032880"
+      },
+      {
+        "go_id": "GO:0051276"
+      },
+      {
+        "go_id": "GO:0051301"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 8
+      }
+    ],
+    "sequence": "MPRERRERDAKERDTMKEDGGAEFSARSRKRKANVTVFLQDPDEEMAKIDRTARDQCGSQPWDNNAVCADPCSLIPTPDKEDDDRVYPNSTCKPRIIAPSRGSPLPVLSWANREEVWKIMLNKEKTYLRDQHFLEQHPLLQPKMRAILLDWLMEVCEVYKLHRETFYLAQDFFDRYMATQENVVKTLLQLIGISSLFIAAKLEEIYPPKLHQFAYVTDGACSGDEILTMELMIMKALKWRLSPLTIVSWLNVYMQVAYLNDLHEVLLPQYPQQIFIQIAELLDLCVLDVDCLEFPYGILAASALYHFSSSELMQKVSGYQWCDIENCVKWMVPFAMVIRETGSSKLKHFRGVADEDAHNIQTHRDSLDLLDKARAKKAMLSEQNRASPLPSGLLTPPQSGKKQSSGPEMA",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "CCNE",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "CCNE1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "G1/S-specific cyclin-E1",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P24864",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P24864",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005815",
+        "xref_name": "microtubule organizing center",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016301",
+        "xref_name": "kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019901",
+        "xref_name": "protein kinase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000082",
+        "xref_name": "G1/S transition of mitotic cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0000122",
+        "xref_name": "negative regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0000723",
+        "xref_name": "telomere maintenance",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006270",
+        "xref_name": "DNA replication initiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006468",
+        "xref_name": "protein phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007129",
+        "xref_name": "homologous chromosome pairing at meiosis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016055",
+        "xref_name": "Wnt signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032880",
+        "xref_name": "regulation of protein localization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051301",
+        "xref_name": "cell division",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051726",
+        "xref_name": "regulation of cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070192",
+        "xref_name": "chromosome organization involved in meiotic cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1900087",
+        "xref_name": "positive regulation of G1/S transition of mitotic cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902462",
+        "xref_name": "positive regulation of mesenchymal stem cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:1589",
+        "xref_name": "CCNE1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P24864",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR004367",
+        "xref_name": "Cyclin_C-dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006671",
+        "xref_name": "Cyclin_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013763",
+        "xref_name": "Cyclin-like_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036915",
+        "xref_name": "Cyclin-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR039361",
+        "xref_name": "Cyclin",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR048258",
+        "xref_name": "Cyclins_cyclin-box",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR10177",
+        "xref_name": "CYCLINS",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1W98",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L2W",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7KJS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7XQK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8H4R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8H6P",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8H6T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8VQ3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8VQ4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9D0V",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9D0W",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9D0X",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9OB2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9OB3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9OB4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9OB5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9OB6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1W98",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L2W",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7KJS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7XQK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8H4R",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8H6P",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8H6T",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8VQ3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8VQ4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9D0V",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9OB2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9OB3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9OB4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9OB5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9OB6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00134",
+        "xref_name": "Cyclin_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02984",
+        "xref_name": "Cyclin_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA96",
+        "xref_name": "cyclin E1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P24864",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1538133",
+        "xref_name": "G0 and Early G1",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-187577",
+        "xref_name": "SCF(Skp2)-mediated degradation of p27/p21",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2559586",
+        "xref_name": "DNA Damage/Telomere Stress Induced Senescence",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-390471",
+        "xref_name": "Association of TriC/CCT with target proteins during biosynthesis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6804116",
+        "xref_name": "TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-69017",
+        "xref_name": "CDK-mediated phosphorylation and removal of Cdc6",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-69200",
+        "xref_name": "Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-69202",
+        "xref_name": "Cyclin E associated events during G1/S transition",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-69205",
+        "xref_name": "G1/S-Specific Transcription",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-69231",
+        "xref_name": "Cyclin D associated events in G1",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-69563",
+        "xref_name": "p53-Dependent G1 DNA Damage Response",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8849470",
+        "xref_name": "PTK6 Regulates Cell Cycle",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9661069",
+        "xref_name": "Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9706019",
+        "xref_name": "RHOBTB3 ATPase cycle",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A8K684",
+        "xref_name": "G1/S-specific cyclin-E1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P24864",
+        "xref_name": "G1/S-specific cyclin-E1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q14091",
+        "xref_name": "G1/S-specific cyclin-E1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8NFG1",
+        "xref_name": "G1/S-specific cyclin-E1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q92501",
+        "xref_name": "G1/S-specific cyclin-E1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UD21",
+        "xref_name": "G1/S-specific cyclin-E1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3617"
+      },
+      {
+        "target_chembl_id": "CHEMBL1907605"
+      },
+      {
+        "target_chembl_id": "CHEMBL2094126"
+      },
+      {
+        "target_chembl_id": "CHEMBL2111444"
+      },
+      {
+        "target_chembl_id": "CHEMBL3038468"
+      },
+      {
+        "target_chembl_id": "CHEMBL3038471"
+      },
+      {
+        "target_chembl_id": "CHEMBL3885554"
+      },
+      {
+        "target_chembl_id": "CHEMBL4523715"
+      },
+      {
+        "target_chembl_id": "CHEMBL5483189"
+      },
+      {
+        "target_chembl_id": "CHEMBL6195580"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

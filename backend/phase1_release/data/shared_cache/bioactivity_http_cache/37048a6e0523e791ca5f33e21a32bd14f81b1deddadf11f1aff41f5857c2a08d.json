@@ -1,0 +1,67 @@
+{
+  "data": {
+    "activities": [
+      {
+        "action_type": {
+          "action_type": "ANTAGONIST",
+          "description": "Binds to a receptor and prevents activation by an agonist through competing for the binding site",
+          "parent_type": "NEGATIVE MODULATOR"
+        },
+        "activity_comment": null,
+        "activity_id": 25059604,
+        "activity_properties": [],
+        "assay_chembl_id": "CHEMBL5250034",
+        "assay_description": "Antagonist activity at AhR (unknown origin) assessed as inhibition of receptor activation",
+        "assay_type": "B",
+        "assay_variant_accession": null,
+        "assay_variant_mutation": null,
+        "bao_endpoint": "BAO_0000179",
+        "bao_format": "BAO_0000357",
+        "bao_label": "single protein format",
+        "canonical_smiles": "O=C1CC(C(=O)O)c2c1oc(=O)c1cc(O)c(O)c(O)c21",
+        "data_validity_comment": null,
+        "data_validity_description": null,
+        "document_chembl_id": "CHEMBL5247614",
+        "document_journal": "Eur J Med Chem",
+        "document_year": 2022,
+        "ligand_efficiency": null,
+        "modality": null,
+        "molecule_chembl_id": "CHEMBL5278759",
+        "molecule_pref_name": null,
+        "parent_molecule_chembl_id": "CHEMBL5278759",
+        "pchembl_value": null,
+        "potential_duplicate": 0,
+        "qudt_units": "http://www.openphacts.org/units/Micromolar",
+        "record_id": 3927703,
+        "relation": "=",
+        "src_id": 1,
+        "standard_flag": 0,
+        "standard_relation": "=",
+        "standard_text_value": null,
+        "standard_type": "EC70",
+        "standard_units": "uM",
+        "standard_upper_value": null,
+        "standard_value": "3.9",
+        "target_chembl_id": "CHEMBL3201",
+        "target_organism": "Homo sapiens",
+        "target_pref_name": "Aryl hydrocarbon receptor",
+        "target_tax_id": "9606",
+        "text_value": null,
+        "toid": null,
+        "type": "EC70",
+        "units": "uM",
+        "uo_units": "UO_0000064",
+        "upper_value": null,
+        "value": "3.9"
+      }
+    ],
+    "page_meta": {
+      "limit": 1000,
+      "next": null,
+      "offset": 0,
+      "previous": null,
+      "total_count": 1
+    }
+  },
+  "ok": true
+}

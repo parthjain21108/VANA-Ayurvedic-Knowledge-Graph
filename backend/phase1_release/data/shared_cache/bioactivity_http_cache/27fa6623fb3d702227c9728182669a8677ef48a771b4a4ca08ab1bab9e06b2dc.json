@@ -1,0 +1,986 @@
+{
+  "data": {
+    "accession": "P29477",
+    "component_id": 1785,
+    "component_type": "PROTEIN",
+    "description": "Nitric oxide synthase, inducible",
+    "go_slims": [
+      {
+        "go_id": "GO:0000166"
+      },
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005516"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005777"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005856"
+      },
+      {
+        "go_id": "GO:0006520"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0032880"
+      },
+      {
+        "go_id": "GO:0042803"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0044281"
+      }
+    ],
+    "organism": "Mus musculus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1
+      }
+    ],
+    "sequence": "MACPWKFLFKVKSYQSDLKEEKDINNNVKKTPCAVLSPTIQDDPKSHQNGSPQLLTGTAQNVPESLDKLHVTSTRPQYVRIKNWGSGEILHDTLHHKATSDFTCKSKSCLGSIMNPKSLTRGPRDKPTPLEELLPHAIEFINQYYGSFKEAKIEEHLARLEAVTKEIETTGTYQLTLDELIFATKMAWRNAPRCIGRIQWSNLQVFDARNCSTAQEMFQHICRHILYATNNGNIRSAITVFPQRSDGKHDFRLWNSQLIRYAGYQMPDGTIRGDAATLEFTQLCIDLGWKPRYGRFDVLPLVLQADGQDPEVFEIPPDLVLEVTMEHPKYEWFQELGLKWYALPAVANMLLEVGGLEFPACPFNGWYMGTEIGVRDFCDTQRYNILEEVGRRMGLETHTLASLWKDRAVTEINVAVLHSFQKQNVTIMDHHTASESFMKHMQNEYRARGGCPADWIWLVPPVSGSITPVFHQEMLNYVLSPFYYYQIEPWKTHIWQNEKLRPRRREIRFRVLVKVVFFASMLMRKVMASRVRATVLFATETGKSEALARDLATLFSYAFNTKVVCMDQYKASTLEEEQLLLVVTSTFGNGDCPSNGQTLKKSLFMLRELNHTFRYAVFGLGSSMYPQFCAFAHDIDQKLSHLGASQLAPTGEGDELSGQEDAFRSWAVQTFRAACETFDVRSKHHIQIPKRFTSNATWEPQQYRLIQSPEPLDLNRALSSIHAKNVFTMRLKSQQNLQSEKSSRTTLLVQLTFEGSRGPSYLPGEHLGIFPGNQTALVQGILERVVDCPTPHQTVCLEVLDESGSYWVKDKRLPPCSLSQALTYFLDITTPPTQLQLHKLARFATDETDRQRLEALCQPSEYNDWKFSNNPTFLEVLEEFPSLHVPAAFLLSQLPILKPRYYSISSSQDHTPSEVHLTVAVVTYRTRDGQGPLHHGVCSTWIRNLKPQDPVPCFVRSVSGFQLPEDPSQPCILIGPGTGIAPFRSFWQQRLHDSQHKGLKGGRMSLVFGCRHPEEDHLYQEEMQEMVRKRVLFQVHTGYSRLPGKPKVYVQDILQKQLANEVLSVLHGEQGHLYICGDVRMARDVATTLKKLVATKLNLSEEQVEDYFFQLKSQKRYHEDIFGAVFSYGAKKGSALEEPKATRL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.14.13.39",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Inducible NOS",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Inducible NO synthase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "iNOS",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Inosl",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "MAC-NOS",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Macrophage NOS",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Nitric oxide synthase, inducible",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Nos2",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "NOS type II",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Peptidyl-cysteine S-nitrosylase NOS2",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P29477",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P29477",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005777",
+        "xref_name": "peroxisome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030863",
+        "xref_name": "cortical cytoskeleton",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0048471",
+        "xref_name": "perinuclear region of cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005516",
+        "xref_name": "calmodulin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0010181",
+        "xref_name": "FMN binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0034618",
+        "xref_name": "arginine binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042803",
+        "xref_name": "protein homodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0050660",
+        "xref_name": "flavin adenine dinucleotide binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0050661",
+        "xref_name": "NADP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001542",
+        "xref_name": "ovulation from ovarian follicle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001666",
+        "xref_name": "response to hypoxia",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006527",
+        "xref_name": "arginine catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006801",
+        "xref_name": "superoxide metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006809",
+        "xref_name": "nitric oxide biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007623",
+        "xref_name": "circadian rhythm",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010629",
+        "xref_name": "negative regulation of gene expression",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032310",
+        "xref_name": "prostaglandin secretion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032755",
+        "xref_name": "positive regulation of interleukin-6 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032757",
+        "xref_name": "positive regulation of interleukin-8 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0038096",
+        "xref_name": "Fc-gamma receptor signaling pathway involved in phagocytosis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042127",
+        "xref_name": "regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042177",
+        "xref_name": "negative regulation of protein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050796",
+        "xref_name": "regulation of insulin secretion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071222",
+        "xref_name": "cellular response to lipopolysaccharide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071407",
+        "xref_name": "cellular response to organic cyclic compound",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071466",
+        "xref_name": "cellular response to xenobiotic stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1900015",
+        "xref_name": "regulation of cytokine production involved in inflammatory response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "P29477",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001094",
+        "xref_name": "Flavdoxin-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001433",
+        "xref_name": "OxRdtase_FAD/NAD-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001709",
+        "xref_name": "Flavoprot_Pyr_Nucl_cyt_Rdtase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003097",
+        "xref_name": "CysJ-like_FAD-binding",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR004030",
+        "xref_name": "NOS_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008254",
+        "xref_name": "Flavodoxin/NO_synth",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR012144",
+        "xref_name": "NOS_euk",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017927",
+        "xref_name": "FAD-bd_FR_type",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017938",
+        "xref_name": "Riboflavin_synthase-like_b-brl",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023173",
+        "xref_name": "NADPH_Cyt_P450_Rdtase_alpha",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029039",
+        "xref_name": "Flavoprotein-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036119",
+        "xref_name": "NOS_N_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR039261",
+        "xref_name": "FNR_nucleotide-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR044940",
+        "xref_name": "NOS_dom_2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR044943",
+        "xref_name": "NOS_dom_1",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR044944",
+        "xref_name": "NOS_dom_3",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050607",
+        "xref_name": "NOS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR43410",
+        "xref_name": "NITRIC OXIDE SYNTHASE OXYGENASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR43410:SF4",
+        "xref_name": "NITRIC OXIDE SYNTHASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1DD7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1DF1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1DWV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1DWW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1DWX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1JWJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1JWK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1M8D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1M8E",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1M8H",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1M8I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1M9T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1N2N",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1NOC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1NOD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1NOS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1QOM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1QW4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1QW5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1R35",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1VAF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2BHJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2NOD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2NOS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ORO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ORP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ORQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ORR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ORS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ORT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2Y37",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3DWJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3E65",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3E67",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3E68",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3E6L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3E6N",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3E6O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3E6T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3E7I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3E7M",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3E7T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3EAI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3EBD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3EBF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3GOF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3NOD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3NQS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3NW2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4JS9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4UX6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1DD7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1DF1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1DWV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1DWW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1DWX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1JWJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1JWK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1M8D",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1M8E",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1M8H",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1M8I",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1M9T",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1N2N",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1NOC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1NOD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1NOS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1QOM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1QW4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1QW5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1R35",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1VAF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2BHJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2NOD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2NOS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2ORO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2ORP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2ORQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2ORR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2ORS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2ORT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2Y37",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3DWJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3E65",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3E67",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3E68",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3E6L",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3E6N",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3E6O",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3E6T",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3E7I",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3E7M",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3E7T",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3EAI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3EBD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3EBF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3GOF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3NOD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3NQS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3NW2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4JS9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4UX6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00175",
+        "xref_name": "NAD_binding_1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00258",
+        "xref_name": "Flavodoxin_1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00667",
+        "xref_name": "FAD_binding_1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02898",
+        "xref_name": "NO_synthase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-MMU-1222556",
+        "xref_name": "ROS and RNS production in phagocytes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-MMU-392154",
+        "xref_name": "Nitric oxide stimulates guanylate cyclase",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-MMU-9033241",
+        "xref_name": "Peroxisomal protein import",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "O70515",
+        "xref_name": "Nitric oxide synthase, inducible",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O70516",
+        "xref_name": "Nitric oxide synthase, inducible",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P29477",
+        "xref_name": "Nitric oxide synthase, inducible",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5SXT3",
+        "xref_name": "Nitric oxide synthase, inducible",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6P6A0",
+        "xref_name": "Nitric oxide synthase, inducible",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8R410",
+        "xref_name": "Nitric oxide synthase, inducible",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3464"
+      }
+    ],
+    "tax_id": 10090
+  },
+  "ok": true
+}

@@ -1,0 +1,360 @@
+{
+  "data": {
+    "accession": "P28563",
+    "component_id": 4799,
+    "component_type": "PROTEIN",
+    "description": "Dual specificity protein phosphatase 1",
+    "go_slims": [
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0016791"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0050790"
+      }
+    ],
+    "organism": "Mus musculus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 279
+      }
+    ],
+    "sequence": "MVMEVGILDAGGLRALLREGAAQCLLLDCRSFFAFNAGHIAGSVNVRFSTIVRRRAKGAMGLEHIVPNAELRGRLLAGAYHAVVLLDERSASLDGAKRDGTLALAAGALCREARSTQVFFLQGGYEAFSASCPELCSKQSTPTGLSLPLSTSVPDSAESGCSSCSTPLYDQGGPVEILSFLYLGSAYHASRKDMLDALGITALINVSANCPNHFEGHYQYKSIPVEDNHKADISSWFNEAIDFIDSIKDAGGRVFVHCQAGISRSATICLAYLMRTNRVKLDEAFEFVKQRRSIISPNFSFMGQLLQFESQVLAPHCSAEAGSPAMAVLDRGTSTTTVFNFPVSIPVHPTNSALNYLKSPITTSPSC",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.1.3.16",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "3.1.3.48",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "3ch134",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Dual specificity protein phosphatase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Dusp1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "MAP kinase phosphatase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Mitogen-activated protein kinase phosphatase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Mkp1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "MKP-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Protein-tyrosine phosphatase 3CH134",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Protein-tyrosine phosphatase ERP",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Ptpn10",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Ptpn16",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Synonyms=3ch134",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P28563",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P28563",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004721",
+        "xref_name": "phosphoprotein phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004722",
+        "xref_name": "protein serine/threonine phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004725",
+        "xref_name": "protein tyrosine phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004726",
+        "xref_name": "non-membrane spanning protein tyrosine phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008138",
+        "xref_name": "protein tyrosine/serine/threonine phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0017017",
+        "xref_name": "MAP kinase tyrosine/serine/threonine phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0017018",
+        "xref_name": "myosin phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030946",
+        "xref_name": "protein tyrosine phosphatase activity, metal-dependent",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0033192",
+        "xref_name": "calmodulin-dependent protein phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051019",
+        "xref_name": "mitogen-activated protein kinase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140791",
+        "xref_name": "histone H2AXS140 phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140793",
+        "xref_name": "histone H2AXY142 phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0180004",
+        "xref_name": "RNA polymerase II CTD heptapeptide repeat Y1 phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0180005",
+        "xref_name": "RNA polymerase II CTD heptapeptide repeat T4 phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0180006",
+        "xref_name": "RNA polymerase II CTD heptapeptide repeat S2 phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0180007",
+        "xref_name": "RNA polymerase II CTD heptapeptide repeat S5 phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0180008",
+        "xref_name": "RNA polymerase II CTD heptapeptide repeat S7 phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990439",
+        "xref_name": "MAP kinase serine/threonine phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0007162",
+        "xref_name": "negative regulation of cell adhesion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008285",
+        "xref_name": "negative regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035335",
+        "xref_name": "peptidyl-tyrosine dephosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035970",
+        "xref_name": "peptidyl-threonine dephosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043407",
+        "xref_name": "negative regulation of MAP kinase activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043409",
+        "xref_name": "negative regulation of MAPK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051447",
+        "xref_name": "negative regulation of meiotic cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070262",
+        "xref_name": "peptidyl-serine dephosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090027",
+        "xref_name": "negative regulation of monocyte chemotaxis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090266",
+        "xref_name": "regulation of mitotic cell cycle spindle assembly checkpoint",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903753",
+        "xref_name": "negative regulation of p38MAPK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "P28563",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000340",
+        "xref_name": "Dual-sp_phosphatase_cat-dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000387",
+        "xref_name": "Tyr_Pase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001763",
+        "xref_name": "Rhodanese-like_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003595",
+        "xref_name": "Tyr_Pase_cat",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008343",
+        "xref_name": "MKP",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016130",
+        "xref_name": "Tyr_Pase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020420",
+        "xref_name": "Atypical_DUSP_subfamB",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020422",
+        "xref_name": "TYR_PHOSPHATASE_DUAL_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029021",
+        "xref_name": "Prot-tyrosine_phosphatase-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036873",
+        "xref_name": "Rhodanese-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR10159",
+        "xref_name": "DUAL SPECIFICITY PROTEIN PHOSPHATASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR10159:SF309",
+        "xref_name": "DUAL SPECIFICITY PROTEIN PHOSPHATASE 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF00581",
+        "xref_name": "Rhodanese",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00782",
+        "xref_name": "DSPc",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-MMU-112409",
+        "xref_name": "RAF-independent MAPK1/3 activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-MMU-5675221",
+        "xref_name": "Negative regulation of MAPK pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P28563",
+        "xref_name": "Dual specificity protein phosphatase 1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5623"
+      }
+    ],
+    "tax_id": 10090
+  },
+  "ok": true
+}

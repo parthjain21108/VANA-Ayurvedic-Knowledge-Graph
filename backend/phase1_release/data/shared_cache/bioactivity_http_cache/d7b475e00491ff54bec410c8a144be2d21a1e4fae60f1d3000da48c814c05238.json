@@ -1,0 +1,629 @@
+{
+  "data": {
+    "accession": "Q962Y6",
+    "component_id": 4661,
+    "component_type": "PROTEIN",
+    "description": "thioredoxin-disulfide reductase (NADPH)",
+    "go_slims": [
+      {
+        "go_id": "GO:0000166"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006790"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Schistosoma mansoni",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MPPADGTSQWLRKTVDSAAVILFSKTTCPYCKKVKDVLAEAKIKHATIELDQLSNGSAIQKCLASFSKIETVPQMFVRGKFIGDSQTVLKYYSNDELAGIVNESKYDYDLIVIGGGSGGLAAGKEAAKYGAKTAVLDYVEPTPIGTTWGLGGTCVNVGCIPKKLMHQAGLLSHALEDAEHFGWSLDRSKISHNWSTMVEGVQSHIGSLNWGYKVALRDNQVTYLNAKGRLISPHEVQITDKNQKVSTITGNKIILATGERPKYPEIPGAVEYGITSDDLFSLPYFPGKTLVIGASYVALECAGFLASLGGDVTVMVRSILLRGFDQQMAEKVGDYMENHGVKFAKLCVPDEIKQLKVVDTENNKPGLLLVKGHYTDGKKFEEEFETVIFAVGREPQLSKVLCETVGVKLDKNGRVVCTDDEQTTVSNVYAIGDINAGKPQLTPVAIQAGRYLARRLFAGATELTDYSNVATTVFTPLEYGACGLSEEDAIEKYGDKDIEVYHSNFKPLEWTVAHREDNVCYMKLVCRKSDNMRVLGLHVLGPNAGEITQGYAVAIKMGATKADFDRTIGIHPTCSETFTTLHVTKKSGVSPIVSGCXG",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.8.1.9",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "TGR",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "thioredoxin-disulfide reductase (NADPH)",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q962Y6",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000166",
+        "xref_name": "nucleotide binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004362",
+        "xref_name": "glutathione-disulfide reductase (NADPH) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004791",
+        "xref_name": "thioredoxin-disulfide reductase (NADPH) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0050660",
+        "xref_name": "flavin adenine dinucleotide binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006749",
+        "xref_name": "glutathione metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034599",
+        "xref_name": "cellular response to oxidative stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0098869",
+        "xref_name": "cellular oxidant detoxification",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR001100",
+        "xref_name": "Pyr_nuc-diS_OxRdtase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR002109",
+        "xref_name": "Glutaredoxin",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR004099",
+        "xref_name": "Pyr_nucl-diS_OxRdtase_dimer",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006338",
+        "xref_name": "Thioredoxin/glutathione_Rdtase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011767",
+        "xref_name": "GLR_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011899",
+        "xref_name": "Glutaredoxin_euk/vir",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR012999",
+        "xref_name": "Pyr_OxRdtase_I_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016156",
+        "xref_name": "FAD/NAD-linked_Rdtase_dimer_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023753",
+        "xref_name": "FAD/NAD-binding_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036188",
+        "xref_name": "FAD/NAD-bd_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036249",
+        "xref_name": "Thioredoxin-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR046952",
+        "xref_name": "GSHR/TRXR-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR42737",
+        "xref_name": "GLUTATHIONE REDUCTASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR42737:SF8",
+        "xref_name": "THIOREDOXIN-DISULFIDE REDUCTASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2V6O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2X8C",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2X8G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2X8H",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2X99",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3H4K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8A1R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PDD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PL0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PL2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PL3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PL4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PL5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PL6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PL7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PL8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PL9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PLY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2V6O",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2X8C",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2X8G",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2X8H",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2X99",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3H4K",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PDD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PL0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PL2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PL3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PL4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PL5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PL6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PL7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PL8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PL9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8PLY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00462",
+        "xref_name": "Glutaredoxin",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02852",
+        "xref_name": "Pyr_redox_dim",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF07992",
+        "xref_name": "Pyr_redox_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "Q962Y6",
+        "xref_name": "thioredoxin-disulfide reductase (NADPH)",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL6110"
+      }
+    ],
+    "tax_id": 6183
+  },
+  "ok": true
+}

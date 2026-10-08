@@ -1,0 +1,407 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Serratia marcescens",
+    "pref_name": "Chitinase B",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5348",
+    "target_components": [
+      {
+        "accession": "P11797",
+        "component_description": "Chitinase B",
+        "component_id": 3644,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.2.1.14",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "chiB",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Chitinase B",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P11797",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004553",
+            "xref_name": "hydrolase activity, hydrolyzing O-glycosyl compounds",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004568",
+            "xref_name": "chitinase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008843",
+            "xref_name": "endochitinase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016798",
+            "xref_name": "hydrolase activity, acting on glycosyl bonds",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030246",
+            "xref_name": "carbohydrate binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000272",
+            "xref_name": "polysaccharide catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005975",
+            "xref_name": "carbohydrate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006032",
+            "xref_name": "chitin catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR001223",
+            "xref_name": "Glyco_hydro18_cat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001579",
+            "xref_name": "Glyco_hydro_18_chit_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003610",
+            "xref_name": "CBM5/12",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011583",
+            "xref_name": "Chitinase_II/V-like_cat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017853",
+            "xref_name": "GH",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR029070",
+            "xref_name": "Chitinase_insertion_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036573",
+            "xref_name": "CBM_sf_5/12",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050314",
+            "xref_name": "Glycosyl_Hydrlase_18",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11177",
+            "xref_name": "CHITINASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11177:SF317",
+            "xref_name": "CHITINASE 12-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1E6N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1GOI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1H0G",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1H0I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1O6I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1OGB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1OGG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3WD0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3WD1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3WD2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3WD3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3WD4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Z2G",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Z2H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Z2I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Z2J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Z2K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Z2L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6JK9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6JKF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7C34",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7C92",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7CB1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8YUG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8YUH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8YUI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1E6N",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1GOI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1H0G",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1H0I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1O6I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1OGB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1OGG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3WD0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3WD1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3WD2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3WD3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3WD4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4Z2G",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4Z2H",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4Z2I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4Z2J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4Z2K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4Z2L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6JK9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6JKF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7C34",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7C92",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7CB1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8YUG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8YUH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8YUI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00704",
+            "xref_name": "Glyco_hydro_18",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "P11797",
+            "xref_name": "Chitinase B",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 615
+  },
+  "ok": true
+}

@@ -1,0 +1,561 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Retinol-binding protein 4",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3100",
+    "target_components": [
+      {
+        "accession": "P02753",
+        "component_description": "Retinol-binding protein 4",
+        "component_id": 1427,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Plasma retinol-binding protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Plasma retinol-binding protein(1-176)",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Plasma retinol-binding protein(1-179)",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Plasma retinol-binding protein(1-181)",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Plasma retinol-binding protein(1-182)",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PRBP",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "RBP",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "RBP4",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Retinol-binding protein 4",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P02753",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P02753",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005501",
+            "xref_name": "retinoid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016918",
+            "xref_name": "retinal binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019841",
+            "xref_name": "retinol binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034632",
+            "xref_name": "retinol transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001654",
+            "xref_name": "eye development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002639",
+            "xref_name": "positive regulation of immunoglobulin production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006094",
+            "xref_name": "gluconeogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007507",
+            "xref_name": "heart development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007601",
+            "xref_name": "visual perception",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030277",
+            "xref_name": "maintenance of gastrointestinal epithelium",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030324",
+            "xref_name": "lung development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032024",
+            "xref_name": "positive regulation of insulin secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034633",
+            "xref_name": "retinol transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042572",
+            "xref_name": "retinol metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042593",
+            "xref_name": "glucose homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048562",
+            "xref_name": "embryonic organ morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048706",
+            "xref_name": "embryonic skeletal system development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048738",
+            "xref_name": "cardiac muscle tissue development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048807",
+            "xref_name": "female genitalia morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060044",
+            "xref_name": "negative regulation of cardiac muscle cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060059",
+            "xref_name": "embryonic retina morphogenesis in camera-type eye",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060065",
+            "xref_name": "uterus development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060068",
+            "xref_name": "vagina development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060157",
+            "xref_name": "urinary bladder development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060347",
+            "xref_name": "heart trabecula formation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9922",
+            "xref_name": "RBP4",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P02753",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000566",
+            "xref_name": "Lipocln_cytosolic_FA-bd_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002449",
+            "xref_name": "Retinol-bd/Purpurin",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012674",
+            "xref_name": "Calycin",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR022271",
+            "xref_name": "Lipocalin_ApoD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR022272",
+            "xref_name": "Lipocalin_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11873",
+            "xref_name": "RETINOL-BINDING PROTEIN 4",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11873:SF2",
+            "xref_name": "RETINOL-BINDING PROTEIN 4",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1BRP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1BRQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1JYD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1JYJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1QAB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RBP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RLB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2WQ9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2WQA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2WR6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BSZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3FMZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4O9S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4PSQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NTY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NU2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NU6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NU7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NU8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NU9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NUA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NUB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6QBA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1BRP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1BRQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1JYD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1JYJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1QAB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RBP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RLB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2WQ9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2WQA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2WR6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3BSZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3FMZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4O9S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4PSQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NTY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NU2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NU6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NU7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NU8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NU9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NUA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NUB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6QBA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00061",
+            "xref_name": "Lipocalin",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA34289",
+            "xref_name": "retinol binding protein 4",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P02753",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-2453902",
+            "xref_name": "The canonical retinoid cycle in rods (twilight vision)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6809583",
+            "xref_name": "Retinoid metabolism disease events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-975634",
+            "xref_name": "Retinoid metabolism and transport",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9918449",
+            "xref_name": "Defective visual phototransduction due to STRA6 loss of function",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "D3DR38",
+            "xref_name": "Retinol-binding protein 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O43478",
+            "xref_name": "Retinol-binding protein 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O43479",
+            "xref_name": "Retinol-binding protein 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P02753",
+            "xref_name": "Retinol-binding protein 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5VY24",
+            "xref_name": "Retinol-binding protein 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8WWA3",
+            "xref_name": "Retinol-binding protein 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9P178",
+            "xref_name": "Retinol-binding protein 4",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

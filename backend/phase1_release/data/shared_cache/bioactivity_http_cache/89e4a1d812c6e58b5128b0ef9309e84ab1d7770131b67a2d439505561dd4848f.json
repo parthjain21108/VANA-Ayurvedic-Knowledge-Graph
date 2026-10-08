@@ -1,0 +1,868 @@
+{
+  "data": {
+    "accession": "P09467",
+    "component_id": 2294,
+    "component_type": "PROTEIN",
+    "description": "Fructose-1,6-bisphosphatase 1",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005615"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005975"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0008134"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016787"
+      },
+      {
+        "go_id": "GO:0016791"
+      },
+      {
+        "go_id": "GO:0030246"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0044281"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1030
+      }
+    ],
+    "sequence": "MADQAPFDTDVNTLTRFVMEEGRKARGTGELTQLLNSLCTAVKAISSAVRKAGIAHLYGIAGSTNVTGDQVKKLDVLSNDLVMNMLKSSFATCVLVSEEDKHAIIVEPEKRGKYVVCFDPLDGSSNIDCLVSVGTIFGIYRKKSTDEPSEKDALQPGRNLVAAGYALYGSATMLVLAMDCGVNCFMLDPAIGEFILVDKDVKIKKKGKIYSLNEGYARDFDPAVTEYIQRKKFPPDNSAPYGARYVGSMVADVHRTLVYGGIFLYPANKKSPNGKLRLLYECNPMAYVMEKAGGMATTGKEAVLDVIPTDIHQRAPVILGSPDDVLEFLKVYEKHSAQ",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.1.3.11",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "D-fructose-1,6-bisphosphate 1-phosphohydrolase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "FBP",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "FBP1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "FBPase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Fructose-1,6-bisphosphatase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Liver FBPase",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P09467",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P09467",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005615",
+        "xref_name": "extracellular space",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016208",
+        "xref_name": "AMP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016787",
+        "xref_name": "hydrolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042132",
+        "xref_name": "fructose 1,6-bisphosphate 1-phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0048029",
+        "xref_name": "monosaccharide binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0061629",
+        "xref_name": "RNA polymerase II-specific DNA-binding transcription factor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000122",
+        "xref_name": "negative regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0005975",
+        "xref_name": "carbohydrate metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006000",
+        "xref_name": "fructose metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006002",
+        "xref_name": "fructose 6-phosphate metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006094",
+        "xref_name": "gluconeogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016311",
+        "xref_name": "dephosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030308",
+        "xref_name": "negative regulation of cell growth",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030388",
+        "xref_name": "fructose 1,6-bisphosphate metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032869",
+        "xref_name": "cellular response to insulin stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045820",
+        "xref_name": "negative regulation of glycolytic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046580",
+        "xref_name": "negative regulation of Ras protein signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071286",
+        "xref_name": "cellular response to magnesium ion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071320",
+        "xref_name": "cellular response to cAMP",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071466",
+        "xref_name": "cellular response to xenobiotic stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071475",
+        "xref_name": "cellular hyperosmotic salinity response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071477",
+        "xref_name": "cellular hypotonic salinity response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097403",
+        "xref_name": "cellular response to raffinose",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904628",
+        "xref_name": "cellular response to phorbol 13-acetate 12-myristate",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:3606",
+        "xref_name": "FBP1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P09467",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000146",
+        "xref_name": "FBPase_class-1",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020548",
+        "xref_name": "Fructose_bisphosphatase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR028343",
+        "xref_name": "FBPtase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR033391",
+        "xref_name": "FBPase_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR044015",
+        "xref_name": "FBPase_C_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11556",
+        "xref_name": "FRUCTOSE-1,6-BISPHOSPHATASE-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR11556:SF11",
+        "xref_name": "FRUCTOSE-1,6-BISPHOSPHATASE 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1FTA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2FHY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2FIE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2FIX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2JJK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2VT5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2WBB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2WBD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2Y5K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2Y5L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3A29",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3KBZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3KC0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3KC1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4MJO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5LDZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5PZQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5PZR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5PZS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5PZT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5PZU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5PZV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5PZW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5PZX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5PZY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5PZZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Q00",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Q01",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Q02",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Q03",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Q04",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Q05",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Q06",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Q07",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Q08",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Q09",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Q0A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Q0B",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6LS5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6LW2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7C9Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7CVH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7CVN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7CWE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7EZF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7EZP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7EZR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7WJV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7WVB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8XBK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1FTA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2FHY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2FIE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2FIX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2JJK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2VT5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2WBB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2WBD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2Y5K",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2Y5L",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3A29",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3KBZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3KC0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3KC1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4MJO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5LDZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5PZQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5PZR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5PZS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5PZT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5PZU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5PZV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5PZW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5PZX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5PZY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5PZZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Q00",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Q01",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Q02",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Q03",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Q04",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Q05",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Q06",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Q07",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Q08",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Q09",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Q0A",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Q0B",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6LS5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6LW2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7C9Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7CVH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7CVN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7CWE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7EZF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7EZP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7EZR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7WJV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7WVB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8XBK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00316",
+        "xref_name": "FBPase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF18913",
+        "xref_name": "FBPase_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA28018",
+        "xref_name": "fructose-bisphosphatase 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P09467",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-70263",
+        "xref_name": "Gluconeogenesis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "O75571",
+        "xref_name": "Fructose-1,6-bisphosphatase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P09467",
+        "xref_name": "Fructose-1,6-bisphosphatase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q53F94",
+        "xref_name": "Fructose-1,6-bisphosphatase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96E46",
+        "xref_name": "Fructose-1,6-bisphosphatase 1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3975"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

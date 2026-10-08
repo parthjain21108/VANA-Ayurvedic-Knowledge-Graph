@@ -1,0 +1,354 @@
+{
+  "data": {
+    "accession": "P06700",
+    "component_id": 1596,
+    "component_type": "PROTEIN",
+    "description": "NAD-dependent histone deacetylase SIR2",
+    "go_slims": [
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0003682"
+      },
+      {
+        "go_id": "GO:0003824"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005730"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016740"
+      },
+      {
+        "go_id": "GO:0016746"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0051276"
+      },
+      {
+        "go_id": "GO:0051287"
+      }
+    ],
+    "organism": "Saccharomyces cerevisiae S288c",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1
+      }
+    ],
+    "sequence": "MTIPHMKYAVSKTSENKVSNTVSPTQDKDAIRKQPDDIINNDEPSHKKIKVAQPDSLRETNTTDPLGHTKAALGEVASMELKPTNDMDPLAVSAASVVSMSNDVLKPETPKGPIIISKNPSNGIFYGPSFTKRESLNARMFLKYYGAHKFLDTYLPEDLNSLYIYYLIKLLGFEVKDQALIGTINSIVHINSQERVQDLGSAISVTNVEDPLAKKQTVRLIKDLQRAINKVLCTRLRLSNFFTIDHFIQKLHTARKILVLTGAGVSTSLGIPDFRSSEGFYSKIKHLGLDDPQDVFNYNIFMHDPSVFYNIANMVLPPEKIYSPLHSFIKMLQMKGKLLRNYTQNIDNLESYAGISTDKLVQCHGSFATATCVTCHWNLPGERIFNKIRNLELPLCPYCYKKRREYFPEGYNNKVGVAASQGSMSERPPYILNSYGVLKPDITFFGEALPNKFHKSIREDILECDLLICIGTSLKVAPVSEIVNMVPSHVPQVLINRDPVKHAEFDLSLLGYCDDIAAMVAQKCGWTIPHKKWNDLKNKNFKCQEKDKGVYVVTSDEHPKTL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.3.1.286",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "MAR1 ",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "NAD-dependent histone deacetylase SIR2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Regulatory protein SIR2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Silent information regulator 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SIR2",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P06700",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0000781",
+        "xref_name": "chromosome, telomeric region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000792",
+        "xref_name": "heterochromatin",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005677",
+        "xref_name": "chromatin silencing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005730",
+        "xref_name": "nucleolus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030869",
+        "xref_name": "RENT complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003688",
+        "xref_name": "DNA replication origin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016740",
+        "xref_name": "transferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0017136",
+        "xref_name": "histone deacetylase activity, NAD-dependent",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031491",
+        "xref_name": "nucleosome binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0032041",
+        "xref_name": "histone H3K14 deacetylase activity, NAD-dependent",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0034979",
+        "xref_name": "NAD-dependent protein lysine deacetylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046969",
+        "xref_name": "histone H3K9 deacetylase activity, NAD-dependent",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046970",
+        "xref_name": "histone H4K16 deacetylase activity, NAD-dependent",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070403",
+        "xref_name": "NAD+ binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0097372",
+        "xref_name": "histone H3K18 deacetylase activity, NAD-dependent",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140765",
+        "xref_name": "histone H3K56 deacetylase activity, NAD-dependent",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0141222",
+        "xref_name": "histone H3K4 deacetylase activity, NAD-dependent",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000183",
+        "xref_name": "rDNA heterochromatin formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006281",
+        "xref_name": "DNA repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006303",
+        "xref_name": "double-strand break repair via nonhomologous end joining",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007062",
+        "xref_name": "sister chromatid cohesion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008156",
+        "xref_name": "negative regulation of DNA replication",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030466",
+        "xref_name": "silent mating-type cassette heterochromatin formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031494",
+        "xref_name": "regulation of mating type switching",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031507",
+        "xref_name": "heterochromatin formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031509",
+        "xref_name": "subtelomeric heterochromatin formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045910",
+        "xref_name": "negative regulation of DNA recombination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097752",
+        "xref_name": "regulation of DNA stability",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904524",
+        "xref_name": "negative regulation of DNA amplification",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "P06700",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR003000",
+        "xref_name": "Sirtuin",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR007654",
+        "xref_name": "NAD-dep_histone_deAcase_SIR2_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR026590",
+        "xref_name": "Ssirtuin_cat_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR026591",
+        "xref_name": "Sirtuin_cat_small_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029035",
+        "xref_name": "DHS-like_NAD/FAD-binding_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050134",
+        "xref_name": "NAD-dep_sirtuin_deacylases",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11085",
+        "xref_name": "NAD-DEPENDENT PROTEIN DEACYLASE SIRTUIN-5, MITOCHONDRIAL-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR11085:SF9",
+        "xref_name": "NAD-DEPENDENT PROTEIN DEACETYLASE SIRTUIN-1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2HJH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4IAO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2HJH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4IAO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF02146",
+        "xref_name": "SIR2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF04574",
+        "xref_name": "DUF592",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-SCE-427359",
+        "xref_name": "SIRT1 negatively regulates rRNA expression",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "D6VRV4",
+        "xref_name": "NAD-dependent histone deacetylase SIR2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P06700",
+        "xref_name": "NAD-dependent histone deacetylase SIR2",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3275"
+      }
+    ],
+    "tax_id": 559292
+  },
+  "ok": true
+}

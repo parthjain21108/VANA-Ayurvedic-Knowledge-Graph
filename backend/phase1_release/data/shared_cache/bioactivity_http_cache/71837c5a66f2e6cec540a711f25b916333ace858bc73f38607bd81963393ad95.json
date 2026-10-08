@@ -1,0 +1,838 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Histone acetyltransferase KAT5",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5750",
+    "target_components": [
+      {
+        "accession": "Q92993",
+        "component_description": "Histone acetyltransferase KAT5",
+        "component_id": 4134,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.3.1.-",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "2.3.1.48",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "60 kDa Tat-interactive protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "cPLA(2)-interacting protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Histone acetyltransferase HTATIP",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Histone acetyltransferase KAT5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HIV-1 Tat interactive protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HTATIP",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "KAT5",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Lysine acetyltransferase 5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Protein 2-hydroxyisobutyryltransferase KAT5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Protein acetyltransferase KAT5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Protein crotonyltransferase KAT5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Protein lactyltransferase KAT5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=HTATIP",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Tip60",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TIP60",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q92993",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q92993",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000123",
+            "xref_name": "histone acetyltransferase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000775",
+            "xref_name": "chromosome, centromeric region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000776",
+            "xref_name": "kinetochore",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000785",
+            "xref_name": "chromatin",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000786",
+            "xref_name": "nucleosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000812",
+            "xref_name": "Swr1 complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000922",
+            "xref_name": "spindle pole",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005667",
+            "xref_name": "transcription regulator complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005694",
+            "xref_name": "chromosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005730",
+            "xref_name": "nucleolus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005856",
+            "xref_name": "cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032777",
+            "xref_name": "piccolo histone acetyltransferase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035267",
+            "xref_name": "NuA4 histone acetyltransferase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035861",
+            "xref_name": "site of double-strand break",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048471",
+            "xref_name": "perinuclear region of cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097431",
+            "xref_name": "mitotic spindle pole",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003682",
+            "xref_name": "chromatin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003712",
+            "xref_name": "transcription coregulator activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003713",
+            "xref_name": "transcription coactivator activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004402",
+            "xref_name": "histone acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0010485",
+            "xref_name": "histone H4 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016407",
+            "xref_name": "acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016746",
+            "xref_name": "acyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0032931",
+            "xref_name": "histone H3K56 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0036408",
+            "xref_name": "histone H3K14 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043992",
+            "xref_name": "histone H3K9 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043993",
+            "xref_name": "histone H3K18 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043994",
+            "xref_name": "histone H3K23 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043995",
+            "xref_name": "histone H4K5 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043996",
+            "xref_name": "histone H4K8 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043997",
+            "xref_name": "histone H4K12 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043998",
+            "xref_name": "histone H2A acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043999",
+            "xref_name": "histone H2AK5 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044012",
+            "xref_name": "histone H2AK9 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044014",
+            "xref_name": "histone H2BK5 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044015",
+            "xref_name": "histone H2BK12 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044016",
+            "xref_name": "histone H3K4 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044017",
+            "xref_name": "histone H3K27 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044018",
+            "xref_name": "histone H3K36 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046972",
+            "xref_name": "histone H4K16 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0061733",
+            "xref_name": "peptide-lysine-N-acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0106226",
+            "xref_name": "peptide 2-hydroxyisobutyryltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0120300",
+            "xref_name": "peptide lactyltransferase (CoA-dependent) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0120301",
+            "xref_name": "histone lactyltransferase (CoA-dependent) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140064",
+            "xref_name": "peptide crotonyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140065",
+            "xref_name": "peptide butyryltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140068",
+            "xref_name": "histone crotonyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140297",
+            "xref_name": "DNA-binding transcription factor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140908",
+            "xref_name": "histone H3K122 acetyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000122",
+            "xref_name": "negative regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000132",
+            "xref_name": "establishment of mitotic spindle orientation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000724",
+            "xref_name": "double-strand break repair via homologous recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006281",
+            "xref_name": "DNA repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006289",
+            "xref_name": "nucleotide-excision repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006302",
+            "xref_name": "double-strand break repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006915",
+            "xref_name": "apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006974",
+            "xref_name": "DNA damage response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006978",
+            "xref_name": "DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007286",
+            "xref_name": "spermatid development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010508",
+            "xref_name": "positive regulation of autophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010557",
+            "xref_name": "positive regulation of macromolecule biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010867",
+            "xref_name": "positive regulation of triglyceride biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0021915",
+            "xref_name": "neural tube development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0022008",
+            "xref_name": "neurogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032703",
+            "xref_name": "negative regulation of interleukin-2 production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042149",
+            "xref_name": "cellular response to glucose starvation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042753",
+            "xref_name": "positive regulation of circadian rhythm",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042981",
+            "xref_name": "regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043161",
+            "xref_name": "proteasome-mediated ubiquitin-dependent protein catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045087",
+            "xref_name": "innate immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045591",
+            "xref_name": "positive regulation of regulatory T cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045663",
+            "xref_name": "positive regulation of myoblast differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045892",
+            "xref_name": "negative regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045893",
+            "xref_name": "positive regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045935",
+            "xref_name": "positive regulation of nucleobase-containing compound metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051726",
+            "xref_name": "regulation of cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0062033",
+            "xref_name": "positive regulation of mitotic sister chromatid segregation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071333",
+            "xref_name": "cellular response to glucose stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071392",
+            "xref_name": "cellular response to estradiol stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090398",
+            "xref_name": "cellular senescence",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901985",
+            "xref_name": "positive regulation of protein acetylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902036",
+            "xref_name": "regulation of hematopoietic stem cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902425",
+            "xref_name": "positive regulation of attachment of mitotic spindle microtubules to kinetochore",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905168",
+            "xref_name": "positive regulation of double-strand break repair via homologous recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905337",
+            "xref_name": "positive regulation of aggrephagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000042",
+            "xref_name": "negative regulation of double-strand break repair via homologous recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000779",
+            "xref_name": "regulation of double-strand break repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:5275",
+            "xref_name": "KAT5",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q92993",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000953",
+            "xref_name": "Chromo/chromo_shadow_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002717",
+            "xref_name": "HAT_MYST-type",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016181",
+            "xref_name": "Acyl_CoA_acyltransferase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016197",
+            "xref_name": "Chromo-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR025995",
+            "xref_name": "Tudor-knot",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036388",
+            "xref_name": "WH-like_DNA-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR040706",
+            "xref_name": "Zf-MYST",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050603",
+            "xref_name": "MYST_HAT",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10615",
+            "xref_name": "HISTONE ACETYLTRANSFERASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10615:SF219",
+            "xref_name": "HISTONE ACETYLTRANSFERASE KAT5",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2EKO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2OU2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QQG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2OU2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QQG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF01853",
+            "xref_name": "MOZ_SAS",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF11717",
+            "xref_name": "Tudor-knot",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF17772",
+            "xref_name": "zf-MYST",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA162392746",
+            "xref_name": "lysine acetyltransferase 5",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q92993",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-201722",
+            "xref_name": "Formation of the beta-catenin:TCF transactivating complex",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2559586",
+            "xref_name": "DNA Damage/Telomere Stress Induced Senescence",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3214847",
+            "xref_name": "HATs acetylate histones",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5685938",
+            "xref_name": "HDR through Single Strand Annealing (SSA)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5685942",
+            "xref_name": "HDR through Homologous Recombination (HRR)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693548",
+            "xref_name": "Sensing of DNA Double Strand Breaks",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693554",
+            "xref_name": "Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693565",
+            "xref_name": "Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693568",
+            "xref_name": "Resolution of D-loop Structures through Holliday Junction Intermediates",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693571",
+            "xref_name": "Nonhomologous End-Joining (NHEJ)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693579",
+            "xref_name": "Homologous DNA Pairing and Strand Exchange",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693607",
+            "xref_name": "Processing of DNA double-strand break ends",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693616",
+            "xref_name": "Presynaptic phase of homologous DNA pairing and strand exchange",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6804756",
+            "xref_name": "Regulation of TP53 Activity through Phosphorylation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-69473",
+            "xref_name": "G2/M DNA damage checkpoint",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9018519",
+            "xref_name": "Estrogen-dependent gene expression",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9701192",
+            "xref_name": "Defective homologous recombination repair (HRR) due to BRCA1 loss of function",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9704331",
+            "xref_name": "Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9704646",
+            "xref_name": "Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9709570",
+            "xref_name": "Impaired BRCA2 binding to RAD51",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9709603",
+            "xref_name": "Impaired BRCA2 binding to PALB2",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9733709",
+            "xref_name": "Cardiogenesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B4E3C7",
+            "xref_name": "Histone acetyltransferase KAT5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "C9JL99",
+            "xref_name": "Histone acetyltransferase KAT5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O95624",
+            "xref_name": "Histone acetyltransferase KAT5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q13430",
+            "xref_name": "Histone acetyltransferase KAT5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q17RW5",
+            "xref_name": "Histone acetyltransferase KAT5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q561W3",
+            "xref_name": "Histone acetyltransferase KAT5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6GSE8",
+            "xref_name": "Histone acetyltransferase KAT5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q92993",
+            "xref_name": "Histone acetyltransferase KAT5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9BWK7",
+            "xref_name": "Histone acetyltransferase KAT5",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

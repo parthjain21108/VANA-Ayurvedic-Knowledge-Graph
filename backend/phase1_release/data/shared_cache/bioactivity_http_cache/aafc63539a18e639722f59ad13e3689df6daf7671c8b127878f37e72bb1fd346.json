@@ -1,0 +1,197 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Rattus norvegicus",
+    "pref_name": "Muscarinic acetylcholine receptor M4",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL317",
+    "target_components": [
+      {
+        "accession": "P08485",
+        "component_description": "Muscarinic acetylcholine receptor M4",
+        "component_id": 12,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Chrm-4",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Chrm4",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Muscarinic acetylcholine receptor M4",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032279",
+            "xref_name": "asymmetric synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042383",
+            "xref_name": "sarcolemma",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042734",
+            "xref_name": "presynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043679",
+            "xref_name": "axon terminus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098839",
+            "xref_name": "postsynaptic density membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098978",
+            "xref_name": "glutamatergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005085",
+            "xref_name": "guanyl-nucleotide exchange factor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016907",
+            "xref_name": "G protein-coupled acetylcholine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007197",
+            "xref_name": "adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0040012",
+            "xref_name": "regulation of locomotion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "P08485",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000995",
+            "xref_name": "Musac_Ach_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001432",
+            "xref_name": "Musac_Ach_M4_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24247",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24247:SF180",
+            "xref_name": "MUSCARINIC ACETYLCHOLINE RECEPTOR M4",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-RNO-390648",
+            "xref_name": "Muscarinic acetylcholine receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-418594",
+            "xref_name": "G alpha (i) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P08485",
+            "xref_name": "Muscarinic acetylcholine receptor M4",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 10116
+  },
+  "ok": true
+}

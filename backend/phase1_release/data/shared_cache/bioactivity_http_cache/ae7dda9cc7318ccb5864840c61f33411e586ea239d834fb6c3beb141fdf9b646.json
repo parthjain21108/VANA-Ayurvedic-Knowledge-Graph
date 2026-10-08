@@ -1,0 +1,634 @@
+{
+  "data": {
+    "accession": "Q8WTS6",
+    "component_id": 3815,
+    "component_type": "PROTEIN",
+    "description": "Histone-lysine N-methyltransferase SETD7",
+    "go_slims": [
+      {
+        "go_id": "GO:0003682"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005694"
+      },
+      {
+        "go_id": "GO:0005730"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008168"
+      },
+      {
+        "go_id": "GO:0032259"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 856
+      }
+    ],
+    "sequence": "MDSDDEMVEEAVEGHLDDDGLPHGFCTVTYSSTDRFEGNFVHGEKNGRGKFFFFDGSTLEGYYVDDALQGQGVYTYEDGGVLQGTYVDGELNGPAQEYDTDGRLIFKGQYKDNIRHGVCWIYYPDGGSLVGEVNEDGEMTGEKIAYVYPDERTALYGKFIDGEMIEGKLATLMSTEEGRPHFELMPGNSVYHFDKSTSSCISTNALLPDPYESERVYVAESLISSAGEGLFSKVAVGPNTVMSFYNGVRITHQEVDSRDWALNGNTLSLDEETVIDVPEPYNHVSKYCASLGHKANHSFTPNCIYDMFVHPRFGPIKCIRTLRAVEADEELTVAYGYDHSPPGKSGPEAPEWYQVELKAFQATQQK",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.1.1.364",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "H3-K4-HMTase SETD7",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Histone H3-K4 methyltransferase SETD7",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Histone-lysine N-methyltransferase SETD7",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "KIAA1717",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "KMT7",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Lysine N-methyltransferase 7",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SET7",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "SET7/9",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SET9",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "SET9 GN  ",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "SETD7",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "SET domain-containing protein 7",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Synonyms=KIAA1717",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q8WTS6",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q8WTS6",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005694",
+        "xref_name": "chromosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005730",
+        "xref_name": "nucleolus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0002039",
+        "xref_name": "p53 binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003682",
+        "xref_name": "chromatin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008168",
+        "xref_name": "methyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016279",
+        "xref_name": "protein-lysine N-methyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042054",
+        "xref_name": "histone methyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140938",
+        "xref_name": "histone H3 methyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140945",
+        "xref_name": "histone H3K4 monomethyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006974",
+        "xref_name": "DNA damage response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0018026",
+        "xref_name": "peptidyl-lysine monomethylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0018027",
+        "xref_name": "peptidyl-lysine dimethylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032259",
+        "xref_name": "methylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045893",
+        "xref_name": "positive regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:30412",
+        "xref_name": "SETD7",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q8WTS6",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001214",
+        "xref_name": "SET_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003409",
+        "xref_name": "MORN",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017155",
+        "xref_name": "Hist-Lys_N-MeTrfase_SETD7",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR044436",
+        "xref_name": "SETD7_SET",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR046341",
+        "xref_name": "SET_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR054533",
+        "xref_name": "SETD7_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR46820",
+        "xref_name": "HISTONE-LYSINE N-METHYLTRANSFERASE SETD7",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR46820:SF1",
+        "xref_name": "HISTONE-LYSINE N-METHYLTRANSFERASE SETD7",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1H3I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1MT6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1MUF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1N6A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1N6C",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1O9S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1XQH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2F69",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3CBM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3CBO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3CBP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3M53",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3M54",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3M55",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3M56",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3M57",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3M58",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3M59",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3M5A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3OS5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3VUZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3VV0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4E47",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4J7F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4J7I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4J83",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4J8O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4JDS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4JLG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5AYF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5EG2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5YLT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1H3I",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1MT6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1MUF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1N6A",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1N6C",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1O9S",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1XQH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2F69",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3CBM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3CBO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3CBP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3M53",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3M54",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3M55",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3M56",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3M57",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3M58",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3M59",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3M5A",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3OS5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3VUZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3VV0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4E47",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4J7F",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4J7I",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4J83",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4J8O",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4JDS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4JLG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5AYF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5EG2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5YLT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00856",
+        "xref_name": "SET",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02493",
+        "xref_name": "MORN",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF22648",
+        "xref_name": "SET7_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA143485615",
+        "xref_name": "SET domain containing 7, histone lysine methyltransferase",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q8WTS6",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-3214841",
+        "xref_name": "PKMTs methylate histone lysines",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B5WWL3",
+        "xref_name": "Histone-lysine N-methyltransferase SETD7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q0VAH3",
+        "xref_name": "Histone-lysine N-methyltransferase SETD7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q4W5A9",
+        "xref_name": "Histone-lysine N-methyltransferase SETD7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WTS6",
+        "xref_name": "Histone-lysine N-methyltransferase SETD7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9C0E6",
+        "xref_name": "Histone-lysine N-methyltransferase SETD7",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5523"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

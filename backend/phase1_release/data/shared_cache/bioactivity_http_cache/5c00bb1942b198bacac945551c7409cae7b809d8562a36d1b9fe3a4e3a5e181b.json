@@ -1,0 +1,576 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Simian virus 40",
+    "pref_name": "Large T antigen",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1075257",
+    "target_components": [
+      {
+        "accession": "P03070",
+        "component_description": "Large T antigen",
+        "component_id": 4564,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5.6.2.4",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "DNA 3'-5' helicase large T antigen",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Large T antigen",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "LT-AG",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0042025",
+            "xref_name": "host cell nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003688",
+            "xref_name": "DNA replication origin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003690",
+            "xref_name": "double-stranded DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003697",
+            "xref_name": "single-stranded DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004386",
+            "xref_name": "helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016787",
+            "xref_name": "hydrolase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016853",
+            "xref_name": "isomerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016887",
+            "xref_name": "ATP hydrolysis activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140665",
+            "xref_name": "ATP-dependent H3-H4 histone complex chaperone activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140849",
+            "xref_name": "ATP-dependent H2AZ histone chaperone activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006268",
+            "xref_name": "DNA unwinding involved in DNA replication",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0039502",
+            "xref_name": "symbiont-mediated suppression of host type I interferon-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0039576",
+            "xref_name": "symbiont-mediated suppression of host JAK-STAT cascade via inhibition of JAK1 activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0039645",
+            "xref_name": "symbiont-mediated perturbation of host cell cycle G1/S transition checkpoint",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0039648",
+            "xref_name": "symbiont-mediated perturbation of host ubiquitin-like protein modification",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0039686",
+            "xref_name": "bidirectional double-stranded viral DNA replication",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0039693",
+            "xref_name": "viral DNA genome replication",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0052170",
+            "xref_name": "symbiont-mediated suppression of host innate immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "P03070",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001623",
+            "xref_name": "DnaJ_domain",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003133",
+            "xref_name": "T_Ag_DNA-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR010932",
+            "xref_name": "Lg_T_Ag_Polyomavir_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR014015",
+            "xref_name": "Helicase_SF3_DNA-vir",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016392",
+            "xref_name": "Lg_T_Ag_polyomavir",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017910",
+            "xref_name": "Znf_lg_T-Ag_D1-typ",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR027417",
+            "xref_name": "P-loop_NTPase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036869",
+            "xref_name": "J_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR037102",
+            "xref_name": "Znf_lg_T-Ag_D1_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "1EJL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1GH6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1N25",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1Q1S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1Q1T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1SVL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1SVM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1SVO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1TBD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1Z1D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2FUF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2H1L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2IF9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2IPR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2ITJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2ITL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2NL8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2NTC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2TBD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3QK2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3QN2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4E2I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4FGN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4GDF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4RXH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5D9I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9EVH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9EVP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9EXD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F3T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F3U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F5I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F73",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F74",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F75",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F7N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F9N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F9O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F9W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F9X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FA1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FA2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FB0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FB4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FB5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FB6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9KAE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9KAK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1EJL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1GH6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1N25",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1Q1S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1Q1T",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1SVL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1SVM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1SVO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2FUF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2H1L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2IF9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2IPR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2ITJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2ITL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2NL8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2NTC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3QK2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3QN2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4E2I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4FGN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4GDF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4RXH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5D9I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF02217",
+            "xref_name": "T_Ag_DNA_bind",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF06431",
+            "xref_name": "Polyoma_lg_T_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "P03070",
+            "xref_name": "Large T antigen",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 1891767
+  },
+  "ok": true
+}

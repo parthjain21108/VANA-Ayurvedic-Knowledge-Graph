@@ -1,0 +1,377 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Phospholipase A2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4426",
+    "target_components": [
+      {
+        "accession": "P04054",
+        "component_description": "Phospholipase A2",
+        "component_id": 2742,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.1.1.4",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Group IB phospholipase A2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Phosphatidylcholine 2-acylhydrolase 1B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Phospholipase A2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PLA2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "PLA2A",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "PLA2G1B",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "PPLA2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P04054",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P04054",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004623",
+            "xref_name": "phospholipase A2 activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005102",
+            "xref_name": "signaling receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005509",
+            "xref_name": "calcium ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005543",
+            "xref_name": "phospholipid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016787",
+            "xref_name": "hydrolase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0032052",
+            "xref_name": "bile acid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0047498",
+            "xref_name": "calcium-dependent phospholipase A2 activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0047499",
+            "xref_name": "calcium-independent phospholipase A2 activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002227",
+            "xref_name": "innate immune response in mucosa",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002446",
+            "xref_name": "neutrophil mediated immunity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006629",
+            "xref_name": "lipid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006633",
+            "xref_name": "fatty acid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008284",
+            "xref_name": "positive regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010524",
+            "xref_name": "positive regulation of calcium ion transport into cytosol",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016042",
+            "xref_name": "lipid catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019370",
+            "xref_name": "leukotriene biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019731",
+            "xref_name": "antibacterial humoral response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030593",
+            "xref_name": "neutrophil chemotaxis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032431",
+            "xref_name": "activation of phospholipase A2 activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032757",
+            "xref_name": "positive regulation of interleukin-8 production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032869",
+            "xref_name": "cellular response to insulin stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035556",
+            "xref_name": "intracellular signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043406",
+            "xref_name": "positive regulation of MAP kinase activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046324",
+            "xref_name": "regulation of D-glucose import",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048146",
+            "xref_name": "positive regulation of fibroblast proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050482",
+            "xref_name": "arachidonate secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050714",
+            "xref_name": "positive regulation of protein secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050778",
+            "xref_name": "positive regulation of immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061844",
+            "xref_name": "antimicrobial humoral immune response mediated by antimicrobial peptide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904635",
+            "xref_name": "positive regulation of podocyte apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9030",
+            "xref_name": "PLA2G1B",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P04054",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001211",
+            "xref_name": "PLA2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016090",
+            "xref_name": "PLA2-like_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033112",
+            "xref_name": "PLA2_Asp_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033113",
+            "xref_name": "PLA2_histidine",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036444",
+            "xref_name": "PLipase_A2_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11716",
+            "xref_name": "PHOSPHOLIPASE A2 FAMILY MEMBER",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11716:SF94",
+            "xref_name": "PHOSPHOLIPASE A2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3ELO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6Q42",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3ELO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6Q42",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00068",
+            "xref_name": "Phospholip_A2_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA33361",
+            "xref_name": "phospholipase A2 group IB",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P04054",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1482788",
+            "xref_name": "Acyl chain remodelling of PC",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1482801",
+            "xref_name": "Acyl chain remodelling of PS",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1482839",
+            "xref_name": "Acyl chain remodelling of PE",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1482922",
+            "xref_name": "Acyl chain remodelling of PI",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1482925",
+            "xref_name": "Acyl chain remodelling of PG",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1483166",
+            "xref_name": "Synthesis of PA",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9925561",
+            "xref_name": "Developmental Lineage of Pancreatic Acinar Cells",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B2R4H5",
+            "xref_name": "Phospholipase A2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P04054",
+            "xref_name": "Phospholipase A2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q3KPI1",
+            "xref_name": "Phospholipase A2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

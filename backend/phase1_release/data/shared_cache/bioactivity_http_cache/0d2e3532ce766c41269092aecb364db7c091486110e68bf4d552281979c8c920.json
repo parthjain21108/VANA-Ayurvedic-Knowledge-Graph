@@ -1,0 +1,789 @@
+{
+  "data": {
+    "accession": "O94925",
+    "component_id": 6769,
+    "component_type": "PROTEIN",
+    "description": "Glutaminase kidney isoform, mitochondrial",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006520"
+      },
+      {
+        "go_id": "GO:0007267"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016787"
+      },
+      {
+        "go_id": "GO:0016810"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0050877"
+      },
+      {
+        "go_id": "GO:0065003"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 646
+      }
+    ],
+    "sequence": "MMRLRGSGMLRDLLLRSPAGVSATLRRAQPLVTLCRRPRGGGRPAAGPAAAARLHPWWGGGGWPAEPLARGLSSSPSEILQELGKGSTHPQPGVSPPAAPAAPGPKDGPGETDAFGNSEGKELVASGENKIKQGLLPSLEDLLFYTIAEGQEKIPVHKFITALKSTGLRTSDPRLKECMDMLRLTLQTTSDGVMLDKDLFKKCVQSNIVLLTQAFRRKFVIPDFMSFTSHIDELYESAKKQSGGKVADYIPQLAKFSPDLWGVSVCTVDGQRHSTGDTKVPFCLQSCVKPLKYAIAVNDLGTEYVHRYVGKEPSGLRFNKLFLNEDDKPHNPMVNAGAIVVTSLIKQGVNNAEKFDYVMQFLNKMAGNEYVGFSNATFQSERESGDRNFAIGYYLKEKKCFPEGTDMVGILDFYFQLCSIEVTCESASVMAATLANGGFCPITGERVLSPEAVRNTLSLMHSCGMYDFSGQFAFHVGLPAKSGVAGGILLVVPNVMGMMCWSPPLDKMGNSVKGIHFCHDLVSLCNFHNYDNLRHFAKKLDPRREGGDQRVKSVINLLFAAYTGDVSALRRFALSAMDMEQRDYDSRTALHVAAAEGHVEVVKFLLEACKVNPFPKDRWNNTPMDEALHFGHHDVFKILQEYQVQYTPQGDSDNGKENQTVHKNLDGLL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.5.1.2",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "GLS",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "GLS",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "GLS1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Glutaminase kidney isoform, mitochondrial",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Glutaminase kidney isoform, mitochondrial 65 kDa chain",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Glutaminase kidney isoform, mitochondrial 68 kDa chain",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "K-glutaminase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "KIAA0838",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "L-glutamine amidohydrolase",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "O94925",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "O94925",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045202",
+        "xref_name": "synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004359",
+        "xref_name": "glutaminase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016787",
+        "xref_name": "hydrolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001967",
+        "xref_name": "suckling behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002087",
+        "xref_name": "regulation of respiratory gaseous exchange by nervous system process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006537",
+        "xref_name": "glutamate biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006541",
+        "xref_name": "glutamine metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006543",
+        "xref_name": "glutamine catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007268",
+        "xref_name": "chemical synaptic transmission",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051289",
+        "xref_name": "protein homotetramerization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090461",
+        "xref_name": "intracellular glutamate homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:4331",
+        "xref_name": "GLS",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "O94925",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002110",
+        "xref_name": "Ankyrin_rpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR012338",
+        "xref_name": "Beta-lactam/transpept-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR015868",
+        "xref_name": "Glutaminase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036770",
+        "xref_name": "Ankyrin_rpt-contain_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR041541",
+        "xref_name": "Glutaminase_EF-hand",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR12544",
+        "xref_name": "GLUTAMINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR12544:SF49",
+        "xref_name": "GLUTAMINASE KIDNEY ISOFORM, MITOCHONDRIAL",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3CZD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3UNW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3UO9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3VOY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3VOZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3VP0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3VP1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3VP2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3VP3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3VP4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4O7D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5D3O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5FI2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5FI6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5FI7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5HL1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5I94",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5JYO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5JYP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5U0I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5U0J",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5UQE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5WJ6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6LOX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UJG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UJM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UK6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UKB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UL9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6ULA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6ULJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UMC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UMD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UME",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UMF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7REN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7RGG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7SBM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7SBN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8BSK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8BSL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8BSM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8BSN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8GWR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8IMA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8IMB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8JUB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8JUE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8SZJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3CZD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3UNW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3UO9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3VOY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3VOZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3VP0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3VP1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3VP2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3VP3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3VP4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4O7D",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5D3O",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5FI2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5FI6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5FI7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5HL1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5I94",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5JYO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5JYP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5U0I",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5U0J",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5UQE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5WJ6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6LOX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UJG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UJM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UK6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UKB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UL9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6ULA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6ULJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UMC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UMD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UME",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UMF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7REN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7RGG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7SBM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7SBN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8BSK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8BSL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8BSM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8BSN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8GWR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8JUB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8JUE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF04960",
+        "xref_name": "Glutaminase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF12796",
+        "xref_name": "Ank_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF17959",
+        "xref_name": "EF-hand_14",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA28734",
+        "xref_name": "glutaminase",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "O94925",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-210500",
+        "xref_name": "Glutamate Neurotransmitter Release Cycle",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5628897",
+        "xref_name": "TP53 Regulates Metabolic Genes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8964539",
+        "xref_name": "Glutamate and glutamine metabolism",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "O94925",
+        "xref_name": "Glutaminase kidney isoform, mitochondrial",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UL05",
+        "xref_name": "Glutaminase kidney isoform, mitochondrial",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UL06",
+        "xref_name": "Glutaminase kidney isoform, mitochondrial",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UL07",
+        "xref_name": "Glutaminase kidney isoform, mitochondrial",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UN40",
+        "xref_name": "Glutaminase kidney isoform, mitochondrial",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2146302"
+      },
+      {
+        "target_chembl_id": "CHEMBL4106183"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

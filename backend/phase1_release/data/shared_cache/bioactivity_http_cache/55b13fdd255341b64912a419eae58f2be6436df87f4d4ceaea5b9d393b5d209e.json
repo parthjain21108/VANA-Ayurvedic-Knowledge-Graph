@@ -1,0 +1,551 @@
+{
+  "data": {
+    "accession": "Q08369",
+    "component_id": 5203,
+    "component_type": "PROTEIN",
+    "description": "Transcription factor GATA-4",
+    "go_slims": [
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0003682"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0007267"
+      },
+      {
+        "go_id": "GO:0008134"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008283"
+      },
+      {
+        "go_id": "GO:0009790"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0040007"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048646"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Mus musculus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 12
+      }
+    ],
+    "sequence": "MYQSLAMAANHGPPPGAYEAGGPGAFMHSAGAASSPVYVPTPRVPSSVLGLSYLQGGGSAAAAGTTSGGSSGAGPSGAGPGTQQGSPGWSQAGAEGAAYTPPPVSPRFSFPGTTGSLAAAAAAAAAREAAAYGSGGGAAGAGLAGREQYGRPGFAGSYSSPYPAYMADVGASWAAAAAASAGPFDSPVLHSLPGRANPGRHPNLDMFDDFSEGRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGINRPLIKPQRRLSASRRVGLSCANCQTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMRKEGIQTRKRKPKNLNKSKTPAGPAGETLPPSSGASSGNSSNATSSSSSSEEMRPIKTEPGLSSHYGHSSSMSQTFSTVSGHGPSIHPVLSALKLSPQGYASPVTQTSQASSKQDSWNSLVLADSHGDIITA",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Gata-4",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Gata4",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "GATA-binding factor 4",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Transcription factor GATA-4",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q08369",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q08369",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0000785",
+        "xref_name": "chromatin",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000976",
+        "xref_name": "transcription cis-regulatory region binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000977",
+        "xref_name": "RNA polymerase II transcription regulatory region sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000978",
+        "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001223",
+        "xref_name": "transcription coactivator binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003682",
+        "xref_name": "chromatin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043565",
+        "xref_name": "sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001701",
+        "xref_name": "in utero embryonic development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001702",
+        "xref_name": "gastrulation with mouth forming second",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001706",
+        "xref_name": "endoderm formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001947",
+        "xref_name": "heart looping",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003007",
+        "xref_name": "heart morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003151",
+        "xref_name": "outflow tract morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003181",
+        "xref_name": "atrioventricular valve morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003190",
+        "xref_name": "atrioventricular valve formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003192",
+        "xref_name": "mitral valve formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003195",
+        "xref_name": "tricuspid valve formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003197",
+        "xref_name": "endocardial cushion development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003215",
+        "xref_name": "cardiac right ventricle morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003229",
+        "xref_name": "ventricular cardiac muscle tissue development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003279",
+        "xref_name": "cardiac septum development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003281",
+        "xref_name": "ventricular septum development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003289",
+        "xref_name": "atrial septum primum morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007267",
+        "xref_name": "cell-cell signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007283",
+        "xref_name": "spermatogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007507",
+        "xref_name": "heart development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009888",
+        "xref_name": "tissue development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010575",
+        "xref_name": "positive regulation of vascular endothelial growth factor production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010628",
+        "xref_name": "positive regulation of gene expression",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010629",
+        "xref_name": "negative regulation of gene expression",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010667",
+        "xref_name": "negative regulation of cardiac muscle cell apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0014898",
+        "xref_name": "cardiac muscle hypertrophy in response to stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0023019",
+        "xref_name": "signal transduction involved in regulation of gene expression",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035050",
+        "xref_name": "embryonic heart tube development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035054",
+        "xref_name": "embryonic heart tube anterior/posterior pattern specification",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035239",
+        "xref_name": "tube morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035914",
+        "xref_name": "skeletal muscle cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0036302",
+        "xref_name": "atrioventricular canal development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043066",
+        "xref_name": "negative regulation of apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045766",
+        "xref_name": "positive regulation of angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045787",
+        "xref_name": "positive regulation of cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045893",
+        "xref_name": "positive regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048557",
+        "xref_name": "embryonic digestive tract morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048598",
+        "xref_name": "embryonic morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048617",
+        "xref_name": "embryonic foregut morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048738",
+        "xref_name": "cardiac muscle tissue development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051239",
+        "xref_name": "regulation of multicellular organismal process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0055007",
+        "xref_name": "cardiac muscle cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060008",
+        "xref_name": "Sertoli cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060038",
+        "xref_name": "cardiac muscle cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060043",
+        "xref_name": "regulation of cardiac muscle cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060045",
+        "xref_name": "positive regulation of cardiac muscle cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060425",
+        "xref_name": "lung morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060464",
+        "xref_name": "lung lobe formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060540",
+        "xref_name": "diaphragm morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060575",
+        "xref_name": "intestinal epithelial cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060979",
+        "xref_name": "vasculogenesis involved in coronary vascular morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061026",
+        "xref_name": "cardiac muscle tissue regeneration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071371",
+        "xref_name": "cellular response to gonadotropin stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071372",
+        "xref_name": "cellular response to follicle-stimulating hormone stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0072148",
+        "xref_name": "epithelial cell fate commitment",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0072520",
+        "xref_name": "seminiferous tubule development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902176",
+        "xref_name": "negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902895",
+        "xref_name": "positive regulation of miRNA transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1905204",
+        "xref_name": "negative regulation of connective tissue replacement",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2001234",
+        "xref_name": "negative regulation of apoptotic signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "Q08369",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000679",
+        "xref_name": "Znf_GATA",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008013",
+        "xref_name": "GATA_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013088",
+        "xref_name": "Znf_NHR/GATA",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016375",
+        "xref_name": "TF_GATA_4/5/6",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR039355",
+        "xref_name": "Transcription_factor_GATA",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR10071",
+        "xref_name": "TRANSCRIPTION FACTOR GATA FAMILY MEMBER",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR10071:SF154",
+        "xref_name": "TRANSCRIPTION FACTOR GATA-4",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF00320",
+        "xref_name": "GATA",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF05349",
+        "xref_name": "GATA-N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-MMU-983231",
+        "xref_name": "Factors involved in megakaryocyte development and platelet production",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B9EHF7",
+        "xref_name": "Transcription factor GATA-4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P97491",
+        "xref_name": "Transcription factor GATA-4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q08369",
+        "xref_name": "Transcription factor GATA-4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9QZK4",
+        "xref_name": "Transcription factor GATA-4",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1687680"
+      },
+      {
+        "target_chembl_id": "CHEMBL4106137"
+      }
+    ],
+    "tax_id": 10090
+  },
+  "ok": true
+}

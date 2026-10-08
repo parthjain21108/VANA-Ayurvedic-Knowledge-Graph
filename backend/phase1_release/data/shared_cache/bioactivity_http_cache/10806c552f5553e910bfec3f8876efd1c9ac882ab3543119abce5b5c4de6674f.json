@@ -1,0 +1,379 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Tyrosine-protein phosphatase non-receptor type 7",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2219",
+    "target_components": [
+      {
+        "accession": "P35236",
+        "component_description": "Tyrosine-protein phosphatase non-receptor type 7",
+        "component_id": 560,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.1.3.48",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Hematopoietic protein-tyrosine phosphatase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HEPTP",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Protein-tyrosine phosphatase LC-PTP",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PTPN7",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Tyrosine-protein phosphatase non-receptor type 7",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P35236",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P35236",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005856",
+            "xref_name": "cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009898",
+            "xref_name": "cytoplasmic side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0015630",
+            "xref_name": "microtubule cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004721",
+            "xref_name": "phosphoprotein phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004725",
+            "xref_name": "protein tyrosine phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004726",
+            "xref_name": "non-membrane spanning protein tyrosine phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030946",
+            "xref_name": "protein tyrosine phosphatase activity, metal-dependent",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140793",
+            "xref_name": "histone H2AXY142 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000165",
+            "xref_name": "MAPK cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006470",
+            "xref_name": "protein dephosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9659",
+            "xref_name": "PTPN7",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P35236",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000242",
+            "xref_name": "PTP_cat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000387",
+            "xref_name": "Tyr_Pase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003595",
+            "xref_name": "Tyr_Pase_cat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008356",
+            "xref_name": "Tyr_Pase_KIM-con",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016130",
+            "xref_name": "Tyr_Pase_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR029021",
+            "xref_name": "Prot-tyrosine_phosphatase-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR46198",
+            "xref_name": "PROTEIN-TYROSINE-PHOSPHATASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR46198:SF3",
+            "xref_name": "PROTEIN-TYROSINE-PHOSPHATASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1ZC0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2A3K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2GP0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2GPH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HVL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2QDC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2QDM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2QDP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3D42",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3D44",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3O4S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3O4T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3O4U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8YP8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1ZC0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2A3K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2GP0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2GPH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2HVL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2QDC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2QDM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2QDP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3D42",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3D44",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3O4S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3O4T",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3O4U",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8YP8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00102",
+            "xref_name": "Y_phosphatase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA34003",
+            "xref_name": "protein tyrosine phosphatase non-receptor type 7",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P35236",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-5675221",
+            "xref_name": "Negative regulation of MAPK pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9008059",
+            "xref_name": "Interleukin-37 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B3KXE1",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P35236",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q53XK4",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5SXQ0",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5SXQ1",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9BV05",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 7",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,437 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Signal transducer and activator of transcription 6",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5401",
+    "target_components": [
+      {
+        "accession": "P42226",
+        "component_description": "Signal transducer and activator of transcription 6",
+        "component_id": 3696,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "IL-4 Stat",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Signal transducer and activator of transcription 6",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "STAT6",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P42226",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P42226",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000785",
+            "xref_name": "chromatin",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0090575",
+            "xref_name": "RNA polymerase II transcription regulator complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000977",
+            "xref_name": "RNA polymerase II transcription regulatory region sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000978",
+            "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001223",
+            "xref_name": "transcription coactivator binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019903",
+            "xref_name": "protein phosphatase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043565",
+            "xref_name": "sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000122",
+            "xref_name": "negative regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002296",
+            "xref_name": "T-helper 1 cell lineage commitment",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002829",
+            "xref_name": "negative regulation of type 2 immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007259",
+            "xref_name": "cell surface receptor signaling pathway via JAK-STAT",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019221",
+            "xref_name": "cytokine-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033598",
+            "xref_name": "mammary gland epithelial cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035771",
+            "xref_name": "interleukin-4-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042127",
+            "xref_name": "regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048289",
+            "xref_name": "isotype switching to IgE isotypes",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048295",
+            "xref_name": "positive regulation of isotype switching to IgE isotypes",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060397",
+            "xref_name": "growth hormone receptor signaling pathway via JAK-STAT",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060443",
+            "xref_name": "mammary gland morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070301",
+            "xref_name": "cellular response to hydrogen peroxide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070666",
+            "xref_name": "regulation of mast cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0120162",
+            "xref_name": "positive regulation of cold-induced thermogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902170",
+            "xref_name": "cellular response to reactive nitrogen species",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:11368",
+            "xref_name": "STAT6",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P42226",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000980",
+            "xref_name": "SH2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001217",
+            "xref_name": "STAT",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008967",
+            "xref_name": "p53-like_TF_DNA-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012345",
+            "xref_name": "STAT_TF_DNA-bd_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013799",
+            "xref_name": "STAT_TF_prot_interaction",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013800",
+            "xref_name": "STAT_TF_alpha",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013801",
+            "xref_name": "STAT_TF_DNA-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR015988",
+            "xref_name": "STAT_TF_CC",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR028187",
+            "xref_name": "STAT6_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035857",
+            "xref_name": "STAT6_SH2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036535",
+            "xref_name": "STAT_N_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036860",
+            "xref_name": "SH2_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR048988",
+            "xref_name": "STAT_linker",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11801",
+            "xref_name": "SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1OJ5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Y5U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Y5W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5D39",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NWM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NWX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9BIG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1OJ5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4Y5U",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4Y5W",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5D39",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NWX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9BIG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00017",
+            "xref_name": "SH2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF01017",
+            "xref_name": "STAT_alpha",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02864",
+            "xref_name": "STAT_bind",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02865",
+            "xref_name": "STAT_int",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF14596",
+            "xref_name": "STAT6_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF21354",
+            "xref_name": "STAT_linker",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA339",
+            "xref_name": "signal transducer and activator of transcription 6",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P42226",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-186763",
+            "xref_name": "Downstream signal transduction",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3249367",
+            "xref_name": "STAT6-mediated induction of chemokines",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6785807",
+            "xref_name": "Interleukin-4 and Interleukin-13 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8K316",
+            "xref_name": "Signal transducer and activator of transcription 6",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B7ZA27",
+            "xref_name": "Signal transducer and activator of transcription 6",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "F5GXI9",
+            "xref_name": "Signal transducer and activator of transcription 6",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P42226",
+            "xref_name": "Signal transducer and activator of transcription 6",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5FBW5",
+            "xref_name": "Signal transducer and activator of transcription 6",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q71UP4",
+            "xref_name": "Signal transducer and activator of transcription 6",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

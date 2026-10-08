@@ -1,0 +1,721 @@
+{
+  "data": {
+    "accession": "P21728",
+    "component_id": 397,
+    "component_type": "PROTEIN",
+    "description": "D(1A) dopamine receptor",
+    "go_slims": [
+      {
+        "go_id": "GO:0003013"
+      },
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0004930"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005783"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0005929"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0007267"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0009308"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0022607"
+      },
+      {
+        "go_id": "GO:0034330"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0043085"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0048870"
+      },
+      {
+        "go_id": "GO:0050877"
+      },
+      {
+        "go_id": "GO:0055085"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 535
+      }
+    ],
+    "sequence": "MRTLNTSAMDGTGLVVERDFSVRILTACFLSLLILSTLLGNTLVCAAVIRFRHLRSKVTNFFVISLAVSDLLVAVLVMPWKAVAEIAGFWPFGSFCNIWVAFDIMCSTASILNLCVISVDRYWAISSPFRYERKMTPKAAFILISVAWTLSVLISFIPVQLSWHKAKPTSPSDGNATSLAETIDNCDSSLSRTYAISSSVISFYIPVAIMIVTYTRIYRIAQKQIRRIAALERAAVHAKNCQTTTGNGKPVECSQPESSFKMSFKRETKVLKTLSVIMGVFVCCWLPFFILNCILPFCGSGETQPFCIDSNTFDVFVWFGWANSSLNPIIYAFNADFRKAFSTLLGCYRLCPATNNAIETVSINNNGAAMFSSHHEPRGSISKECNLVYLIPHAVGSSEDLKKEEAAGIARPLEKLSPALSVILDYDTDVSLEKIQPITQNGQHPT",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "D(1A) dopamine receptor",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Dopamine D1 receptor",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "DRD1",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P21728",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005783",
+        "xref_name": "endoplasmic reticulum",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005789",
+        "xref_name": "endoplasmic reticulum membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005929",
+        "xref_name": "cilium",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030425",
+        "xref_name": "dendrite",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042734",
+        "xref_name": "presynaptic membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042995",
+        "xref_name": "cell projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043197",
+        "xref_name": "dendritic spine",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045202",
+        "xref_name": "synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045211",
+        "xref_name": "postsynaptic membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0060170",
+        "xref_name": "ciliary membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0097648",
+        "xref_name": "G protein-coupled receptor complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0097730",
+        "xref_name": "non-motile cilium",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098978",
+        "xref_name": "glutamatergic synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098982",
+        "xref_name": "GABA-ergic synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0001588",
+        "xref_name": "dopamine neurotransmitter receptor activity, coupled via Gs",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001965",
+        "xref_name": "G-protein alpha-subunit binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004930",
+        "xref_name": "G protein-coupled receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004952",
+        "xref_name": "dopamine neurotransmitter receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0035240",
+        "xref_name": "dopamine binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990763",
+        "xref_name": "arrestin family protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001659",
+        "xref_name": "temperature homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001661",
+        "xref_name": "conditioned taste aversion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001662",
+        "xref_name": "behavioral fear response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001764",
+        "xref_name": "neuron migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001963",
+        "xref_name": "synaptic transmission, dopaminergic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007186",
+        "xref_name": "G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007187",
+        "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007189",
+        "xref_name": "adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007190",
+        "xref_name": "activation of adenylate cyclase activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007191",
+        "xref_name": "adenylate cyclase-activating dopamine receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007212",
+        "xref_name": "G protein-coupled dopamine receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007416",
+        "xref_name": "synapse assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007612",
+        "xref_name": "learning",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007613",
+        "xref_name": "memory",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007617",
+        "xref_name": "mating behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007625",
+        "xref_name": "grooming behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007626",
+        "xref_name": "locomotory behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007628",
+        "xref_name": "adult walking behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007631",
+        "xref_name": "feeding behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008306",
+        "xref_name": "associative learning",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008542",
+        "xref_name": "visual learning",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0014002",
+        "xref_name": "astrocyte development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0015872",
+        "xref_name": "dopamine transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016477",
+        "xref_name": "cell migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019226",
+        "xref_name": "transmission of nerve impulse",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019228",
+        "xref_name": "neuronal action potential",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021542",
+        "xref_name": "dentate gyrus development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021756",
+        "xref_name": "striatum development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021766",
+        "xref_name": "hippocampus development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021853",
+        "xref_name": "cerebral cortex GABAergic interneuron migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030335",
+        "xref_name": "positive regulation of cell migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035106",
+        "xref_name": "operant conditioning",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035249",
+        "xref_name": "synaptic transmission, glutamatergic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042311",
+        "xref_name": "vasodilation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042417",
+        "xref_name": "dopamine metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042711",
+        "xref_name": "maternal behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043268",
+        "xref_name": "positive regulation of potassium ion transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043410",
+        "xref_name": "positive regulation of MAPK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046323",
+        "xref_name": "D-glucose import",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046959",
+        "xref_name": "habituation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046960",
+        "xref_name": "sensitization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048148",
+        "xref_name": "behavioral response to cocaine",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051281",
+        "xref_name": "positive regulation of release of sequestered calcium ion into cytosol",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051584",
+        "xref_name": "regulation of dopamine uptake involved in synaptic transmission",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051968",
+        "xref_name": "positive regulation of synaptic transmission, glutamatergic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060134",
+        "xref_name": "prepulse inhibition",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060158",
+        "xref_name": "phospholipase C-activating dopamine receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060291",
+        "xref_name": "long-term synaptic potentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060292",
+        "xref_name": "long-term synaptic depression",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071870",
+        "xref_name": "cellular response to catecholamine stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071880",
+        "xref_name": "adenylate cyclase-activating adrenergic receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0099010",
+        "xref_name": "modification of postsynaptic structure",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0099171",
+        "xref_name": "presynaptic modulation of chemical synaptic transmission",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2001224",
+        "xref_name": "positive regulation of neuron migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:3020",
+        "xref_name": "DRD1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P21728",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000276",
+        "xref_name": "GPCR_Rhodpsn",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000929",
+        "xref_name": "Dopamine_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001413",
+        "xref_name": "Dopamine_D1_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017452",
+        "xref_name": "GPCR_Rhodpsn_7TM",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24248",
+        "xref_name": "ADRENERGIC RECEPTOR-RELATED G-PROTEIN COUPLED RECEPTOR",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR24248:SF139",
+        "xref_name": "D(1A) DOPAMINE RECEPTOR",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "7CKW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7CKX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7CKY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7CKZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7CRH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7F0T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7F1O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7F1Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7F23",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7F24",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7JOZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7JV5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7JVP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7JVQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7LJC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7LJD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7X2C",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7X2D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7X2F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8IRR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8JXR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8JXS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9I52",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9I54",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7JOZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00001",
+        "xref_name": "7tm_1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA147",
+        "xref_name": "dopamine receptor D1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P21728",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-390651",
+        "xref_name": "Dopamine receptors",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-418555",
+        "xref_name": "G alpha (s) signalling events",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B2RA44",
+        "xref_name": "D(1A) dopamine receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P21728",
+        "xref_name": "D(1A) dopamine receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q4QRJ0",
+        "xref_name": "D(1A) dopamine receptor",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2056"
+      },
+      {
+        "target_chembl_id": "CHEMBL2096905"
+      },
+      {
+        "target_chembl_id": "CHEMBL2111341"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

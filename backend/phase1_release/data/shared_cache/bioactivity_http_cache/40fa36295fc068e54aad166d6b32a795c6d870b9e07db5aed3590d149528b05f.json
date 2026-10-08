@@ -1,0 +1,595 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Inhibitor of nuclear factor kappa-B kinase subunit beta",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1991",
+    "target_components": [
+      {
+        "accession": "O14920",
+        "component_description": "Inhibitor of nuclear factor kappa-B kinase subunit beta",
+        "component_id": 321,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.11.1",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "2.7.11.10",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "I-kappa-B kinase 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "I-kappa-B-kinase beta",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IkBKB",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IKBKB",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "IKK-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IKK2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IKK-B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IKKB",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "IKK-beta",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Inhibitor of nuclear factor kappa-B kinase subunit beta",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NFKBIKB",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Nuclear factor NF-kappa-B inhibitor kinase beta",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Serine/threonine protein kinase IKBKB",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "O14920",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "O14920",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0008385",
+            "xref_name": "IkappaB kinase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009898",
+            "xref_name": "cytoplasmic side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035631",
+            "xref_name": "CD40 receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045121",
+            "xref_name": "membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019901",
+            "xref_name": "protein kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046982",
+            "xref_name": "protein heterodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0097110",
+            "xref_name": "scaffold protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990459",
+            "xref_name": "transferrin receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002223",
+            "xref_name": "stimulatory C-type lectin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002479",
+            "xref_name": "antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002755",
+            "xref_name": "MyD88-dependent toll-like receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006468",
+            "xref_name": "protein phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007249",
+            "xref_name": "canonical NF-kappaB signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010604",
+            "xref_name": "positive regulation of macromolecule metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010803",
+            "xref_name": "regulation of tumor necrosis factor-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0018105",
+            "xref_name": "peptidyl-serine phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033209",
+            "xref_name": "tumor necrosis factor-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034121",
+            "xref_name": "regulation of toll-like receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034138",
+            "xref_name": "toll-like receptor 3 signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035666",
+            "xref_name": "TRIF-dependent toll-like receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038095",
+            "xref_name": "Fc-epsilon receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043123",
+            "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045087",
+            "xref_name": "innate immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045893",
+            "xref_name": "positive regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050852",
+            "xref_name": "T cell receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051403",
+            "xref_name": "stress-activated MAPK cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051604",
+            "xref_name": "protein maturation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070498",
+            "xref_name": "interleukin-1-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903140",
+            "xref_name": "regulation of establishment of endothelial barrier",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903347",
+            "xref_name": "negative regulation of bicellular tight junction assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:5960",
+            "xref_name": "IKBKB",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "O14920",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000626",
+            "xref_name": "Ubiquitin-like_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000719",
+            "xref_name": "Prot_kinase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008271",
+            "xref_name": "Ser/Thr_kinase_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011009",
+            "xref_name": "Kinase-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR022007",
+            "xref_name": "IKKbetaNEMObind",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR029071",
+            "xref_name": "Ubiquitin-like_domsf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR041185",
+            "xref_name": "IKBKB_SDD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046375",
+            "xref_name": "IKBKB_SDD_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR051180",
+            "xref_name": "IKK",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR22969",
+            "xref_name": "IKB KINASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR22969:SF7",
+            "xref_name": "INHIBITOR OF NUCLEAR FACTOR KAPPA-B KINASE SUBUNIT BETA",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3BRT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BRV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4E3C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4KIK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8OMV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BRT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3BRV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4E3C",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4KIK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8OMV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00069",
+            "xref_name": "Pkinase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF12179",
+            "xref_name": "IKKbetaNEMObind",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF18397",
+            "xref_name": "IKBKB_SDD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA29776",
+            "xref_name": "inhibitor of nuclear factor kappa B kinase subunit beta",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "O14920",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1169091",
+            "xref_name": "Activation of NF-kappaB in B cells",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1236974",
+            "xref_name": "ER-Phagosome pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-168638",
+            "xref_name": "NOD1/2 Signaling Pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-168927",
+            "xref_name": "TICAM1, RIP1-mediated IKK complex recruitment",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1810476",
+            "xref_name": "RIP-mediated NFkB activation via ZBP1",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-202424",
+            "xref_name": "Downstream TCR signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-209543",
+            "xref_name": "p75NTR recruits signalling complexes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-209560",
+            "xref_name": "NF-kB is activated and signals survival",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2871837",
+            "xref_name": "FCERI mediated NF-kB activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-445989",
+            "xref_name": "TAK1-dependent IKK and NF-kappa-B activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5357905",
+            "xref_name": "Regulation of TNFR1 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5357956",
+            "xref_name": "TNFR1-induced NF-kappa-B signaling pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5602636",
+            "xref_name": "IKBKB deficiency causes SCID",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5603027",
+            "xref_name": "IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5603029",
+            "xref_name": "IkBA variant leads to EDA-ID",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5607764",
+            "xref_name": "CLEC7A (Dectin-1) signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5684264",
+            "xref_name": "MAP3K8 (TPL2)-dependent MAPK1/3 activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9020702",
+            "xref_name": "Interleukin-1 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-933542",
+            "xref_name": "TRAF6 mediated NF-kB activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-933543",
+            "xref_name": "NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-937039",
+            "xref_name": "IRAK1 recruits IKK complex",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-937041",
+            "xref_name": "IKK complex recruitment mediated by RIP1",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9705671",
+            "xref_name": "SARS-CoV-2 activates/modulates innate and adaptive immune responses",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-975144",
+            "xref_name": "IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9758274",
+            "xref_name": "Regulation of NF-kappa B signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9833482",
+            "xref_name": "PKR-mediated signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9860276",
+            "xref_name": "SLC15A4:TASL-dependent IRF5 activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9860927",
+            "xref_name": "Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9909505",
+            "xref_name": "Modulation of host responses by IFN-stimulated genes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B4DZ30",
+            "xref_name": "Inhibitor of nuclear factor kappa-B kinase subunit beta",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4E0U4",
+            "xref_name": "Inhibitor of nuclear factor kappa-B kinase subunit beta",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O14920",
+            "xref_name": "Inhibitor of nuclear factor kappa-B kinase subunit beta",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O75327",
+            "xref_name": "Inhibitor of nuclear factor kappa-B kinase subunit beta",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

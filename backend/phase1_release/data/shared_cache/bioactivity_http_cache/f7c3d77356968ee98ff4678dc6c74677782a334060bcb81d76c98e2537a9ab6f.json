@@ -1,0 +1,365 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Monocarboxylate transporter 1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4360",
+    "target_components": [
+      {
+        "accession": "P53985",
+        "component_description": "Monocarboxylate transporter 1",
+        "component_id": 2677,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "MCT 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MCT1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Monocarboxylate transporter 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "SLC16A1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Solute carrier family 16 member 1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P53985",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P53985",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005813",
+            "xref_name": "centrosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009925",
+            "xref_name": "basal plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016323",
+            "xref_name": "basolateral plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016324",
+            "xref_name": "apical plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016328",
+            "xref_name": "lateral plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030054",
+            "xref_name": "cell junction",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008028",
+            "xref_name": "monocarboxylic acid transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015129",
+            "xref_name": "lactate transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015130",
+            "xref_name": "mevalonate transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015141",
+            "xref_name": "succinate transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015295",
+            "xref_name": "solute:proton symporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015650",
+            "xref_name": "lactate:proton symporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046943",
+            "xref_name": "carboxylic acid transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006629",
+            "xref_name": "lipid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007098",
+            "xref_name": "centrosome cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0015718",
+            "xref_name": "monocarboxylic acid transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0015728",
+            "xref_name": "mevalonate transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035873",
+            "xref_name": "lactate transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035879",
+            "xref_name": "plasma membrane lactate transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042593",
+            "xref_name": "glucose homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042867",
+            "xref_name": "pyruvate catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050796",
+            "xref_name": "regulation of insulin secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051780",
+            "xref_name": "behavioral response to nutrient",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055085",
+            "xref_name": "transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071407",
+            "xref_name": "cellular response to organic cyclic compound",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071422",
+            "xref_name": "succinate transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0150104",
+            "xref_name": "transport across blood-brain barrier",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901475",
+            "xref_name": "pyruvate transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902600",
+            "xref_name": "proton transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905039",
+            "xref_name": "carboxylic acid transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:10922",
+            "xref_name": "SLC16A1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P53985",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR004743",
+            "xref_name": "MCT",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011701",
+            "xref_name": "MFS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020846",
+            "xref_name": "MFS_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036259",
+            "xref_name": "MFS_trans_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050327",
+            "xref_name": "Proton-linked_MCT",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11360",
+            "xref_name": "MONOCARBOXYLATE TRANSPORTER",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11360:SF24",
+            "xref_name": "MONOCARBOXYLATE TRANSPORTER 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "6LYY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6LZ0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7CKO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7CKR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7DA5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7YR5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "PF07690",
+            "xref_name": "MFS_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA35813",
+            "xref_name": "solute carrier family 16 member 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P53985",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-210991",
+            "xref_name": "Basigin interactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-433692",
+            "xref_name": "Proton-coupled monocarboxylate transport",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5619070",
+            "xref_name": "Defective SLC16A1 causes symptomatic deficiency in lactate transport (SDLT)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9749641",
+            "xref_name": "Aspirin ADME",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P53985",
+            "xref_name": "Monocarboxylate transporter 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q49A45",
+            "xref_name": "Monocarboxylate transporter 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5T8R6",
+            "xref_name": "Monocarboxylate transporter 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NSJ9",
+            "xref_name": "Monocarboxylate transporter 1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

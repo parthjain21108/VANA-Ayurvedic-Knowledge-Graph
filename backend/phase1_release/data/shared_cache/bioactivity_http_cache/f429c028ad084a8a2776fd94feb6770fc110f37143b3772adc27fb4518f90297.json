@@ -1,0 +1,334 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Tyrosine-protein phosphatase non-receptor type 12",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3236",
+    "target_components": [
+      {
+        "accession": "Q05209",
+        "component_description": "Tyrosine-protein phosphatase non-receptor type 12",
+        "component_id": 5786,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.1.3.48",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Protein-tyrosine phosphatase G1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PTPG1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PTPN12",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "PTP-PEST",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tyrosine-protein phosphatase non-receptor type 12",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q05209",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q05209",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005925",
+            "xref_name": "focal adhesion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070161",
+            "xref_name": "anchoring junction",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004721",
+            "xref_name": "phosphoprotein phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004725",
+            "xref_name": "protein tyrosine phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004726",
+            "xref_name": "non-membrane spanning protein tyrosine phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0017124",
+            "xref_name": "SH3 domain binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030946",
+            "xref_name": "protein tyrosine phosphatase activity, metal-dependent",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140793",
+            "xref_name": "histone H2AXY142 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006470",
+            "xref_name": "protein dephosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035335",
+            "xref_name": "peptidyl-tyrosine dephosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042058",
+            "xref_name": "regulation of epidermal growth factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042246",
+            "xref_name": "tissue regeneration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901185",
+            "xref_name": "negative regulation of ERBB signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000587",
+            "xref_name": "negative regulation of platelet-derived growth factor receptor-beta signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9645",
+            "xref_name": "PTPN12",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q05209",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000242",
+            "xref_name": "PTP_cat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000387",
+            "xref_name": "Tyr_Pase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003595",
+            "xref_name": "Tyr_Pase_cat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012266",
+            "xref_name": "PTN12",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016130",
+            "xref_name": "Tyr_Pase_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR029021",
+            "xref_name": "Prot-tyrosine_phosphatase-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047170",
+            "xref_name": "PTN12/18/22",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047251",
+            "xref_name": "PTN12_cat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR45983",
+            "xref_name": "TYROSINE PHOSPHATSE N18, PUTATIVE-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR45983:SF3",
+            "xref_name": "TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 12",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "5HDE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5J8R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5O2P",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5HDE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5J8R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00102",
+            "xref_name": "Y_phosphatase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA33987",
+            "xref_name": "protein tyrosine phosphatase non-receptor type 12",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q05209",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1250196",
+            "xref_name": "SHC1 events in ERBB2 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-182971",
+            "xref_name": "EGFR downregulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-186797",
+            "xref_name": "Signaling by PDGF",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8863795",
+            "xref_name": "Downregulation of ERBB2 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9008059",
+            "xref_name": "Interleukin-37 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9634285",
+            "xref_name": "Constitutive Signaling by Overexpressed ERBB2",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A4D1C5",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 12",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4DKY2",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 12",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "E9PBR5",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 12",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "E9PEH9",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 12",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q05209",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 12",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16130",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 12",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q59FD6",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 12",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q75MN8",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 12",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86XU4",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 12",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

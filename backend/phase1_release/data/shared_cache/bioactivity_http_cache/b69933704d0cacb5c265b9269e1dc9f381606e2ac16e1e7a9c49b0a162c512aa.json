@@ -1,0 +1,357 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "MAP/microtubule affinity-regulating kinase 4",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5754",
+    "target_components": [
+      {
+        "accession": "Q96L34",
+        "component_description": "MAP/microtubule affinity-regulating kinase 4",
+        "component_id": 4138,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.11.1",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "KIAA1860",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "MAP/microtubule affinity-regulating kinase 4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MAP/microtubule affinity-regulating kinase-like 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MARK4",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "MARKL1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "MARKL1 GN  ",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Synonyms=KIAA1860",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q96L34",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q96L34",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000930",
+            "xref_name": "gamma-tubulin complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005813",
+            "xref_name": "centrosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005815",
+            "xref_name": "microtubule organizing center",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005856",
+            "xref_name": "cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0015630",
+            "xref_name": "microtubule cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030496",
+            "xref_name": "midbody",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0036064",
+            "xref_name": "ciliary basal body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008017",
+            "xref_name": "microtubule binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008093",
+            "xref_name": "cytoskeletal anchor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043015",
+            "xref_name": "gamma-tubulin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043130",
+            "xref_name": "ubiquitin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0048156",
+            "xref_name": "tau protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000226",
+            "xref_name": "microtubule cytoskeleton organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001578",
+            "xref_name": "microtubule bundle formation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006468",
+            "xref_name": "protein phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007399",
+            "xref_name": "nervous system development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035556",
+            "xref_name": "intracellular signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043068",
+            "xref_name": "positive regulation of programmed cell death",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045724",
+            "xref_name": "positive regulation of cilium assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045787",
+            "xref_name": "positive regulation of cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046605",
+            "xref_name": "regulation of centrosome cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051301",
+            "xref_name": "cell division",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900227",
+            "xref_name": "positive regulation of NLRP3 inflammasome complex assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904781",
+            "xref_name": "positive regulation of protein localization to centrosome",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:13538",
+            "xref_name": "MARK4",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q96L34",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000719",
+            "xref_name": "Prot_kinase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001772",
+            "xref_name": "KA1_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008271",
+            "xref_name": "Ser/Thr_kinase_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011009",
+            "xref_name": "Kinase-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR015940",
+            "xref_name": "UBA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017441",
+            "xref_name": "Protein_kinase_ATP_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR028375",
+            "xref_name": "KA1/Ssp2_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR049508",
+            "xref_name": "MARK1-4_cat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24346",
+            "xref_name": "MAP/MICROTUBULE AFFINITY-REGULATING KINASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24346:SF28",
+            "xref_name": "MAP_MICROTUBULE AFFINITY-REGULATING KINASE 4",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "5ES1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8XFL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ES1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8XFL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00069",
+            "xref_name": "Pkinase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00627",
+            "xref_name": "UBA",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02149",
+            "xref_name": "KA1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA30641",
+            "xref_name": "microtubule affinity regulating kinase 4",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q96L34",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-5620912",
+            "xref_name": "Anchoring of the basal body to the plasma membrane",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q8NG37",
+            "xref_name": "MAP/microtubule affinity-regulating kinase 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96JG7",
+            "xref_name": "MAP/microtubule affinity-regulating kinase 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96L34",
+            "xref_name": "MAP/microtubule affinity-regulating kinase 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96SQ2",
+            "xref_name": "MAP/microtubule affinity-regulating kinase 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9BYD8",
+            "xref_name": "MAP/microtubule affinity-regulating kinase 4",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

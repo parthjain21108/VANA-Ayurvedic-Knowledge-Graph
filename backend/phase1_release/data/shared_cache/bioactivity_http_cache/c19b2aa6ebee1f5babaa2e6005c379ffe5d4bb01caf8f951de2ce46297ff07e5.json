@@ -1,0 +1,862 @@
+{
+  "data": {
+    "accession": "P29350",
+    "component_id": 1491,
+    "component_type": "PROTEIN",
+    "description": "Tyrosine-protein phosphatase non-receptor type 6",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005576"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005730"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0007049"
+      },
+      {
+        "go_id": "GO:0007155"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0008283"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0016791"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0019904"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0048646"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0051219"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 156
+      }
+    ],
+    "sequence": "MVRWFHRDLSGLDAETLLKGRGVHGSFLARPSRKNQGDFSLSVRVGDQVTHIRIQNSGDFYDLYGGEKFATLTELVEYYTQQQGVLQDRDGTIIHLKYPLNCSDPTSERWYHGHMSGGQAETLLQAKGEPWTFLVRESLSQPGDFVLSVLSDQPKAGPGSPLRVTHIKVMCEGGRYTVGGLETFDSLTDLVEHFKKTGIEEASGAFVYLRQPYYATRVNAADIENRVLELNKKQESEDTAKAGFWEEFESLQKQEVKNLHQRLEGQRPENKGKNRYKNILPFDHSRVILQGRDSNIPGSDYINANYIKNQLLGPDENAKTYIASQGCLEATVNDFWQMAWQENSRVIVMTTREVEKGRNKCVPYWPEVGMQRAYGPYSVTNCGEHDTTEYKLRTLQVSPLDNGDLIREIWHYQYLSWPDHGVPSEPGGVLSFLDQINQRQESLPHAGPIIVHCSAGIGRTGTIIVIDMLMENISTKGLDCDIDIQKTIQMVRAQRSGMVQTEAQYKFIYVAIAQFIETTKKKLEVLQSQKGQESEYGNITYPPAMKNAHAKASRTSSKHKEDVYENLHTKNKREEKVKKQRSADKEKSKGSLKRK",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.1.3.48",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "HCP",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Hematopoietic cell protein-tyrosine phosphatase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Protein-tyrosine phosphatase 1C",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Protein-tyrosine phosphatase SHP-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PTP-1C",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PTP1C",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "PTPN6",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "SH-PTP1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Tyrosine-protein phosphatase non-receptor type 6",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P29350",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P29350",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005576",
+        "xref_name": "extracellular region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005730",
+        "xref_name": "nucleolus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005911",
+        "xref_name": "cell-cell junction",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032991",
+        "xref_name": "protein-containing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0035580",
+        "xref_name": "specific granule lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042105",
+        "xref_name": "alpha-beta T cell receptor complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:1904724",
+        "xref_name": "tertiary granule lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0001784",
+        "xref_name": "phosphotyrosine residue binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004721",
+        "xref_name": "phosphoprotein phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004725",
+        "xref_name": "protein tyrosine phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004726",
+        "xref_name": "non-membrane spanning protein tyrosine phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005001",
+        "xref_name": "transmembrane receptor protein tyrosine phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0017124",
+        "xref_name": "SH3 domain binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019901",
+        "xref_name": "protein kinase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030946",
+        "xref_name": "protein tyrosine phosphatase activity, metal-dependent",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042169",
+        "xref_name": "SH2 domain binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0050839",
+        "xref_name": "cell adhesion molecule binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140031",
+        "xref_name": "phosphorylation-dependent protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140793",
+        "xref_name": "histone H2AXY142 phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000165",
+        "xref_name": "MAPK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0000278",
+        "xref_name": "mitotic cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002244",
+        "xref_name": "hematopoietic progenitor cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002924",
+        "xref_name": "negative regulation of humoral immune response mediated by circulating immunoglobulin",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006470",
+        "xref_name": "protein dephosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007186",
+        "xref_name": "G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008284",
+        "xref_name": "positive regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008285",
+        "xref_name": "negative regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016525",
+        "xref_name": "negative regulation of angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0018108",
+        "xref_name": "peptidyl-tyrosine phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019221",
+        "xref_name": "cytokine-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030154",
+        "xref_name": "cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030220",
+        "xref_name": "platelet formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031295",
+        "xref_name": "T cell costimulation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031665",
+        "xref_name": "negative regulation of lipopolysaccharide-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032715",
+        "xref_name": "negative regulation of interleukin-6 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032720",
+        "xref_name": "negative regulation of tumor necrosis factor production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0033007",
+        "xref_name": "negative regulation of mast cell activation involved in immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0033630",
+        "xref_name": "positive regulation of cell adhesion mediated by integrin",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035335",
+        "xref_name": "peptidyl-tyrosine dephosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035556",
+        "xref_name": "intracellular signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035855",
+        "xref_name": "megakaryocyte development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042098",
+        "xref_name": "T cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042110",
+        "xref_name": "T cell activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042130",
+        "xref_name": "negative regulation of T cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042267",
+        "xref_name": "natural killer cell mediated cytotoxicity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042981",
+        "xref_name": "regulation of apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043409",
+        "xref_name": "negative regulation of MAPK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045577",
+        "xref_name": "regulation of B cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045824",
+        "xref_name": "negative regulation of innate immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050732",
+        "xref_name": "negative regulation of peptidyl-tyrosine phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050852",
+        "xref_name": "T cell receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050853",
+        "xref_name": "B cell receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050859",
+        "xref_name": "negative regulation of B cell receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050860",
+        "xref_name": "negative regulation of T cell receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051279",
+        "xref_name": "regulation of release of sequestered calcium ion into cytosol",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051897",
+        "xref_name": "positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060338",
+        "xref_name": "regulation of type I interferon-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070372",
+        "xref_name": "regulation of ERK1 and ERK2 cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070527",
+        "xref_name": "platelet aggregation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0106015",
+        "xref_name": "negative regulation of inflammatory response to wounding",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0160162",
+        "xref_name": "CD27 signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902564",
+        "xref_name": "negative regulation of neutrophil activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1905867",
+        "xref_name": "epididymis development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000045",
+        "xref_name": "regulation of G1/S transition of mitotic cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:9658",
+        "xref_name": "PTPN6",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P29350",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000242",
+        "xref_name": "PTP_cat",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000387",
+        "xref_name": "Tyr_Pase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000980",
+        "xref_name": "SH2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003595",
+        "xref_name": "Tyr_Pase_cat",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR012152",
+        "xref_name": "Tyr_Pase_non-rcpt_typ-6/11",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016130",
+        "xref_name": "Tyr_Pase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029021",
+        "xref_name": "Prot-tyrosine_phosphatase-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036860",
+        "xref_name": "SH2_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR052123",
+        "xref_name": "Non-rcpt_Tyr_Phosphatase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR46257",
+        "xref_name": "TYROSINE-PROTEIN PHOSPHATASE CORKSCREW",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR46257:SF4",
+        "xref_name": "TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 6",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1FPR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1GWZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1X6C",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2B3O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2RMX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2YU7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3PS5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4GRY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4GRZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4GS0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4HJP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4HJQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6SM5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8YHI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1FPR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1GWZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2B3O",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3PS5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4GRY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4GRZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4GS0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4HJP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4HJQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6SM5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8YHI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00017",
+        "xref_name": "SH2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00102",
+        "xref_name": "Y_phosphatase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA34002",
+        "xref_name": "protein tyrosine phosphatase non-receptor type 6",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P29350",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-114604",
+        "xref_name": "GPVI-mediated activation cascade",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-1433559",
+        "xref_name": "Regulation of KIT signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-201556",
+        "xref_name": "Signaling by ALK",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-210990",
+        "xref_name": "PECAM1 interactions",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-389948",
+        "xref_name": "Co-inhibition by PD-1",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-391160",
+        "xref_name": "Signal regulatory protein family interactions",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-432142",
+        "xref_name": "Platelet sensitization by LDL",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-512988",
+        "xref_name": "Interleukin-3, Interleukin-5 and GM-CSF signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5690714",
+        "xref_name": "CD22 mediated BCR regulation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6798695",
+        "xref_name": "Neutrophil degranulation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-877300",
+        "xref_name": "Interferon gamma signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-877312",
+        "xref_name": "Regulation of IFNG signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9008059",
+        "xref_name": "Interleukin-37 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-909733",
+        "xref_name": "Interferon alpha/beta signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-912526",
+        "xref_name": "Interleukin receptor SHC signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-912694",
+        "xref_name": "Regulation of IFNA/IFNB signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9705671",
+        "xref_name": "SARS-CoV-2 activates/modulates innate and adaptive immune responses",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9725371",
+        "xref_name": "Nuclear events stimulated by ALK signaling in cancer",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-982772",
+        "xref_name": "Growth hormone receptor signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-983695",
+        "xref_name": "Antigen activates B Cell Receptor (BCR) leading to generation of second messengers",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9927353",
+        "xref_name": "Co-inhibition by BTLA",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A8K306",
+        "xref_name": "Tyrosine-protein phosphatase non-receptor type 6",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "G3V0F8",
+        "xref_name": "Tyrosine-protein phosphatase non-receptor type 6",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P29350",
+        "xref_name": "Tyrosine-protein phosphatase non-receptor type 6",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q969V8",
+        "xref_name": "Tyrosine-protein phosphatase non-receptor type 6",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UK67",
+        "xref_name": "Tyrosine-protein phosphatase non-receptor type 6",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3166"
+      },
+      {
+        "target_chembl_id": "CHEMBL6066056"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

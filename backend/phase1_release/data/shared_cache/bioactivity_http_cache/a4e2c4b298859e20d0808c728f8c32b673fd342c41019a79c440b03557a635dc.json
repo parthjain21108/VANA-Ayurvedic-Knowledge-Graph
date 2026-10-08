@@ -1,0 +1,171 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Escherichia coli O157:H7",
+    "pref_name": "Shiga toxin",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2095183",
+    "target_components": [
+      {
+        "accession": "Q7WZI6",
+        "component_description": "Shiga toxin subunit B",
+        "component_id": 5198,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Shiga toxin subunit B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "stx1",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q7WZI6",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0090729",
+            "xref_name": "toxin activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019836",
+            "xref_name": "hemolysis by symbiont of host erythrocytes",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR003189",
+            "xref_name": "SLT_beta",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008992",
+            "xref_name": "Enterotoxin",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PF02258",
+            "xref_name": "SLT_beta",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "Q7WZI6",
+            "xref_name": "Shiga toxin subunit B",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      },
+      {
+        "accession": "Q7WZI7",
+        "component_description": "rRNA N-glycosylase",
+        "component_id": 5199,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.2.2.22",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "rRNA N-glycosylase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "stx1",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q7WZI7",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0016787",
+            "xref_name": "hydrolase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030598",
+            "xref_name": "rRNA N-glycosylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0090729",
+            "xref_name": "toxin activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0017148",
+            "xref_name": "negative regulation of translation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR001574",
+            "xref_name": "Ribosome_inactivat_prot",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016138",
+            "xref_name": "Ribosome_inactivat_prot_sub1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016139",
+            "xref_name": "Ribosome_inactivat_prot_sub2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016331",
+            "xref_name": "Shiga-like_toxin_subunit_A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017988",
+            "xref_name": "Ribosome_inactivat_prot_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036041",
+            "xref_name": "Ribosome-inact_prot_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR33453",
+            "xref_name": "-",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR33453:SF34",
+            "xref_name": "RIBOSOME-INACTIVATING PROTEIN",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00161",
+            "xref_name": "RIP",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "Q7WZI7",
+            "xref_name": "rRNA N-glycosylase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "PROTEIN COMPLEX",
+    "tax_id": 83334
+  },
+  "ok": true
+}

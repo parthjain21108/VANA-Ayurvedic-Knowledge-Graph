@@ -1,0 +1,370 @@
+{
+  "data": {
+    "accession": "O94782",
+    "component_id": 5051,
+    "component_type": "PROTEIN",
+    "description": "Ubiquitin carboxyl-terminal hydrolase 1",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008233"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 74
+      }
+    ],
+    "sequence": "MPGVIPSESNGLSRGSPSKKNRLSLKFFQKKETKRALDFTDSQENEEKASEYRASEIDQVVPAAQSSPINCEKRENLLPFVGLNNLGNTCYLNSILQVLYFCPGFKSGVKHLFNIISRKKEALKDEANQKDKGNCKEDSLASYELICSLQSLIISVEQLQASFLLNPEKYTDELATQPRRLLNTLRELNPMYEGYLQHDAQEVLQCILGNIQETCQLLKKEEVKNVAELPTKVEEIPHPKEEMNGINSIEMDSMRHSEDFKEKLPKGNGKRKSDTEFGNMKKKVKLSKEHQSLEENQRQTRSKRKATSDTLESPPKIIPKYISENESPRPSQKKSRVKINWLKSATKQPSILSKFCSLGKITTNQGVKGQSKENECDPEEDLGKCESDNTTNGCGLESPGNTVTPVNVNEVKPINKGEEQIGFELVEKLFQGQLVLRTRCLECESLTERREDFQDISVPVQEDELSKVEESSEISPEPKTEMKTLRWAISQFASVERIVGEDKYFCENCHHYTEAERSLLFDKMPEVITIHLKCFAASGLEFDCYGGGLSKINTPLLTPLKLSLEEWSTKPTNDSYGLFAVVMHSGITISSGHYTASVKVTDLNSLELDKGNFVVDQMCEIGKPEPLNEEEARGVVENYNDEEVSIRVGGNTQPSKVLNKKNVEAIGLLGGQKSKADYELYNKASNPDKVASTAFAENRNSETSDTTGTHESDRNKESSDQTGINISGFENKISYVVQSLKEYEGKWLLFDDSEVKVTEEKDFLNSLSPSTSPTSTPYLLFYKKL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.4.19.12",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Deubiquitinating enzyme 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "hUBP",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Ubiquitin carboxyl-terminal hydrolase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Ubiquitin carboxyl-terminal hydrolase 1, N-terminal fragment",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Ubiquitin-specific-processing protease 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Ubiquitin thioesterase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "USP1",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "O94782",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "O94782",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004197",
+        "xref_name": "cysteine-type endopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004843",
+        "xref_name": "cysteine-type deubiquitinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008233",
+        "xref_name": "peptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008234",
+        "xref_name": "cysteine-type peptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001501",
+        "xref_name": "skeletal system development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006281",
+        "xref_name": "DNA repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006282",
+        "xref_name": "regulation of DNA repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006508",
+        "xref_name": "proteolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031647",
+        "xref_name": "regulation of protein stability",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046427",
+        "xref_name": "positive regulation of receptor signaling pathway via JAK-STAT",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904333",
+        "xref_name": "positive regulation of error-prone translesion synthesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:12607",
+        "xref_name": "USP1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "O94782",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001394",
+        "xref_name": "Peptidase_C19_UCH",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018200",
+        "xref_name": "USP_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR028889",
+        "xref_name": "USP",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR033815",
+        "xref_name": "USP1",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR038765",
+        "xref_name": "Papain-like_cys_pep_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050164",
+        "xref_name": "Peptidase_C19",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24006",
+        "xref_name": "UBIQUITIN CARBOXYL-TERMINAL HYDROLASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR24006:SF905",
+        "xref_name": "UBIQUITIN CARBOXYL-TERMINAL HYDROLASE 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "6DO5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7AY0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7AY1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7AY2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7ZH3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7ZH4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8A9J",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8A9K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9EBS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FCI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FCJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9HNW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9N9Y",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6DO5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7AY0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7AY2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9N9Y",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00443",
+        "xref_name": "UCH",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA37233",
+        "xref_name": "ubiquitin specific peptidase 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "O94782",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-110314",
+        "xref_name": "Recognition of DNA damage by PCNA-containing replication complex",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6783310",
+        "xref_name": "Fanconi Anemia Pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A0PJ95",
+        "xref_name": "Ubiquitin carboxyl-terminal hydrolase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "D3DQ57",
+        "xref_name": "Ubiquitin carboxyl-terminal hydrolase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O94782",
+        "xref_name": "Ubiquitin carboxyl-terminal hydrolase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q05BX7",
+        "xref_name": "Ubiquitin carboxyl-terminal hydrolase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q59H66",
+        "xref_name": "Ubiquitin carboxyl-terminal hydrolase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UFR0",
+        "xref_name": "Ubiquitin carboxyl-terminal hydrolase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UNJ3",
+        "xref_name": "Ubiquitin carboxyl-terminal hydrolase 1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1795087"
+      },
+      {
+        "target_chembl_id": "CHEMBL3430885"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

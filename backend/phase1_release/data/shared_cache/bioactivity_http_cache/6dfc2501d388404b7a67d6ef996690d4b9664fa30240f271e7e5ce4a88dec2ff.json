@@ -1,0 +1,522 @@
+{
+  "data": {
+    "accession": "Q8WUI4",
+    "component_id": 1052,
+    "component_type": "PROTEIN",
+    "description": "Histone deacetylase 7",
+    "go_slims": [
+      {
+        "go_id": "GO:0003682"
+      },
+      {
+        "go_id": "GO:0003824"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0008134"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016746"
+      },
+      {
+        "go_id": "GO:0016787"
+      },
+      {
+        "go_id": "GO:0016810"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0022607"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0030674"
+      },
+      {
+        "go_id": "GO:0034330"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 842
+      }
+    ],
+    "sequence": "MDLRVGQRPPVEPPPEPTLLALQRPQRLHHHLFLAGLQQQRSVEPMRLSMDTPMPELQVGPQEQELRQLLHKDKSKRSAVASSVVKQKLAEVILKKQQAALERTVHPNSPGIPYRTLEPLETEGATRSMLSSFLPPVPSLPSDPPEHFPLRKTVSEPNLKLRYKPKKSLERRKNPLLRKESAPPSLRRRPAETLGDSSPSSSSTPASGCSSPNDSEHGPNPILGSEALLGQRLRLQETSVAPFALPTVSLLPAITLGLPAPARADSDRRTHPTLGPRGPILGSPHTPLFLPHGLEPEAGGTLPSRLQPILLLDPSGSHAPLLTVPGLGPLPFHFAQSLMTTERLSGSGLHWPLSRTRSEPLPPSATAPPPPGPMQPRLEQLKTHVQVIKRSAKPSEKPRLRQIPSAEDLETDGGGPGQVVDDGLEHRELGHGQPEARGPAPLQQHPQVLLWEQQRLAGRLPRGSTGDTVLLPLAQGGHRPLSRAQSSPAAPASLSAPEPASQARVLSSSETPARTLPFTTGLIYDSVMLKHQCSCGDNSRHPEHAGRIQSIWSRLQERGLRSQCECLRGRKASLEELQSVHSERHVLLYGTNPLSRLKLDNGKLAGLLAQRMFVMLPCGGVGVDTDTIWNELHSSNAARWAAGSVTDLAFKVASRELKNGFAVVRPPGHHADHSTAMGFCFFNSVAIACRQLQQQSKASKILIVDWDVHHGNGTQQTFYQDPSVLYISLHRHDDGNFFPGSGAVDEVGAGSGEGFNVNVAWAGGLDPPMGDPEYLAAFRIVVMPIAREFSPDLVLVSAGFDAAEGHPAPLGGYHVSAKCFGYMTQQLMNLAGGAVVLALEGGHDLTAICDASEACVAALLGNRVDPLSEEGWKQKPNLNAIRSLEAVIRVHSKYWGCMQRLASCPDSWVPRVPGADKEEVEAVTALASLSVGILAEDRPSEQLVEEEEPMNL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.5.1.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "3.5.1.98",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "HD7",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "HD7a",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "HDAC7",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "HDAC7A",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Histone deacetylase 7",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Histone deacetylase 7A",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Protein deacetylase HDAC7",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q8WUI4",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q8WUI4",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003682",
+        "xref_name": "chromatin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003714",
+        "xref_name": "transcription corepressor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004407",
+        "xref_name": "histone deacetylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005080",
+        "xref_name": "protein kinase C binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016787",
+        "xref_name": "hydrolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019789",
+        "xref_name": "SUMO transferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019901",
+        "xref_name": "protein kinase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031078",
+        "xref_name": "histone H3K14 deacetylase activity, hydrolytic mechanism",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0032129",
+        "xref_name": "histone H3K9 deacetylase activity, hydrolytic mechanism",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0033558",
+        "xref_name": "protein lysine deacetylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0034739",
+        "xref_name": "histone H4K16 deacetylase activity, hydrolytic mechanism",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042903",
+        "xref_name": "tubulin deacetylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0071889",
+        "xref_name": "14-3-3 protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140297",
+        "xref_name": "DNA-binding transcription factor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140937",
+        "xref_name": "histone H4K12 deacetylase activity, hydrolytic mechanism",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0180032",
+        "xref_name": "histone H4K5 deacetylase activity, hydrolytic mechanism",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0180033",
+        "xref_name": "histone H4K8 deacetylase activity, hydrolytic mechanism",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990162",
+        "xref_name": "histone H3K4 deacetylase activity, hydrolytic mechanism",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000122",
+        "xref_name": "negative regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001570",
+        "xref_name": "vasculogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007043",
+        "xref_name": "cell-cell junction assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032703",
+        "xref_name": "negative regulation of interleukin-2 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045668",
+        "xref_name": "negative regulation of osteoblast differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045892",
+        "xref_name": "negative regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090050",
+        "xref_name": "positive regulation of cell migration involved in sprouting angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1901223",
+        "xref_name": "negative regulation of non-canonical NF-kappaB signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:14067",
+        "xref_name": "HDAC7",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q8WUI4",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000286",
+        "xref_name": "HDACs",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023696",
+        "xref_name": "Ureohydrolase_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023801",
+        "xref_name": "His_deacetylse_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR037138",
+        "xref_name": "His_deacetylse_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR046949",
+        "xref_name": "HDAC4/5/7/9",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR10625",
+        "xref_name": "HISTONE DEACETYLASE HDAC1-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR10625:SF42",
+        "xref_name": "HISTONE DEACETYLASE 7",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3C0Y",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3C0Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3C10",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3ZNR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3ZNS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q9Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3C0Y",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3C0Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3C10",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3ZNR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3ZNS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8Q9Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00850",
+        "xref_name": "Hist_deacetyl",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA162390579",
+        "xref_name": "histone deacetylase 7",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q8WUI4",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-2122947",
+        "xref_name": "NOTCH1 Intracellular Domain Regulates Transcription",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2644606",
+        "xref_name": "Constitutive Signaling by NOTCH1 PEST Domain Mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2894862",
+        "xref_name": "Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-3108214",
+        "xref_name": "SUMOylation of DNA damage response and repair proteins",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-350054",
+        "xref_name": "Notch-HLH transcription pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8943724",
+        "xref_name": "Regulation of PTEN gene transcription",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B3KY08",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B4DWI0",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B4E0Q5",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6P1W9",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6W9G7",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q7Z4K2",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q7Z5I1",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WUI4",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96K01",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9BR73",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9H7L0",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9NW41",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9NWA9",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9NYK9",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UFU7",
+        "xref_name": "Histone deacetylase 7",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2716"
+      },
+      {
+        "target_chembl_id": "CHEMBL2093865"
+      },
+      {
+        "target_chembl_id": "CHEMBL4630738"
+      },
+      {
+        "target_chembl_id": "CHEMBL6193803"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

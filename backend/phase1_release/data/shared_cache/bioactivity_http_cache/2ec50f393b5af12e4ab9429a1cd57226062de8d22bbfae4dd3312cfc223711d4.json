@@ -1,0 +1,895 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Isocitrate dehydrogenase [NADP] cytoplasmic",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2007625",
+    "target_components": [
+      {
+        "accession": "O75874",
+        "component_description": "Isocitrate dehydrogenase [NADP] cytoplasmic",
+        "component_id": 5796,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.1.1.42",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Cytosolic NADP-isocitrate dehydrogenase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IDH",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IDH1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "IDH1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IDPc",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Isocitrate dehydrogenase [NADP] cytoplasmic",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NADP(+)-specific ICDH",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Oxalosuccinate decarboxylase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PICD",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "O75874",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "O75874",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005777",
+            "xref_name": "peroxisome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005782",
+            "xref_name": "peroxisomal matrix",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034774",
+            "xref_name": "secretory granule lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1904724",
+            "xref_name": "tertiary granule lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1904813",
+            "xref_name": "ficolin-1-rich granule lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000287",
+            "xref_name": "magnesium ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004450",
+            "xref_name": "isocitrate dehydrogenase (NADP+) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0045296",
+            "xref_name": "cadherin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050661",
+            "xref_name": "NADP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051287",
+            "xref_name": "NAD binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006097",
+            "xref_name": "glyoxylate cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006099",
+            "xref_name": "tricarboxylic acid cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006102",
+            "xref_name": "isocitrate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006103",
+            "xref_name": "2-oxoglutarate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006739",
+            "xref_name": "NADP metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006749",
+            "xref_name": "glutathione metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006979",
+            "xref_name": "response to oxidative stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008585",
+            "xref_name": "female gonad development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:5382",
+            "xref_name": "IDH1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "O75874",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR004790",
+            "xref_name": "Isocitrate_DH_NADP",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR019818",
+            "xref_name": "IsoCit/isopropylmalate_DH_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR024084",
+            "xref_name": "IsoPropMal-DH-like_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11822",
+            "xref_name": "NADP-SPECIFIC ISOCITRATE DEHYDROGENASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11822:SF28",
+            "xref_name": "ISOCITRATE DEHYDROGENASE [NADP] CYTOPLASMIC",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1T09",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1T0L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3INM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3MAP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3MAR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3MAS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4I3K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4I3L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4KZO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4L03",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4L04",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4L06",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4UMX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4UMY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4XRX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4XS3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5DE1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5GIR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5K10",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5K11",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5L57",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5L58",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5LGE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5SUN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5SVF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5TQH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5YFM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5YFN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ADG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6B0Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BKX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BKY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BKZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BL0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BL1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BL2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6IO0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6O2Y",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6O2Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6PAY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6Q6F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6U4J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6VEI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6VG0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7PJM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7PJN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BAY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8HB9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8T7D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8T7N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8T7O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VH9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VHA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VHB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VHC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VHD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VHE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9B81",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1T09",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1T0L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3INM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3MAP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3MAR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3MAS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4I3K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4I3L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4KZO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4L03",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4L04",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4L06",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4UMX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4UMY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4XRX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4XS3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5DE1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5GIR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5L57",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5L58",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5LGE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5SUN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5SVF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5TQH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5YFM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5YFN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6ADG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6B0Z",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BKX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BKY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BKZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BL0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BL1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BL2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6IO0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6O2Y",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6O2Z",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6PAY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6Q6F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6U4J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6VEI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6VG0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7PJM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7PJN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8BAY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8HB9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8T7D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8T7N",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8T7O",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8VH9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8VHA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8VHB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8VHC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8VHD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8VHE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9B81",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00180",
+            "xref_name": "Iso_dh",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA29630",
+            "xref_name": "isocitrate dehydrogenase (NADP(+)) 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "O75874",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-2978092",
+            "xref_name": "Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-389542",
+            "xref_name": "NADPH regeneration",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6798695",
+            "xref_name": "Neutrophil degranulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9033241",
+            "xref_name": "Peroxisomal protein import",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9818025",
+            "xref_name": "NFE2L2 regulating TCA cycle genes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "O75874",
+            "xref_name": "Isocitrate dehydrogenase [NADP] cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q567U4",
+            "xref_name": "Isocitrate dehydrogenase [NADP] cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6FHQ6",
+            "xref_name": "Isocitrate dehydrogenase [NADP] cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q7Z3V0",
+            "xref_name": "Isocitrate dehydrogenase [NADP] cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q93090",
+            "xref_name": "Isocitrate dehydrogenase [NADP] cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NTJ9",
+            "xref_name": "Isocitrate dehydrogenase [NADP] cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UKW8",
+            "xref_name": "Isocitrate dehydrogenase [NADP] cytoplasmic",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

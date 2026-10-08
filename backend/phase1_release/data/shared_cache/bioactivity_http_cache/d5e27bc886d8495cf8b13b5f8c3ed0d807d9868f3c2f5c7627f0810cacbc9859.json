@@ -1,0 +1,1302 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Tyrosine-protein kinase Fyn",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1841",
+    "target_components": [
+      {
+        "accession": "P06241",
+        "component_description": "Tyrosine-protein kinase Fyn",
+        "component_id": 141,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.10.2",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "FYN",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "p59-Fyn",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Proto-oncogene c-Fyn",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Proto-oncogene Syn",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "SLK",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Src-like kinase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tyrosine-protein kinase Fyn",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P06241",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P06241",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005768",
+            "xref_name": "endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005884",
+            "xref_name": "actin filament",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0014069",
+            "xref_name": "postsynaptic density",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043204",
+            "xref_name": "perikaryon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0044297",
+            "xref_name": "cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045121",
+            "xref_name": "membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048471",
+            "xref_name": "perinuclear region of cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0071944",
+            "xref_name": "cell periphery",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097038",
+            "xref_name": "perinuclear endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097386",
+            "xref_name": "glial cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098685",
+            "xref_name": "Schaffer collateral - CA1 synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001664",
+            "xref_name": "G protein-coupled receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005102",
+            "xref_name": "signaling receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015631",
+            "xref_name": "tubulin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016004",
+            "xref_name": "phospholipase activator activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019899",
+            "xref_name": "enzyme binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031802",
+            "xref_name": "type 5 metabotropic glutamate receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043014",
+            "xref_name": "alpha-tubulin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043274",
+            "xref_name": "phospholipase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044325",
+            "xref_name": "transmembrane transporter binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046875",
+            "xref_name": "ephrin receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0048156",
+            "xref_name": "tau protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070851",
+            "xref_name": "growth factor receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0097110",
+            "xref_name": "scaffold protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0097718",
+            "xref_name": "disordered domain specific binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000304",
+            "xref_name": "response to singlet oxygen",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001764",
+            "xref_name": "neuron migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002223",
+            "xref_name": "stimulatory C-type lectin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002250",
+            "xref_name": "adaptive immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002862",
+            "xref_name": "negative regulation of inflammatory response to antigenic stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0003015",
+            "xref_name": "heart process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006468",
+            "xref_name": "protein phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006816",
+            "xref_name": "calcium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007166",
+            "xref_name": "cell surface receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007169",
+            "xref_name": "cell surface receptor protein tyrosine kinase signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007216",
+            "xref_name": "G protein-coupled glutamate receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007612",
+            "xref_name": "learning",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007631",
+            "xref_name": "feeding behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008360",
+            "xref_name": "regulation of cell shape",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010629",
+            "xref_name": "negative regulation of gene expression",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010730",
+            "xref_name": "negative regulation of hydrogen peroxide biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010976",
+            "xref_name": "positive regulation of neuron projection development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016525",
+            "xref_name": "negative regulation of angiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0018108",
+            "xref_name": "peptidyl-tyrosine phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030101",
+            "xref_name": "natural killer cell activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030154",
+            "xref_name": "cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030900",
+            "xref_name": "forebrain development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031295",
+            "xref_name": "T cell costimulation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031397",
+            "xref_name": "negative regulation of protein ubiquitination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035556",
+            "xref_name": "intracellular signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038026",
+            "xref_name": "reelin-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038096",
+            "xref_name": "Fc-gamma receptor signaling pathway involved in phagocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042177",
+            "xref_name": "negative regulation of protein catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045087",
+            "xref_name": "innate immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048010",
+            "xref_name": "vascular endothelial growth factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048013",
+            "xref_name": "ephrin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048813",
+            "xref_name": "dendrite morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050798",
+            "xref_name": "activated T cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050804",
+            "xref_name": "modulation of chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050852",
+            "xref_name": "T cell receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050900",
+            "xref_name": "leukocyte migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070301",
+            "xref_name": "cellular response to hydrogen peroxide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090314",
+            "xref_name": "positive regulation of protein targeting to membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900182",
+            "xref_name": "positive regulation of protein localization to nucleus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900449",
+            "xref_name": "regulation of glutamate receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902176",
+            "xref_name": "negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902951",
+            "xref_name": "negative regulation of dendritic spine maintenance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904646",
+            "xref_name": "cellular response to amyloid-beta",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905232",
+            "xref_name": "cellular response to L-glutamate",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905430",
+            "xref_name": "cellular response to glycine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905477",
+            "xref_name": "positive regulation of protein localization to membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905664",
+            "xref_name": "regulation of calcium ion import across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:4037",
+            "xref_name": "FYN",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P06241",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000719",
+            "xref_name": "Prot_kinase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000980",
+            "xref_name": "SH2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001245",
+            "xref_name": "Ser-Thr/Tyr_kinase_cat_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001452",
+            "xref_name": "SH3_domain",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008266",
+            "xref_name": "Tyr_kinase_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011009",
+            "xref_name": "Kinase-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017441",
+            "xref_name": "Protein_kinase_ATP_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020635",
+            "xref_name": "Tyr_kinase_cat_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035750",
+            "xref_name": "Fyn/Yrk_SH3",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036028",
+            "xref_name": "SH3-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036860",
+            "xref_name": "SH2_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047924",
+            "xref_name": "Fyn/Yrk_SH2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050198",
+            "xref_name": "Non-receptor_tyrosine_kinases",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24418",
+            "xref_name": "TYROSINE-PROTEIN KINASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1A0N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1AOT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1AOU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1AVZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1AZG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1EFN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1FYN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1G83",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1M27",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1NYF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1NYG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1SHF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1ZBJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2DQ7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2MQI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2MRJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2MRK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3H0F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3H0H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3H0I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3UA6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3UA7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4D8D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4EIK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4U17",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4U1P",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4ZNX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ZAU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6EDF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6IPY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6IPZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2P",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2Q",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2Y",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A2Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7UD6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8KDX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9GHK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1AVZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1EFN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1FYN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1G83",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1M27",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1SHF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2DQ7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3H0F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3H0H",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3H0I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3UA6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3UA7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4D8D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4EIK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4U17",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4U1P",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4ZNX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6EDF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6IPY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6IPZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2M",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2N",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2O",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2P",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2Q",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2T",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2U",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2V",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2W",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2X",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2Y",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A2Z",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7UD6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8KDX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9GHK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00017",
+            "xref_name": "SH2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00018",
+            "xref_name": "SH3_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF07714",
+            "xref_name": "PK_Tyr_Ser-Thr",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA28454",
+            "xref_name": "FYN proto-oncogene, Src family tyrosine kinase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P06241",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-114604",
+            "xref_name": "GPVI-mediated activation cascade",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1227986",
+            "xref_name": "Signaling by ERBB2",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1257604",
+            "xref_name": "PIP3 activates AKT signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1433557",
+            "xref_name": "Signaling by SCF-KIT",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1433559",
+            "xref_name": "Regulation of KIT signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-164944",
+            "xref_name": "Nef and signal transduction",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-202733",
+            "xref_name": "Cell surface interactions at the vascular wall",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2029481",
+            "xref_name": "FCGR activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-210990",
+            "xref_name": "PECAM1 interactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2219530",
+            "xref_name": "Constitutive Signaling by Aberrant PI3K in Cancer",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2424491",
+            "xref_name": "DAP12 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2682334",
+            "xref_name": "EPH-Ephrin signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2730905",
+            "xref_name": "Role of LAT2/NTAL/LAB on calcium mobilization",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-373753",
+            "xref_name": "Nephrin family interactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-375165",
+            "xref_name": "NCAM signaling for neurite out-growth",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-389356",
+            "xref_name": "Co-stimulation by CD28",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-389357",
+            "xref_name": "CD28 dependent PI3K/Akt signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-389359",
+            "xref_name": "CD28 dependent Vav1 pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-389513",
+            "xref_name": "Co-inhibition by CTLA4",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3928662",
+            "xref_name": "EPHB-mediated forward signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3928663",
+            "xref_name": "EPHA-mediated growth cone collapse",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3928664",
+            "xref_name": "Ephrin signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3928665",
+            "xref_name": "EPH-ephrin mediated repulsion of cells",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-399954",
+            "xref_name": "Sema3A PAK dependent Axon repulsion",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-399955",
+            "xref_name": "SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-399956",
+            "xref_name": "CRMPs in Sema3A signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-418885",
+            "xref_name": "DCC mediated attractive signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-4420097",
+            "xref_name": "VEGFA-VEGFR2 Pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5621480",
+            "xref_name": "Dectin-2 family",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5621575",
+            "xref_name": "CD209 (DC-SIGN) signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5673001",
+            "xref_name": "RAF/MAP kinase cascade",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6811558",
+            "xref_name": "PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-75892",
+            "xref_name": "Platelet Adhesion to exposed collagen",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8866376",
+            "xref_name": "Reelin signalling pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9032500",
+            "xref_name": "Activated NTRK2 signals through FYN",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9032759",
+            "xref_name": "NTRK2 activates RAC1",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-912631",
+            "xref_name": "Regulation of signaling by CBL",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9664323",
+            "xref_name": "FCGR3A-mediated IL10 synthesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9664422",
+            "xref_name": "FCGR3A-mediated phagocytosis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9670439",
+            "xref_name": "Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9680350",
+            "xref_name": "Signaling by CSF1 (M-CSF) in myeloid cells",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9706374",
+            "xref_name": "FLT3 signaling through SRC family kinases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9766229",
+            "xref_name": "Degradation of CDH1",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-983695",
+            "xref_name": "Antigen activates B Cell Receptor (BCR) leading to generation of second messengers",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9856530",
+            "xref_name": "High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B5BU57",
+            "xref_name": "Tyrosine-protein kinase Fyn",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "E1P557",
+            "xref_name": "Tyrosine-protein kinase Fyn",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "H0UI48",
+            "xref_name": "Tyrosine-protein kinase Fyn",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P06241",
+            "xref_name": "Tyrosine-protein kinase Fyn",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16248",
+            "xref_name": "Tyrosine-protein kinase Fyn",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5R3A6",
+            "xref_name": "Tyrosine-protein kinase Fyn",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5R3A7",
+            "xref_name": "Tyrosine-protein kinase Fyn",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8N5D7",
+            "xref_name": "Tyrosine-protein kinase Fyn",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

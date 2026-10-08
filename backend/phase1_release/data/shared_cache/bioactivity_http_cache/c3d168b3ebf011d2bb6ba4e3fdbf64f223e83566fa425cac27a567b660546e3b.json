@@ -1,0 +1,126 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)",
+    "pref_name": "Likely tRNA 2'-phosphotransferase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1293308",
+    "target_components": [
+      {
+        "accession": "Q5A7N4",
+        "component_description": "2'-phosphotransferase",
+        "component_id": 5138,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.1.160",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "2'-phosphotransferase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "orf19.12887",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TPT1",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q5A7N4",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "CAL0000187877",
+            "xref_name": "TPT1",
+            "xref_src_db": "CGD"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000215",
+            "xref_name": "tRNA 2'-phosphotransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016740",
+            "xref_name": "transferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000472",
+            "xref_name": "endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000480",
+            "xref_name": "endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006388",
+            "xref_name": "tRNA splicing, via endonucleolytic cleavage and ligation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR002745",
+            "xref_name": "Ptrans_KptA/Tpt1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR042080",
+            "xref_name": "RNA_2'-PTrans_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR042081",
+            "xref_name": "RNA_2'-PTrans_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR12684",
+            "xref_name": "PUTATIVE PHOSPHOTRANSFERASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR12684:SF2",
+            "xref_name": "TRNA 2'-PHOSPHOTRANSFERASE 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF01885",
+            "xref_name": "PTS_2-RNA",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA36701",
+            "xref_name": "tumor protein, translationally-controlled 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q5A7N4",
+            "xref_name": "2'-phosphotransferase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 237561
+  },
+  "ok": true
+}

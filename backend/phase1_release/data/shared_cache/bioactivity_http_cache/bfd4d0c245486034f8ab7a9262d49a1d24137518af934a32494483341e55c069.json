@@ -1,0 +1,866 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Caspase-1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4801",
+    "target_components": [
+      {
+        "accession": "P29466",
+        "component_description": "Caspase-1",
+        "component_id": 3119,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.4.22.36",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "CASP-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CASP1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Caspase-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Caspase-1 subunit p10",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Caspase-1 subunit p20",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ICE",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IL-1BC",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IL1BC",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "IL1BCE",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "IL-1 beta-converting enzyme",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Interleukin-1 beta convertase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Interleukin-1 beta-converting enzyme",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "p45",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P29466",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P29466",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005730",
+            "xref_name": "nucleolus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005874",
+            "xref_name": "microtubule",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032991",
+            "xref_name": "protein-containing complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0061702",
+            "xref_name": "canonical inflammasome complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0072557",
+            "xref_name": "IPAF inflammasome complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0072558",
+            "xref_name": "NLRP1 inflammasome complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0072559",
+            "xref_name": "NLRP3 inflammasome complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097169",
+            "xref_name": "AIM2 inflammasome complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097179",
+            "xref_name": "protease inhibitor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004175",
+            "xref_name": "endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004197",
+            "xref_name": "cysteine-type endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008234",
+            "xref_name": "cysteine-type peptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008656",
+            "xref_name": "cysteine-type endopeptidase activator activity involved in apoptotic process",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019900",
+            "xref_name": "kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019955",
+            "xref_name": "cytokine binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050700",
+            "xref_name": "CARD domain binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0089720",
+            "xref_name": "caspase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002221",
+            "xref_name": "pattern recognition receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006915",
+            "xref_name": "apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007231",
+            "xref_name": "osmosensory signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016540",
+            "xref_name": "protein autoprocessing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032731",
+            "xref_name": "positive regulation of interleukin-1 beta production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032741",
+            "xref_name": "positive regulation of interleukin-18 production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042981",
+            "xref_name": "regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043123",
+            "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046456",
+            "xref_name": "icosanoid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050727",
+            "xref_name": "regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050729",
+            "xref_name": "positive regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051604",
+            "xref_name": "protein maturation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071222",
+            "xref_name": "cellular response to lipopolysaccharide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071260",
+            "xref_name": "cellular response to mechanical stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0140447",
+            "xref_name": "cytokine precursor processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0140448",
+            "xref_name": "signaling receptor ligand precursor processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0140970",
+            "xref_name": "AIM2 inflammasome complex assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903265",
+            "xref_name": "positive regulation of tumor necrosis factor-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2001056",
+            "xref_name": "positive regulation of cysteine-type endopeptidase activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:1499",
+            "xref_name": "CASP1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P29466",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001309",
+            "xref_name": "Pept_C14_p20",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001315",
+            "xref_name": "CARD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002138",
+            "xref_name": "Pept_C14_p10",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002398",
+            "xref_name": "Pept_C14",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011029",
+            "xref_name": "DEATH-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011600",
+            "xref_name": "Pept_C14_caspase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR015917",
+            "xref_name": "Pept_C14A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016129",
+            "xref_name": "Caspase_his_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR029030",
+            "xref_name": "Caspase-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033139",
+            "xref_name": "Caspase_cys_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR47901",
+            "xref_name": "CASPASE RECRUITMENT DOMAIN-CONTAINING PROTEIN 18",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR47901:SF3",
+            "xref_name": "CASPASE-1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1BMQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1IBC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1ICE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RWK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RWM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RWN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RWO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RWP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RWV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RWW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RWX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1SC1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1SC3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1SC4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2FQQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2H48",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2H4W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2H4Y",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2H51",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2H54",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HBQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HBR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HBY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HBZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3D6F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3D6H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3D6M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3E4C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3NS7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FNA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5MMV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5MTK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BZ9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6F6R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6KN0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6PZP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6VIE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KEU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SV1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8WRA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1BMQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1IBC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1ICE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RWK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RWM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RWN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RWO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RWP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RWV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RWW",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RWX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1SC1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1SC3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1SC4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2FQQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2H48",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2H4W",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2H4Y",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2H51",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2H54",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2HBQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2HBR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2HBY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2HBZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3D6F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3D6H",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3D6M",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3E4C",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3NS7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5MMV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5MTK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BZ9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6F6R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6KN0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6PZP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6VIE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8WRA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00619",
+            "xref_name": "CARD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00656",
+            "xref_name": "Peptidase_C14",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA26083",
+            "xref_name": "caspase 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P29466",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-168638",
+            "xref_name": "NOD1/2 Signaling Pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-448706",
+            "xref_name": "Interleukin-1 processing",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5620971",
+            "xref_name": "Pyroptosis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6803207",
+            "xref_name": "TP53 Regulates Transcription of Caspase Activators and Caspases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-844456",
+            "xref_name": "The NLRP3 inflammasome",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-844615",
+            "xref_name": "The AIM2 inflammasome",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-844623",
+            "xref_name": "The IPAF inflammasome",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9008059",
+            "xref_name": "Interleukin-37 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9660826",
+            "xref_name": "Purinergic signaling in leishmaniasis infection",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9692916",
+            "xref_name": "SARS-CoV-1 activates/modulates innate immune responses",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B5MDZ1",
+            "xref_name": "Caspase-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P29466",
+            "xref_name": "Caspase-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q53EY6",
+            "xref_name": "Caspase-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6DMQ1",
+            "xref_name": "Caspase-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6GSS3",
+            "xref_name": "Caspase-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6PI75",
+            "xref_name": "Caspase-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UCN3",
+            "xref_name": "Caspase-1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

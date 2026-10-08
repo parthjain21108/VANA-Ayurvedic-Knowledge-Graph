@@ -1,0 +1,742 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "L-lactate dehydrogenase A chain",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4835",
+    "target_components": [
+      {
+        "accession": "P00338",
+        "component_description": "L-lactate dehydrogenase A chain",
+        "component_id": 3151,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.1.1.27",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Cell proliferation-inducing gene 19 protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "LDH-A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "LDHA",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "LDH-M",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "LDH muscle subunit",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "L-lactate dehydrogenase A chain",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Renal carcinoma antigen NY-REN-59",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P00338",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P00338",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1990204",
+            "xref_name": "oxidoreductase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004459",
+            "xref_name": "L-lactate dehydrogenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0045296",
+            "xref_name": "cadherin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006089",
+            "xref_name": "lactate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006090",
+            "xref_name": "pyruvate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006096",
+            "xref_name": "glycolytic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019752",
+            "xref_name": "carboxylic acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:6535",
+            "xref_name": "LDHA",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P00338",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001236",
+            "xref_name": "Lactate/malate_DH_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001557",
+            "xref_name": "L-lactate/malate_DH",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011304",
+            "xref_name": "L-lactate_DH",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR015955",
+            "xref_name": "Lactate_DH/Glyco_Ohase_4_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018177",
+            "xref_name": "L-lactate_DH_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR022383",
+            "xref_name": "Lactate/malate_DH_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036291",
+            "xref_name": "NAD(P)-bd_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR43128",
+            "xref_name": "L-2-HYDROXYCARBOXYLATE DEHYDROGENASE (NAD(P)(+))",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR43128:SF10",
+            "xref_name": "L-LACTATE DEHYDROGENASE A CHAIN",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1I10",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4AJP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4JNK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4L4R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4L4S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4M49",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4OJN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4OKN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QO7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QO8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QSM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QT0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4R68",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4R69",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4RLS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4ZVV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5IXS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5IXY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5W8H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5W8I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5W8J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5W8K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5W8L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ZJD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ZJE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ZJF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BAD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BAG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BAX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BAZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BB0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BB1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BB2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BB3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6MV8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6MVA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6Q0D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6Q13",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6SBU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6SBV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ZZR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7M2N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8FW6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9BK2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9BK3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9IOV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1I10",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4AJP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4JNK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4L4R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4L4S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4M49",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4OJN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4OKN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QO7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QO8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QSM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QT0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4R68",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4R69",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4RLS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4ZVV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5IXS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5IXY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5W8H",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5W8I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5W8J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5W8K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5W8L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5ZJD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5ZJE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5ZJF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BAD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BAG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BAX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BAZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BB0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BB1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BB2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BB3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6MV8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6MVA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6Q0D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6Q13",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6SBU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6SBV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6ZZR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7M2N",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8FW6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9BK2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9BK3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9IOV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00056",
+            "xref_name": "Ldh_1_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02866",
+            "xref_name": "Ldh_1_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA30319",
+            "xref_name": "lactate dehydrogenase A",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P00338",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-70268",
+            "xref_name": "Pyruvate metabolism",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9861718",
+            "xref_name": "Regulation of pyruvate metabolism",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B4DKQ2",
+            "xref_name": "L-lactate dehydrogenase A chain",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B7Z5E3",
+            "xref_name": "L-lactate dehydrogenase A chain",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D3DQY3",
+            "xref_name": "L-lactate dehydrogenase A chain",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "F8W819",
+            "xref_name": "L-lactate dehydrogenase A chain",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P00338",
+            "xref_name": "L-lactate dehydrogenase A chain",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q53G53",
+            "xref_name": "L-lactate dehydrogenase A chain",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6IBM7",
+            "xref_name": "L-lactate dehydrogenase A chain",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6ZNV1",
+            "xref_name": "L-lactate dehydrogenase A chain",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UDE8",
+            "xref_name": "L-lactate dehydrogenase A chain",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UDE9",
+            "xref_name": "L-lactate dehydrogenase A chain",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

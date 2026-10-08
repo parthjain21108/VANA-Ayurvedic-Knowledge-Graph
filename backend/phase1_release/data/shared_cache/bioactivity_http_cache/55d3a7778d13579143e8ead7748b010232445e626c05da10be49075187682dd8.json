@@ -1,0 +1,830 @@
+{
+  "data": {
+    "accession": "P11021",
+    "component_id": 5108,
+    "component_type": "PROTEIN",
+    "description": "Endoplasmic reticulum chaperone BiP",
+    "go_slims": [
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005783"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006457"
+      },
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016787"
+      },
+      {
+        "go_id": "GO:0016887"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0019904"
+      },
+      {
+        "go_id": "GO:0030234"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0044183"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0051082"
+      },
+      {
+        "go_id": "GO:0055085"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 601
+      }
+    ],
+    "sequence": "MKLSLVAAMLLLLSAARAEEEDKKEDVGTVVGIDLGTTYSCVGVFKNGRVEIIANDQGNRITPSYVAFTPEGERLIGDAAKNQLTSNPENTVFDAKRLIGRTWNDPSVQQDIKFLPFKVVEKKTKPYIQVDIGGGQTKTFAPEEISAMVLTKMKETAEAYLGKKVTHAVVTVPAYFNDAQRQATKDAGTIAGLNVMRIINEPTAAAIAYGLDKREGEKNILVFDLGGGTFDVSLLTIDNGVFEVVATNGDTHLGGEDFDQRVMEHFIKLYKKKTGKDVRKDNRAVQKLRREVEKAKRALSSQHQARIEIESFYEGEDFSETLTRAKFEELNMDLFRSTMKPVQKVLEDSDLKKSDIDEIVLVGGSTRIPKIQQLVKEFFNGKEPSRGINPDEAVAYGAAVQAGVLSGDQDTGDLVLLDVCPLTLGIETVGGVMTKLIPRNTVVPTKKSQIFSTASDNQPTVTIKVYEGERPLTKDNHLLGTFDLTGIPPAPRGVPQIEVTFEIDVNGILRVTAEDKGTGNKNKITITNDQNRLTPEEIERMVNDAEKFAEEDKKLKERIDTRNELESYAYSLKNQIGDKEKLGGKLSSEDKETMEKAVEEKIEWLESHQDADIEDFKAKKKELEEIVQPIISKLYGSAGPPPTGEEDTAEKDEL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.6.4.10",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "78 kDa glucose-regulated protein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Binding-immunoglobulin protein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "BiP",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Endoplasmic reticulum chaperone BiP",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "GRP-78",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Heat shock protein 70 family protein 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Heat shock protein family A member 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "HSP70 family protein 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "HSPA5",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Immunoglobulin heavy chain-binding protein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Synonyms=GRP78",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P11021",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P11021",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005783",
+        "xref_name": "endoplasmic reticulum",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005788",
+        "xref_name": "endoplasmic reticulum lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005789",
+        "xref_name": "endoplasmic reticulum membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005925",
+        "xref_name": "focal adhesion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0008180",
+        "xref_name": "COP9 signalosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0009986",
+        "xref_name": "cell surface",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030496",
+        "xref_name": "midbody",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032991",
+        "xref_name": "protein-containing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0034663",
+        "xref_name": "endoplasmic reticulum chaperone complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005509",
+        "xref_name": "calcium ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016787",
+        "xref_name": "hydrolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016887",
+        "xref_name": "ATP hydrolysis activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019899",
+        "xref_name": "enzyme binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019904",
+        "xref_name": "protein domain specific binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030291",
+        "xref_name": "protein serine/threonine kinase inhibitor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031072",
+        "xref_name": "heat shock protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031625",
+        "xref_name": "ubiquitin protein ligase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0044183",
+        "xref_name": "protein folding chaperone",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0045296",
+        "xref_name": "cadherin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051082",
+        "xref_name": "unfolded protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051087",
+        "xref_name": "protein-folding chaperone binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051787",
+        "xref_name": "misfolded protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140662",
+        "xref_name": "ATP-dependent protein folding chaperone",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140665",
+        "xref_name": "ATP-dependent H3-H4 histone complex chaperone activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140849",
+        "xref_name": "ATP-dependent H2AZ histone chaperone activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006983",
+        "xref_name": "ER overload response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021589",
+        "xref_name": "cerebellum structural organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021680",
+        "xref_name": "cerebellar Purkinje cell layer development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021762",
+        "xref_name": "substantia nigra development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030335",
+        "xref_name": "positive regulation of cell migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030512",
+        "xref_name": "negative regulation of transforming growth factor beta receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030968",
+        "xref_name": "endoplasmic reticulum unfolded protein response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031204",
+        "xref_name": "post-translational protein targeting to membrane, translocation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031333",
+        "xref_name": "negative regulation of protein-containing complex assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031398",
+        "xref_name": "positive regulation of protein ubiquitination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034975",
+        "xref_name": "protein folding in endoplasmic reticulum",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034976",
+        "xref_name": "response to endoplasmic reticulum stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035437",
+        "xref_name": "maintenance of protein localization in endoplasmic reticulum",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0036503",
+        "xref_name": "ERAD pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042026",
+        "xref_name": "protein refolding",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042149",
+        "xref_name": "cellular response to glucose starvation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043066",
+        "xref_name": "negative regulation of apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051085",
+        "xref_name": "chaperone cofactor-dependent protein refolding",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051603",
+        "xref_name": "proteolysis involved in protein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060904",
+        "xref_name": "regulation of protein folding in endoplasmic reticulum",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903891",
+        "xref_name": "regulation of ATF6-mediated unfolded protein response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903894",
+        "xref_name": "regulation of IRE1-mediated unfolded protein response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903895",
+        "xref_name": "negative regulation of IRE1-mediated unfolded protein response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903897",
+        "xref_name": "regulation of PERK-mediated unfolded protein response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903898",
+        "xref_name": "negative regulation of PERK-mediated unfolded protein response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:5238",
+        "xref_name": "HSPA5",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P11021",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR013126",
+        "xref_name": "Hsp_70_fam",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018181",
+        "xref_name": "Heat_shock_70_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029047",
+        "xref_name": "HSP70_peptide-bd_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029048",
+        "xref_name": "HSP70_C_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR042050",
+        "xref_name": "BIP_NBD",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR043129",
+        "xref_name": "ATPase_NBD",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR19375",
+        "xref_name": "HEAT SHOCK PROTEIN 70KDA",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3IUC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3LDL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3LDN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3LDO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3LDP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5E84",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5E85",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5E86",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5EVZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5EX5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5EXW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5EY4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5F0X",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5F1X",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5F2R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6ASY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CZ1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6DFM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6DFO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6DO2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6DWS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6ZMD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7N1R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3IUC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3LDL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3LDN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3LDO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3LDP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5E84",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5E85",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5E86",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5EVZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5EX5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5EXW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5EY4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5F0X",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5F1X",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5F2R",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6ASY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6CZ1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6DFM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6DFO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6DO2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6DWS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6ZMD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7N1R",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00012",
+        "xref_name": "HSP70",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA29504",
+        "xref_name": "heat shock protein family A (Hsp70) member 5",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P11021",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-114608",
+        "xref_name": "Platelet degranulation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-3371453",
+        "xref_name": "Regulation of HSF1-mediated heat shock response",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-381033",
+        "xref_name": "ATF6 (ATF6-alpha) activates chaperones",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-381042",
+        "xref_name": "PERK regulates gene expression",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-381070",
+        "xref_name": "IRE1alpha activates chaperones",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-381183",
+        "xref_name": "ATF6 (ATF6-alpha) activates chaperone genes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8874177",
+        "xref_name": "ATF6B (ATF6-beta) activates chaperones",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-983170",
+        "xref_name": "Antigen Presentation: Folding, assembly and peptide loading of class I MHC",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9909505",
+        "xref_name": "Modulation of host responses by IFN-stimulated genes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B0QZ61",
+        "xref_name": "Endoplasmic reticulum chaperone BiP",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P11021",
+        "xref_name": "Endoplasmic reticulum chaperone BiP",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q2EF78",
+        "xref_name": "Endoplasmic reticulum chaperone BiP",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9NPF1",
+        "xref_name": "Endoplasmic reticulum chaperone BiP",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UK02",
+        "xref_name": "Endoplasmic reticulum chaperone BiP",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1781865"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

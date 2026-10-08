@@ -1,0 +1,347 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Aromatic-L-amino-acid decarboxylase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1843",
+    "target_components": [
+      {
+        "accession": "P20711",
+        "component_description": "Aromatic-L-amino-acid decarboxylase",
+        "component_id": 143,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "4.1.1.28",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "AADC",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "AADC",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Aromatic-L-amino-acid decarboxylase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DDC",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "DDC",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DOPA decarboxylase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=AADC",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P20711",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P20711",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004058",
+            "xref_name": "aromatic-L-amino-acid decarboxylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016831",
+            "xref_name": "carboxy-lyase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019899",
+            "xref_name": "enzyme binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030170",
+            "xref_name": "pyridoxal phosphate binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0036467",
+            "xref_name": "5-hydroxy-L-tryptophan decarboxylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0036468",
+            "xref_name": "L-dopa decarboxylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001822",
+            "xref_name": "kidney development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006520",
+            "xref_name": "amino acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006584",
+            "xref_name": "catecholamine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009636",
+            "xref_name": "response to toxic substance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019752",
+            "xref_name": "carboxylic acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042416",
+            "xref_name": "dopamine biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042423",
+            "xref_name": "catecholamine biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042427",
+            "xref_name": "serotonin biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:2719",
+            "xref_name": "DDC",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P20711",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR002129",
+            "xref_name": "PyrdxlP-dep_de-COase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR010977",
+            "xref_name": "Aromatic_deC",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR015421",
+            "xref_name": "PyrdxlP-dep_Trfase_major",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR015422",
+            "xref_name": "PyrdxlP-dep_Trfase_small",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR015424",
+            "xref_name": "PyrdxlP-dep_Trfase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR021115",
+            "xref_name": "Pyridoxal-P_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11999",
+            "xref_name": "GROUP II PYRIDOXAL-5-PHOSPHATE DECARBOXYLASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11999:SF167",
+            "xref_name": "AROMATIC-L-AMINO-ACID DECARBOXYLASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3RBF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3RBL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3RCH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8OR9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ORA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9GNS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9HRH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9HRI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3RBF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3RBL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3RCH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8OR9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8ORA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9GNS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9HRH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9HRI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00282",
+            "xref_name": "Pyridoxal_deC",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA140",
+            "xref_name": "dopa decarboxylase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P20711",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-209905",
+            "xref_name": "Catecholamine biosynthesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-209931",
+            "xref_name": "Serotonin and melatonin biosynthesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "C9IYA0",
+            "xref_name": "Aromatic-L-amino-acid decarboxylase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "E7ER62",
+            "xref_name": "Aromatic-L-amino-acid decarboxylase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "E7EU95",
+            "xref_name": "Aromatic-L-amino-acid decarboxylase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P20711",
+            "xref_name": "Aromatic-L-amino-acid decarboxylase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16723",
+            "xref_name": "Aromatic-L-amino-acid decarboxylase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5W5T9",
+            "xref_name": "Aromatic-L-amino-acid decarboxylase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q75MJ6",
+            "xref_name": "Aromatic-L-amino-acid decarboxylase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

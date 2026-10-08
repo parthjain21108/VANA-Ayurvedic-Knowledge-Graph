@@ -1,0 +1,92 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Plasmodium falciparum",
+    "pref_name": "Enoyl-acyl-carrier protein reductase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4150",
+    "target_components": [
+      {
+        "accession": "Q965D5",
+        "component_description": "Enoyl-acyl-carrier protein reductase",
+        "component_id": 2470,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.3.1.9",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Enoyl-acyl-carrier protein reductase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "fabI",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q965D5",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0004318",
+            "xref_name": "enoyl-[acyl-carrier-protein] reductase (NADH) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006633",
+            "xref_name": "fatty acid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR002347",
+            "xref_name": "SDR_fam",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR014358",
+            "xref_name": "Enoyl-ACP_Rdtase_NADH",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036291",
+            "xref_name": "NAD(P)-bd_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR43159",
+            "xref_name": "ENOYL-[ACYL-CARRIER-PROTEIN] REDUCTASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR43159:SF2",
+            "xref_name": "ENOYL-[ACYL-CARRIER-PROTEIN] REDUCTASE [NADH], CHLOROPLASTIC",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF13561",
+            "xref_name": "adh_short_C2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "Q965D5",
+            "xref_name": null,
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 5833
+  },
+  "ok": true
+}

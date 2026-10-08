@@ -1,0 +1,336 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Plasmodium falciparum 3D7",
+    "pref_name": "Leucine aminopeptidase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1293313",
+    "target_components": [
+      {
+        "accession": "Q8IL11",
+        "component_description": "Leucine aminopeptidase",
+        "component_id": 5188,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.4.11.1",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "3.4.13.-",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "LAP",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Leucine aminopeptidase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "M17 leucyl aminopeptidase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PF3D7_1446200",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "PfA-M17",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PfLAP",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PfM17LAP",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q8IL11",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004177",
+            "xref_name": "aminopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004180",
+            "xref_name": "carboxypeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008233",
+            "xref_name": "peptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016805",
+            "xref_name": "dipeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030145",
+            "xref_name": "manganese ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070006",
+            "xref_name": "metalloaminopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070573",
+            "xref_name": "metallodipeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043171",
+            "xref_name": "peptide catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR000819",
+            "xref_name": "Peptidase_M17_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011356",
+            "xref_name": "Leucine_aapep/pepB",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023042",
+            "xref_name": "Peptidase_M17_leu_NH2_pept",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR043472",
+            "xref_name": "Macro_dom-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11963",
+            "xref_name": "LEUCINE AMINOPEPTIDASE-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11963:SF23",
+            "xref_name": "CYTOSOL AMINOPEPTIDASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3KQX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3KQZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3KR4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3KR5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3T8W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4K3N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4R6T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4R76",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4R7M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4X2T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7RIE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7SRV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7T3V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8EZ4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SVM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SW9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3KQX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3KQZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3KR4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3KR5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3T8W",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4K3N",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4R6T",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4R76",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4R7M",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4X2T",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7RIE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7SRV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7T3V",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8EZ4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8SVM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8SW9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00883",
+            "xref_name": "Peptidase_M17",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "Q8IL11",
+            "xref_name": "Leucine aminopeptidase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 36329
+  },
+  "ok": true
+}

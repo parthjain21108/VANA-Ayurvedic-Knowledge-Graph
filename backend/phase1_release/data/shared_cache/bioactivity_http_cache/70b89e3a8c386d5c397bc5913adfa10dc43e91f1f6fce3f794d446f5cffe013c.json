@@ -1,0 +1,951 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Lysine-specific demethylase 5B",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3774295",
+    "target_components": [
+      {
+        "accession": "Q9UGL1",
+        "component_description": "Lysine-specific demethylase 5B",
+        "component_id": 16942,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.14.11.67",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Cancer/testis antigen 31",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CT31",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Histone demethylase JARID1B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "[histone H3]-trimethyl-L-lysine(4) demethylase 5B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "JARID1B",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Jumonji/ARID domain-containing protein 1B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "KDM5B",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Lysine-specific demethylase 5B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PLU-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PLU1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "RBBP2H1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "RBP2-H1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Retinoblastoma-binding protein 2 homolog 1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q9UGL1",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q9UGL1",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000785",
+            "xref_name": "chromatin",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003676",
+            "xref_name": "nucleic acid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003714",
+            "xref_name": "transcription corepressor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0032452",
+            "xref_name": "histone demethylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0032453",
+            "xref_name": "histone H3K4 demethylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034647",
+            "xref_name": "histone H3K4me/H3K4me2/H3K4me3 demethylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042393",
+            "xref_name": "histone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051213",
+            "xref_name": "dioxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0141052",
+            "xref_name": "histone H3 demethylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990837",
+            "xref_name": "sequence-specific double-stranded DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0007338",
+            "xref_name": "single fertilization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010628",
+            "xref_name": "positive regulation of gene expression",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033601",
+            "xref_name": "positive regulation of mammary gland epithelial cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045892",
+            "xref_name": "negative regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048511",
+            "xref_name": "rhythmic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060444",
+            "xref_name": "branching involved in mammary gland duct morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060763",
+            "xref_name": "mammary duct terminal end bud growth",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060992",
+            "xref_name": "response to fungicide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061038",
+            "xref_name": "uterus morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070306",
+            "xref_name": "lens fiber cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000864",
+            "xref_name": "regulation of estradiol secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:18039",
+            "xref_name": "KDM5B",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q9UGL1",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001606",
+            "xref_name": "ARID_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001965",
+            "xref_name": "Znf_PHD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003347",
+            "xref_name": "JmjC_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003349",
+            "xref_name": "JmjN",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004198",
+            "xref_name": "Znf_C5HC2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011011",
+            "xref_name": "Znf_FYVE_PHD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013083",
+            "xref_name": "Znf_RING/FYVE/PHD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013637",
+            "xref_name": "Lys_sp_deMease-like_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR019786",
+            "xref_name": "Zinc_finger_PHD-type_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR019787",
+            "xref_name": "Znf_PHD-finger",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036431",
+            "xref_name": "ARID_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047978",
+            "xref_name": "KDM5B_PHD1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047979",
+            "xref_name": "KDM5B_PHD3",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047981",
+            "xref_name": "KDM5B_ARID",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR048615",
+            "xref_name": "KDM5_C-hel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10694",
+            "xref_name": "LYSINE-SPECIFIC DEMETHYLASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10694:SF3",
+            "xref_name": "LYSINE-SPECIFIC DEMETHYLASE 5B",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2MA5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2MNY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2MNZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A1F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A3N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A3P",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A3T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A3W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FPL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FPU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FUN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FUP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FV3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FY4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FY5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FY9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FYB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FYS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FYT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FYU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FYV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FYY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FYZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZ0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZ1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZ3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZ4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZ6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZ7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZ8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZ9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FZM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5LW9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5LWB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6EIN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6EIU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6EIY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6EJ0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6EJ1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6EK6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6H4Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6H50",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6H51",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6H52",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6RBI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A1F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5A3N",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5A3P",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5A3T",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5A3W",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FPL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FPU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FUN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FUP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FV3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FY4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FY5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FY9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FYB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FYS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FYT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FYU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FYV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FYY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FYZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZ0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZ1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZ3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZ4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZ6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZ7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZ8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZ9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FZM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5LW9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5LWB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6EIN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6EIU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6EIY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6EJ0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6EJ1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6EK6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6H4Z",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6H50",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6H51",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6H52",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6RBI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00628",
+            "xref_name": "PHD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF01388",
+            "xref_name": "ARID",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02373",
+            "xref_name": "JmjC",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02375",
+            "xref_name": "JmjN",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02928",
+            "xref_name": "zf-C5HC2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF08429",
+            "xref_name": "PLU-1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF21323",
+            "xref_name": "KDM5_C-hel",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA164721626",
+            "xref_name": "lysine demethylase 5B",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q9UGL1",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-3214842",
+            "xref_name": "HDMs demethylate histones",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8866911",
+            "xref_name": "TFAP2 (AP-2) family regulates transcription of cell cycle factors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9821002",
+            "xref_name": "Chromatin modifications during the maternal to zygotic transition (MZT)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "O95811",
+            "xref_name": "Lysine-specific demethylase 5B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q15752",
+            "xref_name": "Lysine-specific demethylase 5B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UGL1",
+            "xref_name": "Lysine-specific demethylase 5B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9Y3Q5",
+            "xref_name": "Lysine-specific demethylase 5B",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

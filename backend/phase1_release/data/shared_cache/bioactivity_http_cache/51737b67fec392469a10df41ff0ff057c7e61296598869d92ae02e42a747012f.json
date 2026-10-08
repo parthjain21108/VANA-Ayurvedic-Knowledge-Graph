@@ -1,0 +1,534 @@
+{
+  "data": {
+    "accession": "O14980",
+    "component_id": 3971,
+    "component_type": "PROTEIN",
+    "description": "Exportin-1",
+    "go_slims": [
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0003723"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005635"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005730"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006913"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0032880"
+      },
+      {
+        "go_id": "GO:0042254"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 601
+      }
+    ],
+    "sequence": "MPAIMTMLADHAARQLLDFSQKLDINLLDNVVNCLYHGEGAQQRMAQEVLTHLKEHPDAWTRVDTILEFSQNMNTKYYGLQILENVIKTRWKILPRNQCEGIKKYVVGLIIKTSSDPTCVEKEKVYIGKLNMILVQILKQEWPKHWPTFISDIVGASRTSESLCQNNMVILKLLSEEVFDFSSGQITQVKSKHLKDSMCNEFSQIFQLCQFVMENSQNAPLVHATLETLLRFLNWIPLGYIFETKLISTLIYKFLNVPMFRNVSLKCLTEIAGVSVSQYEEQFVTLFTLTMMQLKQMLPLNTNIRLAYSNGKDDEQNFIQNLSLFLCTFLKEHDQLIEKRLNLRETLMEALHYMLLVSEVEETEIFKICLEYWNHLAAELYRESPFSTSASPLLSGSQHFDVPPRRQLYLPMLFKVRLLMVSRMAKPEEVLVVENDQGEVVREFMKDTDSINLYKNMRETLVYLTHLDYVDTERIMTEKLHNQVNGTEWSWKNLNTLCWAIGSISGAMHEEDEKRFLVTVIKDLLGLCEQKRGKDNKAIIASNIMYIVGQYPRFLRAHWKFLKTVVNKLFEFMHETHDGVQDMACDTFIKIAQKCRRHFVQVQVGEVMPFIDEILNNINTIICDLQPQQVHTFYEAVGYMIGAQTDQTVQEHLIEKYMLLPNQVWDSIIQQATKNVDILKDPETVKQLGSILKTNVRACKAVGHPFVIQLGRIYLDMLNVYKCLSENISAAIQANGEMVTKQPLIRSMRTVKRETLKLISGWVSRSNDPQMVAENFVPPLLDAVLIDYQRNVPAAREPEVLSTMAIIVNKLGGHITAEIPQIFDAVFECTLNMINKDFEEYPEHRTNFFLLLQAVNSHCFPAFLAIPPTQFKLVLDSIIWAFKHTMRNVADTGLQILFTLLQNVAQEEAAAQSFYQTYFCDILQHIFSVVTDTSHTAGLTMHASILAYMFNLVEEGKISTSLNPGNPVNNQIFLQEYVANLLKSAFPHLQDAQVKLFVTGLFSLNQDIPAFKEHLRDFLVQIKEFAGEDTSDLFLEEREIALRQADEEKHKRQMSVPGIFNPHEIPEEMCD",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Chromosome region maintenance 1 protein homolog",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "CRM1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Exp1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Exportin-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "XPO1",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "O14980",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "O14980",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0000776",
+        "xref_name": "kinetochore",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005635",
+        "xref_name": "nuclear envelope",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005642",
+        "xref_name": "annulate lamellae",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005730",
+        "xref_name": "nucleolus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0015030",
+        "xref_name": "Cajal body",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031965",
+        "xref_name": "nuclear membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032991",
+        "xref_name": "protein-containing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:1990904",
+        "xref_name": "ribonucleoprotein complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003723",
+        "xref_name": "RNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005049",
+        "xref_name": "nuclear export signal receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031267",
+        "xref_name": "small GTPase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006913",
+        "xref_name": "nucleocytoplasmic transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010824",
+        "xref_name": "regulation of centrosome duplication",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034504",
+        "xref_name": "protein localization to nucleus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042254",
+        "xref_name": "ribosome biogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046825",
+        "xref_name": "regulation of protein export from nucleus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:12825",
+        "xref_name": "XPO1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "O14980",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001494",
+        "xref_name": "Importin-beta_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011989",
+        "xref_name": "ARM-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013598",
+        "xref_name": "Exportin-1/Importin-b-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR014877",
+        "xref_name": "XPO1_C_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016024",
+        "xref_name": "ARM-type_fold",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR040485",
+        "xref_name": "XPO1_repeat_3",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR041123",
+        "xref_name": "CRM1_repeat",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR041235",
+        "xref_name": "Exp1_repeat_2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR045065",
+        "xref_name": "XPO1/5",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11223",
+        "xref_name": "EXPORTIN 1/5",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR11223:SF2",
+        "xref_name": "EXPORTIN-1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1W9C",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2L1L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3GB8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4BSM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4BSN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5DIS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6TVO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7B51",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8URJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9B62",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1W9C",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3GB8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4BSM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4BSN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5DIS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6TVO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7B51",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF03810",
+        "xref_name": "IBN_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF08389",
+        "xref_name": "Xpo1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF08767",
+        "xref_name": "CRM1_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF18777",
+        "xref_name": "CRM1_repeat",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF18784",
+        "xref_name": "CRM1_repeat_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF18787",
+        "xref_name": "CRM1_repeat_3",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA37418",
+        "xref_name": "exportin 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "O14980",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-141444",
+        "xref_name": "Amplification of signal from unattached kinetochores via a MAD2 inhibitory signal",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-165054",
+        "xref_name": "Rev-mediated nuclear export of HIV RNA",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-168333",
+        "xref_name": "NEP/NS2 Interacts with the Cellular Export Machinery",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2173788",
+        "xref_name": "Downregulation of TGF-beta receptor signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2467813",
+        "xref_name": "Separation of Sister Chromatids",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2500257",
+        "xref_name": "Resolution of Sister Chromatid Cohesion",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-3769402",
+        "xref_name": "Deactivation of the beta-catenin transactivating complex",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-450520",
+        "xref_name": "HuR (ELAVL1) binds and stabilizes mRNA",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5663220",
+        "xref_name": "RHO GTPases Activate Formins",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5687128",
+        "xref_name": "MAPK6/MAPK4 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-68877",
+        "xref_name": "Mitotic Prometaphase",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-69273",
+        "xref_name": "Cyclin A/B1/B2 associated events during G2/M transition",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9634638",
+        "xref_name": "Estrogen-dependent nuclear events downstream of ESR-membrane signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9648025",
+        "xref_name": "EML4 and NUDC in mitotic spindle formation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9707616",
+        "xref_name": "Heme signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9768919",
+        "xref_name": "NPAS4 regulates expression of target genes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9828806",
+        "xref_name": "Maturation of hRSV A proteins",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9856649",
+        "xref_name": "Transcriptional and post-translational regulation of MITF-M expression and activity",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A6NL14",
+        "xref_name": "Exportin-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "A8K1K5",
+        "xref_name": "Exportin-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "D6W5E2",
+        "xref_name": "Exportin-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O14980",
+        "xref_name": "Exportin-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q63HP8",
+        "xref_name": "Exportin-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q68CP3",
+        "xref_name": "Exportin-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q99433",
+        "xref_name": "Exportin-1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5661"
+      },
+      {
+        "target_chembl_id": "CHEMBL6195546"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

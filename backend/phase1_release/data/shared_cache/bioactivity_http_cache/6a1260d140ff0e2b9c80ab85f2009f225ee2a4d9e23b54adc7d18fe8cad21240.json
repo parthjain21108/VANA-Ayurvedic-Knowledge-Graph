@@ -1,0 +1,734 @@
+{
+  "data": {
+    "accession": "O15151",
+    "component_id": 4808,
+    "component_type": "PROTEIN",
+    "description": "Protein Mdm4",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016746"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0050821"
+      },
+      {
+        "go_id": "GO:0065003"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 601
+      }
+    ],
+    "sequence": "MTSFSTSAQCSTSDSACRISPGQINQVRPKLPLLKILHAAGAQGEMFTVKEVMHYLGQYIMVKQLYDQQEQHMVYCGGDLLGELLGRQSFSVKDPSPLYDMLRKNLVTLATATTDAAQTLALAQDHSMDIPSQDQLKQSAEESSTSRKRTTEDDIPTLPTSEHKCIHSREDEDLIENLAQDETSRLDLGFEEWDVAGLPWWFLGNLRSNYTPRSNGSTDLQTNQDVGTAIVSDTTDDLWFLNESVSEQLGVGIKVEAADTEQTSEEVGKVSDKKVIEVGKNDDLEDSKSLSDDTDVEVTSEDEWQCTECKKFNSPSKRYCFRCWALRKDWYSDCSKLTHSLSTSDITAIPEKENEGNDVPDCRRTISAPVVRPKDAYIKKENSKLFDPCNSVEFLDLAHSSESQETISSMGEQLDNLSEQRTDTENMEDCQNLLKPCSLCEKRPRDGNIIHGRTGHLVTCFHCARRLKKAGASCPICKKEIQLVIKVFIA",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Double minute 4 protein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Mdm2-like p53-binding protein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MDM4",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "MDMX",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "p53-binding protein Mdm4",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Protein Mdm4",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Protein Mdmx",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "O15151",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "O15151",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0017053",
+        "xref_name": "transcription repressor complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004842",
+        "xref_name": "ubiquitin-protein transferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019899",
+        "xref_name": "enzyme binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000122",
+        "xref_name": "negative regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003170",
+        "xref_name": "heart valve development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003181",
+        "xref_name": "atrioventricular valve morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003203",
+        "xref_name": "endocardial cushion morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003281",
+        "xref_name": "ventricular septum development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003283",
+        "xref_name": "atrial septum development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008285",
+        "xref_name": "negative regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030330",
+        "xref_name": "DNA damage response, signal transduction by p53 class mediator",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042177",
+        "xref_name": "negative regulation of protein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043066",
+        "xref_name": "negative regulation of apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045892",
+        "xref_name": "negative regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050821",
+        "xref_name": "protein stabilization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051726",
+        "xref_name": "regulation of cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0065003",
+        "xref_name": "protein-containing complex assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0065008",
+        "xref_name": "regulation of biological quality",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071456",
+        "xref_name": "cellular response to hypoxia",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:6974",
+        "xref_name": "MDM4",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "O15151",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001841",
+        "xref_name": "Znf_RING",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001876",
+        "xref_name": "Znf_RanBP2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003121",
+        "xref_name": "SWIB_MDM2_domain",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013083",
+        "xref_name": "Znf_RING/FYVE/PHD",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR015458",
+        "xref_name": "MDM4",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016495",
+        "xref_name": "p53_neg-reg_MDM_2/4",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036443",
+        "xref_name": "Znf_RanBP2_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036885",
+        "xref_name": "SWIB_MDM2_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR051652",
+        "xref_name": "MDM2_MDM4_MUL1",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR12183",
+        "xref_name": "MITOCHONDRIAL UBIQUITIN LIGASE ACTIVATOR OF NFKB 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR12183:SF37",
+        "xref_name": "PROTEIN MDM4",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2CR8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2MWY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2N06",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2N0U",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2N0W",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2N14",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2VJE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2VJF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2VYR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3DAB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3EQY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3FDO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3FE7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3FEA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3JZO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3JZP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3JZQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3LBJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3MQR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3U15",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4RXZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5MNJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5UML",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5VK1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6Q9Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6Q9S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6Q9U",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6Q9W",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6Q9Y",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6YR5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6YR7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7C3Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7C3Y",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7C44",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7EL4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7KJN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7MLA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8HDG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8IA5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2VJE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2VJF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2VYR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3DAB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3EQY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3FDO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3FE7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3FEA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3JZO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3JZP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3JZQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3LBJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3MQR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3U15",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4RXZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5MNJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5UML",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5VK1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6Q9Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6Q9S",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6Q9U",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6Q9W",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6Q9Y",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6YR5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6YR7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7C3Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7C3Y",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7C44",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7EL4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7KJN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8HDG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8IA5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00641",
+        "xref_name": "Zn_ribbon_RanBP",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF13920",
+        "xref_name": "zf-C3HC4_3",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA30719",
+        "xref_name": "MDM4 regulator of p53",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "O15151",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-2559580",
+        "xref_name": "Oxidative Stress Induced Senescence",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2559585",
+        "xref_name": "Oncogene Induced Senescence",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5689880",
+        "xref_name": "Ub-specific processing proteases",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6804756",
+        "xref_name": "Regulation of TP53 Activity through Phosphorylation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6804757",
+        "xref_name": "Regulation of TP53 Degradation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6804760",
+        "xref_name": "Regulation of TP53 Activity through Methylation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-69541",
+        "xref_name": "Stabilization of p53",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "O15151",
+        "xref_name": "Protein Mdm4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q2M2Y2",
+        "xref_name": "Protein Mdm4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q32SL2",
+        "xref_name": "Protein Mdm4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6GS18",
+        "xref_name": "Protein Mdm4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8IV83",
+        "xref_name": "Protein Mdm4",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1255126"
+      },
+      {
+        "target_chembl_id": "CHEMBL2221344"
+      },
+      {
+        "target_chembl_id": "CHEMBL3883306"
+      },
+      {
+        "target_chembl_id": "CHEMBL4106123"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

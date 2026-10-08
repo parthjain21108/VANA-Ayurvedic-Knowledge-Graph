@@ -1,0 +1,282 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Malate dehydrogenase, cytoplasmic",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3560",
+    "target_components": [
+      {
+        "accession": "P40925",
+        "component_description": "Malate dehydrogenase, cytoplasmic",
+        "component_id": 1881,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.1.1.37",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Aromatic alpha-keto acid reductase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytosolic malate dehydrogenase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "KAR",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Malate dehydrogenase, cytoplasmic",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MDH1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "MDHA",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Synonyms=MDHA",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P40925",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P40925",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005813",
+            "xref_name": "centrosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004470",
+            "xref_name": "malic enzyme activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030060",
+            "xref_name": "L-malate dehydrogenase (NAD+) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0047860",
+            "xref_name": "diiodophenylpyruvate reductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0047995",
+            "xref_name": "hydroxyphenylpyruvate reductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006099",
+            "xref_name": "tricarboxylic acid cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006107",
+            "xref_name": "oxaloacetate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006108",
+            "xref_name": "malate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006734",
+            "xref_name": "NADH metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006739",
+            "xref_name": "NADP metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043490",
+            "xref_name": "malate-aspartate shuttle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:6970",
+            "xref_name": "MDH1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P40925",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001236",
+            "xref_name": "Lactate/malate_DH_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001252",
+            "xref_name": "Malate_DH_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001557",
+            "xref_name": "L-lactate/malate_DH",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR010945",
+            "xref_name": "Malate_DH_type2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011274",
+            "xref_name": "Malate_DH_NAD-dep_euk",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR015955",
+            "xref_name": "Lactate_DH/Glyco_Ohase_4_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR022383",
+            "xref_name": "Lactate/malate_DH_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036291",
+            "xref_name": "NAD(P)-bd_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR23382",
+            "xref_name": "MALATE DEHYDROGENASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "7RM9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7RRL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7RM9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7RRL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00056",
+            "xref_name": "Ldh_1_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02866",
+            "xref_name": "Ldh_1_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA30714",
+            "xref_name": "malate dehydrogenase 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P40925",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-9856872",
+            "xref_name": "Malate-aspartate shuttle",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B2R5V5",
+            "xref_name": "Malate dehydrogenase, cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4DUN2",
+            "xref_name": "Malate dehydrogenase, cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B7Z3I7",
+            "xref_name": "Malate dehydrogenase, cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "F5H098",
+            "xref_name": "Malate dehydrogenase, cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P40925",
+            "xref_name": "Malate dehydrogenase, cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6I9V0",
+            "xref_name": "Malate dehydrogenase, cytoplasmic",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

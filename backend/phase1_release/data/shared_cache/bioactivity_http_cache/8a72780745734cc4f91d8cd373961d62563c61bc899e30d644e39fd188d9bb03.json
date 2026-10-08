@@ -1,0 +1,488 @@
+{
+  "data": {
+    "accession": "Q62645",
+    "component_id": 61,
+    "component_type": "PROTEIN",
+    "description": "Glutamate receptor ionotropic, NMDA 2D",
+    "go_slims": [
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0007267"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0022857"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0050877"
+      },
+      {
+        "go_id": "GO:0055085"
+      }
+    ],
+    "organism": "Rattus norvegicus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1150
+      }
+    ],
+    "sequence": "MRGAGGPRGPRGPAKMLLLLALACASPFPEEVPGPGAVGGGTGGARPLNVALVFSGPAYAAEAARLGPAVAAAVRSPGLDVRPVALVLNGSDPRSLVLQLCDLLSGLRVHGVVFEDDSRAPAVAPILDFLSAQTSLPIVAVHGGAALVLTPKEKGSTFLQLGSSTEQQLQVIFEVLEEYDWTSFVAVTTRAPGHRAFLSYIEVLTDGSLVGWEHRGALTLDPGAGEAVLGAQLRSVSAQIRLLFCAREEAEPVFRAAEEAGLTGPGYVWFMVGPQLAGGGGSGVPGEPLLLPGGSPLPAGLFAVRSAGWRDDLARRVAAGVAVVARGAQALLRDYGFLPELGHDCRTQNRTHRGESLHRYFMNITWDNRDYSFNEDGFLVNPSLVVISLTRDRTWEVVGSWEQQTLRLKYPLWSRYGRFLQPVDDTQHLTVATLEERPFVIVEPADPISGTCIRDSVPCRSQLNRTHSPPPDAPRPEKRCCKGFCIDILKRLAHTIGFSYDLYLVTNGKHGKKIDGVWNGMIGEVFYQRADMAIGSLTINEERSEIVDFSVPFVETGISVMVARSNGTVSPSAFLEPYSPAVWVMMFVMCLTVVAVTVFIFEYLSPVGYNRSLATGKRPGGSTFTIGKSIWLLWALVFNNSVPVENPRGTTSKIMVLVWAFFAVIFLASYTANLAAFMIQEEYVDTVSGLSDRKFQRPQEQYPPLKFGTVPNGSTEKNIRSNYPDMHSYMVRYNQPRVEEALTQLKAGKLDAFIYDAAVLNYMARKDEGCKLVTIGSGKVFATTGYGIALHKGSRWKRPIDLALLQFLGDDEIEMLERLWLSGICHNDKIEVMSSKLDIDNMAGVFYMLLVAMGLSLLVFAWEHLVYWRLRHCLGPTHRMDFLLAFSRGMYSCCSAEAAPPPAKPPPPPQPLPSPAYPAARPPPGPAPFVPRERAAADRWRRAKGTGPPGGAAIADGFHRYYGPIEPQGLGLGEARAAPRGAAGRPLSPPTTQPPQKPPPSYFAIVREQEPTEPPAGAFPGFPSPPAPPAAAAAAVGPPLCRLAFEDESPPAPSRWPRSDPESQPLLGGGAGGPSAGAPTAPPPRRAAPPPCAYLDLEPSPSDSEDSESLGGASLGGLEPWWFADFPYPYAERLGPPPGRYWSVDKLGGWRAGSWDYLPPRGGPAWHCRHCASLELLPPPRHLSCSHDGLDGGWWAPPPPPWAAGPPPRRRARCGCPRPHPHRPRASHRAPAAAPHHHRHRRAAGGWDFPPPAPTSRSLEDLSSCPRAAPTRRLTGPSRHARRCPHAAHWGPPLPTASHRRHRGGDLGTRRGSAHFSSLESEV",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "GluN2D",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "GluN2D",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Glutamate [NMDA] receptor subunit epsilon-4",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Glutamate receptor ionotropic, NMDA 2D",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Grin2d",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "NMDAR2D",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "N-methyl D-aspartate receptor subtype 2D",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "NR2D",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Synonyms=GluN2D",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q62645",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q62645",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005789",
+        "xref_name": "endoplasmic reticulum membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0008328",
+        "xref_name": "ionotropic glutamate receptor complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0017146",
+        "xref_name": "NMDA selective glutamate receptor complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042734",
+        "xref_name": "presynaptic membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045202",
+        "xref_name": "synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045211",
+        "xref_name": "postsynaptic membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0048787",
+        "xref_name": "presynaptic active zone membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098686",
+        "xref_name": "hippocampal mossy fiber to CA3 synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098839",
+        "xref_name": "postsynaptic density membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098978",
+        "xref_name": "glutamatergic synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004970",
+        "xref_name": "glutamate-gated receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004972",
+        "xref_name": "NMDA glutamate receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005261",
+        "xref_name": "monoatomic cation channel activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0015276",
+        "xref_name": "ligand-gated monoatomic ion channel activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016595",
+        "xref_name": "glutamate binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0022843",
+        "xref_name": "voltage-gated monoatomic cation channel activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0022849",
+        "xref_name": "glutamate-gated calcium ion channel activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0038023",
+        "xref_name": "signaling receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0099507",
+        "xref_name": "ligand-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1904315",
+        "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001964",
+        "xref_name": "startle response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006811",
+        "xref_name": "monoatomic ion transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008344",
+        "xref_name": "adult locomotory behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019722",
+        "xref_name": "calcium-mediated signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034220",
+        "xref_name": "monoatomic ion transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035235",
+        "xref_name": "ionotropic glutamate receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035249",
+        "xref_name": "synaptic transmission, glutamatergic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048167",
+        "xref_name": "regulation of synaptic plasticity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048168",
+        "xref_name": "regulation of neuronal synaptic plasticity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051930",
+        "xref_name": "regulation of sensory perception of pain",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051968",
+        "xref_name": "positive regulation of synaptic transmission, glutamatergic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060079",
+        "xref_name": "excitatory postsynaptic potential",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060291",
+        "xref_name": "long-term synaptic potentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097553",
+        "xref_name": "calcium ion transmembrane import into cytosol",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0098655",
+        "xref_name": "monoatomic cation transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0099505",
+        "xref_name": "regulation of presynaptic membrane potential",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904062",
+        "xref_name": "regulation of monoatomic cation transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1905232",
+        "xref_name": "cellular response to L-glutamate",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000463",
+        "xref_name": "positive regulation of excitatory postsynaptic potential",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "Q62645",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001320",
+        "xref_name": "Iontro_rcpt_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001508",
+        "xref_name": "Iono_Glu_rcpt_met",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001828",
+        "xref_name": "ANF_lig-bd_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR015683",
+        "xref_name": "Ionotropic_Glu_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR019594",
+        "xref_name": "Glu/Gly-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR028082",
+        "xref_name": "Peripla_BP_I",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR18966",
+        "xref_name": "IONOTROPIC GLUTAMATE RECEPTOR",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3OEK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3OEL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3OEM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3OEN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4JWY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3OEK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3OEL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3OEM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3OEN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4JWY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00060",
+        "xref_name": "Lig_chan",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF01094",
+        "xref_name": "ANF_receptor",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF10613",
+        "xref_name": "Lig_chan-Glu_bd",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-RNO-438066",
+        "xref_name": "Unblocking of NMDA receptors, glutamate binding and activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-5673001",
+        "xref_name": "RAF/MAP kinase cascade",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-8849932",
+        "xref_name": "Synaptic adhesion-like molecules",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-9609736",
+        "xref_name": "Assembly and cell surface presentation of NMDA receptors",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q62645",
+        "xref_name": "Glutamate receptor ionotropic, NMDA 2D",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q63381",
+        "xref_name": "Glutamate receptor ionotropic, NMDA 2D",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q63382",
+        "xref_name": "Glutamate receptor ionotropic, NMDA 2D",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q63729",
+        "xref_name": "Glutamate receptor ionotropic, NMDA 2D",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q63730",
+        "xref_name": "Glutamate receptor ionotropic, NMDA 2D",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL303"
+      },
+      {
+        "target_chembl_id": "CHEMBL1907608"
+      },
+      {
+        "target_chembl_id": "CHEMBL2096669"
+      },
+      {
+        "target_chembl_id": "CHEMBL3038506"
+      },
+      {
+        "target_chembl_id": "CHEMBL4524129"
+      },
+      {
+        "target_chembl_id": "CHEMBL6195768"
+      }
+    ],
+    "tax_id": 10116
+  },
+  "ok": true
+}

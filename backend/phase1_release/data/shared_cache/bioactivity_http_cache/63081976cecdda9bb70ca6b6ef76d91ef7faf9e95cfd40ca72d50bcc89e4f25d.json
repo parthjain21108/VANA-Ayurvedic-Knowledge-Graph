@@ -1,0 +1,622 @@
+{
+  "data": {
+    "accession": "P00352",
+    "component_id": 1897,
+    "component_type": "PROTEIN",
+    "description": "Aldehyde dehydrogenase 1A1",
+    "go_slims": [
+      {
+        "go_id": "GO:0000166"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006520"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0030234"
+      },
+      {
+        "go_id": "GO:0042562"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0051287"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MSSSGTPDLPVLLTDLKIQYTKIFINNEWHDSVSGKKFPVFNPATEEELCQVEEGDKEDVDKAVKAARQAFQIGSPWRTMDASERGRLLYKLADLIERDRLLLATMESMNGGKLYSNAYLNDLAGCIKTLRYCAGWADKIQGRTIPIDGNFFTYTRHEPIGVCGQIIPWNFPLVMLIWKIGPALSCGNTVVVKPAEQTPLTALHVASLIKEAGFPPGVVNIVPGYGPTAGAAISSHMDIDKVAFTGSTEVGKLIKEAAGKSNLKRVTLELGGKSPCIVLADADLDNAVEFAHHGVFYHQGQCCIAASRIFVEESIYDEFVRRSVERAKKYILGNPLTPGVTQGPQIDKEQYDKILDLIESGKKEGAKLECGGGPWGNKGYFVQPTVFSNVTDEMRIAKEEIFGPVQQIMKFKSLDDVIKRANNTFYGLSAGVFTKDIDKAITISSALQAGTVWVNCYGVVSAQCPFGGFKMSGNGRELGEYGFHEYTEVKTVTVKISQKNS",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.2.1.19",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.2.1.28",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.2.1.3",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.2.1.36",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "3-deoxyglucosone dehydrogenase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Aldehyde dehydrogenase 1A1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Aldehyde dehydrogenase, cytosolic",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Aldehyde dehydrogenase family 1 member A1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ALDH1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "ALDH1A1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "ALDH-E1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ALHDII",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PUMB1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "PUMB1 GN  ",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "RalDH1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "RALDH 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Retinal dehydrogenase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Synonyms=ALDC",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P00352",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P00352",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030424",
+        "xref_name": "axon",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042995",
+        "xref_name": "cell projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045202",
+        "xref_name": "synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000166",
+        "xref_name": "nucleotide binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001758",
+        "xref_name": "retinal dehydrogenase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004029",
+        "xref_name": "aldehyde dehydrogenase (NAD+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005096",
+        "xref_name": "GTPase activator activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005497",
+        "xref_name": "androgen binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016620",
+        "xref_name": "oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0018479",
+        "xref_name": "benzaldehyde dehydrogenase (NAD+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019145",
+        "xref_name": "aminobutyraldehyde dehydrogenase (NAD+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051287",
+        "xref_name": "NAD binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0106373",
+        "xref_name": "3-deoxyglucosone dehydrogenase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001523",
+        "xref_name": "retinoid metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006081",
+        "xref_name": "aldehyde metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006629",
+        "xref_name": "lipid metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009449",
+        "xref_name": "gamma-aminobutyric acid biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030392",
+        "xref_name": "fructosamine catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0036438",
+        "xref_name": "maintenance of lens transparency",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042572",
+        "xref_name": "retinol metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0110095",
+        "xref_name": "cellular detoxification of aldehyde",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0120163",
+        "xref_name": "negative regulation of cold-induced thermogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:402",
+        "xref_name": "ALDH1A1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P00352",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR015590",
+        "xref_name": "Aldehyde_DH_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016160",
+        "xref_name": "Ald_DH_CS_CYS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016161",
+        "xref_name": "Ald_DH/histidinol_DH",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016162",
+        "xref_name": "Ald_DH_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016163",
+        "xref_name": "Ald_DH_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029510",
+        "xref_name": "Ald_DH_CS_GLU",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11699",
+        "xref_name": "ALDEHYDE DEHYDROGENASE-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "4WB9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4WJ9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4WP7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4WPN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4X4L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5AC2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L2M",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L2N",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L2O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5TEI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6DUM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7JWS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7JWT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7JWU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7JWV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7JWW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UM9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8D46",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8DNO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8ENE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8PVH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8T0N",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8T0T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8WFQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4WB9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4WJ9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4WP7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4WPN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4X4L",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5AC2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L2M",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L2N",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L2O",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5TEI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6DUM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7JWS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7JWT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7JWU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7JWV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7JWW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7UM9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8T0N",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8T0T",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8WFQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00171",
+        "xref_name": "Aldedh",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA24692",
+        "xref_name": "aldehyde dehydrogenase 1 family member A1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P00352",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-5365859",
+        "xref_name": "RA biosynthesis pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-70350",
+        "xref_name": "Fructose catabolism",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-71384",
+        "xref_name": "Ethanol oxidation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9927432",
+        "xref_name": "Developmental Lineage of Mammary Gland Myoepithelial Cells",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9938206",
+        "xref_name": "Developmental Lineage of Mammary Stem Cells",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "O00768",
+        "xref_name": "Aldehyde dehydrogenase 1A1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P00352",
+        "xref_name": "Aldehyde dehydrogenase 1A1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5SYR1",
+        "xref_name": "Aldehyde dehydrogenase 1A1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3577"
+      },
+      {
+        "target_chembl_id": "CHEMBL3542434"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

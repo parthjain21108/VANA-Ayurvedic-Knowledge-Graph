@@ -1,0 +1,471 @@
+{
+  "data": {
+    "accession": "P25094",
+    "component_id": 5795,
+    "component_type": "PROTEIN",
+    "description": "Peripheral myelin protein 22",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0006914"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007010"
+      },
+      {
+        "go_id": "GO:0007155"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0008219"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0022607"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0030198"
+      },
+      {
+        "go_id": "GO:0034330"
+      },
+      {
+        "go_id": "GO:0040007"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0048646"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0048870"
+      },
+      {
+        "go_id": "GO:0050877"
+      },
+      {
+        "go_id": "GO:0061024"
+      }
+    ],
+    "organism": "Rattus norvegicus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 601
+      }
+    ],
+    "sequence": "MLLLLLGILFLHIAVLVLLFVSTIVSQWLVGNGHRTDLWQNCTTSALGAVQHCYSSSVSEWLQSVQATMILSVIFSVLSLFLFFCQLFTLTKGGRFYITGVFQILAGLCVMSAAAIYTVRHSEWHVNNDYSYGFAYILAWVAFPLALLSGIIYVILRKRE",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Cd25",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Peripheral myelin protein 22",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Pmp-22",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Pmp22",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "PMP-22",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Protein CD25",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SAG",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Schwann cell membrane glycoprotein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SR13 myelin protein",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P25094",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005923",
+        "xref_name": "bicellular tight junction",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0008305",
+        "xref_name": "integrin complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0009986",
+        "xref_name": "cell surface",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043218",
+        "xref_name": "compact myelin",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043256",
+        "xref_name": "laminin complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0048471",
+        "xref_name": "perinuclear region of cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0006914",
+        "xref_name": "autophagy",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006915",
+        "xref_name": "apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006955",
+        "xref_name": "immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007155",
+        "xref_name": "cell adhesion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007422",
+        "xref_name": "peripheral nervous system development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007618",
+        "xref_name": "mating",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007628",
+        "xref_name": "adult walking behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008203",
+        "xref_name": "cholesterol metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008285",
+        "xref_name": "negative regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008344",
+        "xref_name": "adult locomotory behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010498",
+        "xref_name": "proteasomal protein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010624",
+        "xref_name": "regulation of Schwann cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010628",
+        "xref_name": "positive regulation of gene expression",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010629",
+        "xref_name": "negative regulation of gene expression",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010761",
+        "xref_name": "fibroblast migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010977",
+        "xref_name": "negative regulation of neuron projection development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0014037",
+        "xref_name": "Schwann cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0014044",
+        "xref_name": "Schwann cell development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019226",
+        "xref_name": "transmission of nerve impulse",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019227",
+        "xref_name": "neuronal action potential propagation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019228",
+        "xref_name": "neuronal action potential",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0022011",
+        "xref_name": "myelination in peripheral nervous system",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030032",
+        "xref_name": "lamellipodium assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030036",
+        "xref_name": "actin cytoskeleton organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030154",
+        "xref_name": "cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030913",
+        "xref_name": "paranodal junction assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031579",
+        "xref_name": "membrane raft organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032060",
+        "xref_name": "bleb assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032288",
+        "xref_name": "myelin assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034350",
+        "xref_name": "regulation of glial cell apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034605",
+        "xref_name": "cellular response to heat",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034620",
+        "xref_name": "cellular response to unfolded protein",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034976",
+        "xref_name": "response to endoplasmic reticulum stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035264",
+        "xref_name": "multicellular organism growth",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0036135",
+        "xref_name": "Schwann cell migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042063",
+        "xref_name": "gliogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042552",
+        "xref_name": "myelination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043161",
+        "xref_name": "proteasome-mediated ubiquitin-dependent protein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045161",
+        "xref_name": "neuronal ion channel clustering",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048936",
+        "xref_name": "peripheral nervous system neuron axonogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050727",
+        "xref_name": "regulation of inflammatory response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050905",
+        "xref_name": "neuromuscular process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051146",
+        "xref_name": "striated muscle cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051726",
+        "xref_name": "regulation of cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0055001",
+        "xref_name": "muscle cell development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061744",
+        "xref_name": "motor behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070842",
+        "xref_name": "aggresome assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071711",
+        "xref_name": "basement membrane organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0098529",
+        "xref_name": "neuromuscular junction development, skeletal muscle fiber",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2001233",
+        "xref_name": "regulation of apoptotic signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR003936",
+        "xref_name": "PMP22",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR004031",
+        "xref_name": "PMP22/EMP/MP20/Claudin",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR004032",
+        "xref_name": "PMP22_EMP_MP20",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050579",
+        "xref_name": "PMP-22/EMP/MP20-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR10671",
+        "xref_name": "EPITHELIAL MEMBRANE PROTEIN-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR10671:SF7",
+        "xref_name": "PERIPHERAL MYELIN PROTEIN 22",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF00822",
+        "xref_name": "PMP22_Claudin",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "P25094",
+        "xref_name": "Peripheral myelin protein 22",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2007624"
+      }
+    ],
+    "tax_id": 10116
+  },
+  "ok": true
+}

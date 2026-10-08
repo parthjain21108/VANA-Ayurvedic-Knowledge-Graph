@@ -1,0 +1,1011 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "BCL2A1/BID",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5169268",
+    "target_components": [
+      {
+        "accession": "Q16548",
+        "component_description": "Bcl-2-related protein A1",
+        "component_id": 4578,
+        "component_type": "PROTEIN",
+        "relationship": "INTERACTING PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "BCL2A1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Bcl2-L-5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "BCL2L5",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Bcl-2-like protein 5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Bcl-2-related protein A1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "BFL1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "GRS",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "HBPA1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Hemopoietic-specific early response protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Protein BFL-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Protein GRS",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q16548",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q16548",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005741",
+            "xref_name": "mitochondrial outer membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015267",
+            "xref_name": "channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001836",
+            "xref_name": "release of cytochrome c from mitochondria",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006915",
+            "xref_name": "apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008053",
+            "xref_name": "mitochondrial fusion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008630",
+            "xref_name": "intrinsic apoptotic signaling pathway in response to DNA damage",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043065",
+            "xref_name": "positive regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043066",
+            "xref_name": "negative regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055085",
+            "xref_name": "transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097192",
+            "xref_name": "extrinsic apoptotic signaling pathway in absence of ligand",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:991",
+            "xref_name": "BCL2A1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q16548",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR002475",
+            "xref_name": "Bcl2-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013282",
+            "xref_name": "Bcl2A1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020717",
+            "xref_name": "Bcl2_BH1_motif_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020726",
+            "xref_name": "Bcl2_BH2_motif_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR026298",
+            "xref_name": "Bcl-2_fam",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036834",
+            "xref_name": "Bcl-2-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046371",
+            "xref_name": "Bcl-2_BH1-3",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11256",
+            "xref_name": "BCL-2 RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11256:SF10",
+            "xref_name": "BCL-2-RELATED PROTEIN A1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2VM6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3I1H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3MQP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4ZEQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5UUK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5UUL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5UUP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5WHH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5WHI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6E3I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6E3J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6MBB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6MBC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6RJP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6VO4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8RPO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9EW8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FKY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FKZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FL0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9GIP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9GIQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9GIR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9GIS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9GIT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2VM6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3I1H",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3MQP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4ZEQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5UUK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5UUL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5UUP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5WHH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5WHI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6E3I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6E3J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6MBB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6MBC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6RJP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6VO4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8RPO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9EW8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9FKY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9FKZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9FL0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9GIP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9GIQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9GIR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9GIS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9GIT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00452",
+            "xref_name": "Bcl-2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA25303",
+            "xref_name": "BCL2 related protein A1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q16548",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-9725371",
+            "xref_name": "Nuclear events stimulated by ALK signaling in cancer",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9824594",
+            "xref_name": "Regulation of MITF-M-dependent genes involved in apoptosis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q16548",
+            "xref_name": "Bcl-2-related protein A1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6FGZ4",
+            "xref_name": "Bcl-2-related protein A1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6FH19",
+            "xref_name": "Bcl-2-related protein A1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86W13",
+            "xref_name": "Bcl-2-related protein A1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q99524",
+            "xref_name": "Bcl-2-related protein A1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      },
+      {
+        "accession": "P55957",
+        "component_description": "BH3-interacting domain death agonist",
+        "component_id": 5287,
+        "component_type": "PROTEIN",
+        "relationship": "INTERACTING PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "BH3-interacting domain death agonist",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "BH3-interacting domain death agonist p11",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "BH3-interacting domain death agonist p13",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "BH3-interacting domain death agonist p15",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "BID",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "BID",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CCRF",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome c Releasing Factor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "p11 BID",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "p13 BID",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "p15 BID",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "p22 BID",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "tBid",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Truncated Bid",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P55957",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P55957",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005741",
+            "xref_name": "mitochondrial outer membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031966",
+            "xref_name": "mitochondrial membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005123",
+            "xref_name": "death receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031625",
+            "xref_name": "ubiquitin protein ligase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001836",
+            "xref_name": "release of cytochrome c from mitochondria",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006626",
+            "xref_name": "protein targeting to mitochondrion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006915",
+            "xref_name": "apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008625",
+            "xref_name": "extrinsic apoptotic signaling pathway via death domain receptors",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008637",
+            "xref_name": "apoptotic mitochondrial changes",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010918",
+            "xref_name": "positive regulation of mitochondrial membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031334",
+            "xref_name": "positive regulation of protein-containing complex assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042129",
+            "xref_name": "regulation of T cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042770",
+            "xref_name": "signal transduction in response to DNA damage",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042775",
+            "xref_name": "mitochondrial ATP synthesis coupled electron transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042981",
+            "xref_name": "regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043065",
+            "xref_name": "positive regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050678",
+            "xref_name": "regulation of epithelial cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051402",
+            "xref_name": "neuron apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0065003",
+            "xref_name": "protein-containing complex assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090200",
+            "xref_name": "positive regulation of release of cytochrome c from mitochondria",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097191",
+            "xref_name": "extrinsic apoptotic signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097284",
+            "xref_name": "hepatocyte apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097345",
+            "xref_name": "mitochondrial outer membrane permeabilization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902108",
+            "xref_name": "regulation of mitochondrial membrane permeability involved in apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902230",
+            "xref_name": "negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902531",
+            "xref_name": "regulation of intracellular signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000045",
+            "xref_name": "regulation of G1/S transition of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000271",
+            "xref_name": "positive regulation of fibroblast apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2001233",
+            "xref_name": "regulation of apoptotic signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2001235",
+            "xref_name": "positive regulation of apoptotic signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2001238",
+            "xref_name": "positive regulation of extrinsic apoptotic signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2001244",
+            "xref_name": "positive regulation of intrinsic apoptotic signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:1050",
+            "xref_name": "BID",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P55957",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR010479",
+            "xref_name": "BID",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020728",
+            "xref_name": "Bcl2_BH3_motif_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036834",
+            "xref_name": "Bcl-2-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR35447",
+            "xref_name": "BH3-INTERACTING DOMAIN DEATH AGONIST",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR35447:SF1",
+            "xref_name": "BH3-INTERACTING DOMAIN DEATH AGONIST",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1ZY3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2BID",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2KBW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2M5B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2M5I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4BD2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QVE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4ZEQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4ZIG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4ZII",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5AJJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5C3F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7M5A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7M5B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7P33",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QTW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SM5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4BD2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QVE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4ZEQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4ZIG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4ZII",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5AJJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5C3F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7M5A",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7M5B",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7P33",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7QTW",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8SM5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF06393",
+            "xref_name": "BID",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA25353",
+            "xref_name": "BH3 interacting domain death agonist",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P55957",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-111447",
+            "xref_name": "Activation of BAD and translocation to mitochondria",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-111452",
+            "xref_name": "Activation and oligomerization of BAK protein",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-111453",
+            "xref_name": "BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-114294",
+            "xref_name": "Activation, translocation and oligomerization of BAX",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6803204",
+            "xref_name": "TP53 Regulates Transcription of Genes Involved in Cytochrome C Release",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-75108",
+            "xref_name": "Activation, myristolyation of BID and translocation to mitochondria",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P55957",
+            "xref_name": "BH3-interacting domain death agonist",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q549M7",
+            "xref_name": "BH3-interacting domain death agonist",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q71T04",
+            "xref_name": "BH3-interacting domain death agonist",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q7Z4M9",
+            "xref_name": "BH3-interacting domain death agonist",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8IY86",
+            "xref_name": "BH3-interacting domain death agonist",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "PROTEIN-PROTEIN INTERACTION",
+    "tax_id": 9606
+  },
+  "ok": true
+}

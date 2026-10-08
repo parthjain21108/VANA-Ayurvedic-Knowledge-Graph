@@ -1,0 +1,489 @@
+{
+  "data": {
+    "accession": "Q9Y6A2",
+    "component_id": 19014,
+    "component_type": "PROTEIN",
+    "description": "Cholesterol 24-hydroxylase",
+    "go_slims": [
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005783"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0006805"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MSPGLLLLGSAVLLAFGLCCTFVHRARSRYEHIPGPPRPSFLLGHLPCFWKKDEVGGRVLQDVFLDWAKKYGPVVRVNVFHKTSVIVTSPESVKKFLMSTKYNKDSKMYRALQTVFGERLFGQGLVSECNYERWHKQRRVIDLAFSRSSLVSLMETFNEKAEQLVEILEAKADGQTPVSMQDMLTYTAMDILAKAAFGMETSMLLGAQKPLSQAVKLMLEGITASRNTLAKFLPGKRKQLREVRESIRFLRQVGRDWVQRRREALKRGEEVPADILTQILKAEEGAQDDEGLLDNFVTFFIAGHETSANHLAFTVMELSRQPEIVARLQAEVDEVIGSKRYLDFEDLGRLQYLSQVLKESLRLYPPAWGTFRLLEEETLIDGVRVPGNTPLLFSTYVMGRMDTYFEDPLTFNPDRFGPGAPKPRFTYFPFSLGHRSCIGQQFAQMEVKVVMAKLLQRLEFRLVPGQRFGLQEQATLKPLDPVLCTLRPRGWQPAPPPPPC",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.14.14.25",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "CH24H",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Cholesterol 24-hydroxylase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Cholesterol 24-monooxygenase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Cholesterol 24S-hydroxylase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "CYP46A1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Cytochrome P450 46A1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Synonyms=CYP46",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q9Y6A2",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q9Y6A2",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005783",
+        "xref_name": "endoplasmic reticulum",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005789",
+        "xref_name": "endoplasmic reticulum membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030425",
+        "xref_name": "dendrite",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042995",
+        "xref_name": "cell projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045202",
+        "xref_name": "synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098793",
+        "xref_name": "presynapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098794",
+        "xref_name": "postsynapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004497",
+        "xref_name": "monooxygenase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005506",
+        "xref_name": "iron ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008395",
+        "xref_name": "steroid hydroxylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0062184",
+        "xref_name": "testosterone 16-beta-hydroxylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006699",
+        "xref_name": "bile acid biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006707",
+        "xref_name": "cholesterol catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006805",
+        "xref_name": "xenobiotic metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007399",
+        "xref_name": "nervous system development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008203",
+        "xref_name": "cholesterol metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008207",
+        "xref_name": "C21-steroid hormone metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016125",
+        "xref_name": "sterol metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042448",
+        "xref_name": "progesterone metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1900271",
+        "xref_name": "regulation of long-term synaptic potentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903044",
+        "xref_name": "protein localization to membrane raft",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:2641",
+        "xref_name": "CYP46A1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "IPR001128",
+        "xref_name": "Cyt_P450",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR002401",
+        "xref_name": "Cyt_P450_E_grp-I",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017972",
+        "xref_name": "Cyt_P450_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036396",
+        "xref_name": "Cyt_P450_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR039983",
+        "xref_name": "CYP46A1",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24293",
+        "xref_name": "CYTOCHROME P450 FAMILY 46 SUBFAMILY A",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR24293:SF1",
+        "xref_name": "CHOLESTEROL 24-HYDROXYLASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2Q9F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2Q9G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3MDM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3MDR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3MDT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3MDV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ENH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4FIA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4J14",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7LRL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7LS3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7LS4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7N3L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7N3M",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7N6F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9NNJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9NNM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9NNO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2Q9F",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2Q9G",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3MDM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3MDR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3MDT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3MDV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ENH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4FIA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4J14",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7LRL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7LS3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7LS4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7N3L",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7N3M",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7N6F",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9NNJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9NNM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9NNO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00067",
+        "xref_name": "p450",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA27117",
+        "xref_name": "cytochrome P450 family 46 subfamily A member 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q9Y6A2",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-193775",
+        "xref_name": "Synthesis of bile acids and bile salts via 24-hydroxycholesterol",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-211976",
+        "xref_name": "Endogenous sterols",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B4DHP8",
+        "xref_name": "Cholesterol 24-hydroxylase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "E7EQG9",
+        "xref_name": "Cholesterol 24-hydroxylase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8N2B0",
+        "xref_name": "Cholesterol 24-hydroxylase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9Y6A2",
+        "xref_name": "Cholesterol 24-hydroxylase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4523510"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

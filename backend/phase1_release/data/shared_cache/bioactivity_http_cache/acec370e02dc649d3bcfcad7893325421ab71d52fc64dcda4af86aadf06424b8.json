@@ -1,0 +1,196 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Canis lupus familiaris",
+    "pref_name": "Beta-2 adrenergic receptor",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2289",
+    "target_components": [
+      {
+        "accession": "P54833",
+        "component_description": "Beta-2 adrenergic receptor",
+        "component_id": 630,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "ADRB2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Beta-2 adrenergic receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Beta-2 adrenoceptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Beta-2 adrenoreceptor",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P54833",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005768",
+            "xref_name": "endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005769",
+            "xref_name": "early endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005794",
+            "xref_name": "Golgi apparatus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043235",
+            "xref_name": "receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004941",
+            "xref_name": "beta2-adrenergic receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051380",
+            "xref_name": "norepinephrine binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002025",
+            "xref_name": "norepinephrine-epinephrine-mediated vasodilation involved in regulation of systemic arterial blood pressure",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006898",
+            "xref_name": "receptor-mediated endocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006940",
+            "xref_name": "regulation of smooth muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007189",
+            "xref_name": "adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043410",
+            "xref_name": "positive regulation of MAPK cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045744",
+            "xref_name": "negative regulation of G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071880",
+            "xref_name": "adenylate cyclase-activating adrenergic receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097746",
+            "xref_name": "blood vessel diameter maintenance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901098",
+            "xref_name": "positive regulation of autophagosome maturation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904504",
+            "xref_name": "positive regulation of lipophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000332",
+            "xref_name": "ADRB2_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002233",
+            "xref_name": "ADR_fam",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24248",
+            "xref_name": "ADRENERGIC RECEPTOR-RELATED G-PROTEIN COUPLED RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24248:SF21",
+            "xref_name": "BETA-2 ADRENERGIC RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA39",
+            "xref_name": "adrenoceptor beta 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P54833",
+            "xref_name": "Beta-2 adrenergic receptor",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9615
+  },
+  "ok": true
+}

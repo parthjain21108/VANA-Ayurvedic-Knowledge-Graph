@@ -1,0 +1,405 @@
+{
+  "data": {
+    "accession": "O14929",
+    "component_id": 18626,
+    "component_type": "PROTEIN",
+    "description": "Histone acetyltransferase type B catalytic subunit",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016746"
+      },
+      {
+        "go_id": "GO:0042393"
+      },
+      {
+        "go_id": "GO:0051276"
+      },
+      {
+        "go_id": "GO:0065003"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 643
+      }
+    ],
+    "sequence": "MAGFGAMEKFLVEYKSAVEKKLAEYKCNTNTAIELKLVRFPEDLENDIRTFFPEYTHQLFGDDETAFGYKGLKILLYYIAGSLSTMFRVEYASKVDENFDCVEADDVEGKIRQIIPPGFCTNTNDFLSLLEKEVDFKPFGTLLHTYSVLSPTGGENFTFQIYKADMTCRGFREYHERLQTFLMWFIETASFIDVDDERWHYFLVFEKYNKDGATLFATVGYMTVYNYYVYPDKTRPRVSQMLILTPFQGQGHGAQLLETVHRYYTEFPTVLDITAEDPSKSYVKLRDFVLVKLCQDLPCFSREKLMQGFNEDMVIEAQQKFKINKQHARRVYEILRLLVTDMSDAEQYRSYRLDIKRRLISPYKKKQRDLAKMRKCLRPEELTNQMNQIEISMQHEQLEESFQELVEDYRRVIERLAQE",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.3.1.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "2.3.1.48",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "HAT1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Histone acetyltransferase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Histone acetyltransferase type B catalytic subunit",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Histone methacryltransferase HAT1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "KAT1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "O14929",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "O14929",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0000781",
+        "xref_name": "chromosome, telomeric region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000785",
+        "xref_name": "chromatin",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016363",
+        "xref_name": "nuclear matrix",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032991",
+        "xref_name": "protein-containing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004402",
+        "xref_name": "histone acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0010485",
+        "xref_name": "histone H4 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016746",
+        "xref_name": "acyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0032931",
+        "xref_name": "histone H3K56 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0036408",
+        "xref_name": "histone H3K14 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042393",
+        "xref_name": "histone binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043992",
+        "xref_name": "histone H3K9 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043993",
+        "xref_name": "histone H3K18 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043994",
+        "xref_name": "histone H3K23 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043995",
+        "xref_name": "histone H4K5 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043996",
+        "xref_name": "histone H4K8 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043997",
+        "xref_name": "histone H4K12 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043999",
+        "xref_name": "histone H2AK5 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0044012",
+        "xref_name": "histone H2AK9 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0044014",
+        "xref_name": "histone H2BK5 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0044015",
+        "xref_name": "histone H2BK12 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0044016",
+        "xref_name": "histone H3K4 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0044017",
+        "xref_name": "histone H3K27 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0044018",
+        "xref_name": "histone H3K36 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046972",
+        "xref_name": "histone H4K16 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0061733",
+        "xref_name": "peptide-lysine-N-acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140908",
+        "xref_name": "histone H3K122 acetyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006334",
+        "xref_name": "nucleosome assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031509",
+        "xref_name": "subtelomeric heterochromatin formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051276",
+        "xref_name": "chromosome organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:4821",
+        "xref_name": "HAT1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "O14929",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR013523",
+        "xref_name": "Hist_AcTrfase_HAT1_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016181",
+        "xref_name": "Acyl_CoA_acyltransferase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017380",
+        "xref_name": "Hist_AcTrfase_B-typ_cat-su",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR019467",
+        "xref_name": "Hat1_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR037113",
+        "xref_name": "Hat1_N_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR048776",
+        "xref_name": "HAT1_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR12046",
+        "xref_name": "HISTONE ACETYLTRANSFERASE TYPE B CATALYTIC SUBUNIT",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2P0W",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6VO5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9MJG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2P0W",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6VO5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9MJG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF10394",
+        "xref_name": "Hat1_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF21183",
+        "xref_name": "HAT1_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA29197",
+        "xref_name": "histone acetyltransferase 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "O14929",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-3214847",
+        "xref_name": "HATs acetylate histones",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "O14929",
+        "xref_name": "Histone acetyltransferase type B catalytic subunit",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q49A44",
+        "xref_name": "Histone acetyltransferase type B catalytic subunit",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q53QF0",
+        "xref_name": "Histone acetyltransferase type B catalytic subunit",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q53SU4",
+        "xref_name": "Histone acetyltransferase type B catalytic subunit",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6P594",
+        "xref_name": "Histone acetyltransferase type B catalytic subunit",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WWB9",
+        "xref_name": "Histone acetyltransferase type B catalytic subunit",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4523128"
+      },
+      {
+        "target_chembl_id": "CHEMBL5465253"
+      },
+      {
+        "target_chembl_id": "CHEMBL6066577"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

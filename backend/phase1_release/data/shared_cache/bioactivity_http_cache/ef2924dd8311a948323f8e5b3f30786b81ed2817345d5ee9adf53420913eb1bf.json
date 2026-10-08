@@ -1,0 +1,411 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "NF-kappa-B inhibitor alpha",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2898",
+    "target_components": [
+      {
+        "accession": "P25963",
+        "component_description": "NF-kappa-B inhibitor alpha",
+        "component_id": 1228,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "I-kappa-B-alpha",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IkappaBalpha",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IKBA",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "IkB-alpha",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MAD3",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Major histocompatibility complex enhancer-binding protein MAD3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NF-kappa-B inhibitor alpha",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NFKBI",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "NFKBIA",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P25963",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P25963",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0033256",
+            "xref_name": "I-kappaB/NF-kappaB complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008139",
+            "xref_name": "nuclear localization sequence binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019899",
+            "xref_name": "enzyme binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031625",
+            "xref_name": "ubiquitin protein ligase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051059",
+            "xref_name": "NF-kappaB binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0007219",
+            "xref_name": "Notch signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007249",
+            "xref_name": "canonical NF-kappaB signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010745",
+            "xref_name": "negative regulation of macrophage derived foam cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010875",
+            "xref_name": "positive regulation of cholesterol efflux",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010888",
+            "xref_name": "negative regulation of lipid storage",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031663",
+            "xref_name": "lipopolysaccharide-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033209",
+            "xref_name": "tumor necrosis factor-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034142",
+            "xref_name": "toll-like receptor 4 signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038061",
+            "xref_name": "non-canonical NF-kappaB signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042127",
+            "xref_name": "regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043124",
+            "xref_name": "negative regulation of canonical NF-kappaB signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045638",
+            "xref_name": "negative regulation of myeloid cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045746",
+            "xref_name": "negative regulation of Notch signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045893",
+            "xref_name": "positive regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050729",
+            "xref_name": "positive regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050853",
+            "xref_name": "B cell receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051247",
+            "xref_name": "positive regulation of protein metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060261",
+            "xref_name": "positive regulation of transcription initiation by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070417",
+            "xref_name": "cellular response to cold",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070427",
+            "xref_name": "nucleotide-binding oligomerization domain containing 1 signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070431",
+            "xref_name": "nucleotide-binding oligomerization domain containing 2 signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070498",
+            "xref_name": "interleukin-1-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:7797",
+            "xref_name": "NFKBIA",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P25963",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR002110",
+            "xref_name": "Ankyrin_rpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036770",
+            "xref_name": "Ankyrin_rpt-contain_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR051070",
+            "xref_name": "NF-kappa-B_inhibitor",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR46680",
+            "xref_name": "NF-KAPPA-B INHIBITOR ALPHA",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR46680:SF1",
+            "xref_name": "NF-KAPPA-B INHIBITOR ALPHA",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1IKN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1NFI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6TTU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6Y1J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1IKN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1NFI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6Y1J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF12796",
+            "xref_name": "Ank_2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA31601",
+            "xref_name": "NFKB inhibitor alpha",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P25963",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1169091",
+            "xref_name": "Activation of NF-kappaB in B cells",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1810476",
+            "xref_name": "RIP-mediated NFkB activation via ZBP1",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-202424",
+            "xref_name": "Downstream TCR signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-209560",
+            "xref_name": "NF-kB is activated and signals survival",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2871837",
+            "xref_name": "FCERI mediated NF-kB activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-445989",
+            "xref_name": "TAK1-dependent IKK and NF-kappa-B activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-4755510",
+            "xref_name": "SUMOylation of immune response proteins",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5603029",
+            "xref_name": "IkBA variant leads to EDA-ID",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5607764",
+            "xref_name": "CLEC7A (Dectin-1) signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5689880",
+            "xref_name": "Ub-specific processing proteases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9020702",
+            "xref_name": "Interleukin-1 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-933542",
+            "xref_name": "TRAF6 mediated NF-kB activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9692916",
+            "xref_name": "SARS-CoV-1 activates/modulates innate immune responses",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9860927",
+            "xref_name": "Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B2R8L6",
+            "xref_name": "NF-kappa-B inhibitor alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P25963",
+            "xref_name": "NF-kappa-B inhibitor alpha",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

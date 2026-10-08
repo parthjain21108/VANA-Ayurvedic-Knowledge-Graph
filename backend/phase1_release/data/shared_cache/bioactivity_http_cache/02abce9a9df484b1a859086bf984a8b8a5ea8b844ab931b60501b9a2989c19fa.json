@@ -1,0 +1,755 @@
+{
+  "data": {
+    "accession": "Q9UQM7",
+    "component_id": 2466,
+    "component_type": "PROTEIN",
+    "description": "Calcium/calmodulin-dependent protein kinase type II subunit alpha",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005516"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007005"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016301"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0032880"
+      },
+      {
+        "go_id": "GO:0035254"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0042803"
+      },
+      {
+        "go_id": "GO:0043065"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0050790"
+      },
+      {
+        "go_id": "GO:0061024"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 269
+      }
+    ],
+    "sequence": "MATITCTRFTEEYQLFEELGKGAFSVVRRCVKVLAGQEYAAKIINTKKLSARDHQKLEREARICRLLKHPNIVRLHDSISEEGHHYLIFDLVTGGELFEDIVAREYYSEADASHCIQQILEAVLHCHQMGVVHRDLKPENLLLASKLKGAAVKLADFGLAIEVEGEQQAWFGFAGTPGYLSPEVLRKDPYGKPVDLWACGVILYILLVGYPPFWDEDQHRLYQQIKAGAYDFPSPEWDTVTPEAKDLINKMLTINPSKRITAAEALKHPWISHRSTVASCMHRQETVDCLKKFNARRKLKGAILTTMLATRNFSGGKSGGNKKSDGVKESSESTNTTIEDEDTKVRKQEIIKVTEQLIEAISNGDFESYTKMCDPGMTAFEPEALGNLVEGLDFHRFYFENLWSRNSKPVHTTILNPHIHLMGDESACIAYIRITQYLDAGGIPRTAQSEETRVWHRRDGKWQIVHFHRSGAPSVLPH",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.11.17",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Calcium/calmodulin-dependent protein kinase type II subunit alpha",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "CAMK2A",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "CAMKA",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "CaMK-II subunit alpha",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "CaM kinase II subunit alpha",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "KIAA0968",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q9UQM7",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q9UQM7",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005954",
+        "xref_name": "calcium- and calmodulin-dependent protein kinase complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0014069",
+        "xref_name": "postsynaptic density",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030425",
+        "xref_name": "dendrite",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030666",
+        "xref_name": "endocytic vesicle membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042995",
+        "xref_name": "cell projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043005",
+        "xref_name": "neuron projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043197",
+        "xref_name": "dendritic spine",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045202",
+        "xref_name": "synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005516",
+        "xref_name": "calmodulin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016301",
+        "xref_name": "kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0035254",
+        "xref_name": "glutamate receptor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042803",
+        "xref_name": "protein homodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000082",
+        "xref_name": "G1/S transition of mitotic cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002931",
+        "xref_name": "response to ischemia",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006468",
+        "xref_name": "protein phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006816",
+        "xref_name": "calcium ion transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007165",
+        "xref_name": "signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010666",
+        "xref_name": "positive regulation of cardiac muscle cell apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0018105",
+        "xref_name": "peptidyl-serine phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0038166",
+        "xref_name": "angiotensin-activated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046427",
+        "xref_name": "positive regulation of receptor signaling pathway via JAK-STAT",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046777",
+        "xref_name": "protein autophosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046928",
+        "xref_name": "regulation of neurotransmitter secretion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048168",
+        "xref_name": "regulation of neuronal synaptic plasticity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051346",
+        "xref_name": "negative regulation of hydrolase activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051928",
+        "xref_name": "positive regulation of calcium ion transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060996",
+        "xref_name": "dendritic spine development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902108",
+        "xref_name": "regulation of mitochondrial membrane permeability involved in apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903076",
+        "xref_name": "regulation of protein localization to plasma membrane",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1990443",
+        "xref_name": "peptidyl-threonine autophosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000124",
+        "xref_name": "regulation of endocannabinoid signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2001222",
+        "xref_name": "regulation of neuron migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:1460",
+        "xref_name": "CAMK2A",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q9UQM7",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008271",
+        "xref_name": "Ser/Thr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013543",
+        "xref_name": "Ca/CaM-dep_prot_kinase-assoc",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017441",
+        "xref_name": "Protein_kinase_ATP_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR032710",
+        "xref_name": "NTF2-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24347",
+        "xref_name": "SERINE/THREONINE-PROTEIN KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2VZ6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3SOA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5IG3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6OF8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6VZK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6W4O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6W4P",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6X5G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6X5Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7KL0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7KL1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7KL2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7REC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UIQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UIR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UIS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UJP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UJQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UJR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UJS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UJT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9EOY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2VZ6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3SOA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5IG3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6OF8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6VZK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6X5G",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6X5Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7KL0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7KL1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7KL2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7REC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7UIQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7UIR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7UIS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7UJP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7UJQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7UJR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7UJS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7UJT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9EOY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00069",
+        "xref_name": "Pkinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF08332",
+        "xref_name": "CaMKII_AD",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA90",
+        "xref_name": "calcium/calmodulin dependent protein kinase II alpha",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q9UQM7",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-111932",
+        "xref_name": "CaMK IV-mediated phosphorylation of CREB",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-3371571",
+        "xref_name": "HSF1-dependent transactivation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-399719",
+        "xref_name": "Trafficking of AMPA receptors",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-4086398",
+        "xref_name": "Ca2+ pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-438066",
+        "xref_name": "Unblocking of NMDA receptors, glutamate binding and activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-442982",
+        "xref_name": "Ras activation upon Ca2+ influx through NMDA receptor",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5576892",
+        "xref_name": "Phase 0 - rapid depolarisation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5578775",
+        "xref_name": "Ion homeostasis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5673000",
+        "xref_name": "RAF activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5673001",
+        "xref_name": "RAF/MAP kinase cascade",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6802946",
+        "xref_name": "Signaling by moderate kinase activity BRAF mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6802952",
+        "xref_name": "Signaling by BRAF and RAF1 fusions",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6802955",
+        "xref_name": "Paradoxical activation of RAF signaling by kinase inactive BRAF",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-877300",
+        "xref_name": "Interferon gamma signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9022692",
+        "xref_name": "Regulation of MECP2 expression and activity",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-936837",
+        "xref_name": "Ion transport by P-type ATPases",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9609736",
+        "xref_name": "Assembly and cell surface presentation of NMDA receptors",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9617324",
+        "xref_name": "Negative regulation of NMDA receptor-mediated neuronal transmission",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9620244",
+        "xref_name": "Long-term potentiation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9649948",
+        "xref_name": "Signaling downstream of RAS mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9656223",
+        "xref_name": "Signaling by RAF1 mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q9UL21",
+        "xref_name": "Calcium/calmodulin-dependent protein kinase type II subunit alpha",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UQM7",
+        "xref_name": "Calcium/calmodulin-dependent protein kinase type II subunit alpha",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9Y2H4",
+        "xref_name": "Calcium/calmodulin-dependent protein kinase type II subunit alpha",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9Y352",
+        "xref_name": "Calcium/calmodulin-dependent protein kinase type II subunit alpha",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4147"
+      },
+      {
+        "target_chembl_id": "CHEMBL2097164"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

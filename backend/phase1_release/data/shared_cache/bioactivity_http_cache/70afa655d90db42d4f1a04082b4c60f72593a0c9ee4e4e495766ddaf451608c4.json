@@ -1,0 +1,535 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Protein arginine N-methyltransferase 1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5524",
+    "target_components": [
+      {
+        "accession": "Q99873",
+        "component_description": "Protein arginine N-methyltransferase 1",
+        "component_id": 5363,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.1.1.319",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Histone-arginine N-methyltransferase PRMT1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HMT2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "HRMT1L2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "HRMT1L2 {ECO:0000303|PubMed:11097842",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Interferon receptor 1-bound protein 4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IR1B4",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "PRMT1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Protein arginine N-methyltransferase 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=HMT2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q99873",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q99873",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005764",
+            "xref_name": "lysosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005765",
+            "xref_name": "lysosomal membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034709",
+            "xref_name": "methylosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003723",
+            "xref_name": "RNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008168",
+            "xref_name": "methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008170",
+            "xref_name": "N-methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008276",
+            "xref_name": "protein methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008327",
+            "xref_name": "methyl-CpG binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016274",
+            "xref_name": "protein-arginine N-methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019899",
+            "xref_name": "enzyme binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0035241",
+            "xref_name": "protein-arginine omega-N monomethyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0035242",
+            "xref_name": "protein-arginine omega-N asymmetric methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0035642",
+            "xref_name": "histone H3R17 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042054",
+            "xref_name": "histone methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044020",
+            "xref_name": "histone H4R3 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0048273",
+            "xref_name": "mitogen-activated protein kinase p38 binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0062122",
+            "xref_name": "histone H3K37 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070611",
+            "xref_name": "histone H3R2 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140592",
+            "xref_name": "histone H3R8 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140759",
+            "xref_name": "histone H3K56 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140903",
+            "xref_name": "histone H3R26 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140984",
+            "xref_name": "histone H4K12 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904047",
+            "xref_name": "S-adenosyl-L-methionine binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990259",
+            "xref_name": "histone H2AQ104 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001701",
+            "xref_name": "in utero embryonic development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006479",
+            "xref_name": "protein methylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006974",
+            "xref_name": "DNA damage response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007166",
+            "xref_name": "cell surface receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008284",
+            "xref_name": "positive regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008380",
+            "xref_name": "RNA splicing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019082",
+            "xref_name": "viral protein processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030510",
+            "xref_name": "regulation of BMP signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032259",
+            "xref_name": "methylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045648",
+            "xref_name": "positive regulation of erythrocyte differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045652",
+            "xref_name": "regulation of megakaryocyte differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045653",
+            "xref_name": "negative regulation of megakaryocyte differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045727",
+            "xref_name": "positive regulation of translation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046329",
+            "xref_name": "negative regulation of JNK cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046985",
+            "xref_name": "positive regulation of hemoglobin biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048738",
+            "xref_name": "cardiac muscle tissue development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051260",
+            "xref_name": "protein homooligomerization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061431",
+            "xref_name": "cellular response to methionine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900745",
+            "xref_name": "positive regulation of p38MAPK cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904263",
+            "xref_name": "positive regulation of TORC1 signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905168",
+            "xref_name": "positive regulation of double-strand break repair via homologous recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:5187",
+            "xref_name": "PRMT1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q99873",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR025799",
+            "xref_name": "Arg_MeTrfase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR029063",
+            "xref_name": "SAM-dependent_MTases_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR041698",
+            "xref_name": "Methyltransf_25",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR055135",
+            "xref_name": "PRMT_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11006",
+            "xref_name": "PROTEIN ARGININE N-METHYLTRANSFERASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11006:SF54",
+            "xref_name": "PROTEIN ARGININE N-METHYLTRANSFERASE 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "6NT2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8Z2Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8Z7H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8Z7O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9BH4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9BHD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9BHG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6NT2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF13649",
+            "xref_name": "Methyltransf_25",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF22528",
+            "xref_name": "PRMT_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA29461",
+            "xref_name": "protein arginine methyltransferase 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q99873",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-3214858",
+            "xref_name": "RMTs methylate histone arginines",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6804114",
+            "xref_name": "TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8936459",
+            "xref_name": "RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9009391",
+            "xref_name": "Extra-nuclear estrogen signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9018519",
+            "xref_name": "Estrogen-dependent gene expression",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9694631",
+            "xref_name": "Maturation of nucleoprotein",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A0A087X1W2",
+            "xref_name": "Protein arginine N-methyltransferase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4E3C3",
+            "xref_name": "Protein arginine N-methyltransferase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "G5E9B6",
+            "xref_name": "Protein arginine N-methyltransferase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "H7C2I1",
+            "xref_name": "Protein arginine N-methyltransferase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q15529",
+            "xref_name": "Protein arginine N-methyltransferase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q2VP93",
+            "xref_name": "Protein arginine N-methyltransferase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6LEU5",
+            "xref_name": "Protein arginine N-methyltransferase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8WUW5",
+            "xref_name": "Protein arginine N-methyltransferase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q99872",
+            "xref_name": "Protein arginine N-methyltransferase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q99873",
+            "xref_name": "Protein arginine N-methyltransferase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q99874",
+            "xref_name": "Protein arginine N-methyltransferase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NZ04",
+            "xref_name": "Protein arginine N-methyltransferase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NZ05",
+            "xref_name": "Protein arginine N-methyltransferase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NZ06",
+            "xref_name": "Protein arginine N-methyltransferase 1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "accession": "Q9Z0J5",
+    "component_id": 3394,
+    "component_type": "PROTEIN",
+    "description": "Thioredoxin reductase 2, mitochondrial",
+    "go_slims": [
+      {
+        "go_id": "GO:0000166"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0042803"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0065003"
+      }
+    ],
+    "organism": "Rattus norvegicus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MAAIVAALRGSSGRFRPQTRVLTRGTRGAAGAASAAGGQQNFDLLVIGGGSGGLACAKEAAQLGRKVAVADYVEPSPRGTKWGLGGTCVNVGCIPKKLMHQAALLGGMIRDAQHYGWEVAQPVQHNWKAMAEAVQNHVKSLNWGHRVQLQDRKVKYFNIKASFVNEHTVHGVDKAGKVTQLSAKHIVIATGGRPKYPTQVKGALEHGITSDDIFWLKESPGKTLVVGASYVALECAGFLTGIGLDTTVMMRSVPLRGFDQQMASLVTEHMESHGTRFLKGCVPSLIRKLPTNQLQVTWEDLASGKEDVGTFDTVLWAIGRVPETRNLNLEKAGVNTNPKNQKIIVDAQEATSVPHIYAIGDVAEGRPELTPTAIKAGKLLAQRLFGKSSTLMNYSNVPTTVFTPLEYGCVGLSEEEAVALHGQEHIEVYHAYYKPLEFTVADRDASQCYIKMVCMREPPQLVLGLHFLGPNAGEVTQGFALGIQCGASYAQVMQTVGIHPTCSEEVVKLHISKRSGLDPTVTGCUG",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.8.1.9",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Thioredoxin reductase 2, mitochondrial",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Thioredoxin reductase TR3",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Trxr2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Txnrd2",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030424",
+        "xref_name": "axon",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030425",
+        "xref_name": "dendrite",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043025",
+        "xref_name": "neuronal cell body",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004791",
+        "xref_name": "thioredoxin-disulfide reductase (NADPH) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042803",
+        "xref_name": "protein homodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0050660",
+        "xref_name": "flavin adenine dinucleotide binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000305",
+        "xref_name": "response to oxygen radical",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006979",
+        "xref_name": "response to oxidative stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007507",
+        "xref_name": "heart development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030097",
+        "xref_name": "hemopoiesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042542",
+        "xref_name": "response to hydrogen peroxide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0055093",
+        "xref_name": "response to hyperoxia",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0065003",
+        "xref_name": "protein-containing complex assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0098869",
+        "xref_name": "cellular oxidant detoxification",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR001100",
+        "xref_name": "Pyr_nuc-diS_OxRdtase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR004099",
+        "xref_name": "Pyr_nucl-diS_OxRdtase_dimer",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006338",
+        "xref_name": "Thioredoxin/glutathione_Rdtase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR012999",
+        "xref_name": "Pyr_OxRdtase_I_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016156",
+        "xref_name": "FAD/NAD-linked_Rdtase_dimer_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023753",
+        "xref_name": "FAD/NAD-binding_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036188",
+        "xref_name": "FAD/NAD-bd_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR046952",
+        "xref_name": "GSHR/TRXR-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR42737",
+        "xref_name": "GLUTATHIONE REDUCTASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR42737:SF7",
+        "xref_name": "THIOREDOXIN-DISULFIDE REDUCTASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF02852",
+        "xref_name": "Pyr_redox_dim",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF07992",
+        "xref_name": "Pyr_redox_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-RNO-3299685",
+        "xref_name": "Detoxification of Reactive Oxygen Species",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q9Z0J5",
+        "xref_name": "Thioredoxin reductase 2, mitochondrial",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5086"
+      }
+    ],
+    "tax_id": 10116
+  },
+  "ok": true
+}

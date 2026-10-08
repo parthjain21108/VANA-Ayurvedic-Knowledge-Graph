@@ -1,0 +1,409 @@
+{
+  "data": {
+    "accession": "Q6P6C2",
+    "component_id": 10070,
+    "component_type": "PROTEIN",
+    "description": "RNA demethylase ALKBH5",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0003723"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005794"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006397"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008283"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0022607"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0030674"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MAAASGYTDLREKLKSMTSRDNYKAGSREAAAAAAAAVAAAAAAAAAAEPYPVSGAKRKYQEDSDPERSDYEEQQLQKEEEARKVKSGIRQMRLFSQDECAKIEARIDEVVSRAEKGLYNEHTVDRAPLRNKYFFGEGYTYGAQLQKRGPGQERLYPPGDVDEIPEWVHQLVIQKLVEHRVIPEGFVNSAVINDYQPGGCIVSHVDPIHIFERPIVSVSFFSDSALCFGCKFQFKPIRVSEPVLSLPVRRGSVTVLSGYAADEITHCIRPQDIKERRAVIILRKTRLDAPRLETKSLSSSVLPPSYASDRLSGNNRDPALKPKRSHRKADPDAAHRPRILEMDKEENRRSVLLPTHRRRGSFSSENYWRKSYESSEDCSEAAGSPARKVKMRRH",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.14.11.53",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "ABH5",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "ALKBH5",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Alkylated DNA repair protein alkB homolog 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Alpha-ketoglutarate-dependent dioxygenase alkB homolog 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "OFOXD1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "RNA demethylase ALKBH5",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q6P6C2",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q6P6C2",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005794",
+        "xref_name": "Golgi apparatus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016607",
+        "xref_name": "nuclear speck",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042382",
+        "xref_name": "paraspeckles",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003723",
+        "xref_name": "RNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016706",
+        "xref_name": "2-oxoglutarate-dependent dioxygenase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0035515",
+        "xref_name": "oxidative RNA demethylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051213",
+        "xref_name": "dioxygenase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140693",
+        "xref_name": "molecular condensate scaffold activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990931",
+        "xref_name": "mRNA N6-methyladenosine dioxygenase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001666",
+        "xref_name": "response to hypoxia",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006397",
+        "xref_name": "mRNA processing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007283",
+        "xref_name": "spermatogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010793",
+        "xref_name": "regulation of mRNA export from nucleus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030154",
+        "xref_name": "cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043488",
+        "xref_name": "regulation of mRNA stability",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046630",
+        "xref_name": "gamma-delta T cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061157",
+        "xref_name": "mRNA destabilization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0140694",
+        "xref_name": "membraneless organelle assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:25996",
+        "xref_name": "ALKBH5",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q6P6C2",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR027450",
+        "xref_name": "AlkB-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR032860",
+        "xref_name": "ALKBH5",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR037151",
+        "xref_name": "AlkB-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR32074",
+        "xref_name": "RNA DEMETHYLASE ALKBH5",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR32074:SF2",
+        "xref_name": "RNA DEMETHYLASE ALKBH5",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "4NJ4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4NRM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4NRO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4NRP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4NRQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4O61",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4O7X",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4OCT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7V4G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7WKV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7WL0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4NJ4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4NRM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4NRO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4NRP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4NRQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4O61",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4O7X",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4OCT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7V4G",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7WKV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7WL0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF13532",
+        "xref_name": "2OG-FeII_Oxy_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA142671230",
+        "xref_name": "alkB homolog 5, RNA demethylase",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q6P6C2",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-73943",
+        "xref_name": "Reversal of alkylation damage by DNA dioxygenases",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B4DVJ4",
+        "xref_name": "RNA demethylase ALKBH5",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "D3DXC6",
+        "xref_name": "RNA demethylase ALKBH5",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6P6C2",
+        "xref_name": "RNA demethylase ALKBH5",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9NXD6",
+        "xref_name": "RNA demethylase ALKBH5",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3621037"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

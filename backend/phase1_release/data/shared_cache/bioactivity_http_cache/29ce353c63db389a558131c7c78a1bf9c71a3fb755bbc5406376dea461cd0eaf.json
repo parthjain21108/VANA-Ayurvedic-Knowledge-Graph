@@ -1,0 +1,892 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Histone deacetylase 8",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3192",
+    "target_components": [
+      {
+        "accession": "Q9BY41",
+        "component_description": "Histone deacetylase 8",
+        "component_id": 1516,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.5.1.-",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "3.5.1.98",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "HD8",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HDAC8",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "HDACL1 ",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Histone deacetylase 8",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Protein deacetylase HDAC8",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Protein decrotonylase HDAC8",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q9BY41",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q9BY41",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000118",
+            "xref_name": "histone deacetylase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000228",
+            "xref_name": "nuclear chromosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005694",
+            "xref_name": "chromosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004407",
+            "xref_name": "histone deacetylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016787",
+            "xref_name": "hydrolase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030544",
+            "xref_name": "Hsp70 protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031078",
+            "xref_name": "histone H3K14 deacetylase activity, hydrolytic mechanism",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0032129",
+            "xref_name": "histone H3K9 deacetylase activity, hydrolytic mechanism",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0033558",
+            "xref_name": "protein lysine deacetylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034739",
+            "xref_name": "histone H4K16 deacetylase activity, hydrolytic mechanism",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042903",
+            "xref_name": "tubulin deacetylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051879",
+            "xref_name": "Hsp90 protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140297",
+            "xref_name": "DNA-binding transcription factor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140937",
+            "xref_name": "histone H4K12 deacetylase activity, hydrolytic mechanism",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0160008",
+            "xref_name": "protein decrotonylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0160009",
+            "xref_name": "histone decrotonylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0180032",
+            "xref_name": "histone H4K5 deacetylase activity, hydrolytic mechanism",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0180033",
+            "xref_name": "histone H4K8 deacetylase activity, hydrolytic mechanism",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990162",
+            "xref_name": "histone H3K4 deacetylase activity, hydrolytic mechanism",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000122",
+            "xref_name": "negative regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007064",
+            "xref_name": "mitotic sister chromatid cohesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031397",
+            "xref_name": "negative regulation of protein ubiquitination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031647",
+            "xref_name": "regulation of protein stability",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032204",
+            "xref_name": "regulation of telomere maintenance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:13315",
+            "xref_name": "HDAC8",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q9BY41",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000286",
+            "xref_name": "HDACs",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003084",
+            "xref_name": "HDAC_I/II",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023696",
+            "xref_name": "Ureohydrolase_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023801",
+            "xref_name": "His_deacetylse_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR037138",
+            "xref_name": "His_deacetylse_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10625",
+            "xref_name": "HISTONE DEACETYLASE HDAC1-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10625:SF14",
+            "xref_name": "HISTONE DEACETYLASE 8",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1T64",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1T67",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1T69",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1VKG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1W22",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2V5W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2V5X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3EW8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3EWF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3EZP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3EZT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3F06",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3F07",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3F0R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3MZ3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3MZ4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3MZ6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3MZ7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3RQD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3SFF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3SFH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QA0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QA1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QA2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QA3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QA4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QA5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QA6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QA7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4RN0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4RN1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4RN2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5BWZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5D1B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5D1C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5D1D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5DC5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5DC6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5DC7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5DC8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FCW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5THS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5THT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5THU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5THV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5VI6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HSK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ODA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ODB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ODC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7JVU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7JVV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7JVW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1T64",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1T67",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1T69",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1VKG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1W22",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2V5W",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2V5X",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3EW8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3EWF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3EZP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3EZT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3F06",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3F07",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3F0R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3MZ3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3MZ4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3MZ6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3MZ7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3RQD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3SFF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3SFH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QA0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QA1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QA2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QA3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QA4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QA5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QA6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QA7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4RN0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4RN1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4RN2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5BWZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5D1B",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5D1C",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5D1D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5DC5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5DC6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5DC7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5DC8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FCW",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5THS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5THT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5THU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5THV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5VI6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6HSK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6ODA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6ODB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6ODC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7JVU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7JVV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7JVW",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00850",
+            "xref_name": "Hist_deacetyl",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA37766",
+            "xref_name": "histone deacetylase 8",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q9BY41",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-2122947",
+            "xref_name": "NOTCH1 Intracellular Domain Regulates Transcription",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2467813",
+            "xref_name": "Separation of Sister Chromatids",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2500257",
+            "xref_name": "Resolution of Sister Chromatid Cohesion",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2644606",
+            "xref_name": "Constitutive Signaling by NOTCH1 PEST Domain Mutants",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2894862",
+            "xref_name": "Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3214815",
+            "xref_name": "HDACs deacetylate histones",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-350054",
+            "xref_name": "Notch-HLH transcription pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A6ND12",
+            "xref_name": "Histone deacetylase 8",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A6ND61",
+            "xref_name": "Histone deacetylase 8",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A6NET3",
+            "xref_name": "Histone deacetylase 8",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A6NJR3",
+            "xref_name": "Histone deacetylase 8",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A8MQ62",
+            "xref_name": "Histone deacetylase 8",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4DKN0",
+            "xref_name": "Histone deacetylase 8",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4DV22",
+            "xref_name": "Histone deacetylase 8",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86VC8",
+            "xref_name": "Histone deacetylase 8",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9BY41",
+            "xref_name": "Histone deacetylase 8",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NP76",
+            "xref_name": "Histone deacetylase 8",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NYH4",
+            "xref_name": "Histone deacetylase 8",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

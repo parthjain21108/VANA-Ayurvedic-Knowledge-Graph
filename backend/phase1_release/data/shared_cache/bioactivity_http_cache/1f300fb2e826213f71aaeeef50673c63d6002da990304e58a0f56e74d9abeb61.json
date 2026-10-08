@@ -1,0 +1,519 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Tyrosine-protein phosphatase non-receptor type 2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3807",
+    "target_components": [
+      {
+        "accession": "P17706",
+        "component_description": "Tyrosine-protein phosphatase non-receptor type 2",
+        "component_id": 2125,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.1.3.48",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "PTPN2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "PTPT",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "T-cell protein-tyrosine phosphatase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TCPTP",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tyrosine-protein phosphatase non-receptor type 2",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P17706",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P17706",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031904",
+            "xref_name": "endosome lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004721",
+            "xref_name": "phosphoprotein phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004725",
+            "xref_name": "protein tyrosine phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004726",
+            "xref_name": "non-membrane spanning protein tyrosine phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005178",
+            "xref_name": "integrin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019901",
+            "xref_name": "protein kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019905",
+            "xref_name": "syntaxin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030946",
+            "xref_name": "protein tyrosine phosphatase activity, metal-dependent",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030971",
+            "xref_name": "receptor tyrosine kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0097677",
+            "xref_name": "STAT family protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140793",
+            "xref_name": "histone H2AXY142 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000122",
+            "xref_name": "negative regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008285",
+            "xref_name": "negative regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008286",
+            "xref_name": "insulin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010804",
+            "xref_name": "negative regulation of tumor necrosis factor-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010888",
+            "xref_name": "negative regulation of lipid storage",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030183",
+            "xref_name": "B cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030217",
+            "xref_name": "T cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030218",
+            "xref_name": "erythrocyte differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035335",
+            "xref_name": "peptidyl-tyrosine dephosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042059",
+            "xref_name": "negative regulation of epidermal growth factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042593",
+            "xref_name": "glucose homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045650",
+            "xref_name": "negative regulation of macrophage differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045722",
+            "xref_name": "positive regulation of gluconeogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046426",
+            "xref_name": "negative regulation of receptor signaling pathway via JAK-STAT",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046627",
+            "xref_name": "negative regulation of insulin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050728",
+            "xref_name": "negative regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050860",
+            "xref_name": "negative regulation of T cell receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050922",
+            "xref_name": "negative regulation of chemotaxis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060334",
+            "xref_name": "regulation of type II interferon-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060336",
+            "xref_name": "negative regulation of type II interferon-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060339",
+            "xref_name": "negative regulation of type I interferon-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070104",
+            "xref_name": "negative regulation of interleukin-6-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070373",
+            "xref_name": "negative regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902202",
+            "xref_name": "regulation of hepatocyte growth factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902206",
+            "xref_name": "negative regulation of interleukin-2-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902215",
+            "xref_name": "negative regulation of interleukin-4-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902227",
+            "xref_name": "negative regulation of macrophage colony-stimulating factor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902233",
+            "xref_name": "negative regulation of positive thymic T cell selection",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902237",
+            "xref_name": "positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903899",
+            "xref_name": "positive regulation of PERK-mediated unfolded protein response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000587",
+            "xref_name": "negative regulation of platelet-derived growth factor receptor-beta signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9650",
+            "xref_name": "PTPN2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P17706",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000242",
+            "xref_name": "PTP_cat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000387",
+            "xref_name": "Tyr_Pase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003595",
+            "xref_name": "Tyr_Pase_cat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012265",
+            "xref_name": "Ptpn1/Ptpn2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016130",
+            "xref_name": "Tyr_Pase_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR029021",
+            "xref_name": "Prot-tyrosine_phosphatase-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR051985",
+            "xref_name": "NR_tyrosine_phosphatase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR46047",
+            "xref_name": "TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 61F",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR46047:SF1",
+            "xref_name": "TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1L8K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ZZ4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7F5N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7F5O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7UAD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8U0H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8UH6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9C54",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9C55",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9C56",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1L8K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6ZZ4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7F5N",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7F5O",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7UAD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8U0H",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9C54",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9C55",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9C56",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00102",
+            "xref_name": "Y_phosphatase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA33993",
+            "xref_name": "protein tyrosine phosphatase non-receptor type 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P17706",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-6807004",
+            "xref_name": "Negative regulation of MET activity",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-877312",
+            "xref_name": "Regulation of IFNG signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9008059",
+            "xref_name": "Interleukin-37 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9833482",
+            "xref_name": "PKR-mediated signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8K955",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A8MXU3",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "K7ENG3",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P17706",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96AU5",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96HR2",
+            "xref_name": "Tyrosine-protein phosphatase non-receptor type 2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

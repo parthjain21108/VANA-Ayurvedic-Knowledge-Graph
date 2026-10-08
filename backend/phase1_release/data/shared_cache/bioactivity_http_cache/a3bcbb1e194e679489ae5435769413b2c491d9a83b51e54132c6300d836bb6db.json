@@ -1,0 +1,452 @@
+{
+  "data": {
+    "accession": "P0AEK4",
+    "component_id": 165,
+    "component_type": "PROTEIN",
+    "description": "Enoyl-[acyl-carrier-protein] reductase [NADH] FabI",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0006790"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0046677"
+      },
+      {
+        "go_id": "GO:0051287"
+      },
+      {
+        "go_id": "GO:0065003"
+      }
+    ],
+    "organism": "Escherichia coli K-12",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MGFLSGKRILVTGVASKLSIAYGIAQAMHREGAELAFTYQNDKLKGRVEEFAAQLGSDIVLQCDVAEDASIDTMFAELGKVWPKFDGFVHSIGFAPGDQLDGDYVNAVTREGFKIAHDISSYSFVAMAKACRSMLNPGSALLTLSYLGAERAIPNYNVMGLAKASLEANVRYMANAMGPEGVRVNAISAGPIRTLAASGIKDFRKMLAHCEAVTPIRRTVTIEDVGNSAAFLCSDLSAGISGEVVHVDGGFSIAAMNELELK",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.3.1.9",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Enoyl-[acyl-carrier-protein] reductase [NADH] FabI",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ENR",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "envM ",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "fabI",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "NADH-dependent enoyl-ACP reductase",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P0AEK4",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032991",
+        "xref_name": "protein-containing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:1902494",
+        "xref_name": "catalytic complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004318",
+        "xref_name": "enoyl-[acyl-carrier-protein] reductase (NADH) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070404",
+        "xref_name": "NADH binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006633",
+        "xref_name": "fatty acid biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008610",
+        "xref_name": "lipid biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009102",
+        "xref_name": "biotin biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030497",
+        "xref_name": "fatty acid elongation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046677",
+        "xref_name": "response to antibiotic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051289",
+        "xref_name": "protein homotetramerization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "P0AEK4",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002347",
+        "xref_name": "SDR_fam",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR014358",
+        "xref_name": "Enoyl-ACP_Rdtase_NADH",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036291",
+        "xref_name": "NAD(P)-bd_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR43159",
+        "xref_name": "ENOYL-[ACYL-CARRIER-PROTEIN] REDUCTASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR43159:SF2",
+        "xref_name": "ENOYL-[ACYL-CARRIER-PROTEIN] REDUCTASE [NADH], CHLOROPLASTIC",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1C14",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1D8A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1DFG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1DFH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1DFI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1I2Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1I30",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1LX6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1LXC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1MFP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1QG6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1QSG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2FHS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3PJD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3PJE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3PJF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4JQC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4JX8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5CFZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5CG1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5CG2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UM8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UMW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1C14",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1D8A",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1DFG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1DFH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1DFI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1I2Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1I30",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1LX6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1LXC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1MFP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1QG6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1QSG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2FHS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3PJD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3PJE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3PJF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4JQC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4JX8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5CFZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5CG1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5CG2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7UM8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7UMW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF13561",
+        "xref_name": "adh_short_C2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "P0AEK4",
+        "xref_name": "Enoyl-[acyl-carrier-protein] reductase [NADH] FabI",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P29132",
+        "xref_name": "Enoyl-[acyl-carrier-protein] reductase [NADH] FabI",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1857"
+      },
+      {
+        "target_chembl_id": "CHEMBL2364678"
+      }
+    ],
+    "tax_id": 83333
+  },
+  "ok": true
+}

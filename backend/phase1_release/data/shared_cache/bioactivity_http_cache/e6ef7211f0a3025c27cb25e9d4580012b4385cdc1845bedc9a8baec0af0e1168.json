@@ -1,0 +1,876 @@
+{
+  "data": {
+    "accession": "P05231",
+    "component_id": 5726,
+    "component_type": "PROTEIN",
+    "description": "Interleukin-6",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0005102"
+      },
+      {
+        "go_id": "GO:0005125"
+      },
+      {
+        "go_id": "GO:0005138"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005576"
+      },
+      {
+        "go_id": "GO:0005615"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008083"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008219"
+      },
+      {
+        "go_id": "GO:0008283"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0032880"
+      },
+      {
+        "go_id": "GO:0040011"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0043065"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0048870"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 3
+      }
+    ],
+    "sequence": "MNSFSTSAFGPVAFSLGLLLVLPAAFPAPVPPGEDSKDVAAPHRQPLTSSERIDKQIRYILDGISALRKETCNKSNMCESSKEALAENNLNLPKMAEKDGCFQSGFNEETCLVKIITGLLEFEVYLEYLQNRFESSEEQARAVQMSTKVLIQFLQKKAKNLDAITTPDPTTNASLLTKLQAQNQWLQDMTTHLILRSFKEFLQSSLRALRQM",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "B-cell stimulatory factor 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "BSF-2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "CDF",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "CTL differentiation factor",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Hybridoma growth factor",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "IFNB2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "IFN-beta-2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "IL-6",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "IL6",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Interferon beta-2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Interleukin-6",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P05231",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P05231",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005576",
+        "xref_name": "extracellular region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005615",
+        "xref_name": "extracellular space",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005788",
+        "xref_name": "endoplasmic reticulum lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005896",
+        "xref_name": "interleukin-6 receptor complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005102",
+        "xref_name": "signaling receptor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005125",
+        "xref_name": "cytokine activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005138",
+        "xref_name": "interleukin-6 receptor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008083",
+        "xref_name": "growth factor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001781",
+        "xref_name": "neutrophil apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002314",
+        "xref_name": "germinal center B cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002384",
+        "xref_name": "hepatic immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002446",
+        "xref_name": "neutrophil mediated immunity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002548",
+        "xref_name": "monocyte chemotaxis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002639",
+        "xref_name": "positive regulation of immunoglobulin production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002675",
+        "xref_name": "positive regulation of acute inflammatory response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002690",
+        "xref_name": "positive regulation of leukocyte chemotaxis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006955",
+        "xref_name": "immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006959",
+        "xref_name": "humoral immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007259",
+        "xref_name": "cell surface receptor signaling pathway via JAK-STAT",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008284",
+        "xref_name": "positive regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008285",
+        "xref_name": "negative regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010573",
+        "xref_name": "vascular endothelial growth factor production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010574",
+        "xref_name": "regulation of vascular endothelial growth factor production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010575",
+        "xref_name": "positive regulation of vascular endothelial growth factor production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010628",
+        "xref_name": "positive regulation of gene expression",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010718",
+        "xref_name": "positive regulation of epithelial to mesenchymal transition",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010888",
+        "xref_name": "negative regulation of lipid storage",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019221",
+        "xref_name": "cytokine-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030154",
+        "xref_name": "cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030168",
+        "xref_name": "platelet activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031018",
+        "xref_name": "endocrine pancreas development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032682",
+        "xref_name": "negative regulation of chemokine production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032722",
+        "xref_name": "positive regulation of chemokine production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032731",
+        "xref_name": "positive regulation of interleukin-1 beta production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032733",
+        "xref_name": "positive regulation of interleukin-10 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032745",
+        "xref_name": "positive regulation of interleukin-21 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032755",
+        "xref_name": "positive regulation of interleukin-6 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032757",
+        "xref_name": "positive regulation of interleukin-8 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032760",
+        "xref_name": "positive regulation of tumor necrosis factor production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032966",
+        "xref_name": "negative regulation of collagen biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0033138",
+        "xref_name": "positive regulation of peptidyl-serine phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035633",
+        "xref_name": "maintenance of blood-brain barrier",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042102",
+        "xref_name": "positive regulation of T cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042593",
+        "xref_name": "glucose homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043065",
+        "xref_name": "positive regulation of apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043066",
+        "xref_name": "negative regulation of apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043410",
+        "xref_name": "positive regulation of MAPK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045599",
+        "xref_name": "negative regulation of fat cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045669",
+        "xref_name": "positive regulation of osteoblast differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045727",
+        "xref_name": "positive regulation of translation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045765",
+        "xref_name": "regulation of angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045779",
+        "xref_name": "negative regulation of bone resorption",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045893",
+        "xref_name": "positive regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046427",
+        "xref_name": "positive regulation of receptor signaling pathway via JAK-STAT",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048661",
+        "xref_name": "positive regulation of smooth muscle cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050731",
+        "xref_name": "positive regulation of peptidyl-tyrosine phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050768",
+        "xref_name": "negative regulation of neurogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050796",
+        "xref_name": "regulation of insulin secretion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050871",
+        "xref_name": "positive regulation of B cell activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051240",
+        "xref_name": "positive regulation of multicellular organismal process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060252",
+        "xref_name": "positive regulation of glial cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061470",
+        "xref_name": "T follicular helper cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061888",
+        "xref_name": "regulation of astrocyte activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070091",
+        "xref_name": "glucagon secretion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070092",
+        "xref_name": "regulation of glucagon secretion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070102",
+        "xref_name": "interleukin-6-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070301",
+        "xref_name": "cellular response to hydrogen peroxide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071222",
+        "xref_name": "cellular response to lipopolysaccharide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0072540",
+        "xref_name": "T-helper 17 cell lineage commitment",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0072574",
+        "xref_name": "hepatocyte proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090091",
+        "xref_name": "positive regulation of extracellular matrix disassembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090594",
+        "xref_name": "inflammatory response to wounding",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097421",
+        "xref_name": "liver regeneration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097696",
+        "xref_name": "cell surface receptor signaling pathway via STAT",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0150077",
+        "xref_name": "regulation of neuroinflammatory response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0150078",
+        "xref_name": "positive regulation of neuroinflammatory response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1900017",
+        "xref_name": "positive regulation of cytokine production involved in inflammatory response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1901731",
+        "xref_name": "positive regulation of platelet aggregation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902512",
+        "xref_name": "positive regulation of apoptotic DNA fragmentation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902895",
+        "xref_name": "positive regulation of miRNA transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903978",
+        "xref_name": "regulation of microglial cell activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904894",
+        "xref_name": "positive regulation of receptor signaling pathway via STAT",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904996",
+        "xref_name": "positive regulation of leukocyte adhesion to vascular endothelial cell",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000553",
+        "xref_name": "positive regulation of T-helper 2 cell cytokine production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000635",
+        "xref_name": "negative regulation of primary miRNA processing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000660",
+        "xref_name": "negative regulation of interleukin-1-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000676",
+        "xref_name": "positive regulation of type B pancreatic cell apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:6018",
+        "xref_name": "IL6",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P05231",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR003574",
+        "xref_name": "IL-6-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR009079",
+        "xref_name": "4_helix_cytokine-like_core",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR030473",
+        "xref_name": "IL6/GCSF/MGF_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR030474",
+        "xref_name": "IL-6/GCSF/MGF",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR48494",
+        "xref_name": "INTERLEUKIN-6",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR48494:SF1",
+        "xref_name": "INTERLEUKIN-6",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1ALU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1IL6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1P9M",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2IL6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4CNI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4J4L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4NI7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4NI9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4O9H",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZS7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5FUC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7NXZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8D82",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8QY5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8QY6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8YWQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8YWR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1ALU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1P9M",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4CNI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4J4L",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4NI7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4NI9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4O9H",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZS7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5FUC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7NXZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8YWQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8YWR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00489",
+        "xref_name": "IL6",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA198",
+        "xref_name": "interleukin 6",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P05231",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1059683",
+        "xref_name": "Interleukin-6 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-110056",
+        "xref_name": "MAPK3 (ERK1) activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-112411",
+        "xref_name": "MAPK1 (ERK2) activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2559582",
+        "xref_name": "Senescence-Associated Secretory Phenotype (SASP)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-381426",
+        "xref_name": "Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6783783",
+        "xref_name": "Interleukin-10 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6785807",
+        "xref_name": "Interleukin-4 and Interleukin-13 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8853884",
+        "xref_name": "Transcriptional Regulation by VENTX",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8957275",
+        "xref_name": "Post-translational protein phosphorylation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9660821",
+        "xref_name": "ADORA2B mediated anti-inflammatory cytokines production",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9662834",
+        "xref_name": "CD163 mediating an anti-inflammatory response",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P05231",
+        "xref_name": "Interleukin-6",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UCU2",
+        "xref_name": "Interleukin-6",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UCU3",
+        "xref_name": "Interleukin-6",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UCU4",
+        "xref_name": "Interleukin-6",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1795129"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

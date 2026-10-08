@@ -1,0 +1,515 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Cystathionine beta-synthase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3399911",
+    "target_components": [
+      {
+        "accession": "P35520",
+        "component_description": "Cystathionine beta-synthase",
+        "component_id": 9752,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "4.2.1.22",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Beta-thionase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CBS",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Cystathionine beta-synthase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Serine sulfhydrase",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P35520",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P35520",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004122",
+            "xref_name": "cystathionine beta-synthase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016829",
+            "xref_name": "lyase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019899",
+            "xref_name": "enzyme binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030170",
+            "xref_name": "pyridoxal phosphate binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031625",
+            "xref_name": "ubiquitin protein ligase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050421",
+            "xref_name": "nitrite reductase (NO-forming) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904047",
+            "xref_name": "S-adenosyl-L-methionine binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001958",
+            "xref_name": "endochondral ossification",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001974",
+            "xref_name": "blood vessel remodeling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006534",
+            "xref_name": "cysteine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006535",
+            "xref_name": "cysteine biosynthetic process from serine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006563",
+            "xref_name": "L-serine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006565",
+            "xref_name": "L-serine catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006801",
+            "xref_name": "superoxide metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009069",
+            "xref_name": "serine family amino acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010749",
+            "xref_name": "regulation of nitric oxide mediated signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019343",
+            "xref_name": "cysteine biosynthetic process via cystathionine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019344",
+            "xref_name": "cysteine biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019346",
+            "xref_name": "transsulfuration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019448",
+            "xref_name": "L-cysteine catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0021587",
+            "xref_name": "cerebellum morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042262",
+            "xref_name": "DNA protection",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043066",
+            "xref_name": "negative regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043418",
+            "xref_name": "homocysteine catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0044272",
+            "xref_name": "sulfur compound biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050667",
+            "xref_name": "homocysteine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060135",
+            "xref_name": "maternal process involved in female pregnancy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060351",
+            "xref_name": "cartilage development involved in endochondral bone morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070814",
+            "xref_name": "hydrogen sulfide biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071456",
+            "xref_name": "cellular response to hypoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097746",
+            "xref_name": "blood vessel diameter maintenance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:1550",
+            "xref_name": "CBS",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P35520",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000644",
+            "xref_name": "CBS_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001216",
+            "xref_name": "P-phosphate_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001926",
+            "xref_name": "TrpB-like_PALP",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005857",
+            "xref_name": "Cysta_beta_synth",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036052",
+            "xref_name": "TrpB-like_PALP_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046342",
+            "xref_name": "CBS_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046353",
+            "xref_name": "CBS_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050214",
+            "xref_name": "Cys_Synth/Cystath_Beta-Synth",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10314",
+            "xref_name": "CYSTATHIONINE BETA-SYNTHASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1JBQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1M54",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4COO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4L0D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4L27",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4L28",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4L3V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4PCU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4UUU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5MMS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QGT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8S5H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8S5I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8S5J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8S5K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8S5L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8S5M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8STW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9HIF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1JBQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1M54",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4COO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4L0D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4L27",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4L28",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4L3V",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4PCU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4UUU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5MMS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7QGT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8STW",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9HIF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00291",
+            "xref_name": "PALP",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00571",
+            "xref_name": "CBS",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA26123",
+            "xref_name": "cystathionine beta-synthase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P35520",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1614603",
+            "xref_name": "Cysteine formation from homocysteine",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2408508",
+            "xref_name": "Metabolism of ingested SeMet, Sec, MeSec into H2Se",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B2R993",
+            "xref_name": "Cystathionine beta-synthase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D3DSK4",
+            "xref_name": "Cystathionine beta-synthase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P35520",
+            "xref_name": "Cystathionine beta-synthase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q99425",
+            "xref_name": "Cystathionine beta-synthase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9BWC5",
+            "xref_name": "Cystathionine beta-synthase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

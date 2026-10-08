@@ -1,0 +1,1539 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Muscarinic acetylcholine receptor",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2094109",
+    "target_components": [
+      {
+        "accession": "P20309",
+        "component_description": "Muscarinic acetylcholine receptor M3",
+        "component_id": 69,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "CHRM3",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Muscarinic acetylcholine receptor M3",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0019722",
+            "xref_name": "calcium-mediated signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032412",
+            "xref_name": "regulation of monoatomic ion transmembrane transporter activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0004435",
+            "xref_name": "phosphatidylinositol phospholipase C activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016907",
+            "xref_name": "G protein-coupled acetylcholine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0038023",
+            "xref_name": "signaling receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042166",
+            "xref_name": "acetylcholine binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006940",
+            "xref_name": "regulation of smooth muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007197",
+            "xref_name": "adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007207",
+            "xref_name": "phospholipase C-activating G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007213",
+            "xref_name": "G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007271",
+            "xref_name": "synaptic transmission, cholinergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007399",
+            "xref_name": "nervous system development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032024",
+            "xref_name": "positive regulation of insulin secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045987",
+            "xref_name": "positive regulation of smooth muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046541",
+            "xref_name": "saliva secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0095500",
+            "xref_name": "acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099105",
+            "xref_name": "ion channel modulating, G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990806",
+            "xref_name": "ligand-gated ion channel signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005789",
+            "xref_name": "endoplasmic reticulum membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009925",
+            "xref_name": "basal plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016323",
+            "xref_name": "basolateral plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA112",
+            "xref_name": "cholinergic receptor muscarinic 3",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q0VAJ8",
+            "xref_name": "Muscarinic acetylcholine receptor M3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q4QRI3",
+            "xref_name": "Muscarinic acetylcholine receptor M3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5VXY2",
+            "xref_name": "Muscarinic acetylcholine receptor M3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9HB60",
+            "xref_name": "Muscarinic acetylcholine receptor M3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P20309",
+            "xref_name": "Muscarinic acetylcholine receptor M3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "2CSA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8E9W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8E9Y",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8E9Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8EA0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P20309",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P20309",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:1952",
+            "xref_name": "CHRM3",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-390648",
+            "xref_name": "Muscarinic acetylcholine receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-399997",
+            "xref_name": "Acetylcholine regulates insulin secretion",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-416476",
+            "xref_name": "G alpha (q) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P20309",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P20309",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001183",
+            "xref_name": "Musac_Ach_M3_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000995",
+            "xref_name": "Musac_Ach_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24247",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24247:SF183",
+            "xref_name": "MUSCARINIC ACETYLCHOLINE RECEPTOR M3",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P08173",
+        "component_description": "Muscarinic acetylcholine receptor M4",
+        "component_id": 117,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "CHRM4",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Muscarinic acetylcholine receptor M4",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "6KP6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5DSG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016907",
+            "xref_name": "G protein-coupled acetylcholine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007166",
+            "xref_name": "cell surface receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007197",
+            "xref_name": "adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007213",
+            "xref_name": "G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0040012",
+            "xref_name": "regulation of locomotion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0095500",
+            "xref_name": "acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA26485",
+            "xref_name": "cholinergic receptor muscarinic 4",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "B2RPP4",
+            "xref_name": "Muscarinic acetylcholine receptor M4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q0VD60",
+            "xref_name": "Muscarinic acetylcholine receptor M4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q4VBK7",
+            "xref_name": "Muscarinic acetylcholine receptor M4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P08173",
+            "xref_name": "Muscarinic acetylcholine receptor M4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "5DSG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6D9H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6KP6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7LD3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7LD4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7TRK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7TRP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7TRQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7TRS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7V68",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7V69",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7V6A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8E9X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8FX5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8IY9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8IYH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8IYW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8JER",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8JHN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P08173",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P08173",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:1953",
+            "xref_name": "CHRM4",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-390648",
+            "xref_name": "Muscarinic acetylcholine receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-418594",
+            "xref_name": "G alpha (i) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P08173",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001432",
+            "xref_name": "Musac_Ach_M4_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000995",
+            "xref_name": "Musac_Ach_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24247",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24247:SF180",
+            "xref_name": "MUSCARINIC ACETYLCHOLINE RECEPTOR M4",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P11229",
+        "component_description": "Muscarinic acetylcholine receptor M1",
+        "component_id": 170,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "CHRM1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Muscarinic acetylcholine receptor M1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "6ZFZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6WJC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5CXV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6ZG4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6ZG9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "GO:0043270",
+            "xref_name": "positive regulation of monoatomic ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0004435",
+            "xref_name": "phosphatidylinositol phospholipase C activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016907",
+            "xref_name": "G protein-coupled acetylcholine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007197",
+            "xref_name": "adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007200",
+            "xref_name": "phospholipase C-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007207",
+            "xref_name": "phospholipase C-activating G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007213",
+            "xref_name": "G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007274",
+            "xref_name": "neuromuscular synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007399",
+            "xref_name": "nervous system development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0040012",
+            "xref_name": "regulation of locomotion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046541",
+            "xref_name": "saliva secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050890",
+            "xref_name": "cognition",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060251",
+            "xref_name": "regulation of glial cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090316",
+            "xref_name": "positive regulation of intracellular protein transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0095500",
+            "xref_name": "acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099170",
+            "xref_name": "postsynaptic modulation of chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032279",
+            "xref_name": "asymmetric synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042734",
+            "xref_name": "presynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043679",
+            "xref_name": "axon terminus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098685",
+            "xref_name": "Schaffer collateral - CA1 synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098839",
+            "xref_name": "postsynaptic density membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098978",
+            "xref_name": "glutamatergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098981",
+            "xref_name": "cholinergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA26484",
+            "xref_name": "cholinergic receptor muscarinic 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q96RH1",
+            "xref_name": "Muscarinic acetylcholine receptor M1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P11229",
+            "xref_name": "Muscarinic acetylcholine receptor M1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "5CXV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6OIJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6WJC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ZFZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ZG4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ZG9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9JEA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P11229",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P11229",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:1950",
+            "xref_name": "CHRM1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-390648",
+            "xref_name": "Muscarinic acetylcholine receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-416476",
+            "xref_name": "G alpha (q) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P11229",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P11229",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002228",
+            "xref_name": "Musac_Ach_M1_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000995",
+            "xref_name": "Musac_Ach_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24247",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24247:SF182",
+            "xref_name": "MUSCARINIC ACETYLCHOLINE RECEPTOR M1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P08172",
+        "component_description": "Muscarinic acetylcholine receptor M2",
+        "component_id": 364,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "CHRM2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Muscarinic acetylcholine receptor M2",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "5YC8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4MQS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4MQT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5ZK3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5ZKC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5ZKB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3UON",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5ZK8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016907",
+            "xref_name": "G protein-coupled acetylcholine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990763",
+            "xref_name": "arrestin family protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006940",
+            "xref_name": "regulation of smooth muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007188",
+            "xref_name": "adenylate cyclase-modulating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007197",
+            "xref_name": "adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007207",
+            "xref_name": "phospholipase C-activating G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007213",
+            "xref_name": "G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007399",
+            "xref_name": "nervous system development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008016",
+            "xref_name": "regulation of heart contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0095500",
+            "xref_name": "acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099171",
+            "xref_name": "presynaptic modulation of chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030669",
+            "xref_name": "clathrin-coated endocytic vesicle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032279",
+            "xref_name": "asymmetric synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032280",
+            "xref_name": "symmetric synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042734",
+            "xref_name": "presynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043679",
+            "xref_name": "axon terminus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098978",
+            "xref_name": "glutamatergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098981",
+            "xref_name": "cholinergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA111",
+            "xref_name": "cholinergic receptor muscarinic 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q4VBK6",
+            "xref_name": "Muscarinic acetylcholine receptor M2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9P1X9",
+            "xref_name": "Muscarinic acetylcholine receptor M2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P08172",
+            "xref_name": "Muscarinic acetylcholine receptor M2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "3UON",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4MQS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4MQT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5YC8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ZK3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ZK8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ZKB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ZKC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6OIK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6U1N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7T8X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7T90",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7T94",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7T96",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8J8R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8J97",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8JAF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P08172",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P08172",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:1951",
+            "xref_name": "CHRM2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-390648",
+            "xref_name": "Muscarinic acetylcholine receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-418594",
+            "xref_name": "G alpha (i) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8856825",
+            "xref_name": "Cargo recognition for clathrin-mediated endocytosis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8856828",
+            "xref_name": "Clathrin-mediated endocytosis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P08172",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P08172",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001065",
+            "xref_name": "Musac_Ach_M2_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000995",
+            "xref_name": "Musac_Ach_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24247",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24247:SF207",
+            "xref_name": "MUSCARINIC ACETYLCHOLINE RECEPTOR M2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P08912",
+        "component_description": "Muscarinic acetylcholine receptor M5",
+        "component_id": 372,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "CHRM5",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Muscarinic acetylcholine receptor M5",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "6OL9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "GO:0004435",
+            "xref_name": "phosphatidylinositol phospholipase C activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016907",
+            "xref_name": "G protein-coupled acetylcholine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001696",
+            "xref_name": "gastric acid secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007197",
+            "xref_name": "adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007213",
+            "xref_name": "G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0015872",
+            "xref_name": "dopamine transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019226",
+            "xref_name": "transmission of nerve impulse",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0095500",
+            "xref_name": "acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA26486",
+            "xref_name": "cholinergic receptor muscarinic 5",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q96RG7",
+            "xref_name": "Muscarinic acetylcholine receptor M5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P08912",
+            "xref_name": "Muscarinic acetylcholine receptor M5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "6OL9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P08912",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P08912",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:1954",
+            "xref_name": "CHRM5",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-390648",
+            "xref_name": "Muscarinic acetylcholine receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-416476",
+            "xref_name": "G alpha (q) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P08912",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P08912",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000502",
+            "xref_name": "Musac_Ach_M5_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000995",
+            "xref_name": "Musac_Ach_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24247",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24247:SF209",
+            "xref_name": "MUSCARINIC ACETYLCHOLINE RECEPTOR M5",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      }
+    ],
+    "target_type": "PROTEIN FAMILY",
+    "tax_id": 9606
+  },
+  "ok": true
+}

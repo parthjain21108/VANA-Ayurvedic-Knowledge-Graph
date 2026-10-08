@@ -1,0 +1,214 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Trypanosoma brucei",
+    "pref_name": "ATP-dependent 6-phosphofructokinase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5686",
+    "target_components": [
+      {
+        "accession": "O15648",
+        "component_description": "ATP-dependent 6-phosphofructokinase",
+        "component_id": 4008,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.1.11",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "ATP-dependent 6-phosphofructokinase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ATP-PFK",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "pfk",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Phosphofructokinase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Phosphohexokinase",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "O15648",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0020015",
+            "xref_name": "glycosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003872",
+            "xref_name": "6-phosphofructokinase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016301",
+            "xref_name": "kinase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042301",
+            "xref_name": "phosphate ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006002",
+            "xref_name": "fructose 6-phosphate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006096",
+            "xref_name": "glycolytic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061615",
+            "xref_name": "glycolytic process through fructose-6-phosphate",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR000023",
+            "xref_name": "Phosphofructokinase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012004",
+            "xref_name": "PyroP-dep_PFK_TP0108",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR022953",
+            "xref_name": "ATP_PFK",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035966",
+            "xref_name": "PKF_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050929",
+            "xref_name": "PFKA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR45770",
+            "xref_name": "ATP-DEPENDENT 6-PHOSPHOFRUCTOKINASE 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2HIG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3CVL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3F5M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6QU3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6QU4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6QU5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6SY7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HIG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3CVL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3F5M",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6QU3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6QU4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6QU5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6SY7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00365",
+            "xref_name": "PFK",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "O15648",
+            "xref_name": "ATP-dependent 6-phosphofructokinase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 5691
+  },
+  "ok": true
+}

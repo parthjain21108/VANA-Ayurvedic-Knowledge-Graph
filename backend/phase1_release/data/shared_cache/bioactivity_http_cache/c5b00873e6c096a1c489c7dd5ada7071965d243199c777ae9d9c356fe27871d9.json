@@ -1,0 +1,315 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Mus musculus",
+    "pref_name": "5'-nucleotidase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4680034",
+    "target_components": [
+      {
+        "accession": "Q61503",
+        "component_description": "5'-nucleotidase",
+        "component_id": 19626,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.1.3.35",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "3.1.3.5",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "3.1.3.89",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "3.1.3.91",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "3.1.3.99",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "5'-deoxynucleotidase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5'-NT",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5'-nucleotidase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CD_antigen=CD73",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Ecto-5'-nucleotidase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IMP-specific 5'-nucleotidase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Nt5",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Nt5e",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Nte",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Thymidylate 5'-phosphatase",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q61503",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q61503",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009897",
+            "xref_name": "external side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098552",
+            "xref_name": "side of membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000166",
+            "xref_name": "nucleotide binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002953",
+            "xref_name": "5'-deoxynucleotidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008252",
+            "xref_name": "nucleotidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008253",
+            "xref_name": "5'-nucleotidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016787",
+            "xref_name": "hydrolase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016788",
+            "xref_name": "hydrolase activity, acting on ester bonds",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050340",
+            "xref_name": "thymidylate 5'-phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050483",
+            "xref_name": "IMP 5'-nucleotidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050484",
+            "xref_name": "GMP 5'-nucleotidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0106411",
+            "xref_name": "XMP 5'-nucleosidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006196",
+            "xref_name": "AMP catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007159",
+            "xref_name": "leukocyte cell-cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009166",
+            "xref_name": "nucleotide catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046032",
+            "xref_name": "ADP catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046034",
+            "xref_name": "ATP metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046086",
+            "xref_name": "adenosine biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050728",
+            "xref_name": "negative regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055074",
+            "xref_name": "calcium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0140928",
+            "xref_name": "inhibition of non-skeletal tissue mineralization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "Q61503",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR004843",
+            "xref_name": "Calcineurin-like_PHP",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006146",
+            "xref_name": "5'-Nucleotdase_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006179",
+            "xref_name": "5_nucleotidase/apyrase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008334",
+            "xref_name": "5'-Nucleotdase_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR029052",
+            "xref_name": "Metallo-depent_PP-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036907",
+            "xref_name": "5'-Nucleotdase_C_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11575",
+            "xref_name": "5'-NUCLEOTIDASE-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11575:SF24",
+            "xref_name": "5'-NUCLEOTIDASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00149",
+            "xref_name": "Metallophos",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02872",
+            "xref_name": "5_nucleotid_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-MMU-196807",
+            "xref_name": "Nicotinate metabolism",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-MMU-73621",
+            "xref_name": "Pyrimidine catabolism",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-MMU-74259",
+            "xref_name": "Purine catabolism",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q3U3S1",
+            "xref_name": "5'-nucleotidase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q61503",
+            "xref_name": "5'-nucleotidase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 10090
+  },
+  "ok": true
+}

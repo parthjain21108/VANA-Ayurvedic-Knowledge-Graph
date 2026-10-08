@@ -1,0 +1,87 @@
+{
+  "data": {
+    "accession": "Q9YQ12",
+    "component_id": 8072,
+    "component_type": "PROTEIN",
+    "description": "Protease",
+    "go_slims": [
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0008233"
+      }
+    ],
+    "organism": "Human immunodeficiency virus 1",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 78
+      }
+    ],
+    "sequence": "PQITLWQRPFVTIKIEGQLKEALLDTGADDTVLEEMNLPGRWKPKMIGGIGGFIKVRQYDQIVIEICGKKAIGTVLVGPTPVNIIGRNLLTQIGCTLNF",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "protease",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Protease",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "GO:0004190",
+        "xref_name": "aspartic-type endopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006508",
+        "xref_name": "proteolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR001969",
+        "xref_name": "Aspartic_peptidase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001995",
+        "xref_name": "Peptidase_A2_cat",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018061",
+        "xref_name": "Retropepsins",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR021109",
+        "xref_name": "Peptidase_aspartic_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR034170",
+        "xref_name": "Retropepsin-like_cat_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PF00077",
+        "xref_name": "RVP",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "Q9YQ12",
+        "xref_name": null,
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2366517"
+      }
+    ],
+    "tax_id": 11676
+  },
+  "ok": true
+}

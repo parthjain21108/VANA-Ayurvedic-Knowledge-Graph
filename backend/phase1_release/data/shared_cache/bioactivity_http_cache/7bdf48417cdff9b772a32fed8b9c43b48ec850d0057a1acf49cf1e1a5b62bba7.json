@@ -1,0 +1,600 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "DNA topoisomerase 2-alpha",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1806",
+    "target_components": [
+      {
+        "accession": "P11388",
+        "component_description": "DNA topoisomerase 2-alpha",
+        "component_id": 100,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5.6.2.2",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "DNA topoisomerase 2-alpha",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DNA topoisomerase II, alpha isozyme",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TOP2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TOP2A",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P11388",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P11388",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000228",
+            "xref_name": "nuclear chromosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000775",
+            "xref_name": "chromosome, centromeric region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000793",
+            "xref_name": "condensed chromosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001673",
+            "xref_name": "male germ cell nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005730",
+            "xref_name": "nucleolus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009330",
+            "xref_name": "DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032991",
+            "xref_name": "protein-containing complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1990904",
+            "xref_name": "ribonucleoprotein complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000287",
+            "xref_name": "magnesium ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003682",
+            "xref_name": "chromatin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003723",
+            "xref_name": "RNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003916",
+            "xref_name": "DNA topoisomerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003918",
+            "xref_name": "DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005080",
+            "xref_name": "protein kinase C binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008301",
+            "xref_name": "DNA binding, bending",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034335",
+            "xref_name": "DNA negative supercoiling activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043130",
+            "xref_name": "ubiquitin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046982",
+            "xref_name": "protein heterodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000712",
+            "xref_name": "resolution of meiotic recombination intermediates",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000819",
+            "xref_name": "sister chromatid segregation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002244",
+            "xref_name": "hematopoietic progenitor cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006265",
+            "xref_name": "DNA topological change",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006266",
+            "xref_name": "DNA ligation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006974",
+            "xref_name": "DNA damage response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007059",
+            "xref_name": "chromosome segregation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030261",
+            "xref_name": "chromosome condensation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030263",
+            "xref_name": "apoptotic chromosome condensation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0040016",
+            "xref_name": "embryonic cleavage",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042752",
+            "xref_name": "regulation of circadian rhythm",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043065",
+            "xref_name": "positive regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045870",
+            "xref_name": "positive regulation of single stranded viral RNA replication via double stranded DNA intermediate",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048511",
+            "xref_name": "rhythmic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905463",
+            "xref_name": "negative regulation of DNA duplex unwinding",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:11989",
+            "xref_name": "TOP2A",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P11388",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001154",
+            "xref_name": "TopoII_euk",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001241",
+            "xref_name": "Topo_IIA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002205",
+            "xref_name": "Topo_IIA_dom_A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003594",
+            "xref_name": "HATPase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006171",
+            "xref_name": "TOPRIM_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012542",
+            "xref_name": "DTHCT",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013506",
+            "xref_name": "Topo_IIA_bsu_dom2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013757",
+            "xref_name": "Topo_IIA_A_a_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013758",
+            "xref_name": "Topo_IIA_A/C_ab",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013759",
+            "xref_name": "Topo_IIA_B_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013760",
+            "xref_name": "Topo_IIA-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR014721",
+            "xref_name": "Ribsml_uS5_D2-typ_fold_subgr",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018522",
+            "xref_name": "TopoIIA_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020568",
+            "xref_name": "Ribosomal_Su5_D2-typ_SF",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR031660",
+            "xref_name": "TOPRIM_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR034157",
+            "xref_name": "TOPRIM_TopoII",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036890",
+            "xref_name": "HATPase_C_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050634",
+            "xref_name": "DNA_Topoisomerase_II",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10169",
+            "xref_name": "DNA TOPOISOMERASE/GYRASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10169:SF61",
+            "xref_name": "DNA TOPOISOMERASE 2-ALPHA",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1ZXM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1ZXN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4FM9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4R1F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5GWK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NNE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ZY5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ZY6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ZY7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ZY8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8W50",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9BQ6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9BQ7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9BQ9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9BQB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1ZXM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1ZXN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4FM9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4R1F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5GWK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NNE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8W50",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9BQ6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9BQ7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9BQ9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9BQB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00204",
+            "xref_name": "DNA_gyraseB",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00521",
+            "xref_name": "DNA_topoisoIV",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF01751",
+            "xref_name": "Toprim",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02518",
+            "xref_name": "HATPase_c",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF08070",
+            "xref_name": "DTHCT",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF16898",
+            "xref_name": "TOPRIM_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA354",
+            "xref_name": "DNA topoisomerase II alpha",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P11388",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1362277",
+            "xref_name": "Transcription of E2F targets under negative control by DREAM complex",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-4615885",
+            "xref_name": "SUMOylation of DNA replication proteins",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B2RTS1",
+            "xref_name": "DNA topoisomerase 2-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P11388",
+            "xref_name": "DNA topoisomerase 2-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q71UN1",
+            "xref_name": "DNA topoisomerase 2-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q71UQ5",
+            "xref_name": "DNA topoisomerase 2-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9HB24",
+            "xref_name": "DNA topoisomerase 2-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9HB25",
+            "xref_name": "DNA topoisomerase 2-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9HB26",
+            "xref_name": "DNA topoisomerase 2-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UP44",
+            "xref_name": "DNA topoisomerase 2-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UQP9",
+            "xref_name": "DNA topoisomerase 2-alpha",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

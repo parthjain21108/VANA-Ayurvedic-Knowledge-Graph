@@ -1,0 +1,105 @@
+{
+  "data": {
+    "accession": "Q8CM62",
+    "component_id": 19242,
+    "component_type": "PROTEIN",
+    "description": "Sortase",
+    "go_slims": [
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0008233"
+      },
+      {
+        "go_id": "GO:0016020"
+      }
+    ],
+    "organism": "Streptococcus mutans",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1087
+      }
+    ],
+    "sequence": "MKKERQSRKKRSFLRTFLPILLLVIGLALIFNTPIRNALIAWNTNRYQVSNVSKKDIEHNKAAHSSFDFKKVESISTQSVLAAQMAAQKLPVIGGIAIPDLKINLPIFKGLDNVGLTYGAGTMKNDQVMGENNYALASHHVFGMTGSSQMLFSPLERAKEGMEIYLTDKNKVYTYVISEVKTVTPEHVEVIDNRPGQNEVTLVTCTDAGATARTIVHGTYKGENDFNKTSKKIKKAFRQSYNQISF",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Sortase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "srtA",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q8CM62",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0008234",
+        "xref_name": "cysteine-type peptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006508",
+        "xref_name": "proteolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR005754",
+        "xref_name": "Sortase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023365",
+        "xref_name": "Sortase_dom-sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR042007",
+        "xref_name": "Sortase_A",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "4TQX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4TQX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF04203",
+        "xref_name": "Sortase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "Q7CEB1",
+        "xref_name": null,
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8CM62",
+        "xref_name": null,
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4523939"
+      }
+    ],
+    "tax_id": 1309
+  },
+  "ok": true
+}

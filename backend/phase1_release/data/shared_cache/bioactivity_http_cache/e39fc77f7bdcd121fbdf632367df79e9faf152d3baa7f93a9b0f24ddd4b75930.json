@@ -1,0 +1,686 @@
+{
+  "data": {
+    "accession": "P07824",
+    "component_id": 8531,
+    "component_type": "PROTEIN",
+    "description": "Arginase-1",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005615"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006520"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007565"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0009636"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016787"
+      },
+      {
+        "go_id": "GO:0016810"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0071941"
+      }
+    ],
+    "organism": "Rattus norvegicus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 646
+      }
+    ],
+    "sequence": "MSSKPKPIEIIGAPFSKGQPRGGVEKGPAALRKAGLVEKLKETEYNVRDHGDLAFVDVPNDSPFQIVKNPRSVGKANEQLAAVVAETQKNGTISVVLGGDHSMAIGSISGHARVHPDLCVIWVDAHTDINTPLTTSSGNLHGQPVAFLLKELKGKFPDVPGFSWVTPCISAKDIVYIGLRDVDPGEHYIIKTLGIKYFSMTEVDKLGIGKVMEETFSYLLGRKKRPIHLSFDVDGLDPVFTPATGTPVVGGLSYREGLYITEEIYKTGLLSGLDIMEVNPTLGKTPEEVTRTVNTAVALTLSCFGTKREGNHKPETDYLKPPK",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.5.3.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Arg1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Arginase-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Liver-type arginase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Type I arginase",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P07824",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005615",
+        "xref_name": "extracellular space",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005741",
+        "xref_name": "mitochondrial outer membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043025",
+        "xref_name": "neuronal cell body",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004053",
+        "xref_name": "arginase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016787",
+        "xref_name": "hydrolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030145",
+        "xref_name": "manganese ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000050",
+        "xref_name": "urea cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001889",
+        "xref_name": "liver development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001938",
+        "xref_name": "positive regulation of endothelial cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002250",
+        "xref_name": "adaptive immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006525",
+        "xref_name": "arginine metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007565",
+        "xref_name": "female pregnancy",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009635",
+        "xref_name": "response to herbicide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019547",
+        "xref_name": "arginine catabolic process to ornithine",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030324",
+        "xref_name": "lung development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032964",
+        "xref_name": "collagen biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042130",
+        "xref_name": "negative regulation of T cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045087",
+        "xref_name": "innate immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046007",
+        "xref_name": "negative regulation of activated T cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048678",
+        "xref_name": "response to axon injury",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060056",
+        "xref_name": "mammary gland involution",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060135",
+        "xref_name": "maternal process involved in female pregnancy",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060336",
+        "xref_name": "negative regulation of type II interferon-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070301",
+        "xref_name": "cellular response to hydrogen peroxide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070965",
+        "xref_name": "positive regulation of neutrophil mediated killing of fungus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071222",
+        "xref_name": "cellular response to lipopolysaccharide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071377",
+        "xref_name": "cellular response to glucagon stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071549",
+        "xref_name": "cellular response to dexamethasone stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1905541",
+        "xref_name": "regulation of L-arginine import across plasma membrane",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000552",
+        "xref_name": "negative regulation of T-helper 2 cell cytokine production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "P07824",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR006035",
+        "xref_name": "Ureohydrolase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR014033",
+        "xref_name": "Arginase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020855",
+        "xref_name": "Ureohydrolase_Mn_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023696",
+        "xref_name": "Ureohydrolase_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR43782",
+        "xref_name": "ARGINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR43782:SF2",
+        "xref_name": "ARGINASE-1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1D3V",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1HQ5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1HQF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1HQG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1HQH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1HQX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1P8M",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1P8N",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1P8O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1P8P",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1P8Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1P8R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1P8S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1R1O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1RLA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1T4P",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1T4R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1T4S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1T4T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1T5F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1T5G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1TA1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1TBH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1TBJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1TBL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1ZPE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1ZPG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2RLA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3E8Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3E8Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3E9B",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3RLA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4RLA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5RLA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1D3V",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1HQ5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1HQF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1HQG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1HQH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1HQX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1P8M",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1P8N",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1P8O",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1P8P",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1P8Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1P8R",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1P8S",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1R1O",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1RLA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1T4P",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1T4R",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1T4S",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1T4T",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1T5F",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1T5G",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1TA1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1TBH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1TBJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1TBL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1ZPE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1ZPG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2RLA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3E8Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3E8Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3E9B",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3RLA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4RLA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5RLA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00491",
+        "xref_name": "Arginase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-RNO-6798695",
+        "xref_name": "Neutrophil degranulation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-70635",
+        "xref_name": "Urea cycle",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P07824",
+        "xref_name": "Arginase-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5BK93",
+        "xref_name": "Arginase-1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3232699"
+      }
+    ],
+    "tax_id": 10116
+  },
+  "ok": true
+}

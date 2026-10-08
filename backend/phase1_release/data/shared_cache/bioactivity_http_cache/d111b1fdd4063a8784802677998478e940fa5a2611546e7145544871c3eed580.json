@@ -1,0 +1,386 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Serine racemase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4460",
+    "target_components": [
+      {
+        "accession": "Q9GZT4",
+        "component_description": "Serine racemase",
+        "component_id": 2776,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "4.3.1.17",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "4.3.1.18",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "5.1.1.18",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "D-serine ammonia-lyase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "D-serine dehydratase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "L-serine ammonia-lyase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "L-serine dehydratase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Serine racemase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "SRR",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q9GZT4",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q9GZT4",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045177",
+            "xref_name": "apical part of cell",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000287",
+            "xref_name": "magnesium ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003824",
+            "xref_name": "catalytic activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003941",
+            "xref_name": "L-serine ammonia-lyase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005509",
+            "xref_name": "calcium ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008721",
+            "xref_name": "D-serine ammonia-lyase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016594",
+            "xref_name": "glycine binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016829",
+            "xref_name": "lyase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016853",
+            "xref_name": "isomerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0018114",
+            "xref_name": "threonine racemase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030165",
+            "xref_name": "PDZ domain binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030170",
+            "xref_name": "pyridoxal phosphate binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030378",
+            "xref_name": "serine racemase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006520",
+            "xref_name": "amino acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006563",
+            "xref_name": "L-serine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009069",
+            "xref_name": "serine family amino acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042866",
+            "xref_name": "pyruvate biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070178",
+            "xref_name": "D-serine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070179",
+            "xref_name": "D-serine biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:14398",
+            "xref_name": "SRR",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q9GZT4",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000634",
+            "xref_name": "Ser/Thr_deHydtase_PyrdxlP-BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001926",
+            "xref_name": "TrpB-like_PALP",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036052",
+            "xref_name": "TrpB-like_PALP_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR43050",
+            "xref_name": "SERINE / THREONINE RACEMASE FAMILY MEMBER",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR43050:SF1",
+            "xref_name": "SERINE RACEMASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3L6B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3L6R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5X2L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6SLH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ZSP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ZUJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7NBC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7NBD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7NBF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7NBG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7NBH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3L6B",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3L6R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5X2L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6SLH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6ZSP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6ZUJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7NBC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7NBD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7NBF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7NBG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7NBH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00291",
+            "xref_name": "PALP",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA37877",
+            "xref_name": "serine racemase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q9GZT4",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-977347",
+            "xref_name": "Serine metabolism",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "D3DTI5",
+            "xref_name": "Serine racemase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6IA55",
+            "xref_name": "Serine racemase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9GZT4",
+            "xref_name": "Serine racemase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

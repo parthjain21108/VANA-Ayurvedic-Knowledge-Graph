@@ -1,0 +1,571 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Cytochrome P450 1A1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2231",
+    "target_components": [
+      {
+        "accession": "P04798",
+        "component_description": "Cytochrome P450 1A1",
+        "component_id": 572,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.14.14.1",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "4.2.1.152",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "CYP1A1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "CYPIA1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450 1A1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450-C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450 form 6",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450-P1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Hydroperoxy icosatetraenoate dehydratase",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P04798",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P04798",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005743",
+            "xref_name": "mitochondrial inner membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005789",
+            "xref_name": "endoplasmic reticulum membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003824",
+            "xref_name": "catalytic activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004497",
+            "xref_name": "monooxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005506",
+            "xref_name": "iron ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008391",
+            "xref_name": "arachidonate monooxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008395",
+            "xref_name": "steroid hydroxylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016679",
+            "xref_name": "oxidoreductase activity, acting on diphenols and related substances as donors",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016705",
+            "xref_name": "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016712",
+            "xref_name": "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016829",
+            "xref_name": "lyase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019899",
+            "xref_name": "enzyme binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030544",
+            "xref_name": "Hsp70 protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0032451",
+            "xref_name": "demethylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051879",
+            "xref_name": "Hsp90 protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070576",
+            "xref_name": "vitamin D 24-hydroxylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0101020",
+            "xref_name": "estrogen 16-alpha-hydroxylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0101021",
+            "xref_name": "estrogen 2-hydroxylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0102033",
+            "xref_name": "long-chain fatty acid omega-hydroxylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0106256",
+            "xref_name": "hydroperoxy icosatetraenoate dehydratase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0120319",
+            "xref_name": "long-chain fatty acid omega-1 hydroxylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001666",
+            "xref_name": "response to hypoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001676",
+            "xref_name": "long-chain fatty acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001889",
+            "xref_name": "liver development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002933",
+            "xref_name": "lipid hydroxylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006631",
+            "xref_name": "fatty acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006694",
+            "xref_name": "steroid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006778",
+            "xref_name": "porphyrin-containing compound metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006805",
+            "xref_name": "xenobiotic metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008202",
+            "xref_name": "steroid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008210",
+            "xref_name": "estrogen metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009308",
+            "xref_name": "amine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009404",
+            "xref_name": "toxin metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009635",
+            "xref_name": "response to herbicide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009636",
+            "xref_name": "response to toxic substance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009692",
+            "xref_name": "ethylene metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009804",
+            "xref_name": "coumarin metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009812",
+            "xref_name": "flavonoid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0017143",
+            "xref_name": "insecticide metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0018894",
+            "xref_name": "dibenzo-p-dioxin metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0018958",
+            "xref_name": "phenol-containing compound metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019341",
+            "xref_name": "dibenzo-p-dioxin catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019373",
+            "xref_name": "epoxygenase P450 pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035902",
+            "xref_name": "response to immobilization stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042359",
+            "xref_name": "vitamin D metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042445",
+            "xref_name": "hormone metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042572",
+            "xref_name": "retinol metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042759",
+            "xref_name": "long-chain fatty acid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042904",
+            "xref_name": "9-cis-retinoic acid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043010",
+            "xref_name": "camera-type eye development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046209",
+            "xref_name": "nitric oxide metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048565",
+            "xref_name": "digestive tract development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048771",
+            "xref_name": "tissue remodeling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050665",
+            "xref_name": "hydrogen peroxide biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055093",
+            "xref_name": "response to hyperoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060137",
+            "xref_name": "maternal process involved in parturition",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070365",
+            "xref_name": "hepatocyte differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071280",
+            "xref_name": "cellular response to copper ion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071407",
+            "xref_name": "cellular response to organic cyclic compound",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097267",
+            "xref_name": "omega-hydroxylase P450 pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900087",
+            "xref_name": "positive regulation of G1/S transition of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:2595",
+            "xref_name": "CYP1A1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P04798",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001128",
+            "xref_name": "Cyt_P450",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002401",
+            "xref_name": "Cyt_P450_E_grp-I",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008066",
+            "xref_name": "Cyt_P450_E_grp-I_CYP1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017972",
+            "xref_name": "Cyt_P450_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036396",
+            "xref_name": "Cyt_P450_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24289",
+            "xref_name": "STEROID 17-ALPHA-HYDROXYLASE/17,20 LYASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24289:SF21",
+            "xref_name": "CYTOCHROME P450 1A",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "4I8V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6DWM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6DWN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6O5Y",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6UDL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6UDM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4I8V",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6DWM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6DWN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6O5Y",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6UDL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6UDM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00067",
+            "xref_name": "p450",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA27092",
+            "xref_name": "cytochrome P450 family 1 subfamily A member 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P04798",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1989781",
+            "xref_name": "PPARA activates gene expression",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-211981",
+            "xref_name": "Xenobiotics",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2142670",
+            "xref_name": "Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2142816",
+            "xref_name": "Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9018681",
+            "xref_name": "Biosynthesis of protectins",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A4F3V9",
+            "xref_name": "Cytochrome P450 1A1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A4F3W0",
+            "xref_name": "Cytochrome P450 1A1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P04798",
+            "xref_name": "Cytochrome P450 1A1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q53G18",
+            "xref_name": "Cytochrome P450 1A1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

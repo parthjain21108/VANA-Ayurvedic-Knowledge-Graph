@@ -1,0 +1,283 @@
+{
+  "data": {
+    "accession": "D4A3N4",
+    "component_id": 1015,
+    "component_type": "PROTEIN",
+    "description": "Adenylate cyclase type 1",
+    "go_slims": [
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016829"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0050877"
+      }
+    ],
+    "organism": "Rattus norvegicus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 648
+      }
+    ],
+    "sequence": "MAGAPRGQGGGGGAGEPGGAERAAGPGGRRGFRACGEEFACPELEALFRGYTLRLEQAATLKALAVLSLLAGALALAELLGAPGPAPGLAKGSHPVHCILFLALFVVTNVRSLQVSQLQQVGQLALFFSLTFALLCCPFALGGPARSSAGGAMGSAVAEQGVWQLLLVTFVSYALLPVRSLLAIGFGLVVAASHLLVTAALVPAKRPRLWRTLGANALLFFGVNMYGVFVRILTERSQRKAFLQARNCIEDRLRLEDENEKQERLLMSLLPRNVAMEMKEDFLKPPERIFHKIYIQRHDNVSILFADIVGFTGLASQCTAQELVKLLNELFGKFDELATENHCRRIKILGDCYYCVSGLTQPKTDHAHCCVEMGLDMIDTITSVAEATEVDLNMRVGLHTGRVLCGVLGLRKWQYDVWSNDVTLANVMEAAGLPGKVHITKTTLACLNGDYEVEPGHGHERNTFLRTHNIETFFIVPSHRRKIFPGLILSDIKPAKRMKFKTVCYLLVQLMHCRKMFKAEIPFSNVMTCEDDDKRRALRTASEKLRNRSSFSTNVVYTTPGTRVNRYISRLLEARQTELEMADLNFFTLKYKHVEREQKYHQLQDEYFTSAVVLALILATLFGLIYLLVIPQSVAVLLLLVFSICFLVACTLYLHITRVQCFPGCLTIQIRTALCVFIVVLIYSVAQGCVVSCLPWAWSSHSNSSLVVLAAGGRRTVLPALPCESAHHGLLCCLVGTLPLAIFLRVSSLPKMILLSGLTTSYILVLELSGYTKVGGGALSGRSYEPIMAILLFSCTLALHARQVDVRLRLDYLWAAQAEEERDDMERVKLDNKRILFNLLPAHVAQHFLMSNPRNMDLYYQSYSQVGVMFASIPNFNDFYIELDGNNMGVECLRLLNEIIADFDELMDKDFYKDLEKIKTIGSTYMAAVGLAPTAGTRAKKSISSHLSTLADFAIDMFDVLDEINYQSYNDFVLRVGINVGPVVAGVIGARRPQYDIWGNTVNVASRMDSTGVQGRIQSLRYSLSSVEEPGGLGL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "4.6.1.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Adcy1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Adenylate cyclase type 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Synonyms=Adcy1_predicted",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "D4A3N4",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0014069",
+        "xref_name": "postsynaptic density",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098685",
+        "xref_name": "Schaffer collateral - CA1 synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098686",
+        "xref_name": "hippocampal mossy fiber to CA3 synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098793",
+        "xref_name": "presynapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098839",
+        "xref_name": "postsynaptic density membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098978",
+        "xref_name": "glutamatergic synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004016",
+        "xref_name": "adenylate cyclase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008294",
+        "xref_name": "calcium- and calmodulin-responsive adenylate cyclase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016829",
+        "xref_name": "lyase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006171",
+        "xref_name": "cAMP biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007189",
+        "xref_name": "adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007409",
+        "xref_name": "axonogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007616",
+        "xref_name": "long-term memory",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007623",
+        "xref_name": "circadian rhythm",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035556",
+        "xref_name": "intracellular signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042752",
+        "xref_name": "regulation of circadian rhythm",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050804",
+        "xref_name": "modulation of chemical synaptic transmission",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0099171",
+        "xref_name": "presynaptic modulation of chemical synaptic transmission",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1900273",
+        "xref_name": "positive regulation of long-term synaptic potentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR001054",
+        "xref_name": "A/G_cyclase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018297",
+        "xref_name": "A/G_cyclase_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029787",
+        "xref_name": "Nucleotide_cyclase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR030672",
+        "xref_name": "Adcy",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR032628",
+        "xref_name": "AC_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR45627",
+        "xref_name": "ADENYLATE CYCLASE TYPE 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR45627:SF26",
+        "xref_name": "ADENYLATE CYCLASE TYPE 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF00211",
+        "xref_name": "Guanylate_cyc",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF16214",
+        "xref_name": "AC_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-RNO-163615",
+        "xref_name": "PKA activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-170660",
+        "xref_name": "Adenylate cyclase activating pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-170670",
+        "xref_name": "Adenylate cyclase inhibitory pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-418597",
+        "xref_name": "G alpha (z) signalling events",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-5610787",
+        "xref_name": "Hedgehog 'off' state",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "D4A3N4",
+        "xref_name": "Adenylate cyclase type 1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2095179"
+      }
+    ],
+    "tax_id": 10116
+  },
+  "ok": true
+}

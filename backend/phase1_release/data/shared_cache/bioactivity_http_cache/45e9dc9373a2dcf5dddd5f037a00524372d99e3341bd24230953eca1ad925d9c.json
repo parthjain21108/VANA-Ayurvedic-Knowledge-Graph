@@ -1,0 +1,376 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Insulin-like growth factor 2 mRNA-binding protein 1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5465263",
+    "target_components": [
+      {
+        "accession": "Q9NZI8",
+        "component_description": "Insulin-like growth factor 2 mRNA-binding protein 1",
+        "component_id": 22800,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Coding region determinant-binding protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CRD-BP",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CRDBP",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "IGF2BP1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "IGF2 mRNA-binding protein 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IGF-II mRNA-binding protein 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IMP-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IMP1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Insulin-like growth factor 2 mRNA-binding protein 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "VICKZ1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "VICKZ family member 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ZBP-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ZBP1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Zipcode-binding protein 1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q9NZI8",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0000932",
+            "xref_name": "P-body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0010494",
+            "xref_name": "cytoplasmic stress granule",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030027",
+            "xref_name": "lamellipodium",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030175",
+            "xref_name": "filopodium",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030426",
+            "xref_name": "growth cone",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043197",
+            "xref_name": "dendritic spine",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048471",
+            "xref_name": "perinuclear region of cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070937",
+            "xref_name": "CRD-mediated mRNA stability complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1990904",
+            "xref_name": "ribonucleoprotein complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003723",
+            "xref_name": "RNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003729",
+            "xref_name": "mRNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003730",
+            "xref_name": "mRNA 3'-UTR binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0045182",
+            "xref_name": "translation regulator activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0048027",
+            "xref_name": "mRNA 5'-UTR binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990247",
+            "xref_name": "N6-methyladenosine-containing RNA reader activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001817",
+            "xref_name": "regulation of cytokine production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007399",
+            "xref_name": "nervous system development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010610",
+            "xref_name": "regulation of mRNA stability involved in response to stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0017148",
+            "xref_name": "negative regulation of translation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0022013",
+            "xref_name": "pallium cell proliferation in forebrain",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070934",
+            "xref_name": "CRD-mediated mRNA stabilization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097150",
+            "xref_name": "neuronal stem cell population maintenance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0140059",
+            "xref_name": "dendrite arborization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900152",
+            "xref_name": "negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000767",
+            "xref_name": "positive regulation of cytoplasmic translation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:28866",
+            "xref_name": "IGF2BP1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q9NZI8",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000504",
+            "xref_name": "RRM_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004087",
+            "xref_name": "KH_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004088",
+            "xref_name": "KH_dom_type_1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012677",
+            "xref_name": "Nucleotide-bd_a/b_plait_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR034837",
+            "xref_name": "IGF2BP1_RRM1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR034842",
+            "xref_name": "IGF2BP1_RRM2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035979",
+            "xref_name": "RBD_domain_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036612",
+            "xref_name": "KH_dom_type_1_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10288",
+            "xref_name": "KH DOMAIN CONTAINING RNA BINDING PROTEIN",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3KRM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6QEY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3KRM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6QEY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00013",
+            "xref_name": "KH_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00076",
+            "xref_name": "RRM_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA143485501",
+            "xref_name": "insulin like growth factor 2 mRNA binding protein 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q9NZI8",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-428359",
+            "xref_name": "Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5687128",
+            "xref_name": "MAPK6/MAPK4 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "C9JT33",
+            "xref_name": "Insulin-like growth factor 2 mRNA-binding protein 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NZI8",
+            "xref_name": "Insulin-like growth factor 2 mRNA-binding protein 1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,1020 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Rattus norvegicus",
+    "pref_name": "Opioid receptor",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2094129",
+    "target_components": [
+      {
+        "accession": "P33533",
+        "component_description": "Delta-type opioid receptor",
+        "component_id": 1931,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Delta-type opioid receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "D-OR-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DOR-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Opioid receptor A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Oprd1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Ror-a",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P33533",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030672",
+            "xref_name": "synaptic vesicle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032590",
+            "xref_name": "dendrite membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042734",
+            "xref_name": "presynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043679",
+            "xref_name": "axon terminus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098839",
+            "xref_name": "postsynaptic density membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004985",
+            "xref_name": "G protein-coupled opioid receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0033612",
+            "xref_name": "receptor serine/threonine kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0038046",
+            "xref_name": "G protein-coupled enkephalin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042923",
+            "xref_name": "neuropeptide binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007191",
+            "xref_name": "adenylate cyclase-activating dopamine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007193",
+            "xref_name": "adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007200",
+            "xref_name": "phospholipase C-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007218",
+            "xref_name": "neuropeptide signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008344",
+            "xref_name": "adult locomotory behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010629",
+            "xref_name": "negative regulation of gene expression",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031333",
+            "xref_name": "negative regulation of protein-containing complex assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038003",
+            "xref_name": "G protein-coupled opioid receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042755",
+            "xref_name": "eating behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051881",
+            "xref_name": "regulation of mitochondrial membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051924",
+            "xref_name": "regulation of calcium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071456",
+            "xref_name": "cellular response to hypoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097237",
+            "xref_name": "cellular response to toxic substance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000321",
+            "xref_name": "Delta_opi_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001418",
+            "xref_name": "Opioid_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24229",
+            "xref_name": "NEUROPEPTIDES RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24229:SF2",
+            "xref_name": "DELTA-TYPE OPIOID RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-RNO-375276",
+            "xref_name": "Peptide ligand-binding receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-418594",
+            "xref_name": "G alpha (i) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P33533",
+            "xref_name": "Delta-type opioid receptor",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      },
+      {
+        "accession": "P34975",
+        "component_description": "Kappa-type opioid receptor",
+        "component_id": 1932,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Kappa-type opioid receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "K-OR-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "KOR-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Oprk1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Ror-d",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P34975",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016529",
+            "xref_name": "sarcoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030315",
+            "xref_name": "T-tubule",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030672",
+            "xref_name": "synaptic vesicle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042383",
+            "xref_name": "sarcolemma",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042734",
+            "xref_name": "presynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043204",
+            "xref_name": "perikaryon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043679",
+            "xref_name": "axon terminus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004985",
+            "xref_name": "G protein-coupled opioid receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0033612",
+            "xref_name": "receptor serine/threonine kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0038048",
+            "xref_name": "dynorphin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042923",
+            "xref_name": "neuropeptide binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006955",
+            "xref_name": "immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007200",
+            "xref_name": "phospholipase C-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007218",
+            "xref_name": "neuropeptide signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007626",
+            "xref_name": "locomotory behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019233",
+            "xref_name": "sensory perception of pain",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031635",
+            "xref_name": "adenylate cyclase-inhibiting opioid receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033603",
+            "xref_name": "positive regulation of dopamine secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033685",
+            "xref_name": "negative regulation of luteinizing hormone secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038003",
+            "xref_name": "G protein-coupled opioid receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042711",
+            "xref_name": "maternal behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042755",
+            "xref_name": "eating behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0044849",
+            "xref_name": "estrous cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046877",
+            "xref_name": "regulation of saliva secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048148",
+            "xref_name": "behavioral response to cocaine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050951",
+            "xref_name": "sensory perception of temperature stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071222",
+            "xref_name": "cellular response to lipopolysaccharide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071333",
+            "xref_name": "cellular response to glucose stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900745",
+            "xref_name": "positive regulation of p38MAPK cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901381",
+            "xref_name": "positive regulation of potassium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904000",
+            "xref_name": "positive regulation of eating behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990708",
+            "xref_name": "conditioned place preference",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "P34975",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000452",
+            "xref_name": "Kappa_opi_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001418",
+            "xref_name": "Opioid_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24229",
+            "xref_name": "NEUROPEPTIDES RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24229:SF1",
+            "xref_name": "KAPPA-TYPE OPIOID RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-RNO-375276",
+            "xref_name": "Peptide ligand-binding receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-418594",
+            "xref_name": "G alpha (i) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P34975",
+            "xref_name": "Kappa-type opioid receptor",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      },
+      {
+        "accession": "P33535",
+        "component_description": "Mu-type opioid receptor",
+        "component_id": 2192,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "M-OR-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MOR-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Mu-type opioid receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Opioid receptor B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Oprm1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Ror-b",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P33535",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P33535",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005768",
+            "xref_name": "endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005925",
+            "xref_name": "focal adhesion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016529",
+            "xref_name": "sarcoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030315",
+            "xref_name": "T-tubule",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032590",
+            "xref_name": "dendrite membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032839",
+            "xref_name": "dendrite cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042383",
+            "xref_name": "sarcolemma",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042734",
+            "xref_name": "presynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043204",
+            "xref_name": "perikaryon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098982",
+            "xref_name": "GABA-ergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001965",
+            "xref_name": "G-protein alpha-subunit binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004979",
+            "xref_name": "beta-endorphin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004985",
+            "xref_name": "G protein-coupled opioid receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005245",
+            "xref_name": "voltage-gated calcium channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019904",
+            "xref_name": "protein domain specific binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031681",
+            "xref_name": "G-protein beta-subunit binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0038047",
+            "xref_name": "morphine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042923",
+            "xref_name": "neuropeptide binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002438",
+            "xref_name": "acute inflammatory response to antigenic stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006955",
+            "xref_name": "immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007191",
+            "xref_name": "adenylate cyclase-activating dopamine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007193",
+            "xref_name": "adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007197",
+            "xref_name": "adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007200",
+            "xref_name": "phospholipase C-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007218",
+            "xref_name": "neuropeptide signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007626",
+            "xref_name": "locomotory behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019226",
+            "xref_name": "transmission of nerve impulse",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019233",
+            "xref_name": "sensory perception of pain",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031635",
+            "xref_name": "adenylate cyclase-inhibiting opioid receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032100",
+            "xref_name": "positive regulation of appetite",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033685",
+            "xref_name": "negative regulation of luteinizing hormone secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035176",
+            "xref_name": "social behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038003",
+            "xref_name": "G protein-coupled opioid receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042713",
+            "xref_name": "sperm ejaculation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042755",
+            "xref_name": "eating behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043951",
+            "xref_name": "negative regulation of cAMP-mediated signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0044849",
+            "xref_name": "estrous cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045019",
+            "xref_name": "negative regulation of nitric oxide biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045722",
+            "xref_name": "positive regulation of gluconeogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048149",
+            "xref_name": "behavioral response to ethanol",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050769",
+            "xref_name": "positive regulation of neurogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051481",
+            "xref_name": "negative regulation of cytosolic calcium ion concentration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060079",
+            "xref_name": "excitatory postsynaptic potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061358",
+            "xref_name": "negative regulation of Wnt protein secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070588",
+            "xref_name": "calcium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071315",
+            "xref_name": "cellular response to morphine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0080135",
+            "xref_name": "regulation of cellular response to stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099171",
+            "xref_name": "presynaptic modulation of chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0106072",
+            "xref_name": "negative regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000310",
+            "xref_name": "regulation of NMDA receptor activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "P33535",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000105",
+            "xref_name": "Mu_opioid_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001418",
+            "xref_name": "Opioid_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24229",
+            "xref_name": "NEUROPEPTIDES RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24229:SF7",
+            "xref_name": "MU-TYPE OPIOID RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-RNO-111885",
+            "xref_name": "Opioid Signalling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-202040",
+            "xref_name": "G-protein activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-375276",
+            "xref_name": "Peptide ligand-binding receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-418594",
+            "xref_name": "G alpha (i) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P33535",
+            "xref_name": "Mu-type opioid receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q2TV20",
+            "xref_name": "Mu-type opioid receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q2TV21",
+            "xref_name": "Mu-type opioid receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q4VWM5",
+            "xref_name": "Mu-type opioid receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q4VWM7",
+            "xref_name": "Mu-type opioid receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q4VWX7",
+            "xref_name": "Mu-type opioid receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q4VWX8",
+            "xref_name": "Mu-type opioid receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q62846",
+            "xref_name": "Mu-type opioid receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q64064",
+            "xref_name": "Mu-type opioid receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q64120",
+            "xref_name": "Mu-type opioid receptor",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "PROTEIN FAMILY",
+    "tax_id": 10116
+  },
+  "ok": true
+}

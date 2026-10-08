@@ -1,0 +1,545 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Oxysterols receptor LXR-alpha",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2808",
+    "target_components": [
+      {
+        "accession": "Q13133",
+        "component_description": "Oxysterols receptor LXR-alpha",
+        "component_id": 1138,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Liver X receptor alpha",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "LXRA",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "NR1H3",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Nuclear receptor subfamily 1 group H member 3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Oxysterols receptor LXR-alpha",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q13133",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q13133",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000785",
+            "xref_name": "chromatin",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043235",
+            "xref_name": "receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0090575",
+            "xref_name": "RNA polymerase II transcription regulator complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000976",
+            "xref_name": "transcription cis-regulatory region binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000978",
+            "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004879",
+            "xref_name": "nuclear receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015485",
+            "xref_name": "cholesterol binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031490",
+            "xref_name": "chromatin DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0032810",
+            "xref_name": "sterol response element binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043565",
+            "xref_name": "sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000122",
+            "xref_name": "negative regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006629",
+            "xref_name": "lipid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009755",
+            "xref_name": "hormone-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010745",
+            "xref_name": "negative regulation of macrophage derived foam cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010867",
+            "xref_name": "positive regulation of triglyceride biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010875",
+            "xref_name": "positive regulation of cholesterol efflux",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010887",
+            "xref_name": "negative regulation of cholesterol storage",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030154",
+            "xref_name": "cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030522",
+            "xref_name": "intracellular receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032369",
+            "xref_name": "negative regulation of lipid transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032376",
+            "xref_name": "positive regulation of cholesterol transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032411",
+            "xref_name": "positive regulation of transporter activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034145",
+            "xref_name": "positive regulation of toll-like receptor 4 signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042632",
+            "xref_name": "cholesterol homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042752",
+            "xref_name": "regulation of circadian rhythm",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043031",
+            "xref_name": "negative regulation of macrophage activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043277",
+            "xref_name": "apoptotic cell clearance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045723",
+            "xref_name": "positive regulation of fatty acid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045861",
+            "xref_name": "negative regulation of proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045892",
+            "xref_name": "negative regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045893",
+            "xref_name": "positive regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046889",
+            "xref_name": "positive regulation of lipid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048550",
+            "xref_name": "negative regulation of pinocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050728",
+            "xref_name": "negative regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051006",
+            "xref_name": "positive regulation of lipoprotein lipase activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051247",
+            "xref_name": "positive regulation of protein metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055088",
+            "xref_name": "lipid homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055092",
+            "xref_name": "sterol homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060336",
+            "xref_name": "negative regulation of type II interferon-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070328",
+            "xref_name": "triglyceride homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071222",
+            "xref_name": "cellular response to lipopolysaccharide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090188",
+            "xref_name": "negative regulation of pancreatic juice secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090341",
+            "xref_name": "negative regulation of secretion of lysosomal enzymes",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0120163",
+            "xref_name": "negative regulation of cold-induced thermogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903573",
+            "xref_name": "negative regulation of response to endoplasmic reticulum stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:7966",
+            "xref_name": "NR1H3",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q13133",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000536",
+            "xref_name": "Nucl_hrmn_rcpt_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001628",
+            "xref_name": "Znf_hrmn_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001723",
+            "xref_name": "Nuclear_hrmn_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013088",
+            "xref_name": "Znf_NHR/GATA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023257",
+            "xref_name": "Liver_X_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035500",
+            "xref_name": "NHR-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050234",
+            "xref_name": "Nuclear_hormone_rcpt_NR1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24082",
+            "xref_name": "NUCLEAR HORMONE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24082:SF259",
+            "xref_name": "OXYSTEROLS RECEPTOR LXR-ALPHA",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1UHL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3IPQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3IPS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3IPU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5AVI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5AVL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5HJS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1UHL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3IPQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3IPS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3IPU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5AVI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5AVL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5HJS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00104",
+            "xref_name": "Hormone_recep",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00105",
+            "xref_name": "zf-C4",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA31751",
+            "xref_name": "nuclear receptor subfamily 1 group H member 3",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q13133",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1989781",
+            "xref_name": "PPARA activates gene expression",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-383280",
+            "xref_name": "Nuclear Receptor transcription pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-4090294",
+            "xref_name": "SUMOylation of intracellular receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8866427",
+            "xref_name": "VLDLR internalisation and degradation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9029558",
+            "xref_name": "NR1H2 & NR1H3 regulate gene expression linked to lipogenesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9029569",
+            "xref_name": "NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9031525",
+            "xref_name": "NR1H2 & NR1H3 regulate gene expression to limit cholesterol uptake",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9031528",
+            "xref_name": "NR1H2 & NR1H3 regulate gene expression linked to triglyceride lipolysis in adipose",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9623433",
+            "xref_name": "NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9632974",
+            "xref_name": "NR1H2 & NR1H3 regulate gene expression linked to gluconeogenesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8K3J9",
+            "xref_name": "Oxysterols receptor LXR-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D3DQR1",
+            "xref_name": "Oxysterols receptor LXR-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q13133",
+            "xref_name": "Oxysterols receptor LXR-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8IW13",
+            "xref_name": "Oxysterols receptor LXR-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96H87",
+            "xref_name": "Oxysterols receptor LXR-alpha",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

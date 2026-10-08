@@ -1,0 +1,754 @@
+{
+  "data": {
+    "accession": "P10828",
+    "component_id": 270,
+    "component_type": "PROTEIN",
+    "description": "Thyroid hormone receptor beta",
+    "go_slims": [
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0003682"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008134"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008219"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0050877"
+      },
+      {
+        "go_id": "GO:0070324"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 353
+      }
+    ],
+    "sequence": "MTPNSMTENGLTAWDKPKHCPDREHDWKLVGMSEACLHRKSHSERRSTLKNEQSSPHLIQTTWTSSIFHLDHDDVNDQSVSSAQTFQTEEKKCKGYIPSYLDKDELCVVCGDKATGYHYRCITCEGCKGFFRRTIQKNLHPSYSCKYEGKCVIDKVTRNQCQECRFKKCIYVGMATDLVLDDSKRLAKRKLIEENREKRRREELQKSIGHKPEPTDEEWELIKTVTEAHVATNAQGSHWKQKRKFLPEDIGQAPIVNAPEGGKVDLEAFSHFTKIITPAITRVVDFAKKLPMFCELPCEDQIILLKGCCMEIMSLRAAVRYDPESETLTLNGEMAVTRGQLKNGGLGVVSDAIFDLGMSLSSFNLDDTEVALLQAVLLMSSDRPGLACVERIEKYQDSFLLAFEHYINYRKHHVTHFWPKLLMKVTDLRMIGACHASRFLHMKVECPTELFPPLFLEVFED",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "c-erbA-2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "c-erbA-beta",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ERBA2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "NR1A2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Nuclear receptor subfamily 1 group A member 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "THR1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "THRB",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Thyroid hormone receptor beta",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P10828",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P10828",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0000785",
+        "xref_name": "chromatin",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016604",
+        "xref_name": "nuclear body",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0090575",
+        "xref_name": "RNA polymerase II transcription regulator complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000978",
+        "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001223",
+        "xref_name": "transcription coactivator binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003682",
+        "xref_name": "chromatin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004879",
+        "xref_name": "nuclear receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019899",
+        "xref_name": "enzyme binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031490",
+        "xref_name": "chromatin DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043565",
+        "xref_name": "sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070324",
+        "xref_name": "thyroid hormone binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990837",
+        "xref_name": "sequence-specific double-stranded DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000122",
+        "xref_name": "negative regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002154",
+        "xref_name": "thyroid hormone receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002157",
+        "xref_name": "positive regulation of thyroid hormone receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007605",
+        "xref_name": "sensory perception of sound",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007621",
+        "xref_name": "negative regulation of female receptivity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008016",
+        "xref_name": "regulation of heart contraction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008050",
+        "xref_name": "female courtship behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009887",
+        "xref_name": "animal organ morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030154",
+        "xref_name": "cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045892",
+        "xref_name": "negative regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046549",
+        "xref_name": "retinal cone cell development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048384",
+        "xref_name": "retinoic acid receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060509",
+        "xref_name": "type I pneumocyte differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097067",
+        "xref_name": "cellular response to thyroid hormone stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097474",
+        "xref_name": "retinal cone cell apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:11799",
+        "xref_name": "THRB",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P10828",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000536",
+        "xref_name": "Nucl_hrmn_rcpt_lig-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001628",
+        "xref_name": "Znf_hrmn_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001723",
+        "xref_name": "Nuclear_hrmn_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001728",
+        "xref_name": "ThyrH_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013088",
+        "xref_name": "Znf_NHR/GATA",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR035500",
+        "xref_name": "NHR-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050234",
+        "xref_name": "Nuclear_hormone_rcpt_NR1",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24082",
+        "xref_name": "NUCLEAR HORMONE RECEPTOR",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR24082:SF210",
+        "xref_name": "THYROID HORMONE RECEPTOR BETA",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1BSX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1N46",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1NAX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1NQ0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1NQ1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1NQ2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1NUO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1Q4X",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1R6G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1XZX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1Y0X",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2J4A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2NLL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2PIN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3D57",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3GWS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3IMY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3JZC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZO1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6KKB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6KKE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6KNU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6KNV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6KNW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7WLX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7WMG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7WMH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7WMJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7WML",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7WMN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7WMO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8RQN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9IX5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9J0K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1BSX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1N46",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1NAX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1NQ0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1NQ1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1NQ2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1NUO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1Q4X",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1R6G",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1XZX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1Y0X",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2J4A",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2NLL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2PIN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3D57",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3GWS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3IMY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3JZC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZO1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6KKB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6KKE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6KNU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6KNV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6KNW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7WLX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7WMG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7WMH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7WMJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7WML",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7WMN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7WMO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8RQN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9IX5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9J0K",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00104",
+        "xref_name": "Hormone_recep",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00105",
+        "xref_name": "zf-C4",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA36508",
+        "xref_name": "thyroid hormone receptor beta",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P10828",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-383280",
+        "xref_name": "Nuclear Receptor transcription pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-4090294",
+        "xref_name": "SUMOylation of intracellular receptors",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B3KU79",
+        "xref_name": "Thyroid hormone receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P10828",
+        "xref_name": "Thyroid hormone receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P37243",
+        "xref_name": "Thyroid hormone receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q13986",
+        "xref_name": "Thyroid hormone receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q3KP35",
+        "xref_name": "Thyroid hormone receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6WGL2",
+        "xref_name": "Thyroid hormone receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UD41",
+        "xref_name": "Thyroid hormone receptor beta",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1947"
+      },
+      {
+        "target_chembl_id": "CHEMBL2111462"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

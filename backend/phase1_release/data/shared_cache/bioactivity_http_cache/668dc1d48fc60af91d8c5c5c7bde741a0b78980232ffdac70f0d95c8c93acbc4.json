@@ -1,0 +1,524 @@
+{
+  "data": {
+    "accession": "Q01062",
+    "component_id": 2968,
+    "component_type": "PROTEIN",
+    "description": "cGMP-dependent 3',5'-cyclic phosphodiesterase",
+    "go_slims": [
+      {
+        "go_id": "GO:0000166"
+      },
+      {
+        "go_id": "GO:0003013"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005783"
+      },
+      {
+        "go_id": "GO:0005794"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008081"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016787"
+      },
+      {
+        "go_id": "GO:0019904"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0034655"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0042803"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Rattus norvegicus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 97
+      }
+    ],
+    "sequence": "MVLVLHHILIAVVQFLRRGQQVFLKPDEPPPQPCADSLQDALLSLGAVIDIAGLRQAAKDALSAVLPKVETVYTYLVDGESRLVCEDPPHELPQEGKIREAVISRKRLSCDGLGPSDLLGKPLARLVAPLAPDTQVLVIPLLDKETGTVAAVILVHCGQLSDSEEQSLQVVEKHALVALQRVQALQQRRPEAVQNTSADPSEDQKDEKGYTAHDRKILQLCGELYDLDATSLQLKVLRYLQQETQATHCCLLLVSEDNLQLSCKVIGEKVLGEEVSFPLTMGRLGQVVEDKQCIQLKDLTSDDVQQLQNMLGCELRAMLCVPVISRATDQVVALACAFNKLGGDFFTDEDERAIQHCFHYTGTVLTSTLAFQKEQKLKCECQALLQVAKNLFTHLDDVSVLLQEIITEARNLSNAEICSVFLLDQNELVAKVFDGGVVDDESYEIRIPADQGIAGHVATTGQILNIPDAYAHPLFYRGVDDSTGFRTRNILCFPIKNENQEVIGVAELVNKINGPWFSKFDEDLATAFSIYCGISIAHSLLYKKVNEAQYRSHLANEMMMYHMKVSDDEYTKLLHDGIQPVAAIDSNFANFTYTPRSLPEDDTSMAILSMLQDMNFINNYKIDCPTLARFCLMVKKGYRDPPYHNWMHAFSVSHFCYLLYKNLELSNYLEDIEIFALFISCMCHDLDHRGTNNSFQVASKSVLAALYSSEGSVMERHHFAQAIAILNTHGCNIFDHFSRKDYQRMLDLMRDIILATDLAHHLRIFKDLQKMAEVGYDRNNKQHHRLLLCLLMTSCDLSDQTKGWKTTRKIAELIYKEFFSQGDLEKAMGNRPMEMMDREKAYIPELQISFMEHIAMPIYKLLQDLFPKAAELYERVASNREHWTKVSHKFTIRGLPSNNSLDFLDEEYEVPDLDVTRAPVNGCCSLEG",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.1.4.17",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "cGMP-dependent 3',5'-cyclic phosphodiesterase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "cGSPDE",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "CGS-PDE",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Cyclic GMP-stimulated phosphodiesterase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Pde2a",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q01062",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005741",
+        "xref_name": "mitochondrial outer membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005743",
+        "xref_name": "mitochondrial inner membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005783",
+        "xref_name": "endoplasmic reticulum",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005794",
+        "xref_name": "Golgi apparatus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030424",
+        "xref_name": "axon",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030425",
+        "xref_name": "dendrite",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042734",
+        "xref_name": "presynaptic membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0048471",
+        "xref_name": "perinuclear region of cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0097060",
+        "xref_name": "synaptic membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0097457",
+        "xref_name": "hippocampal mossy fiber",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000287",
+        "xref_name": "magnesium ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004114",
+        "xref_name": "3',5'-cyclic-nucleotide phosphodiesterase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004115",
+        "xref_name": "3',5'-cyclic-AMP phosphodiesterase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004118",
+        "xref_name": "3',5'-cGMP-stimulated cyclic-nucleotide phosphodiesterase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004119",
+        "xref_name": "3',5'-cGMP-inhibited cyclic-nucleotide phosphodiesterase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016787",
+        "xref_name": "hydrolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030552",
+        "xref_name": "cAMP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030553",
+        "xref_name": "cGMP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030911",
+        "xref_name": "TPR domain binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0036004",
+        "xref_name": "GAF domain binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042301",
+        "xref_name": "phosphate ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042803",
+        "xref_name": "protein homodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0047555",
+        "xref_name": "3',5'-cyclic-GMP phosphodiesterase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000122",
+        "xref_name": "negative regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003170",
+        "xref_name": "heart valve development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003279",
+        "xref_name": "cardiac septum development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003281",
+        "xref_name": "ventricular septum development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007165",
+        "xref_name": "signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007193",
+        "xref_name": "adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007507",
+        "xref_name": "heart development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010628",
+        "xref_name": "positive regulation of gene expression",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010749",
+        "xref_name": "regulation of nitric oxide mediated signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010752",
+        "xref_name": "regulation of cGMP-mediated signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010754",
+        "xref_name": "negative regulation of cGMP-mediated signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010821",
+        "xref_name": "regulation of mitochondrion organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019933",
+        "xref_name": "cAMP-mediated signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019934",
+        "xref_name": "cGMP-mediated signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035556",
+        "xref_name": "intracellular signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035904",
+        "xref_name": "aorta development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043116",
+        "xref_name": "negative regulation of vascular permeability",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043117",
+        "xref_name": "positive regulation of vascular permeability",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043949",
+        "xref_name": "regulation of cAMP-mediated signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043951",
+        "xref_name": "negative regulation of cAMP-mediated signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046069",
+        "xref_name": "cGMP catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050729",
+        "xref_name": "positive regulation of inflammatory response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060976",
+        "xref_name": "coronary vasculature development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061028",
+        "xref_name": "establishment of endothelial barrier",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071222",
+        "xref_name": "cellular response to lipopolysaccharide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071260",
+        "xref_name": "cellular response to mechanical stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071320",
+        "xref_name": "cellular response to cAMP",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071321",
+        "xref_name": "cellular response to cGMP",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090324",
+        "xref_name": "negative regulation of oxidative phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0106072",
+        "xref_name": "negative regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0141162",
+        "xref_name": "negative regulation of cAMP/PKA signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904613",
+        "xref_name": "cellular response to 2,3,7,8-tetrachlorodibenzodioxine",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "Q01062",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002073",
+        "xref_name": "PDEase_catalytic_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003018",
+        "xref_name": "GAF",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003607",
+        "xref_name": "HD/PDEase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023088",
+        "xref_name": "PDEase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023174",
+        "xref_name": "PDEase_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029016",
+        "xref_name": "GAF-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036971",
+        "xref_name": "PDEase_catalytic_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11347",
+        "xref_name": "CYCLIC NUCLEOTIDE PHOSPHODIESTERASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF00233",
+        "xref_name": "PDEase_I",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF01590",
+        "xref_name": "GAF",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF13185",
+        "xref_name": "GAF_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-RNO-418457",
+        "xref_name": "cGMP effects",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-418555",
+        "xref_name": "G alpha (s) signalling events",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q01062",
+        "xref_name": "cGMP-dependent 3',5'-cyclic phosphodiesterase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4650"
+      }
+    ],
+    "tax_id": 10116
+  },
+  "ok": true
+}

@@ -1,0 +1,643 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Histone-lysine N-methyltransferase NSD2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3108645",
+    "target_components": [
+      {
+        "accession": "O96028",
+        "component_description": "Histone-lysine N-methyltransferase NSD2",
+        "component_id": 8291,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.1.1.357",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Histone-lysine N-methyltransferase NSD2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MMSET",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "MMSET",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Multiple myeloma SET domain-containing protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NSD2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Nuclear SET domain-containing protein 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Protein trithorax-5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=KIAA1090",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TRX5",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "WHSC1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Wolf-Hirschhorn syndrome candidate 1 protein",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "O96028",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "O96028",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000785",
+            "xref_name": "chromatin",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005694",
+            "xref_name": "chromosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005730",
+            "xref_name": "nucleolus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003682",
+            "xref_name": "chromatin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008168",
+            "xref_name": "methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042054",
+            "xref_name": "histone methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042799",
+            "xref_name": "histone H4K20 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043565",
+            "xref_name": "sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046975",
+            "xref_name": "histone H3K36 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140938",
+            "xref_name": "histone H3 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140954",
+            "xref_name": "histone H3K36 dimethyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140955",
+            "xref_name": "histone H3K36 trimethyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000122",
+            "xref_name": "negative regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0003149",
+            "xref_name": "membranous septum morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0003289",
+            "xref_name": "atrial septum primum morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0003290",
+            "xref_name": "atrial septum secundum morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006302",
+            "xref_name": "double-strand break repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032259",
+            "xref_name": "methylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048298",
+            "xref_name": "positive regulation of isotype switching to IgA isotypes",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060348",
+            "xref_name": "bone development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070201",
+            "xref_name": "regulation of establishment of protein localization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2001032",
+            "xref_name": "regulation of double-strand break repair via nonhomologous end joining",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:12766",
+            "xref_name": "NSD2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "O96028",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000313",
+            "xref_name": "PWWP_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001214",
+            "xref_name": "SET_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001841",
+            "xref_name": "Znf_RING",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001965",
+            "xref_name": "Znf_PHD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003616",
+            "xref_name": "Post-SET_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006560",
+            "xref_name": "AWS_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR009071",
+            "xref_name": "HMG_box_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011011",
+            "xref_name": "Znf_FYVE_PHD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013083",
+            "xref_name": "Znf_RING/FYVE/PHD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR019786",
+            "xref_name": "Zinc_finger_PHD-type_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR019787",
+            "xref_name": "Znf_PHD-finger",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036910",
+            "xref_name": "HMG_box_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR041306",
+            "xref_name": "C5HCH",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046341",
+            "xref_name": "SET_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047426",
+            "xref_name": "PHD1_NSD1_2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047434",
+            "xref_name": "PWWP_NSD2_rpt1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047435",
+            "xref_name": "PWWP_NSD2_rpt2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047437",
+            "xref_name": "SET_NSD2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047439",
+            "xref_name": "PHD2_NSD2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047441",
+            "xref_name": "PHD3_NSD2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047442",
+            "xref_name": "PHD5_NSD2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047443",
+            "xref_name": "HMG-box_NSD2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050777",
+            "xref_name": "SET2_Histone-Lys_MeTrsfase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR055197",
+            "xref_name": "PHDvar_NSD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR055198",
+            "xref_name": "NSD_PHD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR059153",
+            "xref_name": "NSD_PHD-1st",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR22884",
+            "xref_name": "SET DOMAIN PROTEINS",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "5LSU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5VC8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6UE6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6XCG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7CRO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7E8D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7LMT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7MDN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7VLN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CVD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9EXW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9EXX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9EXY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9GBF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5LSU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5VC8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6UE6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6XCG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7LMT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7MDN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7VLN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9EXW",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9EXX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9EXY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9GBF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00505",
+            "xref_name": "HMG_box",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00628",
+            "xref_name": "PHD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00855",
+            "xref_name": "PWWP",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00856",
+            "xref_name": "SET",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF17907",
+            "xref_name": "AWS",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF17982",
+            "xref_name": "C5HCH",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF22908",
+            "xref_name": "PHD_NSD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF23004",
+            "xref_name": "PHDvar_NSD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF23011",
+            "xref_name": "PHD-1st_NSD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA37369",
+            "xref_name": "nuclear receptor binding SET domain protein 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "O96028",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-3214841",
+            "xref_name": "PKMTs methylate histone lysines",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693565",
+            "xref_name": "Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693571",
+            "xref_name": "Nonhomologous End-Joining (NHEJ)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693607",
+            "xref_name": "Processing of DNA double-strand break ends",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-69473",
+            "xref_name": "G2/M DNA damage checkpoint",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A2A2T2",
+            "xref_name": "Histone-lysine N-methyltransferase NSD2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A2A2T3",
+            "xref_name": "Histone-lysine N-methyltransferase NSD2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A2A2T4",
+            "xref_name": "Histone-lysine N-methyltransferase NSD2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A7MCZ1",
+            "xref_name": "Histone-lysine N-methyltransferase NSD2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D3DVQ2",
+            "xref_name": "Histone-lysine N-methyltransferase NSD2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O96028",
+            "xref_name": "Histone-lysine N-methyltransferase NSD2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O96031",
+            "xref_name": "Histone-lysine N-methyltransferase NSD2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q4VBY8",
+            "xref_name": "Histone-lysine N-methyltransferase NSD2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q672J1",
+            "xref_name": "Histone-lysine N-methyltransferase NSD2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6IS00",
+            "xref_name": "Histone-lysine N-methyltransferase NSD2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86V01",
+            "xref_name": "Histone-lysine N-methyltransferase NSD2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9BZB4",
+            "xref_name": "Histone-lysine N-methyltransferase NSD2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UI92",
+            "xref_name": "Histone-lysine N-methyltransferase NSD2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UPR2",
+            "xref_name": "Histone-lysine N-methyltransferase NSD2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

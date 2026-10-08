@@ -1,0 +1,349 @@
+{
+  "data": {
+    "accession": "Q8IW41",
+    "component_id": 1421,
+    "component_type": "PROTEIN",
+    "description": "MAP kinase-activated protein kinase 5",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005516"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005856"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 472
+      }
+    ],
+    "sequence": "MSEESDMDKAIKETSILEEYSINWTQKLGAGISGPVRVCVKKSTQERFALKILLDRPKARNEVRLHMMCATHPNIVQIIEVFANSVQFPHESSPRARLLIVMEMMEGGELFHRISQHRHFTEKQASQVTKQIALALRHCHLLNIAHRDLKPENLLFKDNSLDAPVKLCDFGFAKIDQGDLMTPQFTPYYVAPQVLEAQRRHQKEKSGIIPTSPTPYTYNKSCDLWSLGVIIYVMLCGYPPFYSKHHSRTIPKDMRRKIMTGSFEFPEEEWSQISEMAKDVVRKLLKVKPEERLTIEGVLDHPWLNSTEALDNVLPSAQLMMDKAVVAGIQQAHAEQLANMRIQDLKVSLKPLHSVNNPILRKRKLLGTKPKDSVYIHDHENGAEDSNVALEKLRDVIAQCILPQAGKGENEDEKLNEVMQEAWKYNRECKLLRDTLQSFSWNGRGFTDKVDRLKLAEIVKQVIEEQTTSHESQ",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.11.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "MAPK-activated protein kinase 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MAPKAP-K5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MAPKAPK-5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MAPKAPK5",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "MAPKAP kinase 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MAP kinase-activated protein kinase 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MK-5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MK5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "p38-regulated/activated protein kinase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PRAK",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "PRAK",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q8IW41",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q8IW41",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032156",
+        "xref_name": "septin cytoskeleton",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032991",
+        "xref_name": "protein-containing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0002039",
+        "xref_name": "p53 binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005516",
+        "xref_name": "calmodulin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051019",
+        "xref_name": "mitogen-activated protein kinase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000165",
+        "xref_name": "MAPK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007165",
+        "xref_name": "signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007265",
+        "xref_name": "Ras protein signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032007",
+        "xref_name": "negative regulation of TOR signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032206",
+        "xref_name": "positive regulation of telomere maintenance",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035556",
+        "xref_name": "intracellular signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046777",
+        "xref_name": "protein autophosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060999",
+        "xref_name": "positive regulation of dendritic spine development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090398",
+        "xref_name": "cellular senescence",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090400",
+        "xref_name": "stress-induced premature senescence",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1901796",
+        "xref_name": "regulation of signal transduction by p53 class mediator",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:6889",
+        "xref_name": "MAPKAPK5",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q8IW41",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008271",
+        "xref_name": "Ser/Thr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR027442",
+        "xref_name": "MAPKAPK_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050205",
+        "xref_name": "CDPK_Ser/Thr_kinases",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24349",
+        "xref_name": "SERINE/THREONINE-PROTEIN KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF00069",
+        "xref_name": "Pkinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA30633",
+        "xref_name": "MAPK activated protein kinase 5",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q8IW41",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-2559580",
+        "xref_name": "Oxidative Stress Induced Senescence",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5687128",
+        "xref_name": "MAPK6/MAPK4 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6804756",
+        "xref_name": "Regulation of TP53 Activity through Phosphorylation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B3KVA5",
+        "xref_name": "MAP kinase-activated protein kinase 5",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O60491",
+        "xref_name": "MAP kinase-activated protein kinase 5",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q86X46",
+        "xref_name": "MAP kinase-activated protein kinase 5",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8IW41",
+        "xref_name": "MAP kinase-activated protein kinase 5",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9BVX9",
+        "xref_name": "MAP kinase-activated protein kinase 5",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UG86",
+        "xref_name": "MAP kinase-activated protein kinase 5",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3094"
+      },
+      {
+        "target_chembl_id": "CHEMBL6066553"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

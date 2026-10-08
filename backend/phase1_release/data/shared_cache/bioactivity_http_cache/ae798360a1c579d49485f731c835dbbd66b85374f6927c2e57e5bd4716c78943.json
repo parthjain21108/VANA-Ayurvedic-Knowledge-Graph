@@ -1,0 +1,403 @@
+{
+  "data": {
+    "accession": "O00167",
+    "component_id": 5001,
+    "component_type": "PROTEIN",
+    "description": "Protein phosphatase EYA2",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0007005"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016791"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0061024"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1
+      }
+    ],
+    "sequence": "MVELVISPSLTVNSDCLDKLKFNRADAAVWTLSDRQGITKSAPLRVSQLFSRSCPRVLPRQPSTAMAAYGQTQYSAGIQQATPYTAYPPPAQAYGIPSYSIKTEDSLNHSPGQSGFLSYGSSFSTSPTGQSPYTYQMHGTTGFYQGGNGLGNAAGFGSVHQDYPSYPGFPQSQYPQYYGSSYNPPYVPASSICPSPLSTSTYVLQEASHNVPNQSSESLAGEYNTHNGPSTPAKEGDTDRPHRASDGKLRGRSKRSSDPSPAGDNEIERVFVWDLDETIIIFHSLLTGTFASRYGKDTTTSVRIGLMMEEMIFNLADTHLFFNDLEDCDQIHVDDVSSDDNGQDLSTYNFSADGFHSSAPGANLCLGSGVHGGVDWMRKLAFRYRRVKEMYNTYKNNVGGLIGTPKRETWLQLRAELEALTDLWLTHSLKALNLINSRPNCVNVLVTTTQLIPALAKVLLYGLGSVFPIENIYSATKTGKESCFERIMQRFGRKAVYVVIGDGVEEEQGAKKHNMPFWRISCHADLEALRHALELEYL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.1.3.48",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "EAB1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "EYA2",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Eyes absent homolog 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Protein phosphatase EYA2",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "O00167",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "O00167",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000287",
+        "xref_name": "magnesium ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004721",
+        "xref_name": "phosphoprotein phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004725",
+        "xref_name": "protein tyrosine phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004726",
+        "xref_name": "non-membrane spanning protein tyrosine phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030946",
+        "xref_name": "protein tyrosine phosphatase activity, metal-dependent",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140793",
+        "xref_name": "histone H2AXY142 phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006281",
+        "xref_name": "DNA repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007501",
+        "xref_name": "mesodermal cell fate specification",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0014706",
+        "xref_name": "striated muscle tissue development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030154",
+        "xref_name": "cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045739",
+        "xref_name": "positive regulation of DNA repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097192",
+        "xref_name": "extrinsic apoptotic signaling pathway in absence of ligand",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097345",
+        "xref_name": "mitochondrial outer membrane permeabilization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2001240",
+        "xref_name": "negative regulation of extrinsic apoptotic signaling pathway in absence of ligand",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:3520",
+        "xref_name": "EYA2",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "O00167",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR006545",
+        "xref_name": "EYA_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR028472",
+        "xref_name": "EYA",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036412",
+        "xref_name": "HAD-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR038102",
+        "xref_name": "EYA_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR042577",
+        "xref_name": "EYA_dom_metazoan",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR10190",
+        "xref_name": "EYES ABSENT",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR10190:SF7",
+        "xref_name": "EYES ABSENT HOMOLOG 2",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3GEB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3HB0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3HB1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4EGC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5ZMA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7F8G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7F8H",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3GEB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3HB0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3HB1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4EGC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5ZMA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7F8G",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7F8H",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00702",
+        "xref_name": "Hydrolase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA27932",
+        "xref_name": "EYA transcriptional coactivator and phosphatase 2",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "O00167",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-5693565",
+        "xref_name": "Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "O00167",
+        "xref_name": "Protein phosphatase EYA2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5JSW8",
+        "xref_name": "Protein phosphatase EYA2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q86U84",
+        "xref_name": "Protein phosphatase EYA2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96CV6",
+        "xref_name": "Protein phosphatase EYA2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96H97",
+        "xref_name": "Protein phosphatase EYA2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q99503",
+        "xref_name": "Protein phosphatase EYA2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q99812",
+        "xref_name": "Protein phosphatase EYA2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9BWF6",
+        "xref_name": "Protein phosphatase EYA2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9H4S3",
+        "xref_name": "Protein phosphatase EYA2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9H4S9",
+        "xref_name": "Protein phosphatase EYA2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9NPZ4",
+        "xref_name": "Protein phosphatase EYA2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UIX7",
+        "xref_name": "Protein phosphatase EYA2",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1293275"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

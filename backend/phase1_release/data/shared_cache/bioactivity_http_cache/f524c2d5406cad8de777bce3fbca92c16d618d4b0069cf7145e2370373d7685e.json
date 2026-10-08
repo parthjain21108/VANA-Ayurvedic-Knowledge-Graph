@@ -1,0 +1,473 @@
+{
+  "data": {
+    "accession": "P29401",
+    "component_id": 3296,
+    "component_type": "PROTEIN",
+    "description": "Transketolase",
+    "go_slims": [
+      {
+        "go_id": "GO:0003824"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005777"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006091"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016740"
+      },
+      {
+        "go_id": "GO:0042803"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 643
+      }
+    ],
+    "sequence": "MESYHKPDQQKLQALKDTANRLRISSIQATTAAGSGHPTSCCSAAEIMAVLFFHTMRYKSQDPRNPHNDRFVLSKGHAAPILYAVWAEAGFLAEAELLNLRKISSDLDGHPVPKQAFTDVATGSLGQGLGAACGMAYTGKYFDKASYRVYCLLGDGELSEGSVWEAMAFASIYKLDNLVAILDINRLGQSDPAPLQHQMDIYQKRCEAFGWHAIIVDGHSVEELCKAFGQAKHQPTAIIAKTFKGRGITGVEDKESWHGKPLPKNMAEQIIQEIYSQIQSKKKILATPPQEDAPSVDIANIRMPSLPSYKVGDKIATRKAYGQALAKLGHASDRIIALDGDTKNSTFSEIFKKEHPDRFIECYIAEQNMVSIAVGCATRNRTVPFCSTFAAFFTRAFDQIRMAAISESNINLCGSHCGVSIGEDGPSQMALEDLAMFRSVPTSTVFYPSDGVATEKAVELAANTKGICFIRTSRPENAIIYNNNEDFQVGQAKVVLKSKDDQVTVIGAGVTLHEALAAAELLKKEKINIRVLDPFTIKPLDRKLILDSARATKGRILTVEDHYYEGGIGEAVSSAVVGEPGITVTHLAVNRVPRSGKPAELLKMFGIDRDAIAQAVRGLITKA",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.2.1.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "TKT",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Transketolase",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P29401",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P29401",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005777",
+        "xref_name": "peroxisome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005789",
+        "xref_name": "endoplasmic reticulum membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016604",
+        "xref_name": "nuclear body",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000287",
+        "xref_name": "magnesium ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003824",
+        "xref_name": "catalytic activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004802",
+        "xref_name": "transketolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005509",
+        "xref_name": "calcium ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016740",
+        "xref_name": "transferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016744",
+        "xref_name": "transketolase or transaldolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030976",
+        "xref_name": "thiamine pyrophosphate binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042803",
+        "xref_name": "protein homodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006098",
+        "xref_name": "pentose-phosphate shunt",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009052",
+        "xref_name": "pentose-phosphate shunt, non-oxidative branch",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019682",
+        "xref_name": "glyceraldehyde-3-phosphate metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0040008",
+        "xref_name": "regulation of growth",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046166",
+        "xref_name": "glyceraldehyde-3-phosphate biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1901159",
+        "xref_name": "xylulose 5-phosphate biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:11834",
+        "xref_name": "TKT",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P29401",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR005474",
+        "xref_name": "Transketolase_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR005475",
+        "xref_name": "Transketolase-like_Pyr-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR009014",
+        "xref_name": "Transketo_C/PFOR_II",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020826",
+        "xref_name": "Transketolase_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029061",
+        "xref_name": "THDP-binding",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR033248",
+        "xref_name": "Transketolase_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR049557",
+        "xref_name": "Transketolase_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR051424",
+        "xref_name": "Transketolase-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR43195",
+        "xref_name": "TRANSKETOLASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR43195:SF3",
+        "xref_name": "TRANSKETOLASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3MOS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3OOY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4KXU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4KXV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4KXW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4KXX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4KXY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6HA3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6HAD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6RJB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8WA8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8WA9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8WAA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3MOS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3OOY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4KXU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4KXV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4KXW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4KXX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4KXY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6HA3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6HAD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6RJB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8WA8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8WA9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8WAA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00456",
+        "xref_name": "Transketolase_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02779",
+        "xref_name": "Transket_pyr",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02780",
+        "xref_name": "Transketolase_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA36537",
+        "xref_name": "transketolase",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P29401",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-163754",
+        "xref_name": "Insulin effects increased synthesis of Xylulose-5-Phosphate",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-71336",
+        "xref_name": "Pentose phosphate pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9818028",
+        "xref_name": "NFE2L2 regulates pentose phosphate pathway genes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A8K089",
+        "xref_name": "Transketolase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B4DE31",
+        "xref_name": "Transketolase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "E7EPA7",
+        "xref_name": "Transketolase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P29401",
+        "xref_name": "Transketolase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8TBA3",
+        "xref_name": "Transketolase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96HH3",
+        "xref_name": "Transketolase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4983"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

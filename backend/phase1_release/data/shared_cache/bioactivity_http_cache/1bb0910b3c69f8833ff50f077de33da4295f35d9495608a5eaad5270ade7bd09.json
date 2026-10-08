@@ -1,0 +1,561 @@
+{
+  "data": {
+    "accession": "P07437",
+    "component_id": 3737,
+    "component_type": "PROTEIN",
+    "description": "Tubulin beta chain",
+    "go_slims": [
+      {
+        "go_id": "GO:0000166"
+      },
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0003924"
+      },
+      {
+        "go_id": "GO:0005102"
+      },
+      {
+        "go_id": "GO:0005198"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005576"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005856"
+      },
+      {
+        "go_id": "GO:0007010"
+      },
+      {
+        "go_id": "GO:0007017"
+      },
+      {
+        "go_id": "GO:0007049"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0019904"
+      },
+      {
+        "go_id": "GO:0022607"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0030705"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0051301"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 4
+      }
+    ],
+    "sequence": "MREIVHIQAGQCGNQIGAKFWEVISDEHGIDPTGTYHGDSDLQLDRISVYYNEATGGKYVPRAILVDLEPGTMDSVRSGPFGQIFRPDNFVFGQSGAGNNWAKGHYTEGAELVDSVLDVVRKEAESCDCLQGFQLTHSLGGGTGSGMGTLLISKIREEYPDRIMNTFSVVPSPKVSDTVVEPYNATLSVHQLVENTDETYCIDNEALYDICFRTLKLTTPTYGDLNHLVSATMSGVTTCLRFPGQLNADLRKLAVNMVPFPRLHFFMPGFAPLTSRGSQQYRALTVPELTQQVFDAKNMMAACDPRHGRYLTVAAVFRGRMSMKEVDEQMLNVQNKNSSYFVEWIPNNVKTAVCDIPPRGLKMAVTFIGNSTAIQELFKRISEQFTAMFRRKAFLHWYTGEGMDEMEFTEAESNMNDLVSEYQQYQDATAEEEEDFGEEAEEEA",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "TUBB",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "TUBB5 ",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Tubulin beta-5 chain",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Tubulin beta chain",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P07437",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P07437",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005576",
+        "xref_name": "extracellular region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005641",
+        "xref_name": "nuclear envelope lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005856",
+        "xref_name": "cytoskeleton",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005874",
+        "xref_name": "microtubule",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0015630",
+        "xref_name": "microtubule cytoskeleton",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032991",
+        "xref_name": "protein-containing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0035578",
+        "xref_name": "azurophil granule lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0036464",
+        "xref_name": "cytoplasmic ribonucleoprotein granule",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0044297",
+        "xref_name": "cell body",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045121",
+        "xref_name": "membrane raft",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045171",
+        "xref_name": "intercellular bridge",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003924",
+        "xref_name": "GTPase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005198",
+        "xref_name": "structural molecule activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005200",
+        "xref_name": "structural constituent of cytoskeleton",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005525",
+        "xref_name": "GTP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019904",
+        "xref_name": "protein domain specific binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031625",
+        "xref_name": "ubiquitin protein ligase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0032794",
+        "xref_name": "GTPase activating protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042288",
+        "xref_name": "MHC class I protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000226",
+        "xref_name": "microtubule cytoskeleton organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0000278",
+        "xref_name": "mitotic cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007017",
+        "xref_name": "microtubule-based process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030705",
+        "xref_name": "cytoskeleton-dependent intracellular transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042267",
+        "xref_name": "natural killer cell mediated cytotoxicity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050807",
+        "xref_name": "regulation of synapse organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051225",
+        "xref_name": "spindle assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051301",
+        "xref_name": "cell division",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071895",
+        "xref_name": "odontoblast differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:20778",
+        "xref_name": "TUBB",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P07437",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000217",
+        "xref_name": "Tubulin",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR002453",
+        "xref_name": "Beta_tubulin",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003008",
+        "xref_name": "Tubulin_FtsZ_GTPase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008280",
+        "xref_name": "Tub_FtsZ_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013838",
+        "xref_name": "Beta-tubulin_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017975",
+        "xref_name": "Tubulin_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018316",
+        "xref_name": "Tubulin/FtsZ_2-layer-sand-dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023123",
+        "xref_name": "Tubulin_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036525",
+        "xref_name": "Tubulin/FtsZ_GTPase_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR037103",
+        "xref_name": "Tubulin/FtsZ-like_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11588",
+        "xref_name": "TUBULIN",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3QNZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3QO0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5N5N",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6I2I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6QUS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6QUY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6QVE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6QVJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7TRG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7TTN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7TTT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7TUB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7X0S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8BPO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8T42",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8U3Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V2J",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9BP6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3QNZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3QO0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00091",
+        "xref_name": "Tubulin",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF03953",
+        "xref_name": "Tubulin_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA358",
+        "xref_name": "tubulin beta class I",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P07437",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-2565942",
+        "xref_name": "Regulation of PLK1 Activity at G2/M Transition",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-380259",
+        "xref_name": "Loss of Nlp from mitotic centrosomes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-380270",
+        "xref_name": "Recruitment of mitotic centrosome proteins and complexes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-380284",
+        "xref_name": "Loss of proteins required for interphase microtubule organization from the centrosome",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-380320",
+        "xref_name": "Recruitment of NuMA to mitotic centrosomes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5620912",
+        "xref_name": "Anchoring of the basal body to the plasma membrane",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6798695",
+        "xref_name": "Neutrophil degranulation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8854518",
+        "xref_name": "AURKA Activation by TPX2",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9679191",
+        "xref_name": "Potential therapeutics for SARS",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P05218",
+        "xref_name": "Tubulin beta chain",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P07437",
+        "xref_name": "Tubulin beta chain",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WUC1",
+        "xref_name": "Tubulin beta chain",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9CY33",
+        "xref_name": "Tubulin beta chain",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5444"
+      },
+      {
+        "target_chembl_id": "CHEMBL2095182"
+      },
+      {
+        "target_chembl_id": "CHEMBL3832942"
+      },
+      {
+        "target_chembl_id": "CHEMBL3885647"
+      },
+      {
+        "target_chembl_id": "CHEMBL6066847"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

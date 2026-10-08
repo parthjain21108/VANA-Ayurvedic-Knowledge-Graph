@@ -1,0 +1,569 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Dynamin-1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4958",
+    "target_components": [
+      {
+        "accession": "Q05193",
+        "component_description": "Dynamin-1",
+        "component_id": 3271,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.6.5.5",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "DNM",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "DNM1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Dynamin",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Dynamin-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Dynamin I",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q05193",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q05193",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0001917",
+            "xref_name": "photoreceptor inner segment",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005874",
+            "xref_name": "microtubule",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005905",
+            "xref_name": "clathrin-coated pit",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030117",
+            "xref_name": "membrane coat",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098684",
+            "xref_name": "photoreceptor ribbon synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098793",
+            "xref_name": "presynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098835",
+            "xref_name": "presynaptic endocytic zone membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098978",
+            "xref_name": "glutamatergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003723",
+            "xref_name": "RNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003924",
+            "xref_name": "GTPase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005525",
+            "xref_name": "GTP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005546",
+            "xref_name": "phosphatidylinositol-4,5-bisphosphate binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005547",
+            "xref_name": "phosphatidylinositol-3,4,5-trisphosphate binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008017",
+            "xref_name": "microtubule binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016787",
+            "xref_name": "hydrolase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019003",
+            "xref_name": "GDP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019901",
+            "xref_name": "protein kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990606",
+            "xref_name": "membrane scission GTPase motor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006897",
+            "xref_name": "endocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006898",
+            "xref_name": "receptor-mediated endocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016185",
+            "xref_name": "synaptic vesicle budding from presynaptic endocytic zone membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031623",
+            "xref_name": "receptor internalization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048488",
+            "xref_name": "synaptic vesicle endocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050804",
+            "xref_name": "modulation of chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051260",
+            "xref_name": "protein homooligomerization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051289",
+            "xref_name": "protein homotetramerization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097494",
+            "xref_name": "regulation of vesicle size",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099049",
+            "xref_name": "clathrin coat assembly involved in endocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099050",
+            "xref_name": "vesicle scission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:2972",
+            "xref_name": "DNM1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q05193",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000375",
+            "xref_name": "Dynamin_stalk",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001401",
+            "xref_name": "Dynamin_GTPase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001849",
+            "xref_name": "PH_domain",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003130",
+            "xref_name": "GED",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011993",
+            "xref_name": "PH-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR019762",
+            "xref_name": "Dynamin_GTPase_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020850",
+            "xref_name": "GED_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR022812",
+            "xref_name": "Dynamin",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR027417",
+            "xref_name": "P-loop_NTPase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR030381",
+            "xref_name": "G_DYNAMIN_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR045063",
+            "xref_name": "Dynamin_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11566",
+            "xref_name": "DYNAMIN",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11566:SF32",
+            "xref_name": "DYNAMIN-1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1DYN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2DYN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2X2E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2X2F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3SNH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3ZYC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3ZYS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4UUD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4UUK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5D3Q",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6DLU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6DLV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6S9A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7AX3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SXZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SZ4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SZ7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SZ8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8T0K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8T0R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8TYM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8TYN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1DYN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2DYN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2X2E",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2X2F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3SNH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3ZYC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5D3Q",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6S9A",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00169",
+            "xref_name": "PH",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00350",
+            "xref_name": "Dynamin_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF01031",
+            "xref_name": "Dynamin_M",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02212",
+            "xref_name": "GED",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA27440",
+            "xref_name": "dynamin 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q05193",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-166016",
+            "xref_name": "Toll Like Receptor 4 (TLR4) Cascade",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-177504",
+            "xref_name": "Retrograde neurotrophin signalling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-190873",
+            "xref_name": "Gap junction degradation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-196025",
+            "xref_name": "Formation of annular gap junctions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2132295",
+            "xref_name": "MHC class II antigen presentation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3928665",
+            "xref_name": "EPH-ephrin mediated repulsion of cells",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-437239",
+            "xref_name": "Recycling pathway of L1",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8856828",
+            "xref_name": "Clathrin-mediated endocytosis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A6NLM6",
+            "xref_name": "Dynamin-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q05193",
+            "xref_name": "Dynamin-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5SYX0",
+            "xref_name": "Dynamin-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5SYX2",
+            "xref_name": "Dynamin-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6P3T6",
+            "xref_name": "Dynamin-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86VD2",
+            "xref_name": "Dynamin-1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

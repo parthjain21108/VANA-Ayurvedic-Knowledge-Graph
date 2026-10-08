@@ -1,0 +1,407 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "COP9 signalosome complex subunit 5",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4105809",
+    "target_components": [
+      {
+        "accession": "Q92905",
+        "component_description": "COP9 signalosome complex subunit 5",
+        "component_id": 17661,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.4.-.-",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "COP9 signalosome complex subunit 5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "COPS5",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "CSN5",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "JAB1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Jun activation domain-binding protein 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "SGN5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Signalosome subunit 5",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q92905",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q92905",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000785",
+            "xref_name": "chromatin",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005852",
+            "xref_name": "eukaryotic translation initiation factor 3 complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0008180",
+            "xref_name": "COP9 signalosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048471",
+            "xref_name": "perinuclear region of cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003713",
+            "xref_name": "transcription coactivator activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003743",
+            "xref_name": "translation initiation factor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008237",
+            "xref_name": "metallopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019784",
+            "xref_name": "deNEDDylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019899",
+            "xref_name": "enzyme binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0035718",
+            "xref_name": "macrophage migration inhibitory factor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140492",
+            "xref_name": "metal-dependent deubiquitinase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006412",
+            "xref_name": "translation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006413",
+            "xref_name": "translational initiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043066",
+            "xref_name": "negative regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046328",
+            "xref_name": "regulation of JNK cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051726",
+            "xref_name": "regulation of cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903894",
+            "xref_name": "regulation of IRE1-mediated unfolded protein response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990182",
+            "xref_name": "exosomal secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:2240",
+            "xref_name": "COPS5",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q92905",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000555",
+            "xref_name": "JAMM/MPN+_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR037518",
+            "xref_name": "MPN",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR040961",
+            "xref_name": "CSN5_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050242",
+            "xref_name": "JAMM_MPN+_peptidase_M67A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10410",
+            "xref_name": "EUKARYOTIC TRANSLATION INITIATION FACTOR 3 -RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "4D10",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4D18",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4F7O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4WSN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5JOG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5JOH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5M5Q",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6R6H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6R7F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6R7H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6R7I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8H38",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8H3A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8H3F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4D10",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4D18",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4F7O",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4WSN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5JOG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5JOH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5M5Q",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF01398",
+            "xref_name": "JAB",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF18323",
+            "xref_name": "CSN5_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA26757",
+            "xref_name": "COP9 signalosome subunit 5",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q92905",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-5696394",
+            "xref_name": "DNA Damage Recognition in GG-NER",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6781823",
+            "xref_name": "Formation of TC-NER Pre-Incision Complex",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8856825",
+            "xref_name": "Cargo recognition for clathrin-mediated endocytosis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8951664",
+            "xref_name": "Neddylation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "O15386",
+            "xref_name": "COP9 signalosome complex subunit 5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6AW95",
+            "xref_name": "COP9 signalosome complex subunit 5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86WQ4",
+            "xref_name": "COP9 signalosome complex subunit 5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q92905",
+            "xref_name": "COP9 signalosome complex subunit 5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9BQ17",
+            "xref_name": "COP9 signalosome complex subunit 5",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

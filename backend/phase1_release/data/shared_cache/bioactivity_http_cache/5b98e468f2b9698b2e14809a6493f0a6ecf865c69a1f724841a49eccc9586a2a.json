@@ -1,0 +1,524 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Protein disulfide-isomerase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5422",
+    "target_components": [
+      {
+        "accession": "P07237",
+        "component_description": "Protein disulfide-isomerase",
+        "component_id": 3716,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5.3.4.1",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Cellular thyroid hormone-binding protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ERBA2L",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "P4HB",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "p55",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PDI",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "PDI",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PDIA1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "PO4DB",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Prolyl 4-hydroxylase subunit beta",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Protein disulfide-isomerase",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P07237",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P07237",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005788",
+            "xref_name": "endoplasmic reticulum lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005856",
+            "xref_name": "cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005925",
+            "xref_name": "focal adhesion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009897",
+            "xref_name": "external side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016222",
+            "xref_name": "procollagen-proline 4-dioxygenase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030027",
+            "xref_name": "lamellipodium",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032991",
+            "xref_name": "protein-containing complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034663",
+            "xref_name": "endoplasmic reticulum chaperone complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003723",
+            "xref_name": "RNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003756",
+            "xref_name": "protein disulfide isomerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003779",
+            "xref_name": "actin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004656",
+            "xref_name": "procollagen-proline 4-dioxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005178",
+            "xref_name": "integrin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015035",
+            "xref_name": "protein-disulfide reductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016853",
+            "xref_name": "isomerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016972",
+            "xref_name": "thiol oxidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019899",
+            "xref_name": "enzyme binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046982",
+            "xref_name": "protein heterodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006457",
+            "xref_name": "protein folding",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006888",
+            "xref_name": "endoplasmic reticulum to Golgi vesicle-mediated transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0018401",
+            "xref_name": "peptidyl-proline hydroxylation to 4-hydroxy-L-proline",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030070",
+            "xref_name": "insulin processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034975",
+            "xref_name": "protein folding in endoplasmic reticulum",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034976",
+            "xref_name": "response to endoplasmic reticulum stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035722",
+            "xref_name": "interleukin-12-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038155",
+            "xref_name": "interleukin-23-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045785",
+            "xref_name": "positive regulation of cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046598",
+            "xref_name": "positive regulation of viral entry into host cell",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071456",
+            "xref_name": "cellular response to hypoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900026",
+            "xref_name": "positive regulation of substrate adhesion-dependent cell spreading",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902175",
+            "xref_name": "regulation of oxidative stress-induced intrinsic apoptotic signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:8548",
+            "xref_name": "P4HB",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P07237",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR005788",
+            "xref_name": "PDI_thioredoxin-like_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005792",
+            "xref_name": "Prot_disulphide_isomerase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013766",
+            "xref_name": "Thioredoxin_domain",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017937",
+            "xref_name": "Thioredoxin_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036249",
+            "xref_name": "Thioredoxin-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18929",
+            "xref_name": "PROTEIN DISULFIDE ISOMERASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR18929:SF101",
+            "xref_name": "PROTEIN DISULFIDE-ISOMERASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1BJX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1MEK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1X5C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2BJX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2K18",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BJ5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3UEM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4EKZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4EL1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4JU5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6I7S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7ZSC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8EOJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8GDY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BJ5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3UEM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4EKZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4EL1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4JU5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6I7S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7ZSC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8GDY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00085",
+            "xref_name": "Thioredoxin",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF13848",
+            "xref_name": "Thioredoxin_6",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA32876",
+            "xref_name": "prolyl 4-hydroxylase subunit beta",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P07237",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1650814",
+            "xref_name": "Collagen biosynthesis and modifying enzymes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-264876",
+            "xref_name": "Insulin processing",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3299685",
+            "xref_name": "Detoxification of Reactive Oxygen Species",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-381426",
+            "xref_name": "Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5358346",
+            "xref_name": "Hedgehog ligand biogenesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8866423",
+            "xref_name": "VLDL assembly",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8957275",
+            "xref_name": "Post-translational protein phosphorylation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8963888",
+            "xref_name": "Chylomicron assembly",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8964041",
+            "xref_name": "LDL remodeling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9020591",
+            "xref_name": "Interleukin-12 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9020933",
+            "xref_name": "Interleukin-23 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B2RDQ2",
+            "xref_name": "Protein disulfide-isomerase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P07237",
+            "xref_name": "Protein disulfide-isomerase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P30037",
+            "xref_name": "Protein disulfide-isomerase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P32079",
+            "xref_name": "Protein disulfide-isomerase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q15205",
+            "xref_name": "Protein disulfide-isomerase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6LDE5",
+            "xref_name": "Protein disulfide-isomerase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

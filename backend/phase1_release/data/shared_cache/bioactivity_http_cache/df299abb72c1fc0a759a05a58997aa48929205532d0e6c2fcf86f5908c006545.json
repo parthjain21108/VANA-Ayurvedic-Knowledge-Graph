@@ -1,0 +1,184 @@
+{
+  "data": {
+    "accession": "P08538",
+    "component_id": 4279,
+    "component_type": "PROTEIN",
+    "description": "Tyrosine-protein phosphatase YopH",
+    "go_slims": [
+      {
+        "go_id": "GO:0005576"
+      },
+      {
+        "go_id": "GO:0016791"
+      }
+    ],
+    "organism": "Yersinia pseudotuberculosis serotype I (strain IP32953)",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 156
+      }
+    ],
+    "sequence": "MNLSLSDLHRQVSRLVQQESGDCTGKLRGNVAANKETTFQGLTIASGARESEKVFAQTVLSHVANVVLTQEDTAKLLQSTVKHNLNNYDLRSVGNGNSVLVSLRSDQMTLQDAKVLLEAALRQESGARGHVSSHSHSALHAPGTPVREGLRSHLDPRTPPLPPRERPHTSGHHGAGEARATAPSTVSPYGPEARAELSSRLTTLRNTLAPATNDPRYLQACGGEKLNRFRDIQCCRQTAVRADLNANYIQVGNTRTIACQYPLQSQLESHFRMLAENRTPVLAVLASSSEIANQRFGMPDYFRQSGTYGSITVESKMTQQVGLGDGIMADMYTLTIREAGQKTISVPVVHVGNWPDQTAVSSEVTKALASLVDQTAETKRNMYESKGSSAVGDDSKLRPVIHCRAGVGRTAQLIGAMCMNDSRNSQLSVEDMVSQMRVQRNGIMVQKDEQLDVLIKLAEGQGRPLLNS",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.1.3.48",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Tyrosine-protein phosphatase YopH",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Virulence protein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "yop2b ",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "yopH",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P08538",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005576",
+        "xref_name": "extracellular region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004721",
+        "xref_name": "phosphoprotein phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004725",
+        "xref_name": "protein tyrosine phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004726",
+        "xref_name": "non-membrane spanning protein tyrosine phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030946",
+        "xref_name": "protein tyrosine phosphatase activity, metal-dependent",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140793",
+        "xref_name": "histone H2AXY142 phosphatase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "P08538",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000242",
+        "xref_name": "PTP_cat",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000387",
+        "xref_name": "Tyr_Pase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003546",
+        "xref_name": "Tyr_Pase_SptP/YopH",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003595",
+        "xref_name": "Tyr_Pase_cat",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR015103",
+        "xref_name": "ProtTyrPase_YopH_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016130",
+        "xref_name": "Tyr_Pase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029021",
+        "xref_name": "Prot-tyrosine_phosphatase-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036484",
+        "xref_name": "ProtTyrPase_YopH_N_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050348",
+        "xref_name": "Protein-Tyr_Phosphatase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR19134",
+        "xref_name": "RECEPTOR-TYPE TYROSINE-PROTEIN PHOSPHATASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR19134:SF449",
+        "xref_name": "TYROSINE-PROTEIN PHOSPHATASE 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1K46",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1M0V",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1K46",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00102",
+        "xref_name": "Y_phosphatase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF09013",
+        "xref_name": "YopH_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "P08538",
+        "xref_name": "Tyrosine-protein phosphatase YopH",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q663H2",
+        "xref_name": "Tyrosine-protein phosphatase YopH",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5835"
+      }
+    ],
+    "tax_id": 273123
+  },
+  "ok": true
+}

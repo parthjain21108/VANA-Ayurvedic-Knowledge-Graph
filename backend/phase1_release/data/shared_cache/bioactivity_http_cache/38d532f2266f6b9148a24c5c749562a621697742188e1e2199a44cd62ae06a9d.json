@@ -1,0 +1,683 @@
+{
+  "data": {
+    "accession": "P06280",
+    "component_id": 863,
+    "component_type": "PROTEIN",
+    "description": "Alpha-galactosidase A",
+    "go_slims": [
+      {
+        "go_id": "GO:0003824"
+      },
+      {
+        "go_id": "GO:0005102"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005576"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005764"
+      },
+      {
+        "go_id": "GO:0005794"
+      },
+      {
+        "go_id": "GO:0005975"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0007155"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016787"
+      },
+      {
+        "go_id": "GO:0016798"
+      },
+      {
+        "go_id": "GO:0016936"
+      },
+      {
+        "go_id": "GO:0042803"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0050790"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 646
+      }
+    ],
+    "sequence": "MQLRNPELHLGCALALRFLALVSWDIPGARALDNGLARTPTMGWLHWERFMCNLDCQEEPDSCISEKLFMEMAELMVSEGWKDAGYEYLCIDDCWMAPQRDSEGRLQADPQRFPHGIRQLANYVHSKGLKLGIYADVGNKTCAGFPGSFGYYDIDAQTFADWGVDLLKFDGCYCDSLENLADGYKHMSLALNRTGRSIVYSCEWPLYMWPFQKPNYTEIRQYCNHWRNFADIDDSWKSIKSILDWTSFNQERIVDVAGPGGWNDPDMLVIGNFGLSWNQQVTQMALWAIMAAPLFMSNDLRHISPQAKALLQDKDVIAINQDPLGKQGYQLRQGDNFEVWERPLSGLAWAVAMINRQEIGGPRSYTIAVASLGKGVACNPACFITQLLPVKRKLGFYEWTSRLRSHINPTGTVLLQLENTMQMSLKDLL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.2.1.22",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Alpha-D-galactosidase A",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Alpha-D-galactoside galactohydrolase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Alpha-galactosidase A",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Galactosylgalactosylglucosylceramidase GLA",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "GLA",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "INN=Agalsidase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Melibiase",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P06280",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P06280",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005576",
+        "xref_name": "extracellular region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005764",
+        "xref_name": "lysosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005794",
+        "xref_name": "Golgi apparatus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0035578",
+        "xref_name": "azurophil granule lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043202",
+        "xref_name": "lysosomal lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003824",
+        "xref_name": "catalytic activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004553",
+        "xref_name": "hydrolase activity, hydrolyzing O-glycosyl compounds",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004557",
+        "xref_name": "alpha-galactosidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005102",
+        "xref_name": "signaling receptor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016787",
+        "xref_name": "hydrolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016798",
+        "xref_name": "hydrolase activity, acting on glycosyl bonds",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016936",
+        "xref_name": "galactoside binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042803",
+        "xref_name": "protein homodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005975",
+        "xref_name": "carbohydrate metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006629",
+        "xref_name": "lipid metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009311",
+        "xref_name": "oligosaccharide metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016139",
+        "xref_name": "glycoside catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030168",
+        "xref_name": "platelet activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030431",
+        "xref_name": "sleep",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031133",
+        "xref_name": "regulation of axon diameter",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045019",
+        "xref_name": "negative regulation of nitric oxide biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046477",
+        "xref_name": "glycosylceramide catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046479",
+        "xref_name": "glycosphingolipid catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051001",
+        "xref_name": "negative regulation of nitric-oxide synthase activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070527",
+        "xref_name": "platelet aggregation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090325",
+        "xref_name": "regulation of locomotion involved in locomotory behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:4296",
+        "xref_name": "GLA",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P06280",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000111",
+        "xref_name": "Glyco_hydro_27/36_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR002241",
+        "xref_name": "Glyco_hydro_27",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013780",
+        "xref_name": "Glyco_hydro_b",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013785",
+        "xref_name": "Aldolase_TIM",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017853",
+        "xref_name": "GH",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR035373",
+        "xref_name": "Melibiase/NAGA_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11452",
+        "xref_name": "ALPHA-GALACTOSIDASE/ALPHA-N-ACETYLGALACTOSAMINIDASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR11452:SF14",
+        "xref_name": "ALPHA-GALACTOSIDASE A",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1R46",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1R47",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3GXN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3GXP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3GXT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3HG2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3HG3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3HG4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3HG5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3LX9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3LXA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3LXB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3LXC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3S5Y",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3S5Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3TV8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4NXS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6IBK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6IBM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6IBR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6IBT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8K7D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8K7E",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8K7F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8K7G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8K7H",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8K7I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8K7J",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8K7K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8K7L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9AVS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1R46",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1R47",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3GXN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3GXP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3GXT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3HG2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3HG3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3HG4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3HG5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3LX9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3LXA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3LXB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3LXC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3S5Y",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3S5Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3TV8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4NXS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6IBK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6IBM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6IBR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6IBT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8K7D",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8K7E",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8K7F",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8K7G",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8K7H",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8K7I",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8K7J",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8K7K",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8K7L",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9AVS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF16499",
+        "xref_name": "Melibiase_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF17450",
+        "xref_name": "Melibiase_2_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA28707",
+        "xref_name": "galactosidase alpha",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P06280",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-6798695",
+        "xref_name": "Neutrophil degranulation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9840310",
+        "xref_name": "Glycosphingolipid catabolism",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P06280",
+        "xref_name": "Alpha-galactosidase A",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6LER7",
+        "xref_name": "Alpha-galactosidase A",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2524"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,760 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Neutrophil elastase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL248",
+    "target_components": [
+      {
+        "accession": "P08246",
+        "component_description": "Neutrophil elastase",
+        "component_id": 366,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.4.21.37",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Bone marrow serine protease",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ELA2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "ELANE",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Elastase-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HLE",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Human leukocyte elastase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Medullasin",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Neutrophil elastase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PMN elastase",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P08246",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0017053",
+            "xref_name": "transcription repressor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035578",
+            "xref_name": "azurophil granule lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035580",
+            "xref_name": "specific granule lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0002020",
+            "xref_name": "protease binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003714",
+            "xref_name": "transcription corepressor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004175",
+            "xref_name": "endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004252",
+            "xref_name": "serine-type endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008201",
+            "xref_name": "heparin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008233",
+            "xref_name": "peptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008236",
+            "xref_name": "serine-type peptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019955",
+            "xref_name": "cytokine binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000122",
+            "xref_name": "negative regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002438",
+            "xref_name": "acute inflammatory response to antigenic stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002523",
+            "xref_name": "leukocyte migration involved in inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002812",
+            "xref_name": "biosynthetic process of antibacterial peptides active against Gram-negative bacteria",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006874",
+            "xref_name": "intracellular calcium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006909",
+            "xref_name": "phagocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0022617",
+            "xref_name": "extracellular matrix disassembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032682",
+            "xref_name": "negative regulation of chemokine production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032717",
+            "xref_name": "negative regulation of interleukin-8 production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032757",
+            "xref_name": "positive regulation of interleukin-8 production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043406",
+            "xref_name": "positive regulation of MAP kinase activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048661",
+            "xref_name": "positive regulation of smooth muscle cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050728",
+            "xref_name": "negative regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050778",
+            "xref_name": "positive regulation of immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050900",
+            "xref_name": "leukocyte migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050922",
+            "xref_name": "negative regulation of chemotaxis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070945",
+            "xref_name": "neutrophil-mediated killing of gram-negative bacterium",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070947",
+            "xref_name": "neutrophil-mediated killing of fungus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903238",
+            "xref_name": "positive regulation of leukocyte tethering or rolling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:3309",
+            "xref_name": "ELANE",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P08246",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001254",
+            "xref_name": "Trypsin_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001314",
+            "xref_name": "Peptidase_S1A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR009003",
+            "xref_name": "Peptidase_S1_PA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018114",
+            "xref_name": "TRYPSIN_HIS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033116",
+            "xref_name": "TRYPSIN_SER",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR043504",
+            "xref_name": "Peptidase_S1_PA_chymotrypsin",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050850",
+            "xref_name": "Peptidase_S1_Elastase_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24257",
+            "xref_name": "CHYMOTRYPSIN-LIKE ELASTASE FAMILY MEMBER",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24257:SF16",
+            "xref_name": "NEUTROPHIL ELASTASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1B0F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1H1B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1HNE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1PPF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1PPG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2RG3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2Z7F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3Q76",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3Q77",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4NZL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4WVP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A09",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A0A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A0B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A0C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A8X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A8Y",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A8Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ABW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6E69",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6F5M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6SMA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7CBK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7WHU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D4Q",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D4U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D7I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D7K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G24",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G25",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G26",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8QGX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VK5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ASS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ASX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ATK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ATU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1B0F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1H1B",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1HNE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1PPF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1PPG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2RG3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2Z7F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3Q76",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3Q77",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4NZL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4WVP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5A09",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5A0A",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5A0B",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5A0C",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5A8X",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5A8Y",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5A8Z",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5ABW",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6E69",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6F5M",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6SMA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7CBK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7WHU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8D4Q",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8D4U",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8D7I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8D7K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8G24",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8G25",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8G26",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8QGX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8VK5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9ASS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9ASX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9ATK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9ATU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00089",
+            "xref_name": "Trypsin",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA27735",
+            "xref_name": "elastase, neutrophil expressed",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P08246",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1442490",
+            "xref_name": "Collagen degradation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1474228",
+            "xref_name": "Degradation of the extracellular matrix",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1592389",
+            "xref_name": "Activation of Matrix Metalloproteinases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5620971",
+            "xref_name": "Pyroptosis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6798695",
+            "xref_name": "Neutrophil degranulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6803157",
+            "xref_name": "Antimicrobial peptides",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-977606",
+            "xref_name": "Regulation of Complement cascade",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9911233",
+            "xref_name": "Expression of NOTCH2NL genes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P08246",
+            "xref_name": "Neutrophil elastase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P09649",
+            "xref_name": "Neutrophil elastase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6B0D9",
+            "xref_name": "Neutrophil elastase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6LDP5",
+            "xref_name": "Neutrophil elastase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

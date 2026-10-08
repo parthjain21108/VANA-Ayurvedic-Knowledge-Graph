@@ -1,0 +1,350 @@
+{
+  "data": {
+    "accession": "Q9P0U3",
+    "component_id": 5682,
+    "component_type": "PROTEIN",
+    "description": "Sentrin-specific protease 1",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008233"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0043085"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 927
+      }
+    ],
+    "sequence": "MDDIADRMRMDAGEVTLVNHNSVFKTHLLPQTGFPEDQLSLSDQQILSSRQGHLDRSFTCSTRSAAYNPSYYSDNPSSDSFLGSGDLRTFGQSANGQWRNSTPSSSSSLQKSRNSRSLYLETRKTSSGLSNSFAGKSNHHCHVSAYEKSFPIKPVPSPSWSGSCRRSLLSPKKTQRRHVSTAEETVQEEEREIYRQLLQMVTGKQFTIAKPTTHFPLHLSRCLSSSKNTLKDSLFKNGNSCASQIIGSDTSSSGSASILTNQEQLSHSVYSLSSYTPDVAFGSKDSGTLHHPHHHHSVPHQPDNLAASNTQSEGSDSVILLKVKDSQTPTPSSTFFQAELWIKELTSVYDSRARERLRQIEEQKALALQLQNQRLQEREHSVHDSVELHLRVPLEKEIPVTVVQETQKKGHKLTDSEDEFPEITEEMEKEIKNVFRNGNQDEVLSEAFRLTITRKDIQTLNHLNWLNDEIINFYMNMLMERSKEKGLPSVHAFNTFFFTKLKTAGYQAVKRWTKKVDVFSVDILLVPIHLGVHWCLAVVDFRKKNITYYDSMGGINNEACRILLQYLKQESIDKKRKEFDTNGWQLFSKKSQEIPQQMNGSDCGMFACKYADCITKDRPINFTQQHMPYFRKRMVWEILHRKLL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.4.22.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "SENP1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Sentrin-specific protease 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Sentrin/SUMO-specific protease SENP1",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q9P0U3",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q9P0U3",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005925",
+        "xref_name": "focal adhesion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031965",
+        "xref_name": "nuclear membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098978",
+        "xref_name": "glutamatergic synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004175",
+        "xref_name": "endopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008234",
+        "xref_name": "cysteine-type peptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016929",
+        "xref_name": "deSUMOylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070139",
+        "xref_name": "SUMO-specific endopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006508",
+        "xref_name": "proteolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043488",
+        "xref_name": "regulation of mRNA stability",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097190",
+        "xref_name": "apoptotic signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0150052",
+        "xref_name": "regulation of postsynapse assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1901018",
+        "xref_name": "positive regulation of potassium ion transmembrane transporter activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2001056",
+        "xref_name": "positive regulation of cysteine-type endopeptidase activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:17927",
+        "xref_name": "SENP1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q9P0U3",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR003653",
+        "xref_name": "Peptidase_C48_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR038765",
+        "xref_name": "Papain-like_cys_pep_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR12606",
+        "xref_name": "SENTRIN/SUMO-SPECIFIC PROTEASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR12606:SF30",
+        "xref_name": "SENTRIN-SPECIFIC PROTEASE 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2CKG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2CKH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2G4D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2IY0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2IY1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2IYC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2IYD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2XPH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2XRE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6NNQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2CKG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2CKH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2G4D",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2IY0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2IY1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2IYC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2IYD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2XPH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2XRE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6NNQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF02902",
+        "xref_name": "Peptidase_C48",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA134947038",
+        "xref_name": "SUMO specific peptidase 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q9P0U3",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-3065679",
+        "xref_name": "SUMO is proteolytically processed",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9035034",
+        "xref_name": "RHOF GTPase cycle",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A8K7P5",
+        "xref_name": "Sentrin-specific protease 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q86XC8",
+        "xref_name": "Sentrin-specific protease 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9P0U3",
+        "xref_name": "Sentrin-specific protease 1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1909484"
+      },
+      {
+        "target_chembl_id": "CHEMBL6066555"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

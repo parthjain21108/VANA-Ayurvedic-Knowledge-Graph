@@ -1,0 +1,631 @@
+{
+  "data": {
+    "accession": "P14061",
+    "component_id": 1505,
+    "component_type": "PROTEIN",
+    "description": "17-beta-hydroxysteroid dehydrogenase type 1",
+    "go_slims": [
+      {
+        "go_id": "GO:0003824"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0008289"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0042803"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MARTVVLITGCSSGIGLHLAVRLASDPSQSFKVYATLRDLKTQGRLWEAARALACPPGSLETLQLDVRDSKSVAAARERVTEGRVDVLVCNAGLGLLGPLEALGEDAVASVLDVNVVGTVRMLQAFLPDMKRRGSGRVLVTGSVGGLMGLPFNDVYCASKFALEGLCESLAVLLLPFGVHLSLIECGPVHTAFMEKVLGSPEEVLDRTDIHTFHRFYQYLAHSKQVFREAAQNPEEVAEVFLTALRAPKPTLRYFTTERFLPLLRMRLDDPSGSNYVTAMHREVFGDVPAKAEAGAEAGGGAGPGAEDEAGRGAVGDPELGDPPAAPQ",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.1.1.51",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.1.1.62",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "17-beta-HSD 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "17-beta-hydroxysteroid dehydrogenase type 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "20-alpha-HSD",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "20 alpha-hydroxysteroid dehydrogenase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "E17KSR",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "E2DH",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "EDH17B1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "EDH17B2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "EDHB17",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Estradiol 17-beta-dehydrogenase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "HSD17B1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Placental 17-beta-hydroxysteroid dehydrogenase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SDR28C1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Short chain dehydrogenase/reductase family 28C member 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Synonyms=E17KSR",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P14061",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P14061",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003824",
+        "xref_name": "catalytic activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004303",
+        "xref_name": "estradiol 17-beta-dehydrogenase [NAD(P)+] activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005496",
+        "xref_name": "steroid binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030283",
+        "xref_name": "testosterone dehydrogenase [NAD(P)+] activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042803",
+        "xref_name": "protein homodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0047035",
+        "xref_name": "testosterone dehydrogenase (NAD+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0047045",
+        "xref_name": "testosterone 17-beta-dehydrogenase (NADP+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0050661",
+        "xref_name": "NADP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070401",
+        "xref_name": "NADP+ binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0072582",
+        "xref_name": "17-beta-hydroxysteroid dehydrogenase (NADP+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1903924",
+        "xref_name": "estradiol binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006629",
+        "xref_name": "lipid metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006694",
+        "xref_name": "steroid biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006703",
+        "xref_name": "estrogen biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007519",
+        "xref_name": "skeletal muscle tissue development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008210",
+        "xref_name": "estrogen metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060348",
+        "xref_name": "bone development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060612",
+        "xref_name": "adipose tissue development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061370",
+        "xref_name": "testosterone biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071248",
+        "xref_name": "cellular response to metal ion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:5210",
+        "xref_name": "HSD17B1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P14061",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002347",
+        "xref_name": "SDR_fam",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011348",
+        "xref_name": "17beta_DH",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020904",
+        "xref_name": "Sc_DH/Rdtase_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036291",
+        "xref_name": "NAD(P)-bd_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR43391",
+        "xref_name": "RETINOL DEHYDROGENASE-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR43391:SF15",
+        "xref_name": "17-BETA-HYDROXYSTEROID DEHYDROGENASE TYPE 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1A27",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1BHS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1DHT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1EQU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1FDS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1FDT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1FDU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1FDV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1FDW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1I5R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1IOL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1JTV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1QYV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1QYW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1QYX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3DEY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3DHE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3HB4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3HB5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3KLM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3KLP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3KM0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CGC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CGE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6DTP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6MNC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6MNE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7X3Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1A27",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1BHS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1DHT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1EQU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1FDS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1FDT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1FDU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1FDV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1FDW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1I5R",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1IOL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1JTV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1QYV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1QYW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1QYX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3DEY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3DHE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3HB4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3HB5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3KLM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3KLP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3KM0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6CGC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6CGE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6DTP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6MNC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6MNE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7X3Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00106",
+        "xref_name": "adh_short",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA29478",
+        "xref_name": "hydroxysteroid 17-beta dehydrogenase 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P14061",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-193144",
+        "xref_name": "Estrogen biosynthesis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2453902",
+        "xref_name": "The canonical retinoid cycle in rods (twilight vision)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B3KXS1",
+        "xref_name": "17-beta-hydroxysteroid dehydrogenase type 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P14061",
+        "xref_name": "17-beta-hydroxysteroid dehydrogenase type 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q2M2L8",
+        "xref_name": "17-beta-hydroxysteroid dehydrogenase type 1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3181"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

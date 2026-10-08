@@ -1,0 +1,416 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Interstitial collagenase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL332",
+    "target_components": [
+      {
+        "accession": "P03956",
+        "component_description": "Interstitial collagenase",
+        "component_id": 3290,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "22 kDa interstitial collagenase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "27 kDa interstitial collagenase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "3.4.24.7",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "CLG",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Fibroblast collagenase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Interstitial collagenase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Matrix metalloproteinase-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MMP-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MMP1",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P03956",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004175",
+            "xref_name": "endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004222",
+            "xref_name": "metalloendopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004252",
+            "xref_name": "serine-type endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008233",
+            "xref_name": "peptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008237",
+            "xref_name": "metallopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0022617",
+            "xref_name": "extracellular matrix disassembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030198",
+            "xref_name": "extracellular matrix organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030574",
+            "xref_name": "collagen catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031334",
+            "xref_name": "positive regulation of protein-containing complex assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071492",
+            "xref_name": "cellular response to UV-A",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:7155",
+            "xref_name": "MMP1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P03956",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000585",
+            "xref_name": "Hemopexin-like_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001818",
+            "xref_name": "Pept_M10_metallopeptidase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002477",
+            "xref_name": "Peptidoglycan-bd-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006026",
+            "xref_name": "Peptidase_Metallo",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018486",
+            "xref_name": "Hemopexin_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018487",
+            "xref_name": "Hemopexin-like_repeat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR021158",
+            "xref_name": "Pept_M10A_Zn_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR021190",
+            "xref_name": "Pept_M10A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR024079",
+            "xref_name": "MetalloPept_cat_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033739",
+            "xref_name": "M10A_MMP",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036365",
+            "xref_name": "PGBD-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036375",
+            "xref_name": "Hemopexin-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10201",
+            "xref_name": "MATRIX METALLOPROTEINASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10201:SF151",
+            "xref_name": "INTERSTITIAL COLLAGENASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1AYK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1CGE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1CGF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1CGL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1HFC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1SU3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2AYK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2CLT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2J0T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2TCL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3AYK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3SHI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4AUO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4AYK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "966C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1CGE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1CGF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1CGL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1HFC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1SU3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2CLT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2J0T",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2TCL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3SHI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4AUO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "966C",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00045",
+            "xref_name": "Hemopexin",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00413",
+            "xref_name": "Peptidase_M10",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF01471",
+            "xref_name": "PG_binding_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA30867",
+            "xref_name": "matrix metallopeptidase 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P03956",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1442490",
+            "xref_name": "Collagen degradation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1474228",
+            "xref_name": "Degradation of the extracellular matrix",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1592389",
+            "xref_name": "Activation of Matrix Metalloproteinases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-210991",
+            "xref_name": "Basigin interactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-381426",
+            "xref_name": "Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6785807",
+            "xref_name": "Interleukin-4 and Interleukin-13 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P03956",
+            "xref_name": "Interstitial collagenase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P08156",
+            "xref_name": "Interstitial collagenase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

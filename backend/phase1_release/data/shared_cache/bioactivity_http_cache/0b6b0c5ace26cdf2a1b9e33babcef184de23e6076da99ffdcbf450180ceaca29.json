@@ -1,0 +1,78 @@
+{
+  "data": {
+    "activities": [
+      {
+        "action_type": null,
+        "activity_comment": null,
+        "activity_id": 26008250,
+        "activity_properties": [
+          {
+            "comments": null,
+            "relation": "=",
+            "result_flag": 0,
+            "standard_relation": "=",
+            "standard_text_value": null,
+            "standard_type": "TIME",
+            "standard_units": "hr",
+            "standard_value": "24.0",
+            "text_value": null,
+            "type": "TIME",
+            "units": "hrs",
+            "value": "24.0"
+          }
+        ],
+        "assay_chembl_id": "CHEMBL5576968",
+        "assay_description": "Antibacterial activity against Escherichia coli ATCC 25922 assessed as bacterial growth inhibition incubated for 24 hrs by broth micro-dilution method",
+        "assay_type": "F",
+        "assay_variant_accession": null,
+        "assay_variant_mutation": null,
+        "bao_endpoint": "BAO_0002146",
+        "bao_format": "BAO_0000218",
+        "bao_label": "organism-based format",
+        "canonical_smiles": "CC(=O)Oc1cc(C(C)C)ccc1C",
+        "data_validity_comment": null,
+        "data_validity_description": null,
+        "document_chembl_id": "CHEMBL5576070",
+        "document_journal": "Bioorg Med Chem Lett",
+        "document_year": 2024,
+        "ligand_efficiency": null,
+        "modality": null,
+        "molecule_chembl_id": "CHEMBL5592566",
+        "molecule_pref_name": null,
+        "parent_molecule_chembl_id": "CHEMBL5592566",
+        "pchembl_value": null,
+        "potential_duplicate": 0,
+        "qudt_units": "http://www.openphacts.org/units/MicrogramPerMilliliter",
+        "record_id": 4088561,
+        "relation": "=",
+        "src_id": 1,
+        "standard_flag": 1,
+        "standard_relation": "=",
+        "standard_text_value": null,
+        "standard_type": "MIC",
+        "standard_units": "ug.mL-1",
+        "standard_upper_value": null,
+        "standard_value": "11.7",
+        "target_chembl_id": "CHEMBL354",
+        "target_organism": "Escherichia coli",
+        "target_pref_name": "Escherichia coli",
+        "target_tax_id": "562",
+        "text_value": null,
+        "toid": null,
+        "type": "MIC",
+        "units": "ug ml-1",
+        "uo_units": "UO_0000274",
+        "upper_value": null,
+        "value": "11.7"
+      }
+    ],
+    "page_meta": {
+      "limit": 1000,
+      "next": null,
+      "offset": 0,
+      "previous": null,
+      "total_count": 1
+    }
+  },
+  "ok": true
+}

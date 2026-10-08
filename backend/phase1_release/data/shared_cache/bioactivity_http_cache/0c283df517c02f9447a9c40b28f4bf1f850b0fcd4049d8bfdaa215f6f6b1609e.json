@@ -1,0 +1,302 @@
+{
+  "data": {
+    "accession": "Q9QUQ5",
+    "component_id": 5483,
+    "component_type": "PROTEIN",
+    "description": "Short transient receptor potential channel 4",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005856"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0022857"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0055085"
+      }
+    ],
+    "organism": "Mus musculus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1018
+      }
+    ],
+    "sequence": "MAQFYYKRNVNAPYRDRIPLRIVRAESELSPSEKAYLNAVEKGDYASVKKSLEEAEIYFKININCIDPLGRTALLIAIENENLELIELLLSFNVYVGDALLHAIRKEVVGAVELLLNHKKPSGEKQVPPILLDKQFSEFTPDITPIILAAHTNNYEIIKLLVQKGVSVPRPHEVRCNCVECVSSSDVDSLRHSRSRLNIYKALASPSLIALSSEDPFLTAFQLSWELQELSKVENEFKSEYEELSRQCKQFAKDLLDQTRSSRELEIILNYRDDNSLIEEQSGNDLARLKLAIKYRQKEFVAQPNCQQLLASRWYDEFPGWRRRHWAVKMVTCFIIGLLFPVFSVCYLIAPKSPLGLFIRKPFIKFICHTASYLTFLFLLLLASQHIDRSDLNRQGPPPTIVEWMILPWVLGFIWGEIKQMWDGGLQDYIHDWWNLMDFVMNSLYLATISLKIVAFVKYSALNPRESWDMWHPTLVAEALFAIANIFSSLRLISLFTANSHLGPLQISLGRMLLDILKFLFIYCLVLLAFANGLNQLYFYYEETKGLSCKGIRCEKQNNAFSTLFETLQSLFWSIFGLINLYVTNVKAQHEFTEFVGATMFGTYNVISLVVLLNMLIAMMNNSYQLIADHADIEWKFARTKLWMSYFEEGGTLPTPFNVIPSPKSLWYLVKWIWTHLCKKKMRRKPESFGTIGRRAADNLRRHHQYQEVMRNLVKRYVAAMIREAKTEEGLTEENVKELKQDISSFRFEVLGLLRGSKLSTIQSANAASSADSDEKSQSEGNGKDKRKNLSLFDLTTLIHPRSAAIASERHNLSNGSALVVQEPPREKQRKVNFVADIKNFGLFHRRSKQNAAEQNANQIFSVSEEITRQQAAGALERNIELESKGLASRGDRSIPGLNEQCVLVDHRERNTDTLGLQVGKRVCSTFKSEKVVVEDTVPIIPKEKHAHEEDSSIDYDLSPTDTAAHEDYVTTRL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Capacitative calcium entry channel Trp4",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Receptor-activated cation channel TRP4",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Short transient receptor potential channel 4",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Trpc4",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "TrpC4",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Trrp4",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q9QUQ5",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q9QUQ5",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005901",
+        "xref_name": "caveola",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005911",
+        "xref_name": "cell-cell junction",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0009986",
+        "xref_name": "cell surface",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016323",
+        "xref_name": "basolateral plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030863",
+        "xref_name": "cortical cytoskeleton",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032991",
+        "xref_name": "protein-containing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0034704",
+        "xref_name": "calcium channel complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045121",
+        "xref_name": "membrane raft",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005262",
+        "xref_name": "calcium channel activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008013",
+        "xref_name": "beta-catenin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0015279",
+        "xref_name": "store-operated calcium channel activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0045296",
+        "xref_name": "cadherin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070679",
+        "xref_name": "inositol 1,4,5 trisphosphate binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0014051",
+        "xref_name": "gamma-aminobutyric acid secretion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048709",
+        "xref_name": "oligodendrocyte differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070509",
+        "xref_name": "calcium ion import",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070588",
+        "xref_name": "calcium ion transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "Q9QUQ5",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002110",
+        "xref_name": "Ankyrin_rpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR002153",
+        "xref_name": "TRPC_channel",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR005460",
+        "xref_name": "TRPC4_channel",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR005821",
+        "xref_name": "Ion_trans_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013555",
+        "xref_name": "TRP_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036770",
+        "xref_name": "Ankyrin_rpt-contain_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR10117",
+        "xref_name": "TRANSIENT RECEPTOR POTENTIAL CHANNEL",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR10117:SF25",
+        "xref_name": "SHORT TRANSIENT RECEPTOR POTENTIAL CHANNEL 4",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "5Z96",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6JZO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7CQP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7CQP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00023",
+        "xref_name": "Ank",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00520",
+        "xref_name": "Ion_trans",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF08344",
+        "xref_name": "TRP_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF12796",
+        "xref_name": "Ank_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-MMU-3295583",
+        "xref_name": "TRP channels",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q62350",
+        "xref_name": "Short transient receptor potential channel 4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9QUQ5",
+        "xref_name": "Short transient receptor potential channel 4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9QUQ9",
+        "xref_name": "Short transient receptor potential channel 4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9QZC0",
+        "xref_name": "Short transient receptor potential channel 4",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1741219"
+      }
+    ],
+    "tax_id": 10090
+  },
+  "ok": true
+}

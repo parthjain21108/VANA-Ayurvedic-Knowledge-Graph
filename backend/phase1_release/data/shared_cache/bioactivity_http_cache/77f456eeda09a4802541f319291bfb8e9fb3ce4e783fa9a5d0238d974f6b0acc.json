@@ -1,0 +1,436 @@
+{
+  "data": {
+    "accession": "P52505",
+    "component_id": 7143,
+    "component_type": "PROTEIN",
+    "description": "Acyl carrier protein, mitochondrial",
+    "go_slims": [
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0006091"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0008289"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0022607"
+      },
+      {
+        "go_id": "GO:0022857"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0055085"
+      },
+      {
+        "go_id": "GO:0065003"
+      }
+    ],
+    "organism": "Bos taurus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 601
+      }
+    ],
+    "sequence": "MAVRVLCACVRRLPTAFAPLPRLPTLAAARPLSTTLFAAETRTRPGAPLPALVLAQVPGRVTQLCRQYSDAPPLTLEGIKDRVLYVLKLYDKIDPEKLSVNSHFMKDLGLDSLDQVEIIMAMEDEFGFEIPDIDAEKLMCPQEIVDYIADKKDVYE",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "ACP",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Acyl carrier protein, mitochondrial",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "CI-SDAP",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "NADH-ubiquinone oxidoreductase 9.6 kDa subunit",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "NDUFAB1",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P52505",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031966",
+        "xref_name": "mitochondrial membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045271",
+        "xref_name": "respiratory chain complex I",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000036",
+        "xref_name": "acyl carrier activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005504",
+        "xref_name": "fatty acid binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008137",
+        "xref_name": "NADH dehydrogenase (ubiquinone) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006120",
+        "xref_name": "mitochondrial electron transport, NADH to ubiquinone",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006633",
+        "xref_name": "fatty acid biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032981",
+        "xref_name": "mitochondrial respiratory chain complex I assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0044571",
+        "xref_name": "[2Fe-2S] cluster assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902600",
+        "xref_name": "proton transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "P52505",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR003231",
+        "xref_name": "ACP",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006162",
+        "xref_name": "Ppantetheine_attach_site",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR009081",
+        "xref_name": "PP-bd_ACP",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036736",
+        "xref_name": "ACP-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR20863",
+        "xref_name": "ACYL CARRIER PROTEIN",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR20863:SF28",
+        "xref_name": "ACYL CARRIER PROTEIN, MITOCHONDRIAL",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "5LC5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5LDW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5LDX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5O31",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DGQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DGR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DGS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DGZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DH0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7DKF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7QSD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7QSK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7QSL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7QSM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7QSN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7QSO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7R41",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7R42",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7R43",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7R44",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7R45",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7R46",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7R47",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7R48",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7R4C",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7R4D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7R4F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7R4G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q0A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q0F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q0J",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q0M",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q0O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q0Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q1P",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q1U",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q1Y",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q25",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q45",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q46",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q47",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q48",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q49",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Q4A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "PF00550",
+        "xref_name": "PP-binding",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA31500",
+        "xref_name": "NADH:ubiquinone oxidoreductase subunit AB1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P52505",
+        "xref_name": "Acyl carrier protein, mitochondrial",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q3T150",
+        "xref_name": "Acyl carrier protein, mitochondrial",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL614865"
+      }
+    ],
+    "tax_id": 9913
+  },
+  "ok": true
+}

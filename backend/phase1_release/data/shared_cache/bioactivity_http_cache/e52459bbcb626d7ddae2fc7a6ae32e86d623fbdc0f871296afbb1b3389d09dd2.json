@@ -1,0 +1,409 @@
+{
+  "data": {
+    "accession": "P24723",
+    "component_id": 1934,
+    "component_type": "PROTEIN",
+    "description": "Protein kinase C eta type",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0032880"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 286
+      }
+    ],
+    "sequence": "MSSGTMKFNGYLRVRIGEAVGLQPTRWSLRHSLFKKGHQLLDPYLTVSVDQVRVGQTSTKQKTNKPTYNEEFCANVTDGGHLELAVFHETPLGYDHFVANCTLQFQELLRTTGASDTFEGWVDLEPEGKVFVVITLTGSFTEATLQRDRIFKHFTRKRQRAMRRRVHQINGHKFMATYLRQPTYCSHCREFIWGVFGKQGYQCQVCTCVVHKRCHHLIVTACTCQNNINKVDSKIAEQRFGINIPHKFSIHNYKVPTFCDHCGSLLWGIMRQGLQCKICKMNVHIRCQANVAPNCGVNAVELAKTLAGMGLQPGNISPTSKLVSRSTLRRQGKESSKEGNGIGVNSSNRLGIDNFEFIRVLGKGSFGKVMLARVKETGDLYAVKVLKKDVILQDDDVECTMTEKRILSLARNHPFLTQLFCCFQTPDRLFFVMEFVNGGDLMFHIQKSRRFDEARARFYAAEIISALMFLHDKGIIYRDLKLDNVLLDHEGHCKLADFGMCKEGICNGVTTATFCGTPDYIAPEILQEMLYGPAVDWWAMGVLLYEMLCGHAPFEAENEDDLFEAILNDEVVYPTWLHEDATGILKSFMTKNPTMRLGSLTQGGEHAILRHPFFKEIDWAQLNHRQIEPPFRPRIKSREDVSNFDPDFIKEEPVLTPIDEGHLPMINQDEFRNFSYVSPELQP",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.11.13",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "nPKC-eta",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PKC-L",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PKCL",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "PRKCH",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "PRKCL",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Protein kinase C eta type",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P24723",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P24723",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005911",
+        "xref_name": "cell-cell junction",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019899",
+        "xref_name": "enzyme binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031267",
+        "xref_name": "small GTPase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006468",
+        "xref_name": "protein phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007165",
+        "xref_name": "signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010744",
+        "xref_name": "positive regulation of macrophage derived foam cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030154",
+        "xref_name": "cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034351",
+        "xref_name": "negative regulation of glial cell apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035556",
+        "xref_name": "intracellular signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045618",
+        "xref_name": "positive regulation of keratinocyte differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050861",
+        "xref_name": "positive regulation of B cell receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060252",
+        "xref_name": "positive regulation of glial cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070528",
+        "xref_name": "protein kinase C signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903078",
+        "xref_name": "positive regulation of protein localization to plasma membrane",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000810",
+        "xref_name": "regulation of bicellular tight junction assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:9403",
+        "xref_name": "PRKCH",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P24723",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000008",
+        "xref_name": "C2_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000961",
+        "xref_name": "AGC-kinase_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR002219",
+        "xref_name": "PKC_DAG/PE",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008271",
+        "xref_name": "Ser/Thr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR014376",
+        "xref_name": "Prot_kin_PKC_delta",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017441",
+        "xref_name": "Protein_kinase_ATP_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017892",
+        "xref_name": "Pkinase_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020454",
+        "xref_name": "DAG/PE-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR027431",
+        "xref_name": "PKC_eta",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR034665",
+        "xref_name": "nPKC_eta",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR035892",
+        "xref_name": "C2_domain_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR046349",
+        "xref_name": "C1-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24351",
+        "xref_name": "RIBOSOMAL PROTEIN S6 KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2FK9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3TXO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8FP1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8FP3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2FK9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3TXO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8FP1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8FP3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00069",
+        "xref_name": "Pkinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00130",
+        "xref_name": "C1_1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00168",
+        "xref_name": "C2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00433",
+        "xref_name": "Pkinase_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA33767",
+        "xref_name": "protein kinase C eta",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P24723",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-114508",
+        "xref_name": "Effects of PIP2 hydrolysis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-418597",
+        "xref_name": "G alpha (z) signalling events",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B4DJN5",
+        "xref_name": "Protein kinase C eta type",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P24723",
+        "xref_name": "Protein kinase C eta type",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q16246",
+        "xref_name": "Protein kinase C eta type",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8NE03",
+        "xref_name": "Protein kinase C eta type",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3616"
+      },
+      {
+        "target_chembl_id": "CHEMBL2093867"
+      },
+      {
+        "target_chembl_id": "CHEMBL2096620"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

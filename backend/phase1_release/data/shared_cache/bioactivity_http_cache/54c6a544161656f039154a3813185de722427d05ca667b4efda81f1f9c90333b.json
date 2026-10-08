@@ -1,0 +1,259 @@
+{
+  "data": {
+    "accession": "Q922Z0",
+    "component_id": 10046,
+    "component_type": "PROTEIN",
+    "description": "D-aspartate oxidase",
+    "go_slims": [
+      {
+        "go_id": "GO:0000166"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005777"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006520"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0050877"
+      }
+    ],
+    "organism": "Mus musculus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MDTVCIAVVGAGVIGLSTAACISQLVPGCTVTVISDRFTPDTTSNVAAGMLIPHTCADTPVPTQKRWFRETFEHLSEIAKSAEAADAGVHLVSGWQIFRSVPAEEVPFWADVVLGFRKMTEAELKRFPQYVFGQAFTTLKCETSAYLPWLERRIKGSGGLLLTRRIEDLWELQPSFDIVVNCSGLGSRRLVGDPMISPVRGQVLQARAPWVKHFIRDGGGLTYVYPGMSYVTLGGTRQKGDWNRSPDAELSREIFSRCCTLEPSLHRAYDIKEKVGLRPSRPGVRLQKEILVRGQQTLPVVHNYGHGSGGISVHWGSALEATRLVMECIHTLRTPASLSKL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.4.3.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "DASOX",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "D-aspartate oxidase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "DASPO",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Ddo",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "DDO",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q922Z0",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q922Z0",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005777",
+        "xref_name": "peroxisome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005782",
+        "xref_name": "peroxisomal matrix",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003884",
+        "xref_name": "D-amino-acid oxidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008445",
+        "xref_name": "D-aspartate oxidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0047821",
+        "xref_name": "D-glutamate oxidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0071949",
+        "xref_name": "FAD binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006531",
+        "xref_name": "aspartate metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007320",
+        "xref_name": "insemination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007625",
+        "xref_name": "grooming behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010646",
+        "xref_name": "regulation of cell communication",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019478",
+        "xref_name": "D-amino acid catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042445",
+        "xref_name": "hormone metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046416",
+        "xref_name": "D-amino acid metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050877",
+        "xref_name": "nervous system process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR006076",
+        "xref_name": "FAD-dep_OxRdtase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006181",
+        "xref_name": "D-amino_acid_oxidase_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023209",
+        "xref_name": "DAO",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11530",
+        "xref_name": "D-AMINO ACID OXIDASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR11530:SF11",
+        "xref_name": "D-ASPARTATE OXIDASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF01266",
+        "xref_name": "DAO",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-MMU-389661",
+        "xref_name": "Glyoxylate metabolism and glycine degradation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-MMU-9033241",
+        "xref_name": "Peroxisomal protein import",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q0E9Q7",
+        "xref_name": "D-aspartate oxidase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q2UVA9",
+        "xref_name": "D-aspartate oxidase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q3TT69",
+        "xref_name": "D-aspartate oxidase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8R2R2",
+        "xref_name": "D-aspartate oxidase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q922Z0",
+        "xref_name": "D-aspartate oxidase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3616357"
+      }
+    ],
+    "tax_id": 10090
+  },
+  "ok": true
+}

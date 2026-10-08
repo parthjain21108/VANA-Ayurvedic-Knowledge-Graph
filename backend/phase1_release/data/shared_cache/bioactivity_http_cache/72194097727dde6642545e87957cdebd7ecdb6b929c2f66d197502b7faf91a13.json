@@ -1,0 +1,570 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Rattus norvegicus",
+    "pref_name": "Neuronal acetylcholine receptor subunit alpha-7",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4980",
+    "target_components": [
+      {
+        "accession": "Q05941",
+        "component_description": "Neuronal acetylcholine receptor subunit alpha-7",
+        "component_id": 3293,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Acra7",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Chrna7",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "nAChR7",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Neuronal acetylcholine receptor subunit alpha-7",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Nicotinic acetylcholine receptor subunit alpha-7",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q05941",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005892",
+            "xref_name": "acetylcholine-gated channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009897",
+            "xref_name": "external side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016324",
+            "xref_name": "apical plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030426",
+            "xref_name": "growth cone",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030673",
+            "xref_name": "axolemma",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032279",
+            "xref_name": "asymmetric synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042734",
+            "xref_name": "presynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043197",
+            "xref_name": "dendritic spine",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043198",
+            "xref_name": "dendritic shaft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0044853",
+            "xref_name": "plasma membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098690",
+            "xref_name": "glycinergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098897",
+            "xref_name": "spine apparatus membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098981",
+            "xref_name": "cholinergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099634",
+            "xref_name": "postsynaptic specialization membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001540",
+            "xref_name": "amyloid-beta binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004888",
+            "xref_name": "transmembrane signaling receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005216",
+            "xref_name": "monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008179",
+            "xref_name": "adenylate cyclase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015464",
+            "xref_name": "acetylcholine receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019901",
+            "xref_name": "protein kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022848",
+            "xref_name": "acetylcholine-gated monoatomic cation-selective channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042166",
+            "xref_name": "acetylcholine binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051117",
+            "xref_name": "ATPase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0097110",
+            "xref_name": "scaffold protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904315",
+            "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001666",
+            "xref_name": "response to hypoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001988",
+            "xref_name": "positive regulation of heart rate involved in baroreceptor response to decreased systemic arterial blood pressure",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006811",
+            "xref_name": "monoatomic ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006816",
+            "xref_name": "calcium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006874",
+            "xref_name": "intracellular calcium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006897",
+            "xref_name": "endocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007271",
+            "xref_name": "synaptic transmission, cholinergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007611",
+            "xref_name": "learning or memory",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007613",
+            "xref_name": "memory",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008284",
+            "xref_name": "positive regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008306",
+            "xref_name": "associative learning",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009409",
+            "xref_name": "response to cold",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010628",
+            "xref_name": "positive regulation of gene expression",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014061",
+            "xref_name": "regulation of norepinephrine secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019228",
+            "xref_name": "neuronal action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030317",
+            "xref_name": "flagellated sperm motility",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032225",
+            "xref_name": "regulation of synaptic transmission, dopaminergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032691",
+            "xref_name": "negative regulation of interleukin-1 beta production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032715",
+            "xref_name": "negative regulation of interleukin-6 production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032720",
+            "xref_name": "negative regulation of tumor necrosis factor production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035095",
+            "xref_name": "behavioral response to nicotine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042110",
+            "xref_name": "T cell activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042113",
+            "xref_name": "B cell activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042391",
+            "xref_name": "regulation of membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042416",
+            "xref_name": "dopamine biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042698",
+            "xref_name": "ovulation cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043410",
+            "xref_name": "positive regulation of MAPK cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045766",
+            "xref_name": "positive regulation of angiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046681",
+            "xref_name": "response to carbamate",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048149",
+            "xref_name": "behavioral response to ethanol",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050727",
+            "xref_name": "regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050728",
+            "xref_name": "negative regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050804",
+            "xref_name": "modulation of chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050808",
+            "xref_name": "synapse organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050890",
+            "xref_name": "cognition",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050893",
+            "xref_name": "sensory processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051247",
+            "xref_name": "positive regulation of protein metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051823",
+            "xref_name": "regulation of synapse structural plasticity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060079",
+            "xref_name": "excitatory postsynaptic potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060112",
+            "xref_name": "generation of ovulation cycle rhythm",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070373",
+            "xref_name": "negative regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0095500",
+            "xref_name": "acetylcholine receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098815",
+            "xref_name": "modulation of excitatory postsynaptic potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099171",
+            "xref_name": "presynaptic modulation of chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0140059",
+            "xref_name": "dendrite arborization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900273",
+            "xref_name": "positive regulation of long-term synaptic potentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902004",
+            "xref_name": "positive regulation of amyloid-beta formation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902430",
+            "xref_name": "negative regulation of amyloid-beta formation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905906",
+            "xref_name": "regulation of amyloid fibril formation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000463",
+            "xref_name": "positive regulation of excitatory postsynaptic potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2001023",
+            "xref_name": "regulation of response to drug",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "Q05941",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR002394",
+            "xref_name": "Nicotinic_acetylcholine_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-RNO-629594",
+            "xref_name": "Highly calcium permeable postsynaptic nicotinic acetylcholine receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q05941",
+            "xref_name": "Neuronal acetylcholine receptor subunit alpha-7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q53YK2",
+            "xref_name": "Neuronal acetylcholine receptor subunit alpha-7",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 10116
+  },
+  "ok": true
+}

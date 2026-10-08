@@ -1,0 +1,331 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Mus musculus",
+    "pref_name": "Thymidylate synthase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3160",
+    "target_components": [
+      {
+        "accession": "P07607",
+        "component_description": "Thymidylate synthase",
+        "component_id": 1485,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.1.1.45",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Thymidylate synthase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TSase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tyms",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P07607",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P07607",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005743",
+            "xref_name": "mitochondrial inner membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000900",
+            "xref_name": "mRNA regulatory element binding translation repressor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003729",
+            "xref_name": "mRNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004799",
+            "xref_name": "thymidylate synthase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005542",
+            "xref_name": "folic acid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008168",
+            "xref_name": "methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990825",
+            "xref_name": "sequence-specific mRNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006206",
+            "xref_name": "pyrimidine nucleobase metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006231",
+            "xref_name": "dTMP biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006235",
+            "xref_name": "dTTP biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007623",
+            "xref_name": "circadian rhythm",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009165",
+            "xref_name": "nucleotide biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009636",
+            "xref_name": "response to toxic substance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0017148",
+            "xref_name": "negative regulation of translation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019860",
+            "xref_name": "uracil metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032259",
+            "xref_name": "methylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035999",
+            "xref_name": "tetrahydrofolate interconversion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046653",
+            "xref_name": "tetrahydrofolate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048589",
+            "xref_name": "developmental growth",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051216",
+            "xref_name": "cartilage development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060574",
+            "xref_name": "intestinal epithelial cell maturation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097421",
+            "xref_name": "liver regeneration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR000398",
+            "xref_name": "Thymidylate_synthase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020940",
+            "xref_name": "Thymidylate_synthase_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023451",
+            "xref_name": "Thymidate_synth/dCMP_Mease_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036926",
+            "xref_name": "Thymidate_synth/dCMP_Mease_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR045097",
+            "xref_name": "Thymidate_synth/dCMP_Mease",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11548",
+            "xref_name": "THYMIDYLATE SYNTHASE 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11548:SF2",
+            "xref_name": "THYMIDYLATE SYNTHASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3IHI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4E5O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4EB4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4EIN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4EZ8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5FCT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6F6Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6GKO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6GYJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6Y08",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3IHI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4E5O",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4EB4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4EIN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4EZ8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5FCT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6F6Z",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6GKO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6GYJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6Y08",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00303",
+            "xref_name": "Thymidylat_synt",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-MMU-499943",
+            "xref_name": "Interconversion of nucleotide di- and triphosphates",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P07607",
+            "xref_name": "Thymidylate synthase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 10090
+  },
+  "ok": true
+}

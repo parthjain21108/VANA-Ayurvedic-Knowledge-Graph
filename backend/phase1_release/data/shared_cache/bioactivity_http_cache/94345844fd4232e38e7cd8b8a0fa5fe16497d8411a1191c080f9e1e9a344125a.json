@@ -1,0 +1,281 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3746",
+    "target_components": [
+      {
+        "accession": "P80365",
+        "component_description": "11-beta-hydroxysteroid dehydrogenase type 2",
+        "component_id": 2062,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.1.1.-",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "11-beta-HSD2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "11-beta-HSD type II",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "11-beta-hydroxysteroid dehydrogenase type II",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "11-DH2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "11-HSD type II",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Corticosteroid 11-beta-dehydrogenase isozyme 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HSD11B2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "HSD11K",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "NAD-dependent 11-beta-hydroxysteroid dehydrogenase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "SDR9C3",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Short chain dehydrogenase/reductase family 9C member 3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=HSD11K",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P80365",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P80365",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005789",
+            "xref_name": "endoplasmic reticulum membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005496",
+            "xref_name": "steroid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016616",
+            "xref_name": "oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051287",
+            "xref_name": "NAD binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070523",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase (NAD+) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001666",
+            "xref_name": "response to hypoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002017",
+            "xref_name": "regulation of blood volume by renal aldosterone",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007565",
+            "xref_name": "female pregnancy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008202",
+            "xref_name": "steroid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008211",
+            "xref_name": "glucocorticoid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034650",
+            "xref_name": "cortisol metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:5209",
+            "xref_name": "HSD11B2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "IPR002347",
+            "xref_name": "SDR_fam",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020904",
+            "xref_name": "Sc_DH/Rdtase_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036291",
+            "xref_name": "NAD(P)-bd_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR43313",
+            "xref_name": "SHORT-CHAIN DEHYDROGENASE/REDUCTASE FAMILY 9C",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR43313:SF2",
+            "xref_name": "11-BETA-HYDROXYSTEROID DEHYDROGENASE TYPE 2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00106",
+            "xref_name": "adh_short",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA29477",
+            "xref_name": "hydroxysteroid 11-beta dehydrogenase 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P80365",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-194002",
+            "xref_name": "Glucocorticoid biosynthesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9757110",
+            "xref_name": "Prednisone ADME",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A7LB28",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "C5HTY7",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P80365",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q13194",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6P2G9",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8N439",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96QN8",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q99887",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UC50",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UC51",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UCW5",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UCW6",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UCW7",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UCW8",
+            "xref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

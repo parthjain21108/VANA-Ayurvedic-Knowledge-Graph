@@ -1,0 +1,430 @@
+{
+  "data": {
+    "accession": "P49761",
+    "component_id": 2545,
+    "component_type": "PROTEIN",
+    "description": "Dual specificity protein kinase CLK3",
+    "go_slims": [
+      {
+        "go_id": "GO:0003723"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005856"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 297
+      }
+    ],
+    "sequence": "MHHCKRYRSPEPDPYLSYRWKRRRSYSREHEGRLRYPSRREPPPRRSRSRSHDRLPYQRRYRERRDSDTYRCEERSPSFGEDYYGPSRSRHRRRSRERGPYRTRKHAHHCHKRRTRSCSSASSRSQQSSKRSSRSVEDDKEGHLVCRIGDWLQERYEIVGNLGEGTFGKVVECLDHARGKSQVALKIIRNVGKYREAARLEINVLKKIKEKDKENKFLCVLMSDWFNFHGHMCIAFELLGKNTFEFLKENNFQPYPLPHVRHMAYQLCHALRFLHENQLTHTDLKPENILFVNSEFETLYNEHKSCEEKSVKNTSIRVADFGSATFDHEHHTTIVATRHYRPPEVILELGWAQPCDVWSIGCILFEYYRGFTLFQTHENREHLVMMEKILGPIPSHMIHRTRKQKYFYKGGLVWDENSSDGRYVKENCKPLKSYMLQDSLEHVQLFDLMRRMLEFDPAQRITLAEALLHPFFAGLTPEERSFHTSRNPSR",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.12.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "CDC-like kinase 3",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "CLK3",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Dual specificity protein kinase CLK3",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P49761",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P49761",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016607",
+        "xref_name": "nuclear speck",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045111",
+        "xref_name": "intermediate filament cytoskeleton",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003723",
+        "xref_name": "RNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006468",
+        "xref_name": "protein phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:2071",
+        "xref_name": "CLK3",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P49761",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008271",
+        "xref_name": "Ser/Thr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017441",
+        "xref_name": "Protein_kinase_ATP_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR051175",
+        "xref_name": "CLK_kinases",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR45646",
+        "xref_name": "SERINE/THREONINE-PROTEIN KINASE DOA-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR45646:SF10",
+        "xref_name": "DUAL SPECIFICITY PROTEIN KINASE CLK3",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2EU9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2EXE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2WU6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2WU7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3RAW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6FT7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6FYP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6FYR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6KHF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6RCT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6YTW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6YTY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6YU1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6Z2V",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6Z51",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6Z52",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6Z53",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6Z54",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6Z55",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9EZ3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2EU9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2EXE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2WU6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2WU7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3RAW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6FT7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6FYP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6FYR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6KHF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6RCT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6YTW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6YTY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6YU1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6Z2V",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6Z51",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6Z52",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6Z53",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6Z54",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6Z55",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9EZ3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00069",
+        "xref_name": "Pkinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA26597",
+        "xref_name": "CDC like kinase 3",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P49761",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "D3DW59",
+        "xref_name": "Dual specificity protein kinase CLK3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P49761",
+        "xref_name": "Dual specificity protein kinase CLK3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q53Y48",
+        "xref_name": "Dual specificity protein kinase CLK3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9BRS3",
+        "xref_name": "Dual specificity protein kinase CLK3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9BUJ7",
+        "xref_name": "Dual specificity protein kinase CLK3",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4226"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

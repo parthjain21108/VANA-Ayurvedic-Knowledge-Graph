@@ -1,0 +1,691 @@
+{
+  "data": {
+    "accession": "P02545",
+    "component_id": 4891,
+    "component_type": "PROTEIN",
+    "description": "Prelamin-A/C",
+    "go_slims": [
+      {
+        "go_id": "GO:0005198"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005635"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007010"
+      },
+      {
+        "go_id": "GO:0007017"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0032880"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0061024"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 4
+      },
+      {
+        "protein_classification_id": 5
+      }
+    ],
+    "sequence": "METPSQRRATRSGAQASSTPLSPTRITRLQEKEDLQELNDRLAVYIDRVRSLETENAGLRLRITESEEVVSREVSGIKAAYEAELGDARKTLDSVAKERARLQLELSKVREEFKELKARNTKKEGDLIAAQARLKDLEALLNSKEAALSTALSEKRTLEGELHDLRGQVAKLEAALGEAKKQLQDEMLRRVDAENRLQTMKEELDFQKNIYSEELRETKRRHETRLVEIDNGKQREFESRLADALQELRAQHEDQVEQYKKELEKTYSAKLDNARQSAERNSNLVGAAHEELQQSRIRIDSLSAQLSQLQKQLAAKEAKLRDLEDSLARERDTSRRLLAEKEREMAEMRARMQQQLDEYQELLDIKLALDMEIHAYRKLLEGEEERLRLSPSPTSQRSRGRASSHSSQTQGGGSVTKKRKLESTESRSSFSQHARTSGRVAVEEVDEEGKFVRLRNKSNEDQSMGNWQIKRQNGDDPLLTYRFPPKFTLKAGQVVTIWAAGAGATHSPPTDLVWKAQNTWGCGNSLRTALINSTGEEVAMRKLVRSVTVVEDDEDEDGDDLLHHHHGSHCSSSGDPAEYNLRSRTVLCGTCGQPADKASASGSGAQVGGPISSGSSASSVTVTRSYRSVGGSGGGSFGDNLVTRSYLLGNSSPRTQSPQNCSIM",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "70 kDa lamin",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Lamin-A/C",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "LMN1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "LMNA",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Prelamin-A/C",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Renal carcinoma antigen NY-REN-32",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P02545",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P02545",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005635",
+        "xref_name": "nuclear envelope",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005638",
+        "xref_name": "lamin filament",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005652",
+        "xref_name": "nuclear lamina",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005882",
+        "xref_name": "intermediate filament",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016363",
+        "xref_name": "nuclear matrix",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016607",
+        "xref_name": "nuclear speck",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031965",
+        "xref_name": "nuclear membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0035861",
+        "xref_name": "site of double-strand break",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005200",
+        "xref_name": "structural constituent of cytoskeleton",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0160123",
+        "xref_name": "structural constituent of nuclear lamina",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006998",
+        "xref_name": "nuclear envelope organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007097",
+        "xref_name": "nuclear migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008285",
+        "xref_name": "negative regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010628",
+        "xref_name": "positive regulation of gene expression",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030334",
+        "xref_name": "regulation of cell migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030951",
+        "xref_name": "establishment or maintenance of microtubule cytoskeleton polarity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031507",
+        "xref_name": "heterochromatin formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031647",
+        "xref_name": "regulation of protein stability",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034504",
+        "xref_name": "protein localization to nucleus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051664",
+        "xref_name": "nuclear pore localization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0055015",
+        "xref_name": "ventricular cardiac muscle cell development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071456",
+        "xref_name": "cellular response to hypoxia",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0072201",
+        "xref_name": "negative regulation of mesenchymal cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090201",
+        "xref_name": "negative regulation of release of cytochrome c from mitochondria",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090398",
+        "xref_name": "cellular senescence",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090435",
+        "xref_name": "protein localization to nuclear envelope",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1900180",
+        "xref_name": "regulation of protein localization to nucleus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903243",
+        "xref_name": "negative regulation of cardiac muscle hypertrophy in response to stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1990683",
+        "xref_name": "DNA double-strand break attachment to nuclear envelope",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2001237",
+        "xref_name": "negative regulation of extrinsic apoptotic signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:6636",
+        "xref_name": "LMNA",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P02545",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001322",
+        "xref_name": "Lamin_tail_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018039",
+        "xref_name": "IF_conserved",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036415",
+        "xref_name": "Lamin_tail_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR039008",
+        "xref_name": "IF_rod_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR45721",
+        "xref_name": "LAMIN DM0-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR45721:SF5",
+        "xref_name": "PRELAMIN-A_C",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1IFR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1IVT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1X8Y",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2XV5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2YPT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3GEF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3V4Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3V4W",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3V5B",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6GHD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6JLB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6RPR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6SNZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6YF5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6YJD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7CRG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7D9N",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7WZZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7X1B",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7X5D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7YVD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7Z21",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8I33",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9J8M",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9J8N",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9J8O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1IFR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1X8Y",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2XV5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2YPT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3GEF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3V4Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3V4W",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3V5B",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6GHD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6JLB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6RPR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6SNZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6YF5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6YJD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7CRG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7D9N",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7WZZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7X1B",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7X5D",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7YVD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7Z21",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8I33",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00038",
+        "xref_name": "Filament",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00932",
+        "xref_name": "LTD",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA231",
+        "xref_name": "lamin A/C",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P02545",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1221632",
+        "xref_name": "Meiotic synapsis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2980766",
+        "xref_name": "Nuclear Envelope Breakdown",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2995383",
+        "xref_name": "Initiation of Nuclear Envelope (NE) Reformation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-352238",
+        "xref_name": "Breakdown of the nuclear lamina",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-381038",
+        "xref_name": "XBP1(S) activates chaperone genes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-4419969",
+        "xref_name": "Depolymerization of the Nuclear Lamina",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6802952",
+        "xref_name": "Signaling by BRAF and RAF1 fusions",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8862803",
+        "xref_name": "Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B4DI32",
+        "xref_name": "Prelamin-A/C",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "D3DVB0",
+        "xref_name": "Prelamin-A/C",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "D6RAQ3",
+        "xref_name": "Prelamin-A/C",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "E7EUI9",
+        "xref_name": "Prelamin-A/C",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P02545",
+        "xref_name": "Prelamin-A/C",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P02546",
+        "xref_name": "Prelamin-A/C",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5I6Y4",
+        "xref_name": "Prelamin-A/C",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5I6Y6",
+        "xref_name": "Prelamin-A/C",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5TCJ2",
+        "xref_name": "Prelamin-A/C",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5TCJ3",
+        "xref_name": "Prelamin-A/C",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6UYC3",
+        "xref_name": "Prelamin-A/C",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q969I8",
+        "xref_name": "Prelamin-A/C",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96JA2",
+        "xref_name": "Prelamin-A/C",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1293235"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

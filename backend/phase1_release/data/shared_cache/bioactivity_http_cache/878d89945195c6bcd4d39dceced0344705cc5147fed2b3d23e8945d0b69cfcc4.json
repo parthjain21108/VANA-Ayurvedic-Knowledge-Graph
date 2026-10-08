@@ -1,0 +1,234 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Bacillus subtilis (strain 168)",
+    "pref_name": "DNA polymerase III PolC-type",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3897",
+    "target_components": [
+      {
+        "accession": "P13267",
+        "component_description": "DNA polymerase III PolC-type",
+        "component_id": 2217,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.7.7",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "dnaF",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "DNA polymerase III PolC-type",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "mutI ",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "polC",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "PolIII",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P13267",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009295",
+            "xref_name": "nucleoid",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003887",
+            "xref_name": "DNA-directed DNA polymerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004527",
+            "xref_name": "exonuclease activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008408",
+            "xref_name": "3'-5' exonuclease activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034061",
+            "xref_name": "DNA polymerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006259",
+            "xref_name": "DNA metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046677",
+            "xref_name": "response to antibiotic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071897",
+            "xref_name": "DNA biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "P13267",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR003141",
+            "xref_name": "Pol/His_phosphatase_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004365",
+            "xref_name": "NA-bd_OB_tRNA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004805",
+            "xref_name": "DnaE2/DnaE/PolC",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006054",
+            "xref_name": "DnaQ",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006308",
+            "xref_name": "Pol_III_a_PolC-type_gram_pos",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011708",
+            "xref_name": "DNA_pol3_alpha_NTPase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012337",
+            "xref_name": "RNaseH-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012340",
+            "xref_name": "NA-bd_OB-fold",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013520",
+            "xref_name": "Ribonucl_H",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR024754",
+            "xref_name": "DNA_PolC-like_N_II",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR028112",
+            "xref_name": "DNA_PolC-type_N_I",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR029460",
+            "xref_name": "DNAPol_HHH",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036397",
+            "xref_name": "RNaseH_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR040982",
+            "xref_name": "DNA_pol3_finger",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR044923",
+            "xref_name": "PolC_middle_finger_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR32294",
+            "xref_name": "DNA POLYMERASE III SUBUNIT ALPHA",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR32294:SF5",
+            "xref_name": "DNA POLYMERASE III POLC-TYPE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00929",
+            "xref_name": "RNase_T",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF01336",
+            "xref_name": "tRNA_anti-codon",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF07733",
+            "xref_name": "DNA_pol3_alpha",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF11490",
+            "xref_name": "DNA_pol3_a_NII",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF14480",
+            "xref_name": "DNA_pol3_a_NI",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF14579",
+            "xref_name": "HHH_6",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF17657",
+            "xref_name": "DNA_pol3_finger",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "P13267",
+            "xref_name": "DNA polymerase III PolC-type",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 224308
+  },
+  "ok": true
+}

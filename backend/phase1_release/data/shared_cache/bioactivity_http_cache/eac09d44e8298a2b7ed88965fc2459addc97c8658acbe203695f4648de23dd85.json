@@ -1,0 +1,561 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Parathyroid hormone/parathyroid hormone-related peptide receptor",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1793",
+    "target_components": [
+      {
+        "accession": "Q03431",
+        "component_description": "Parathyroid hormone/parathyroid hormone-related peptide receptor",
+        "component_id": 84,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Parathyroid hormone 1 receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Parathyroid hormone/parathyroid hormone-related peptide receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PTH1R",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "PTH1 receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PTH/PTHrP type I receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PTH/PTHr receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PTHR",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "PTHR1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Synonyms=PTHR",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q03431",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q03431",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016323",
+            "xref_name": "basolateral plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016324",
+            "xref_name": "apical plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043235",
+            "xref_name": "receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004991",
+            "xref_name": "parathyroid hormone receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008528",
+            "xref_name": "G protein-coupled peptide receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0017046",
+            "xref_name": "peptide hormone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001501",
+            "xref_name": "skeletal system development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001503",
+            "xref_name": "ossification",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001701",
+            "xref_name": "in utero embryonic development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002062",
+            "xref_name": "chondrocyte differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002076",
+            "xref_name": "osteoblast development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006874",
+            "xref_name": "intracellular calcium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007166",
+            "xref_name": "cell surface receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007188",
+            "xref_name": "adenylate cyclase-modulating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007189",
+            "xref_name": "adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007200",
+            "xref_name": "phospholipase C-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008283",
+            "xref_name": "cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008284",
+            "xref_name": "positive regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008285",
+            "xref_name": "negative regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030282",
+            "xref_name": "bone mineralization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045453",
+            "xref_name": "bone resorption",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048469",
+            "xref_name": "cell maturation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060732",
+            "xref_name": "positive regulation of inositol phosphate biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9608",
+            "xref_name": "PTH1R",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q03431",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000832",
+            "xref_name": "GPCR_2_secretin-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001879",
+            "xref_name": "GPCR_2_extracellular_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002170",
+            "xref_name": "GPCR_2_parathyroid_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017981",
+            "xref_name": "GPCR_2-like_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017983",
+            "xref_name": "GPCR_2_secretin-like_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036445",
+            "xref_name": "GPCR_2_extracell_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050332",
+            "xref_name": "GPCR_2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR45620",
+            "xref_name": "PDF RECEPTOR-LIKE PROTEIN-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR45620:SF27",
+            "xref_name": "PARATHYROID HORMONE_PARATHYROID HORMONE-RELATED PEPTIDE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1BL1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3C4M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3H3G",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3L2J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Z8J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5EMB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6NBF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6NBH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6NBI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7UZO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7UZP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7VVJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7VVK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7VVL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7VVM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7VVN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7VVO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7Y35",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7Y36",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BIA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BJ0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D51",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D52",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8FLQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8FLR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8FLS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8FLT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8FLU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8GW8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8HA0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8HAF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8HAO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8JR9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9B5Y",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9JR2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9JR3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3C4M",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3H3G",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3L2J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4Z8J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5EMB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7UZO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7UZP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8BIA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8BJ0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8D51",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8D52",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00002",
+            "xref_name": "7tm_2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02793",
+            "xref_name": "HRM",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA33953",
+            "xref_name": "parathyroid hormone 1 receptor",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q03431",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-373080",
+            "xref_name": "Class B/2 (Secretin family receptors)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-418555",
+            "xref_name": "G alpha (s) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q03431",
+            "xref_name": "Parathyroid hormone/parathyroid hormone-related peptide receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q2M1U3",
+            "xref_name": "Parathyroid hormone/parathyroid hormone-related peptide receptor",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

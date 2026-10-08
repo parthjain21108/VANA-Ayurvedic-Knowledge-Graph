@@ -1,0 +1,53 @@
+services:
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+
+    container_name: vana-backend
+
+    env_file:
+      - ./backend/.env
+
+    environment:
+      VANA_SHARED_CACHE_DIR: /app/phase1_release/data/shared_cache
+
+    expose:
+      - "8000"
+
+    volumes:
+      - ./backend/phase1_release/data:/app/phase1_release/data
+      - ./backend/master_output:/app/master_output
+
+    restart: unless-stopped
+
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "python",
+          "-c",
+          "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=5)"
+        ]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+
+    container_name: vana-frontend
+
+    depends_on:
+      backend:
+        condition: service_healthy
+
+    ports:
+      - "80:80"
+
+    restart: unless-stopped

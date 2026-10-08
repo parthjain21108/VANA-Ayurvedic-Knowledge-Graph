@@ -1,0 +1,611 @@
+{
+  "data": {
+    "accession": "P17861",
+    "component_id": 5220,
+    "component_type": "PROTEIN",
+    "description": "X-box-binding protein 1",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005783"
+      },
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0006914"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008219"
+      },
+      {
+        "go_id": "GO:0008283"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0021700"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0046982"
+      },
+      {
+        "go_id": "GO:0048646"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 12
+      }
+    ],
+    "sequence": "MVVVAAAPNPADGTPKVLLLSGQPASAAGAPAGQALPLMVPAQRGASPEAASGGLPQARKRQRLTHLSPEEKALRRKLKNRVAAQTARDRKKARMSELEQQVVDLEEENQKLLLENQLLREKTHGLVVENQELRQRLGMDALVAEEEAEAKGNEVRPVAGSAESAALRLRAPLQQVQAQLSPLQNISPWILAVLTLQIQSLISCWAFWTTWTQSCSSNALPQSLPAWRSSQRSTQKDPVPYQPPFLCQWGRHQPSWKPLMN",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Synonyms=TREB5",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Tax-responsive element-binding protein 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "TREB-5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "X-box-binding protein 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "X-box-binding protein 1, cytoplasmic form",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "X-box-binding protein 1, luminal form",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "XBP-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "XBP1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "XBP2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "XBP2 GN  ",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P17861",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P17861",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005783",
+        "xref_name": "endoplasmic reticulum",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005789",
+        "xref_name": "endoplasmic reticulum membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0090575",
+        "xref_name": "RNA polymerase II transcription regulator complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000977",
+        "xref_name": "RNA polymerase II transcription regulatory region sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000978",
+        "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000987",
+        "xref_name": "cis-regulatory region sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043565",
+        "xref_name": "sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046982",
+        "xref_name": "protein heterodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990837",
+        "xref_name": "sequence-specific double-stranded DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001525",
+        "xref_name": "angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001889",
+        "xref_name": "liver development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001935",
+        "xref_name": "endothelial cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002071",
+        "xref_name": "glandular epithelial cell maturation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002639",
+        "xref_name": "positive regulation of immunoglobulin production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006511",
+        "xref_name": "ubiquitin-dependent protein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006629",
+        "xref_name": "lipid metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006633",
+        "xref_name": "fatty acid biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006914",
+        "xref_name": "autophagy",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006915",
+        "xref_name": "apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006955",
+        "xref_name": "immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006986",
+        "xref_name": "response to unfolded protein",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007517",
+        "xref_name": "muscle organ development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008284",
+        "xref_name": "positive regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010832",
+        "xref_name": "negative regulation of myotube differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030154",
+        "xref_name": "cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030335",
+        "xref_name": "positive regulation of cell migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030968",
+        "xref_name": "endoplasmic reticulum unfolded protein response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031017",
+        "xref_name": "exocrine pancreas development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031648",
+        "xref_name": "protein destabilization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031670",
+        "xref_name": "cellular response to nutrient",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032755",
+        "xref_name": "positive regulation of interleukin-6 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032869",
+        "xref_name": "cellular response to insulin stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034976",
+        "xref_name": "response to endoplasmic reticulum stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035356",
+        "xref_name": "intracellular triglyceride homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035470",
+        "xref_name": "positive regulation of vascular wound healing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0036498",
+        "xref_name": "IRE1-mediated unfolded protein response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0036500",
+        "xref_name": "ATF6-mediated unfolded protein response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0036503",
+        "xref_name": "ERAD pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042149",
+        "xref_name": "cellular response to glucose starvation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042632",
+        "xref_name": "cholesterol homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043066",
+        "xref_name": "negative regulation of apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045348",
+        "xref_name": "positive regulation of MHC class II biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045579",
+        "xref_name": "positive regulation of B cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045582",
+        "xref_name": "positive regulation of T cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045600",
+        "xref_name": "positive regulation of fat cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045766",
+        "xref_name": "positive regulation of angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048666",
+        "xref_name": "neuron development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0055089",
+        "xref_name": "fatty acid homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0055092",
+        "xref_name": "sterol homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060612",
+        "xref_name": "adipose tissue development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060691",
+        "xref_name": "epithelial cell maturation involved in salivary gland development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070059",
+        "xref_name": "intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071222",
+        "xref_name": "cellular response to lipopolysaccharide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071230",
+        "xref_name": "cellular response to amino acid stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071332",
+        "xref_name": "cellular response to fructose stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071333",
+        "xref_name": "cellular response to glucose stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071375",
+        "xref_name": "cellular response to peptide hormone stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1900100",
+        "xref_name": "positive regulation of plasma cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902236",
+        "xref_name": "negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903489",
+        "xref_name": "positive regulation of lactation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000347",
+        "xref_name": "positive regulation of hepatocyte proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:12801",
+        "xref_name": "XBP1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P17861",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR004827",
+        "xref_name": "bZIP",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR046347",
+        "xref_name": "bZIP_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR052470",
+        "xref_name": "ER_Stress-Reg_TF",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR46542",
+        "xref_name": "X-BOX BINDING PROTEIN 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR46542:SF3",
+        "xref_name": "X-BOX-BINDING PROTEIN 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "6R5Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6R6G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6R6P",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6R7Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9NDP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "PF07716",
+        "xref_name": "bZIP_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA37400",
+        "xref_name": "X-box binding protein 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P17861",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-381038",
+        "xref_name": "XBP1(S) activates chaperone genes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-381070",
+        "xref_name": "IRE1alpha activates chaperones",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-381183",
+        "xref_name": "ATF6 (ATF6-alpha) activates chaperone genes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P17861",
+        "xref_name": "X-box-binding protein 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WYK6",
+        "xref_name": "X-box-binding protein 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q969P1",
+        "xref_name": "X-box-binding protein 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96BD7",
+        "xref_name": "X-box-binding protein 1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1741176"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

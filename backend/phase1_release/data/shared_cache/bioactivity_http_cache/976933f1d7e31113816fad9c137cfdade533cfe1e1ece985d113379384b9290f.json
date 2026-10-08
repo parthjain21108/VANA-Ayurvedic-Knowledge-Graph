@@ -1,0 +1,619 @@
+{
+  "data": {
+    "accession": "Q01196",
+    "component_id": 1014,
+    "component_type": "PROTEIN",
+    "description": "Runt-related transcription factor 1",
+    "go_slims": [
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008283"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0040007"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 12
+      }
+    ],
+    "sequence": "MRIPVDASTSRRFTPPSTALSPGKMSEALPLGAPDAGAALAGKLRSGDRSMVEVLADHPGELVRTDSPNFLCSVLPTHWRCNKTLPIAFKVVALGDVPDGTLVTVMAGNDENYSAELRNATAAMKNQVARFNDLRFVGRSGRGKSFTLTITVFTNPPQVATYHRAIKITVDGPREPRRHRQKLDDQTKPGSLSFSERLSELEQLRRTAMRVSPHHPAPTPNPRASLNHSTAFNPQPQSQMQDTRQIQPSPPWSYDQSYQYLGSIASPSVHPATPISPGRASGMTTLSAELSSRLSTAPDLTAFSDPRQFPALPSISDPRMHYPGAFTYSPTPVTSGIGIGMSAMGSATRYHTYLPPPYPGSSQAQGGPFQASSPSYHLYYGASAGSYQFSMVGGERSPPRILPPCTNASTGSALLNPSLPNQSDVVEAEGSHSNSPTNMAPSARLEEAVWRPY",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Acute myeloid leukemia 1 protein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "AML1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "CBFA2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "CBF-alpha-2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Core-binding factor subunit alpha-2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Oncogene AML-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PEA2-alpha B",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PEBP2-alpha B",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Polyomavirus enhancer-binding protein 2 alpha B subunit",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Runt-related transcription factor 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "RUNX1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "SL3-3 enhancer factor 1 alpha B subunit",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SL3/AKV core-binding factor alpha B subunit",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q01196",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q01196",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0000785",
+        "xref_name": "chromatin",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016513",
+        "xref_name": "core-binding factor complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000976",
+        "xref_name": "transcription cis-regulatory region binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000977",
+        "xref_name": "RNA polymerase II transcription regulatory region sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000978",
+        "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990837",
+        "xref_name": "sequence-specific double-stranded DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000122",
+        "xref_name": "negative regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001503",
+        "xref_name": "ossification",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002062",
+        "xref_name": "chondrocyte differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002573",
+        "xref_name": "myeloid leukocyte differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030097",
+        "xref_name": "hemopoiesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030182",
+        "xref_name": "neuron differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030854",
+        "xref_name": "positive regulation of granulocyte differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032743",
+        "xref_name": "positive regulation of interleukin-2 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032967",
+        "xref_name": "positive regulation of collagen biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043371",
+        "xref_name": "negative regulation of CD4-positive, alpha-beta T cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043378",
+        "xref_name": "positive regulation of CD8-positive, alpha-beta T cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045595",
+        "xref_name": "regulation of cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045766",
+        "xref_name": "positive regulation of angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045893",
+        "xref_name": "positive regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048935",
+        "xref_name": "peripheral nervous system neuron development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051094",
+        "xref_name": "positive regulation of developmental process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060043",
+        "xref_name": "regulation of cardiac muscle cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061026",
+        "xref_name": "cardiac muscle tissue regeneration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071425",
+        "xref_name": "hematopoietic stem cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903055",
+        "xref_name": "positive regulation of extracellular matrix organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1905203",
+        "xref_name": "regulation of connective tissue replacement",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:10471",
+        "xref_name": "RUNX1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q01196",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000040",
+        "xref_name": "AML1_Runt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008967",
+        "xref_name": "p53-like_TF_DNA-bd_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR012346",
+        "xref_name": "p53/RUNT-type_TF_DNA-bd_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013524",
+        "xref_name": "Runt_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013711",
+        "xref_name": "RunxI_C_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016554",
+        "xref_name": "TF_Runt-rel_RUNX",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR027384",
+        "xref_name": "Runx_central_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11950",
+        "xref_name": "RUNT RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR11950:SF40",
+        "xref_name": "RUNT-RELATED TRANSCRIPTION FACTOR 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1CMO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1CO1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1E50",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1H9D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1LJM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1E50",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1H9D",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1LJM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00853",
+        "xref_name": "Runt",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF08504",
+        "xref_name": "RunxI",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA34884",
+        "xref_name": "RUNX family transcription factor 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q01196",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1912408",
+        "xref_name": "Pre-NOTCH Transcription and Translation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-549127",
+        "xref_name": "Organic cation transport",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8877330",
+        "xref_name": "RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8931987",
+        "xref_name": "RUNX1 regulates estrogen receptor mediated transcription",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8934593",
+        "xref_name": "Regulation of RUNX1 Expression and Activity",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8935964",
+        "xref_name": "RUNX1 regulates expression of components of tight junctions",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8936459",
+        "xref_name": "RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939236",
+        "xref_name": "RUNX1 regulates transcription of genes involved in differentiation of HSCs",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939242",
+        "xref_name": "RUNX1 regulates transcription of genes involved in differentiation of keratinocytes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939243",
+        "xref_name": "RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939245",
+        "xref_name": "RUNX1 regulates transcription of genes involved in BCR signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939246",
+        "xref_name": "RUNX1 regulates transcription of genes involved in differentiation of myeloid cells",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939247",
+        "xref_name": "RUNX1 regulates transcription of genes involved in interleukin signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939256",
+        "xref_name": "RUNX1 regulates transcription of genes involved in WNT signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8941333",
+        "xref_name": "RUNX2 regulates genes involved in differentiation of myeloid cells",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8951936",
+        "xref_name": "RUNX3 regulates p14-ARF",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9018519",
+        "xref_name": "Estrogen-dependent gene expression",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9616222",
+        "xref_name": "Transcriptional regulation of granulopoiesis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9692916",
+        "xref_name": "SARS-CoV-1 activates/modulates innate immune responses",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A8MV94",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B2RMS4",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "D3DSG1",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O60472",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O60473",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O76047",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O76089",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q01196",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q13081",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q13755",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q13756",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q13757",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q13758",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q13759",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q15341",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q15343",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q16122",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q16284",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q16285",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q16286",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q16346",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q16347",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q92479",
+        "xref_name": "Runt-related transcription factor 1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1615385"
+      },
+      {
+        "target_chembl_id": "CHEMBL2093862"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

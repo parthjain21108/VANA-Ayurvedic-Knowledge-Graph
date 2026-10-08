@@ -1,0 +1,68 @@
+{
+  "data": {
+    "activities": [
+      {
+        "action_type": null,
+        "activity_comment": null,
+        "activity_id": 681074,
+        "activity_properties": [],
+        "assay_chembl_id": "CHEMBL770276",
+        "assay_description": "Displacement of [3H]-PDBU from protein kinase C-alpha",
+        "assay_type": "B",
+        "assay_variant_accession": null,
+        "assay_variant_mutation": null,
+        "bao_endpoint": "BAO_0000192",
+        "bao_format": "BAO_0000357",
+        "bao_label": "single protein format",
+        "canonical_smiles": "CC1=CC23C(=O)[C@@H](C=C(CO)[C@@H](O)[C@]2(O)[C@H]1O)[C@H]1[C@@H](C[C@H]3C)C1(C)C",
+        "data_validity_comment": null,
+        "data_validity_description": null,
+        "document_chembl_id": "CHEMBL1127207",
+        "document_journal": "Bioorg Med Chem Lett",
+        "document_year": 1993,
+        "ligand_efficiency": {
+          "bei": "19.00",
+          "le": "0.36",
+          "lle": "5.80",
+          "sei": "6.76"
+        },
+        "modality": null,
+        "molecule_chembl_id": "CHEMBL346507",
+        "molecule_pref_name": null,
+        "parent_molecule_chembl_id": "CHEMBL346507",
+        "pchembl_value": "6.62",
+        "potential_duplicate": 0,
+        "qudt_units": "http://www.openphacts.org/units/Nanomolar",
+        "record_id": 302131,
+        "relation": "=",
+        "src_id": 1,
+        "standard_flag": 1,
+        "standard_relation": "=",
+        "standard_text_value": null,
+        "standard_type": "Ki",
+        "standard_units": "nM",
+        "standard_upper_value": null,
+        "standard_value": "240.0",
+        "target_chembl_id": "CHEMBL299",
+        "target_organism": "Homo sapiens",
+        "target_pref_name": "Protein kinase C alpha type",
+        "target_tax_id": "9606",
+        "text_value": null,
+        "toid": null,
+        "type": "Ki",
+        "units": "nM",
+        "uo_units": "UO_0000065",
+        "upper_value": null,
+        "value": "240.0"
+      }
+    ],
+    "page_meta": {
+      "limit": 1000,
+      "next": null,
+      "offset": 0,
+      "previous": null,
+      "total_count": 1
+    }
+  },
+  "ok": true
+}

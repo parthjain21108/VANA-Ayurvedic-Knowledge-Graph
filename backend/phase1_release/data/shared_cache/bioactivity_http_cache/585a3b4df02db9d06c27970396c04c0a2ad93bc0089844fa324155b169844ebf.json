@@ -1,0 +1,803 @@
+{
+  "data": {
+    "accession": "Q92731",
+    "component_id": 317,
+    "component_type": "PROTEIN",
+    "description": "Estrogen receptor beta",
+    "go_slims": [
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0005102"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0007267"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008289"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 371
+      }
+    ],
+    "sequence": "MDIKNSPSSLNSPSSYNCSQSILPLEHGSIYIPSSYVDSHHEYPAMTFYSPAVMNYSIPSNVTNLEGGPGRQTTSPNVLWPTPGHLSPLVVHRQLSHLYAEPQKSPWCEARSLEHTLPVNRETLKRKVSGNRCASPVTGPGSKRDAHFCAVCSDYASGYHYGVWSCEGCKAFFKRSIQGHNDYICPATNQCTIDKNRRKSCQACRLRKCYEVGMVKCGSRRERCGYRLVRRQRSADEQLHCAGKAKRSGGHAPRVRELLLDALSPEQLVLTLLEAEPPHVLISRPSAPFTEASMMMSLTKLADKELVHMISWAKKIPGFVELSLFDQVRLLESCWMEVLMMGLMWRSIDHPGKLIFAPDLVLDRDEGKCVEGILEIFDMLLATTSRFRELKLQHKEYLCVKAMILLNSSMYPLVTATQDADSSRKLAHLLNAVTDALVWVIAKSGISSQQQSMRLANLLMLLSHVRHASNKGMEHLLNMKCKNVVPVYDLLLEMLNAHVLRGCKSSITGSECSPAEDSKSKEGSQNPQSQ",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "ER-beta",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ESR2",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "ESTRB",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Estrogen receptor beta",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "NR3A2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Nuclear receptor subfamily 3 group A member 2",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q92731",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q92731",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0000785",
+        "xref_name": "chromatin",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000978",
+        "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003707",
+        "xref_name": "nuclear steroid receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004879",
+        "xref_name": "nuclear receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005496",
+        "xref_name": "steroid binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019899",
+        "xref_name": "enzyme binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030284",
+        "xref_name": "nuclear estrogen receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0034056",
+        "xref_name": "estrogen response element binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043565",
+        "xref_name": "sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0048019",
+        "xref_name": "receptor antagonist activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990837",
+        "xref_name": "sequence-specific double-stranded DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000122",
+        "xref_name": "negative regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007165",
+        "xref_name": "signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007267",
+        "xref_name": "cell-cell signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030308",
+        "xref_name": "negative regulation of cell growth",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030520",
+        "xref_name": "estrogen receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045893",
+        "xref_name": "positive regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071391",
+        "xref_name": "cellular response to estrogen stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071392",
+        "xref_name": "cellular response to estradiol stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:3468",
+        "xref_name": "ESR2",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q92731",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000536",
+        "xref_name": "Nucl_hrmn_rcpt_lig-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001628",
+        "xref_name": "Znf_hrmn_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001723",
+        "xref_name": "Nuclear_hrmn_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013088",
+        "xref_name": "Znf_NHR/GATA",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR021064",
+        "xref_name": "ER-beta-like_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR024178",
+        "xref_name": "Est_rcpt/est-rel_rcp",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR028355",
+        "xref_name": "ER-beta/gamma",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR035500",
+        "xref_name": "NHR-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050200",
+        "xref_name": "Nuclear_hormone_rcpt_NR3",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR48092",
+        "xref_name": "KNIRPS-RELATED PROTEIN-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1L2J",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1NDE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1QKM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1U3Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1U3R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1U3S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1U9E",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1X76",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1X78",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1X7B",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1X7J",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1YY4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1YYE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1ZAF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2FSZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2GIU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2I0G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2JJ3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2NV7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2QTU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2YJD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2YLY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2Z4B",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3OLL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3OLS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3OMO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3OMP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3OMQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4J24",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4J26",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZI1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5TOA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7XVY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7XVZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7XWP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7XWQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7XWR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1L2J",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1NDE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1QKM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1U3Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1U3R",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1U3S",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1U9E",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1X76",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1X78",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1X7B",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1X7J",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1YY4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1YYE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1ZAF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2FSZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2GIU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2I0G",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2JJ3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2NV7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2QTU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2YJD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2YLY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2Z4B",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3OLL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3OLS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3OMO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3OMP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3OMQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4J24",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4J26",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZI1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5TOA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7XVY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7XVZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7XWP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7XWQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7XWR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00104",
+        "xref_name": "Hormone_recep",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00105",
+        "xref_name": "zf-C4",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF12497",
+        "xref_name": "ERbeta_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA27886",
+        "xref_name": "estrogen receptor 2",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q92731",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1257604",
+        "xref_name": "PIP3 activates AKT signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2219530",
+        "xref_name": "Constitutive Signaling by Aberrant PI3K in Cancer",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-383280",
+        "xref_name": "Nuclear Receptor transcription pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6811558",
+        "xref_name": "PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939211",
+        "xref_name": "ESR-mediated signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9009391",
+        "xref_name": "Extra-nuclear estrogen signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A8K8K5",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "G3V5M5",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O60608",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O60685",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O60702",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O60703",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O75583",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O75584",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q0MWT5",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q0MWT6",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q86Z31",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q92731",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UEV6",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UHD3",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UQK9",
+        "xref_name": "Estrogen receptor beta",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL242"
+      },
+      {
+        "target_chembl_id": "CHEMBL2093866"
+      },
+      {
+        "target_chembl_id": "CHEMBL5465555"
+      },
+      {
+        "target_chembl_id": "CHEMBL6177909"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,693 @@
+{
+  "data": {
+    "accession": "Q9UGN5",
+    "component_id": 3662,
+    "component_type": "PROTEIN",
+    "description": "Poly [ADP-ribose] polymerase 2",
+    "go_slims": [
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0003682"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005694"
+      },
+      {
+        "go_id": "GO:0005730"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008219"
+      },
+      {
+        "go_id": "GO:0016757"
+      },
+      {
+        "go_id": "GO:0016779"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 643
+      }
+    ],
+    "sequence": "MAARRRRSTGGGRARALNESKRVNNGNTAPEDSSPAKKTRRCQRQESKKMPVAGGKANKDRTEDKQDGMPGRSWASKRVSESVKALLLKGKAPVDPECTAKVGKAHVYCEGNDVYDVMLNQTNLQFNNNKYYLIQLLEDDAQRNFSVWMRWGRVGKMGQHSLVACSGNLNKAKEIFQKKFLDKTKNNWEDREKFEKVPGKYDMLQMDYATNTQDEEETKKEESLKSPLKPESQLDLRVQELIKLICNVQAMEEMMMEMKYNTKKAPLGKLTVAQIKAGYQSLKKIEDCIRAGQHGRALMEACNEFYTRIPHDFGLRTPPLIRTQKELSEKIQLLEALGDIEIAIKLVKTELQSPEHPLDQHYRNLHCALRPLDHESYEFKVISQYLQSTHAPTHSDYTMTLLDLFEVEKDGEKEAFREDLHNRMLLWHGSRMSNWVGILSHGLRIAPPEAPITGYMFGKGIYFADMSSKSANYCFASRLKNTGLLLLSEVALGQCNELLEANPKAEGLLQGKHSTKGLGKMAPSSAHFVTLNGSTVPLGPASDTGILNPDGYTLNYNEYIVYNPNQVRMRYLLKVQFNFLQLW",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.4.2.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "2.4.2.30",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "ADP-ribosyltransferase diphtheria toxin-like 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ADPRT-2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ADPRT2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "ADPRTL2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "ARTD2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "DNA ADP-ribosyltransferase PARP2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "hPARP-2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "NAD(+) ADP-ribosyltransferase 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "pADPRT-2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PARP-2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PARP2",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Poly [ADP-ribose] polymerase 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Poly[ADP-ribose] synthase 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Protein poly-ADP-ribosyltransferase PARP2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Synonyms=ADPRT2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q9UGN5",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q9UGN5",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005694",
+        "xref_name": "chromosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005730",
+        "xref_name": "nucleolus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0090734",
+        "xref_name": "site of DNA damage",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003682",
+        "xref_name": "chromatin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003684",
+        "xref_name": "damaged DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003950",
+        "xref_name": "NAD+-protein poly-ADP-ribosyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016757",
+        "xref_name": "glycosyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016779",
+        "xref_name": "nucleotidyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031491",
+        "xref_name": "nucleosome binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140294",
+        "xref_name": "NAD DNA ADP-ribosyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140805",
+        "xref_name": "NAD+-protein-serine ADP-ribosyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140806",
+        "xref_name": "NAD+-protein-aspartate ADP-ribosyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140807",
+        "xref_name": "NAD+-protein-glutamate ADP-ribosyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140816",
+        "xref_name": "NAD+-histone H2BS6 serine ADP-ribosyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140817",
+        "xref_name": "NAD+-histone H3S10 serine ADP-ribosyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140822",
+        "xref_name": "NAD+-histone H2BE35 glutamate ADP-ribosyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140844",
+        "xref_name": "NAD+-histone H2BE2 glutamate ADP-ribosyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140867",
+        "xref_name": "NAD+-histone H2BE18 glutamate ADP-ribosyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0160004",
+        "xref_name": "poly-ADP-D-ribose modification-dependent protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990404",
+        "xref_name": "NAD+-protein ADP-ribosyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006281",
+        "xref_name": "DNA repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006284",
+        "xref_name": "base-excision repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006302",
+        "xref_name": "double-strand break repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006974",
+        "xref_name": "DNA damage response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030592",
+        "xref_name": "DNA ADP-ribosylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046697",
+        "xref_name": "decidualization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061051",
+        "xref_name": "positive regulation of cell growth involved in cardiac muscle cell development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097191",
+        "xref_name": "extrinsic apoptotic signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0110088",
+        "xref_name": "hippocampal neuron apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:272",
+        "xref_name": "PARP2",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q9UGN5",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR004102",
+        "xref_name": "Poly(ADP-ribose)pol_reg_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008893",
+        "xref_name": "WGR_domain",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR012317",
+        "xref_name": "Poly(ADP-ribose)pol_cat_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036616",
+        "xref_name": "Poly(ADP-ribose)pol_reg_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036930",
+        "xref_name": "WGR_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050800",
+        "xref_name": "ARTD/PARP",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR10459",
+        "xref_name": "DNA LIGASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR10459:SF60",
+        "xref_name": "POLY [ADP-RIBOSE] POLYMERASE 2",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3KCZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3KJD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4PJV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4TVJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZZX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZZY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5D5K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5DSY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6F1K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6F5B",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6F5F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6TX3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6USJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6X0L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6X0M",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6X0N",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7AEO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7R59",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8HE8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8HKN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8HKO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8HKS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8HLJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8HLQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8JNY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9IM8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3KCZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3KJD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4PJV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4TVJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZZX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZZY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5D5K",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5DSY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6F1K",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6F5B",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6F5F",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6TX3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7AEO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7R59",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8HE8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8HKN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8HKO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8HKS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8HLJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8HLQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8JNY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9IM8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00644",
+        "xref_name": "PARP",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02877",
+        "xref_name": "PARP_reg",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF05406",
+        "xref_name": "WGR",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA24592",
+        "xref_name": "poly(ADP-ribose) polymerase 2",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q9UGN5",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-110362",
+        "xref_name": "POLB-Dependent Long Patch Base Excision Repair",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5685939",
+        "xref_name": "HDR through MMEJ (alt-NHEJ)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5696394",
+        "xref_name": "DNA Damage Recognition in GG-NER",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5696395",
+        "xref_name": "Formation of Incision Complex in GG-NER",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5696400",
+        "xref_name": "Dual Incision in GG-NER",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q8TEU4",
+        "xref_name": "Poly [ADP-ribose] polymerase 2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9NUV2",
+        "xref_name": "Poly [ADP-ribose] polymerase 2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UGN5",
+        "xref_name": "Poly [ADP-ribose] polymerase 2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UMR4",
+        "xref_name": "Poly [ADP-ribose] polymerase 2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9Y6C8",
+        "xref_name": "Poly [ADP-ribose] polymerase 2",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5366"
+      },
+      {
+        "target_chembl_id": "CHEMBL3390820"
+      },
+      {
+        "target_chembl_id": "CHEMBL5169089"
+      },
+      {
+        "target_chembl_id": "CHEMBL6177907"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

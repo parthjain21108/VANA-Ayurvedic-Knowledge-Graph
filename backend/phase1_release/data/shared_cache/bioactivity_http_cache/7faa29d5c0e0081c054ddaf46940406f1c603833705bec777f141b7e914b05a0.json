@@ -1,0 +1,787 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "MUS81-ECE1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5465380",
+    "target_components": [
+      {
+        "accession": "P42892",
+        "component_description": "Endothelin-converting enzyme 1",
+        "component_id": 3108,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.4.24.71",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "ECE-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ECE1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Endothelin-converting enzyme 1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P42892",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P42892",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005765",
+            "xref_name": "lysosomal membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005768",
+            "xref_name": "endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009897",
+            "xref_name": "external side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0010008",
+            "xref_name": "endosome membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048471",
+            "xref_name": "perinuclear region of cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004175",
+            "xref_name": "endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004222",
+            "xref_name": "metalloendopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008237",
+            "xref_name": "metallopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0017046",
+            "xref_name": "peptide hormone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001921",
+            "xref_name": "positive regulation of receptor recycling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0003100",
+            "xref_name": "regulation of systemic arterial blood pressure by endothelin",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007507",
+            "xref_name": "heart development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010814",
+            "xref_name": "substance P catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010815",
+            "xref_name": "bradykinin catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010816",
+            "xref_name": "calcitonin catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016485",
+            "xref_name": "protein processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016486",
+            "xref_name": "peptide hormone processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019229",
+            "xref_name": "regulation of vasoconstriction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034959",
+            "xref_name": "endothelin maturation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035050",
+            "xref_name": "embryonic heart tube development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042447",
+            "xref_name": "hormone catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042733",
+            "xref_name": "embryonic digit morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043583",
+            "xref_name": "ear development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060037",
+            "xref_name": "pharyngeal system development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060385",
+            "xref_name": "axonogenesis involved in innervation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902287",
+            "xref_name": "semaphorin-plexin signaling pathway involved in axon guidance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:3146",
+            "xref_name": "ECE1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P42892",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000718",
+            "xref_name": "Peptidase_M13",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008753",
+            "xref_name": "Peptidase_M13_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018497",
+            "xref_name": "Peptidase_M13_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR024079",
+            "xref_name": "MetalloPept_cat_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR042089",
+            "xref_name": "Peptidase_M13_dom_2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11733",
+            "xref_name": "ZINC METALLOPROTEASE FAMILY M13 NEPRILYSIN-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11733:SF130",
+            "xref_name": "ENDOTHELIN-CONVERTING ENZYME 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3DWB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3DWB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF01431",
+            "xref_name": "Peptidase_M13",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF05649",
+            "xref_name": "Peptidase_M13_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA27594",
+            "xref_name": "endothelin converting enzyme 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P42892",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-375276",
+            "xref_name": "Peptide ligand-binding receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8K3P1",
+            "xref_name": "Endothelin-converting enzyme 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4E291",
+            "xref_name": "Endothelin-converting enzyme 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P42892",
+            "xref_name": "Endothelin-converting enzyme 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q14217",
+            "xref_name": "Endothelin-converting enzyme 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q17RN5",
+            "xref_name": "Endothelin-converting enzyme 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q2Z2K8",
+            "xref_name": "Endothelin-converting enzyme 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q58GE7",
+            "xref_name": "Endothelin-converting enzyme 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5THM5",
+            "xref_name": "Endothelin-converting enzyme 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5THM7",
+            "xref_name": "Endothelin-converting enzyme 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5THM8",
+            "xref_name": "Endothelin-converting enzyme 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UJQ6",
+            "xref_name": "Endothelin-converting enzyme 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UPF4",
+            "xref_name": "Endothelin-converting enzyme 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UPM4",
+            "xref_name": "Endothelin-converting enzyme 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9Y501",
+            "xref_name": "Endothelin-converting enzyme 1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      },
+      {
+        "accession": "Q96NY9",
+        "component_description": "Structure-specific endonuclease subunit MUS81",
+        "component_id": 22914,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.1.22.-",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Crossover junction endonuclease MUS81",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MUS81",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "MUS81 endonuclease homolog",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Structure-specific endonuclease subunit MUS81",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q96NY9",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q96NY9",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005657",
+            "xref_name": "replication fork",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005730",
+            "xref_name": "nucleolus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043596",
+            "xref_name": "nuclear replication fork",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048476",
+            "xref_name": "Holliday junction resolvase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1905347",
+            "xref_name": "endodeoxyribonuclease complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004519",
+            "xref_name": "endonuclease activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008821",
+            "xref_name": "crossover junction DNA endonuclease activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0048257",
+            "xref_name": "3'-flap endonuclease activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000712",
+            "xref_name": "resolution of meiotic recombination intermediates",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000727",
+            "xref_name": "double-strand break repair via break-induced replication",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006281",
+            "xref_name": "DNA repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006302",
+            "xref_name": "double-strand break repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006308",
+            "xref_name": "DNA catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006310",
+            "xref_name": "DNA recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031297",
+            "xref_name": "replication fork processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031573",
+            "xref_name": "mitotic intra-S DNA damage checkpoint signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033687",
+            "xref_name": "osteoblast proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0072429",
+            "xref_name": "response to intra-S DNA damage checkpoint signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:29814",
+            "xref_name": "MUS81",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q96NY9",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR006166",
+            "xref_name": "ERCC4_domain",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR010996",
+            "xref_name": "HHH_MUS81",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011335",
+            "xref_name": "Restrct_endonuc-II-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR027421",
+            "xref_name": "DNA_pol_lamdba_lyase_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033309",
+            "xref_name": "Mus81",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036388",
+            "xref_name": "WH-like_DNA-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR042530",
+            "xref_name": "EME1/EME2_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047416",
+            "xref_name": "XPF_nuclease_Mus81",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047417",
+            "xref_name": "WHD_MUS81",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR13451",
+            "xref_name": "CLASS II CROSSOVER JUNCTION ENDONUCLEASE MUS81",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR13451:SF0",
+            "xref_name": "CROSSOVER JUNCTION ENDONUCLEASE MUS81",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2MC3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2ZIX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4P0P",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4P0Q",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4P0R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4P0S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6VWB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7BU5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7F6L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F98",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F99",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F9A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F9K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F9L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9F9M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2ZIX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4P0P",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4P0Q",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4P0R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4P0S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7BU5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7F6L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9F98",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9F99",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9F9A",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9F9K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9F9L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9F9M",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF02732",
+            "xref_name": "ERCC4",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF14716",
+            "xref_name": "HHH_8",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF21136",
+            "xref_name": "WHD_MUS81",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF21292",
+            "xref_name": "EME1-MUS81_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA134881809",
+            "xref_name": "MUS81 structure-specific endonuclease subunit",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q96NY9",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-5693568",
+            "xref_name": "Resolution of D-loop Structures through Holliday Junction Intermediates",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6783310",
+            "xref_name": "Fanconi Anemia Pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q96NY9",
+            "xref_name": "Structure-specific endonuclease subunit MUS81",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9H7D9",
+            "xref_name": "Structure-specific endonuclease subunit MUS81",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "PROTEIN COMPLEX",
+    "tax_id": 9606
+  },
+  "ok": true
+}

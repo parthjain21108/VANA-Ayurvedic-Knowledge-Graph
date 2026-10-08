@@ -1,0 +1,562 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Serine/threonine-protein phosphatase 5",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3425389",
+    "target_components": [
+      {
+        "accession": "P53041",
+        "component_description": "Serine/threonine-protein phosphatase 5",
+        "component_id": 9794,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.1.3.16",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "PP5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PPP5",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "PPP5C",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "PP-T",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PPT",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Protein phosphatase T",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Serine/threonine-protein phosphatase 5",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P53041",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P53041",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032991",
+            "xref_name": "protein-containing complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0101031",
+            "xref_name": "protein folding chaperone complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003723",
+            "xref_name": "RNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004721",
+            "xref_name": "phosphoprotein phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004722",
+            "xref_name": "protein serine/threonine phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008289",
+            "xref_name": "lipid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016787",
+            "xref_name": "hydrolase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016791",
+            "xref_name": "phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0017018",
+            "xref_name": "myosin phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0033192",
+            "xref_name": "calmodulin-dependent protein phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043531",
+            "xref_name": "ADP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0048156",
+            "xref_name": "tau protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051879",
+            "xref_name": "Hsp90 protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140791",
+            "xref_name": "histone H2AXS140 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0180004",
+            "xref_name": "RNA polymerase II CTD heptapeptide repeat Y1 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0180005",
+            "xref_name": "RNA polymerase II CTD heptapeptide repeat T4 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0180006",
+            "xref_name": "RNA polymerase II CTD heptapeptide repeat S2 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0180007",
+            "xref_name": "RNA polymerase II CTD heptapeptide repeat S5 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0180008",
+            "xref_name": "RNA polymerase II CTD heptapeptide repeat S7 phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990439",
+            "xref_name": "MAP kinase serine/threonine phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000165",
+            "xref_name": "MAPK cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000278",
+            "xref_name": "mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006281",
+            "xref_name": "DNA repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006302",
+            "xref_name": "double-strand break repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006470",
+            "xref_name": "protein dephosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035970",
+            "xref_name": "peptidyl-threonine dephosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043123",
+            "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070262",
+            "xref_name": "peptidyl-serine dephosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9322",
+            "xref_name": "PPP5C",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P53041",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR004843",
+            "xref_name": "Calcineurin-like_PHP",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006186",
+            "xref_name": "Ser/Thr-sp_prot-phosphatase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011990",
+            "xref_name": "TPR-like_helical_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013235",
+            "xref_name": "PPP_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR019734",
+            "xref_name": "TPR_rpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR029052",
+            "xref_name": "Metallo-depent_PP-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR041753",
+            "xref_name": "PP5_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR051134",
+            "xref_name": "PPP_phosphatase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR45668",
+            "xref_name": "SERINE/THREONINE-PROTEIN PHOSPHATASE 5-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR45668:SF5",
+            "xref_name": "SERINE_THREONINE-PROTEIN PHOSPHATASE 5",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1A17",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1S95",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1WAO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2BUG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3H60",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3H61",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3H62",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3H63",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3H64",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3H66",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3H67",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3H68",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3H69",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4ZVZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4ZX2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5HPE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5UI1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5WG8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7ZR5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7ZR6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8GAE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8GFT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1A17",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1S95",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1WAO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3H60",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3H61",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3H62",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3H63",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3H64",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3H66",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3H67",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3H68",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3H69",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4ZVZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4ZX2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5HPE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5UI1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5WG8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00149",
+            "xref_name": "Metallophos",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00515",
+            "xref_name": "TPR_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF08321",
+            "xref_name": "PPP5",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA33686",
+            "xref_name": "protein phosphatase 5 catalytic subunit",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P53041",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-5675221",
+            "xref_name": "Negative regulation of MAPK pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693565",
+            "xref_name": "Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8939211",
+            "xref_name": "ESR-mediated signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P53041",
+            "xref_name": "Serine/threonine-protein phosphatase 5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16722",
+            "xref_name": "Serine/threonine-protein phosphatase 5",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q53XV2",
+            "xref_name": "Serine/threonine-protein phosphatase 5",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,767 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Stromelysin-1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL283",
+    "target_components": [
+      {
+        "accession": "P08254",
+        "component_description": "Stromelysin-1",
+        "component_id": 1399,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.4.24.17",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Matrix metalloproteinase-3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MMP-3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MMP3",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "SL-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "STMY1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Stromelysin-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Transin-1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P08254",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P08254",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004175",
+            "xref_name": "endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004222",
+            "xref_name": "metalloendopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004252",
+            "xref_name": "serine-type endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008233",
+            "xref_name": "peptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008237",
+            "xref_name": "metallopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0022617",
+            "xref_name": "extracellular matrix disassembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030198",
+            "xref_name": "extracellular matrix organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030334",
+            "xref_name": "regulation of cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030574",
+            "xref_name": "collagen catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031334",
+            "xref_name": "positive regulation of protein-containing complex assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034614",
+            "xref_name": "cellular response to reactive oxygen species",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045087",
+            "xref_name": "innate immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051898",
+            "xref_name": "negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071222",
+            "xref_name": "cellular response to lipopolysaccharide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071230",
+            "xref_name": "cellular response to amino acid stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071492",
+            "xref_name": "cellular response to UV-A",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071732",
+            "xref_name": "cellular response to nitric oxide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0150077",
+            "xref_name": "regulation of neuroinflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000378",
+            "xref_name": "negative regulation of reactive oxygen species metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:7173",
+            "xref_name": "MMP3",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P08254",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000585",
+            "xref_name": "Hemopexin-like_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001818",
+            "xref_name": "Pept_M10_metallopeptidase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002477",
+            "xref_name": "Peptidoglycan-bd-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006026",
+            "xref_name": "Peptidase_Metallo",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018486",
+            "xref_name": "Hemopexin_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018487",
+            "xref_name": "Hemopexin-like_repeat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR021158",
+            "xref_name": "Pept_M10A_Zn_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR021190",
+            "xref_name": "Pept_M10A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR024079",
+            "xref_name": "MetalloPept_cat_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033739",
+            "xref_name": "M10A_MMP",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036365",
+            "xref_name": "PGBD-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036375",
+            "xref_name": "Hemopexin-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10201",
+            "xref_name": "MATRIX METALLOPROTEINASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10201:SF215",
+            "xref_name": "STROMELYSIN-1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1B3D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1B8Y",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1BIW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1BM6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1BQO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1C3I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1C8T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1CAQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1CIZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1CQR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1D5J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1D7X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1D8F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1D8M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1G05",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1G49",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1G4K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1HFS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1HY7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1OO9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1QIA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1QIC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1SLM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1SLN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1UEA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1UMS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1UMT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1USN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2D1O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2JNP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2JT5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2JT6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2SRT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2USN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3OHL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3OHO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3USN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4DPE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4G9L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4JA1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6MAV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6N9D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7S7L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7S7M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1B3D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1B8Y",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1BIW",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1BQO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1C3I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1C8T",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1CAQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1CIZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1CQR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1D5J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1D7X",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1D8F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1D8M",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1G05",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1G49",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1G4K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1HFS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1HY7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1QIA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1QIC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1SLM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1SLN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1UEA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1USN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2D1O",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2USN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3OHL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3OHO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4DPE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4G9L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4JA1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6MAV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6N9D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7S7L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7S7M",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00045",
+            "xref_name": "Hemopexin",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00413",
+            "xref_name": "Peptidase_M10",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF01471",
+            "xref_name": "PG_binding_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA30886",
+            "xref_name": "matrix metallopeptidase 3",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P08254",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1442490",
+            "xref_name": "Collagen degradation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1474228",
+            "xref_name": "Degradation of the extracellular matrix",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1592389",
+            "xref_name": "Activation of Matrix Metalloproteinases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2022090",
+            "xref_name": "Assembly of collagen fibrils and other multimeric structures",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2179392",
+            "xref_name": "EGFR Transactivation by Gastrin",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6785807",
+            "xref_name": "Interleukin-4 and Interleukin-13 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9009391",
+            "xref_name": "Extra-nuclear estrogen signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B2R8B8",
+            "xref_name": "Stromelysin-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P08254",
+            "xref_name": "Stromelysin-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q3B7S0",
+            "xref_name": "Stromelysin-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6GRF8",
+            "xref_name": "Stromelysin-1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

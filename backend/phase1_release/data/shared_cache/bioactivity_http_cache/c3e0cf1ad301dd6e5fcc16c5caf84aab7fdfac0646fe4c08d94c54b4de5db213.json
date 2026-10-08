@@ -1,0 +1,624 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Matrix metalloproteinase-14",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3869",
+    "target_components": [
+      {
+        "accession": "P50281",
+        "component_description": "Matrix metalloproteinase-14",
+        "component_id": 2187,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.4.24.80",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Matrix metalloproteinase-14",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Membrane-type-1 matrix metalloproteinase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Membrane-type matrix metalloproteinase 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MMP-14",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MMP14",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "MMP-X1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MT1-MMP",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MT1MMP",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MT-MMP 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MTMMP1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P50281",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P50281",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005796",
+            "xref_name": "Golgi lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005925",
+            "xref_name": "focal adhesion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0044354",
+            "xref_name": "macropinosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045111",
+            "xref_name": "intermediate filament cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004175",
+            "xref_name": "endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004222",
+            "xref_name": "metalloendopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004252",
+            "xref_name": "serine-type endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005178",
+            "xref_name": "integrin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008237",
+            "xref_name": "metallopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070006",
+            "xref_name": "metalloaminopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001501",
+            "xref_name": "skeletal system development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001503",
+            "xref_name": "ossification",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001525",
+            "xref_name": "angiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001541",
+            "xref_name": "ovarian follicle development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001666",
+            "xref_name": "response to hypoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001935",
+            "xref_name": "endothelial cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001958",
+            "xref_name": "endochondral ossification",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006979",
+            "xref_name": "response to oxidative stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008584",
+            "xref_name": "male gonad development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010831",
+            "xref_name": "positive regulation of myotube differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010954",
+            "xref_name": "positive regulation of protein processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016477",
+            "xref_name": "cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016485",
+            "xref_name": "protein processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0022617",
+            "xref_name": "extracellular matrix disassembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030198",
+            "xref_name": "extracellular matrix organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030307",
+            "xref_name": "positive regulation of cell growth",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030324",
+            "xref_name": "lung development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030335",
+            "xref_name": "positive regulation of cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030574",
+            "xref_name": "collagen catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031638",
+            "xref_name": "zymogen activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035987",
+            "xref_name": "endodermal cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035988",
+            "xref_name": "chondrocyte proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043615",
+            "xref_name": "astrocyte cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045579",
+            "xref_name": "positive regulation of B cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045746",
+            "xref_name": "negative regulation of Notch signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048701",
+            "xref_name": "embryonic cranial skeleton morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048754",
+            "xref_name": "branching morphogenesis of an epithelial tube",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048771",
+            "xref_name": "tissue remodeling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048870",
+            "xref_name": "cell motility",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051895",
+            "xref_name": "negative regulation of focal adhesion assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060322",
+            "xref_name": "head development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060348",
+            "xref_name": "bone development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097094",
+            "xref_name": "craniofacial suture morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0160145",
+            "xref_name": "negative regulation of GDF15-GFRAL signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903076",
+            "xref_name": "regulation of protein localization to plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905523",
+            "xref_name": "positive regulation of macrophage migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:7160",
+            "xref_name": "MMP14",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P50281",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000585",
+            "xref_name": "Hemopexin-like_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001818",
+            "xref_name": "Pept_M10_metallopeptidase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002477",
+            "xref_name": "Peptidoglycan-bd-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006026",
+            "xref_name": "Peptidase_Metallo",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018486",
+            "xref_name": "Hemopexin_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018487",
+            "xref_name": "Hemopexin-like_repeat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR021158",
+            "xref_name": "Pept_M10A_Zn_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR021190",
+            "xref_name": "Pept_M10A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR021805",
+            "xref_name": "Pept_M10A_metallopeptidase_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR024079",
+            "xref_name": "MetalloPept_cat_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033739",
+            "xref_name": "M10A_MMP",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036365",
+            "xref_name": "PGBD-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036366",
+            "xref_name": "PGBDSf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036375",
+            "xref_name": "Hemopexin-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10201",
+            "xref_name": "MATRIX METALLOPROTEINASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10201:SF24",
+            "xref_name": "MATRIX METALLOPROTEINASE-14",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1BQQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1BUV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2MQS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3C7X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3MA2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3X23",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4P3C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4P3D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QXU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5H0U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6CLZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6CM1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1BQQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1BUV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3C7X",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3MA2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3X23",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4P3C",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4P3D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QXU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5H0U",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00045",
+            "xref_name": "Hemopexin",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00413",
+            "xref_name": "Peptidase_M10",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF01471",
+            "xref_name": "PG_binding_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF11857",
+            "xref_name": "DUF3377",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA30872",
+            "xref_name": "matrix metallopeptidase 14",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P50281",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1442490",
+            "xref_name": "Collagen degradation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1474228",
+            "xref_name": "Degradation of the extracellular matrix",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1592389",
+            "xref_name": "Activation of Matrix Metalloproteinases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9839383",
+            "xref_name": "TGFBR3 PTM regulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9856530",
+            "xref_name": "High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8K5L0",
+            "xref_name": "Matrix metalloproteinase-14",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P50281",
+            "xref_name": "Matrix metalloproteinase-14",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6GSF3",
+            "xref_name": "Matrix metalloproteinase-14",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q92678",
+            "xref_name": "Matrix metalloproteinase-14",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

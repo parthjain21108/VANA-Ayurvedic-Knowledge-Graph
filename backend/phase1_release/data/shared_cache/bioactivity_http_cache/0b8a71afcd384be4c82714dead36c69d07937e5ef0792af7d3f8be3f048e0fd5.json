@@ -1,0 +1,233 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Mannose-6-phosphate isomerase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2758",
+    "target_components": [
+      {
+        "accession": "P34949",
+        "component_description": "Mannose-6-phosphate isomerase",
+        "component_id": 1091,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5.3.1.8",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Mannose-6-phosphate isomerase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MPI",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Phosphohexomutase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Phosphomannose isomerase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PMI",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PMI1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P34949",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P34949",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004476",
+            "xref_name": "mannose-6-phosphate isomerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016853",
+            "xref_name": "isomerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005975",
+            "xref_name": "carbohydrate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009298",
+            "xref_name": "GDP-mannose biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061611",
+            "xref_name": "mannose to fructose-6-phosphate catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061729",
+            "xref_name": "GDP-mannose biosynthetic process from fructose-6-phosphate",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0141199",
+            "xref_name": "GDP-mannose biosynthetic process from glucose",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:7216",
+            "xref_name": "MPI",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P34949",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001250",
+            "xref_name": "Man6P_Isoase-1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011051",
+            "xref_name": "RmlC_Cupin_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR014710",
+            "xref_name": "RmlC-like_jellyroll",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016305",
+            "xref_name": "Mannose-6-P_Isomerase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018050",
+            "xref_name": "Pmannose_isomerase-type1_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046456",
+            "xref_name": "PMI_typeI_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046457",
+            "xref_name": "PMI_typeI_cat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046458",
+            "xref_name": "PMI_typeI_hel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10309",
+            "xref_name": "MANNOSE-6-PHOSPHATE ISOMERASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10309:SF0",
+            "xref_name": "MANNOSE-6-PHOSPHATE ISOMERASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF01238",
+            "xref_name": "PMI_typeI_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF20511",
+            "xref_name": "PMI_typeI_cat",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF20512",
+            "xref_name": "PMI_typeI_hel",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA30922",
+            "xref_name": "mannose phosphate isomerase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P34949",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-4043916",
+            "xref_name": "Defective MPI causes MPI-CDG",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-446205",
+            "xref_name": "Synthesis of GDP-mannose",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8K8K9",
+            "xref_name": "Mannose-6-phosphate isomerase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P34949",
+            "xref_name": "Mannose-6-phosphate isomerase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96AB0",
+            "xref_name": "Mannose-6-phosphate isomerase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,751 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Nuclear factor erythroid 2-related factor 2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1075094",
+    "target_components": [
+      {
+        "accession": "Q16236",
+        "component_description": "Nuclear factor erythroid 2-related factor 2",
+        "component_id": 3947,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "NFE2L2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "NF-E2-related factor 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NFE2-related factor 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Nrf-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NRF2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Nuclear factor erythroid 2-related factor 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Nuclear factor, erythroid derived 2, like 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=NRF2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Synonyms=NRF2 {ECO:0000303|PubMed:33009401",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q16236",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q16236",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000785",
+            "xref_name": "chromatin",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005794",
+            "xref_name": "Golgi apparatus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005813",
+            "xref_name": "centrosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016592",
+            "xref_name": "mediator complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032993",
+            "xref_name": "protein-DNA complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0090575",
+            "xref_name": "RNA polymerase II transcription regulator complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000976",
+            "xref_name": "transcription cis-regulatory region binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000978",
+            "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001221",
+            "xref_name": "transcription coregulator binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019904",
+            "xref_name": "protein domain specific binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031625",
+            "xref_name": "ubiquitin protein ligase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043565",
+            "xref_name": "sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0061629",
+            "xref_name": "RNA polymerase II-specific DNA-binding transcription factor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140693",
+            "xref_name": "molecular condensate scaffold activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002931",
+            "xref_name": "response to ischemia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006979",
+            "xref_name": "response to oxidative stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010499",
+            "xref_name": "proteasomal ubiquitin-independent protein catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010628",
+            "xref_name": "positive regulation of gene expression",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010667",
+            "xref_name": "negative regulation of cardiac muscle cell apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010976",
+            "xref_name": "positive regulation of neuron projection development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030194",
+            "xref_name": "positive regulation of blood coagulation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030968",
+            "xref_name": "endoplasmic reticulum unfolded protein response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034599",
+            "xref_name": "cellular response to oxidative stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034976",
+            "xref_name": "response to endoplasmic reticulum stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0036499",
+            "xref_name": "PERK-mediated unfolded protein response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042149",
+            "xref_name": "cellular response to glucose starvation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043161",
+            "xref_name": "proteasome-mediated ubiquitin-dependent protein catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043536",
+            "xref_name": "positive regulation of blood vessel endothelial cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045088",
+            "xref_name": "regulation of innate immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045766",
+            "xref_name": "positive regulation of angiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045893",
+            "xref_name": "positive regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045995",
+            "xref_name": "regulation of embryonic development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046223",
+            "xref_name": "aflatoxin catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046326",
+            "xref_name": "positive regulation of D-glucose import",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061431",
+            "xref_name": "cellular response to methionine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070301",
+            "xref_name": "cellular response to hydrogen peroxide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071280",
+            "xref_name": "cellular response to copper ion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071456",
+            "xref_name": "cellular response to hypoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071466",
+            "xref_name": "cellular response to xenobiotic stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071498",
+            "xref_name": "cellular response to fluid shear stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071499",
+            "xref_name": "cellular response to laminar fluid shear stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0072593",
+            "xref_name": "reactive oxygen species metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0110076",
+            "xref_name": "negative regulation of ferroptosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0140467",
+            "xref_name": "integrated stress response signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900038",
+            "xref_name": "negative regulation of cellular response to hypoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900407",
+            "xref_name": "regulation of cellular response to oxidative stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902037",
+            "xref_name": "negative regulation of hematopoietic stem cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902176",
+            "xref_name": "negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903788",
+            "xref_name": "positive regulation of glutathione biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904294",
+            "xref_name": "positive regulation of ERAD pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904385",
+            "xref_name": "cellular response to angiotensin",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904753",
+            "xref_name": "negative regulation of vascular associated smooth muscle cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000060",
+            "xref_name": "positive regulation of ubiquitin-dependent protein catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000121",
+            "xref_name": "regulation of removal of superoxide radicals",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000352",
+            "xref_name": "negative regulation of endothelial cell apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000379",
+            "xref_name": "positive regulation of reactive oxygen species metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:7782",
+            "xref_name": "NFE2L2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q16236",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR004826",
+            "xref_name": "bZIP_Maf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004827",
+            "xref_name": "bZIP",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008917",
+            "xref_name": "TF_DNA-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046347",
+            "xref_name": "bZIP_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047167",
+            "xref_name": "NFE2-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24411",
+            "xref_name": "NUCLEAR FACTOR ERYTHROID 2-RELATED FACTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24411:SF3",
+            "xref_name": "NUCLEAR FACTOR ERYTHROID 2-RELATED FACTOR 2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2FLU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2LZ1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3ZGC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4IFL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5WFV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6T7V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7K28",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7K29",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7K2A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7K2B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7K2C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7K2D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7K2E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7K2K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7O7B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7X5E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7X5F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7X5G",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8EJR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8EJS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2FLU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3ZGC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4IFL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5WFV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6T7V",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7K28",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7K29",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7K2A",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7K2B",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7K2C",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7K2D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7K2E",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7K2K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7X5E",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7X5F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7X5G",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8EJR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8EJS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF03131",
+            "xref_name": "bZIP_Maf",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA31588",
+            "xref_name": "NFE2 like bZIP transcription factor 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q16236",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-8951664",
+            "xref_name": "Neddylation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9679191",
+            "xref_name": "Potential therapeutics for SARS",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9707587",
+            "xref_name": "Regulation of HMOX1 expression and activity",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9707616",
+            "xref_name": "Heme signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9755511",
+            "xref_name": "KEAP1-NFE2L2 pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9759194",
+            "xref_name": "Nuclear events mediated by NFE2L2",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9762114",
+            "xref_name": "GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9818025",
+            "xref_name": "NFE2L2 regulating TCA cycle genes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9818026",
+            "xref_name": "NFE2L2 regulating inflammation associated genes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9818027",
+            "xref_name": "NFE2L2 regulating anti-oxidant/detoxification enzymes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9818028",
+            "xref_name": "NFE2L2 regulates pentose phosphate pathway genes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9818030",
+            "xref_name": "NFE2L2 regulating tumorigenic genes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9818032",
+            "xref_name": "NFE2L2 regulating MDR associated enzymes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9818035",
+            "xref_name": "NFE2L2 regulating ER-stress associated genes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9818749",
+            "xref_name": "Regulation of NFE2L2 gene expression",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B2RBU2",
+            "xref_name": "Nuclear factor erythroid 2-related factor 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4E338",
+            "xref_name": "Nuclear factor erythroid 2-related factor 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "E9PGJ7",
+            "xref_name": "Nuclear factor erythroid 2-related factor 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16236",
+            "xref_name": "Nuclear factor erythroid 2-related factor 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q53RW6",
+            "xref_name": "Nuclear factor erythroid 2-related factor 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q59HH2",
+            "xref_name": "Nuclear factor erythroid 2-related factor 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96F71",
+            "xref_name": "Nuclear factor erythroid 2-related factor 2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

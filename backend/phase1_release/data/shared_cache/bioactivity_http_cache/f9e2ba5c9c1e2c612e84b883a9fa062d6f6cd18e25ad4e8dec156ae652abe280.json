@@ -1,0 +1,608 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Huntingtin",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5514",
+    "target_components": [
+      {
+        "accession": "P42858",
+        "component_description": "Huntingtin",
+        "component_id": 3806,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "HD",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "HD protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HTT",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Huntingtin",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Huntingtin, myristoylated N-terminal fragment",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Huntington disease protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IT15",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P42858",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005768",
+            "xref_name": "endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005769",
+            "xref_name": "early endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005770",
+            "xref_name": "late endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005776",
+            "xref_name": "autophagosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005794",
+            "xref_name": "Golgi apparatus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016234",
+            "xref_name": "inclusion body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030659",
+            "xref_name": "cytoplasmic vesicle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032991",
+            "xref_name": "protein-containing complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048471",
+            "xref_name": "perinuclear region of cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099523",
+            "xref_name": "presynaptic cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099524",
+            "xref_name": "postsynaptic cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0002039",
+            "xref_name": "p53 binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004721",
+            "xref_name": "phosphoprotein phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005522",
+            "xref_name": "profilin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019900",
+            "xref_name": "kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031072",
+            "xref_name": "heat shock protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034452",
+            "xref_name": "dynactin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044325",
+            "xref_name": "transmembrane transporter binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0045505",
+            "xref_name": "dynein intermediate chain binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0048487",
+            "xref_name": "beta-tubulin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000132",
+            "xref_name": "establishment of mitotic spindle orientation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006890",
+            "xref_name": "retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006915",
+            "xref_name": "apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031587",
+            "xref_name": "positive regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031648",
+            "xref_name": "protein destabilization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042297",
+            "xref_name": "vocal learning",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043065",
+            "xref_name": "positive regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045724",
+            "xref_name": "positive regulation of cilium assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0047496",
+            "xref_name": "vesicle transport along microtubule",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099111",
+            "xref_name": "microtubule-based transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901526",
+            "xref_name": "positive regulation of mitophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904504",
+            "xref_name": "positive regulation of lipophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905289",
+            "xref_name": "regulation of CAMKK-AMPK signaling cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905291",
+            "xref_name": "positive regulation of CAMKK-AMPK signaling cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905337",
+            "xref_name": "positive regulation of aggrephagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2001237",
+            "xref_name": "negative regulation of extrinsic apoptotic signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:4851",
+            "xref_name": "HTT",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P42858",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000091",
+            "xref_name": "Huntingtin",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011989",
+            "xref_name": "ARM-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016024",
+            "xref_name": "ARM-type_fold",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR024613",
+            "xref_name": "Huntingtin_N_HEAT_rpt-2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR028426",
+            "xref_name": "Huntingtin_fam",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR048411",
+            "xref_name": "Htt_N_HEAT_rpt-1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR048412",
+            "xref_name": "Htt_bridge",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR048413",
+            "xref_name": "Htt_C-HEAT_rpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10170",
+            "xref_name": "HUNTINGTON DISEASE PROTEIN",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10170:SF10",
+            "xref_name": "HUNTINGTIN",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2LD0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2LD2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3IO4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3IO6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3IOR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3IOT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3IOU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3IOV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3IOW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3LRH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4FE8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4FEB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4FEC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4FED",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4RAV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6EZ8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6N8C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6RMH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X9O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6YEJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7DXJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7DXK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8R2O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SAH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VLX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8W15",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8YAE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8YAO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9PMW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9PN0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3IO4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3IO6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3IOR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3IOT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3IOU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3IOV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3IOW",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3LRH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4FE8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4FEB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4FEC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4FED",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4RAV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8R2O",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF12372",
+            "xref_name": "Htt_N-HEAT",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF20925",
+            "xref_name": "Htt_bridge",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF20926",
+            "xref_name": "Htt_N-HEAT_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF20927",
+            "xref_name": "Htt_C-HEAT",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA164741646",
+            "xref_name": "huntingtin",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P42858",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-9022692",
+            "xref_name": "Regulation of MECP2 expression and activity",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P42858",
+            "xref_name": "Huntingtin",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UQB7",
+            "xref_name": "Huntingtin",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

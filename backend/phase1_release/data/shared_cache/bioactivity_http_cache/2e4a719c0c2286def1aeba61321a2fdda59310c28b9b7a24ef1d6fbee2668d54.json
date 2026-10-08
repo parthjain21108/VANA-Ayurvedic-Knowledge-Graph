@@ -1,0 +1,213 @@
+{
+  "data": {
+    "accession": "Q48485",
+    "component_id": 20277,
+    "component_type": "PROTEIN",
+    "description": "UDP-galactopyranose mutase",
+    "go_slims": [
+      {
+        "go_id": "GO:0000166"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005975"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016853"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Klebsiella pneumoniae",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 644
+      }
+    ],
+    "sequence": "MKSKKILIVGAGFSGAVIGRQLAEKGHQVHIIDQRDHIGGNSYDARDSETNVMVHVYGPHIFHTDNETVWNYVNKHAEMMPYVNRVKATVNGQVFSLPINLHTINQFFSKTCSPDEARALIAEKGDSTIADPQTFEEQALRFIGKELYEAFFKGYTIKQWGMQPSELPASILKRLPVRFNYDDNYFNHKFQGMPKCGYTQMIKSILNHENIKVDLQREFIVEERTHYDHVFYSGPLDAFYGYQYGRLGYRTLDFKKFTYQGDYQGCAVMNYCSVDVPYTRITEHKYFSPWEQHDGSVCYKEYSRACEENDIPYYPIRQMGEMALLEKYLSLAENETNITFVGRLGTYRYLDMDVTIAEALKTAEVYLNSLTENQPMPVFTVSVR",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "5.4.99.9",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "rfbD",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "UDP-galactopyranose mutase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "UDP-GALP mutase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "UGM",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Uridine 5-diphosphate galactopyranose mutase",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q48485",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0008767",
+        "xref_name": "UDP-galactopyranose mutase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016853",
+        "xref_name": "isomerase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0050660",
+        "xref_name": "flavin adenine dinucleotide binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0009103",
+        "xref_name": "lipopolysaccharide biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009243",
+        "xref_name": "O antigen biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR004379",
+        "xref_name": "UDP-GALP_mutase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR015899",
+        "xref_name": "UDP-GalPyranose_mutase_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR21197",
+        "xref_name": "UDP-GALACTOPYRANOSE MUTASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR21197:SF0",
+        "xref_name": "UDP-GALACTOPYRANOSE MUTASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1WAM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2BI7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2BI8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3GF4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3INR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3INT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3KYB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1WAM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2BI7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2BI8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3GF4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3INR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3INT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3KYB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF03275",
+        "xref_name": "GLF",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF13450",
+        "xref_name": "NAD_binding_8",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "Q48485",
+        "xref_name": "UDP-galactopyranose mutase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5169233"
+      }
+    ],
+    "tax_id": 573
+  },
+  "ok": true
+}

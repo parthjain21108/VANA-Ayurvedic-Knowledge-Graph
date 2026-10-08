@@ -1,0 +1,365 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "5-hydroxytryptamine receptor 2C",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL225",
+    "target_components": [
+      {
+        "accession": "P28335",
+        "component_description": "5-hydroxytryptamine receptor 2C",
+        "component_id": 309,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT-1C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT1C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT-2C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT2C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HTR2C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 1C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 2C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HTR1C",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "HTR2C",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serotonin receptor 2C",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P28335",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098666",
+            "xref_name": "G protein-coupled serotonin receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001587",
+            "xref_name": "Gq/11-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004993",
+            "xref_name": "G protein-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051378",
+            "xref_name": "serotonin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099589",
+            "xref_name": "serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001662",
+            "xref_name": "behavioral fear response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006874",
+            "xref_name": "intracellular calcium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007200",
+            "xref_name": "phospholipase C-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007208",
+            "xref_name": "phospholipase C-activating serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007210",
+            "xref_name": "serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007626",
+            "xref_name": "locomotory behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007631",
+            "xref_name": "feeding behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010513",
+            "xref_name": "positive regulation of phosphatidylinositol biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019934",
+            "xref_name": "cGMP-mediated signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031644",
+            "xref_name": "regulation of nervous system process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032098",
+            "xref_name": "regulation of appetite",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043397",
+            "xref_name": "regulation of corticotropin-releasing hormone secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045600",
+            "xref_name": "positive regulation of fat cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050850",
+            "xref_name": "positive regulation of calcium-mediated signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051209",
+            "xref_name": "release of sequestered calcium ion into cytosol",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098664",
+            "xref_name": "G protein-coupled serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:5295",
+            "xref_name": "HTR2C",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P28335",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000377",
+            "xref_name": "5HT2C_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002231",
+            "xref_name": "5HT_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24247",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24247:SF32",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR 2C",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "6BQG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BQH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8DPF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8DPG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8DPH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8DPI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ZMF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BQG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BQH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8ZMF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA194",
+            "xref_name": "5-hydroxytryptamine receptor 2C",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P28335",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-390666",
+            "xref_name": "Serotonin receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-416476",
+            "xref_name": "G alpha (q) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B1AMW4",
+            "xref_name": "5-hydroxytryptamine receptor 2C",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P28335",
+            "xref_name": "5-hydroxytryptamine receptor 2C",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5VUF8",
+            "xref_name": "5-hydroxytryptamine receptor 2C",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NP28",
+            "xref_name": "5-hydroxytryptamine receptor 2C",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

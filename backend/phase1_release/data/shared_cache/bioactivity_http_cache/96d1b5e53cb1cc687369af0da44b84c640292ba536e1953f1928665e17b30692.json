@@ -1,0 +1,562 @@
+{
+  "data": {
+    "accession": "P28062",
+    "component_id": 3921,
+    "component_type": "PROTEIN",
+    "description": "Proteasome subunit beta type-8",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0008233"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0050790"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 89
+      }
+    ],
+    "sequence": "MALLDVCGAPRGQRPESALPVAGSGRRSDPGHYSFSMRSPELALPRGMQPTEFFQSLGGDGERNVQIEMAHGTTTLAFKFQHGVIAAVDSRASAGSYISALRVNKVIEINPYLLGTMSGCAADCQYWERLLAKECRLYYLRNGERISVSAASKLLSNMMCQYRGMGLSMGSMICGWDKKGPGLYYVDEHGTRLSGNMFSTGSGNTYAYGVMDSGYRPNLSPEEAYDLGRRAIAYATHRDSYSGGVVNMYHMKEDGWVKVESTDVSDLLHQYREANQ",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.4.25.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "LMP7",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Low molecular mass protein 7",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Macropain subunit C13",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Multicatalytic endopeptidase complex subunit C13",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Proteasome component C13",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Proteasome subunit beta-5i",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Proteasome subunit beta type-8",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PSMB5i",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "PSMB8",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Really interesting new gene 10 protein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "RING10",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Y2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P28062",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P28062",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0000502",
+        "xref_name": "proteasome complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005839",
+        "xref_name": "proteasome core complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0019774",
+        "xref_name": "proteasome core complex, beta-subunit complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:1990111",
+        "xref_name": "spermatoproteasome complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004175",
+        "xref_name": "endopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004298",
+        "xref_name": "threonine-type endopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0002376",
+        "xref_name": "immune system process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006508",
+        "xref_name": "proteolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019882",
+        "xref_name": "antigen processing and presentation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030154",
+        "xref_name": "cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043161",
+        "xref_name": "proteasome-mediated ubiquitin-dependent protein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045444",
+        "xref_name": "fat cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051603",
+        "xref_name": "proteolysis involved in protein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0052548",
+        "xref_name": "regulation of endopeptidase activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:9545",
+        "xref_name": "PSMB8",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P28062",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000243",
+        "xref_name": "Pept_T1A_subB",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001353",
+        "xref_name": "Proteasome_sua/b",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016050",
+        "xref_name": "Proteasome_bsu_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023333",
+        "xref_name": "Proteasome_suB-type",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029055",
+        "xref_name": "Ntn_hydrolases_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR32194",
+        "xref_name": "METALLOPROTEASE TLDD",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR32194:SF8",
+        "xref_name": "PROTEASOME SUBUNIT BETA",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "5L5A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5B",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5E",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5H",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5J",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5P",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5U",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5V",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5LTT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5M2B",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6AVO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6E5B",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7AWE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7B12",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5L5A",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5B",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5D",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5E",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5F",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5H",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5I",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5J",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5O",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5P",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5R",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5S",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5T",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5U",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5L5V",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5LTT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5M2B",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6E5B",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7AWE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7B12",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00227",
+        "xref_name": "Proteasome",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA33890",
+        "xref_name": "proteasome 20S subunit beta 8",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P28062",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1236974",
+        "xref_name": "ER-Phagosome pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-1236978",
+        "xref_name": "Cross-presentation of soluble exogenous antigens (endosomes)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-909733",
+        "xref_name": "Interferon alpha/beta signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9907900",
+        "xref_name": "Proteasome assembly",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9912633",
+        "xref_name": "Antigen processing: Ub, ATP-independent proteasomal degradation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B0UZC0",
+        "xref_name": "Proteasome subunit beta type-8",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P28062",
+        "xref_name": "Proteasome subunit beta type-8",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q29824",
+        "xref_name": "Proteasome subunit beta type-8",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5JNW6",
+        "xref_name": "Proteasome subunit beta type-8",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5QNR8",
+        "xref_name": "Proteasome subunit beta type-8",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96J48",
+        "xref_name": "Proteasome subunit beta type-8",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5620"
+      },
+      {
+        "target_chembl_id": "CHEMBL2364701"
+      },
+      {
+        "target_chembl_id": "CHEMBL3831201"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

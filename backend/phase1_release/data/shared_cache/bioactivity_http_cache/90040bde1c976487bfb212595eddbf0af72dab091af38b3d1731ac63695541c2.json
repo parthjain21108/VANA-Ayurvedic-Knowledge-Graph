@@ -1,0 +1,866 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Poly [ADP-ribose] polymerase tankyrase-1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL6164",
+    "target_components": [
+      {
+        "accession": "O95271",
+        "component_description": "Poly [ADP-ribose] polymerase tankyrase-1",
+        "component_id": 4743,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.4.2.-",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "2.4.2.30",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "ADP-ribosyltransferase diphtheria toxin-like 5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ARTD5",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PARP5A",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "PARPL",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Poly [ADP-ribose] polymerase 5A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Poly [ADP-ribose] polymerase tankyrase-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Protein poly-ADP-ribosyltransferase tankyrase-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=PARP5A",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TANK1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tankyrase-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tankyrase I",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TIN1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TINF1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TNKS",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "TNKS-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TNKS1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TRF1-interacting ankyrin-related ADP-ribose polymerase",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "O95271",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "O95271",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000139",
+            "xref_name": "Golgi membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000242",
+            "xref_name": "pericentriolar material",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000781",
+            "xref_name": "chromosome, telomeric region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000922",
+            "xref_name": "spindle pole",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005643",
+            "xref_name": "nuclear pore",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005694",
+            "xref_name": "chromosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005794",
+            "xref_name": "Golgi apparatus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005813",
+            "xref_name": "centrosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005856",
+            "xref_name": "cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016604",
+            "xref_name": "nuclear body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031965",
+            "xref_name": "nuclear membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097431",
+            "xref_name": "mitotic spindle pole",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003950",
+            "xref_name": "NAD+-protein poly-ADP-ribosyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016757",
+            "xref_name": "glycosyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016779",
+            "xref_name": "nucleotidyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042393",
+            "xref_name": "histone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140806",
+            "xref_name": "NAD+-protein-aspartate ADP-ribosyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140822",
+            "xref_name": "NAD+-histone H2BE35 glutamate ADP-ribosyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140844",
+            "xref_name": "NAD+-histone H2BE2 glutamate ADP-ribosyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140867",
+            "xref_name": "NAD+-histone H2BE18 glutamate ADP-ribosyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990404",
+            "xref_name": "NAD+-protein ADP-ribosyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0007052",
+            "xref_name": "mitotic spindle organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016055",
+            "xref_name": "Wnt signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0018105",
+            "xref_name": "peptidyl-serine phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0018107",
+            "xref_name": "peptidyl-threonine phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032210",
+            "xref_name": "regulation of telomere maintenance via telomerase",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032212",
+            "xref_name": "positive regulation of telomere maintenance via telomerase",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051225",
+            "xref_name": "spindle assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051301",
+            "xref_name": "cell division",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070198",
+            "xref_name": "protein localization to chromosome, telomeric region",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090263",
+            "xref_name": "positive regulation of canonical Wnt signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904355",
+            "xref_name": "positive regulation of telomere capping",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904357",
+            "xref_name": "negative regulation of telomere maintenance via telomere lengthening",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904358",
+            "xref_name": "positive regulation of telomere maintenance via telomere lengthening",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904908",
+            "xref_name": "negative regulation of maintenance of mitotic sister chromatid cohesion, telomeric",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:11941",
+            "xref_name": "TNKS",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "O95271",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001660",
+            "xref_name": "SAM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002110",
+            "xref_name": "Ankyrin_rpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012317",
+            "xref_name": "Poly(ADP-ribose)pol_cat_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013761",
+            "xref_name": "SAM/pointed_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036770",
+            "xref_name": "Ankyrin_rpt-contain_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24171",
+            "xref_name": "ANKYRIN REPEAT DOMAIN-CONTAINING PROTEIN 39-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2RF5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3UDD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3UH2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3UH4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4DVI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4I9I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4K4E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4K4F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4KRS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4LI6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4LI7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4LI8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4MSG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4MSK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4MT9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4N3R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4N4V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4OA7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4TOR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4TOS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4U6A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4UUH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4UW1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4W5S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4W6E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5EBT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ECE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ETY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5GP7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5JHQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5JTI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5JU5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5KNI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6QXU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6URQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KKM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KKN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KKO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KKP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KKQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7OCV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8X5J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2RF5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3UDD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3UH2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3UH4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4DVI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4I9I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4K4E",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4K4F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4KRS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4LI6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4LI7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4LI8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4MSG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4MSK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4MT9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4N3R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4N4V",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4OA7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4TOR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4TOS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4U6A",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4UUH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4UW1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4W5S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4W6E",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5EBT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5ECE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5ETY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5GP7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5JHQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5JTI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5JU5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5KNI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6QXU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6URQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7KKM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7KKN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7KKO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7KKP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7KKQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7OCV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8X5J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00023",
+            "xref_name": "Ank",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00644",
+            "xref_name": "PARP",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF07647",
+            "xref_name": "SAM_2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF12796",
+            "xref_name": "Ank_2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA36631",
+            "xref_name": "tankyrase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "O95271",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-201681",
+            "xref_name": "TCF dependent signaling in response to WNT",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-4641257",
+            "xref_name": "Degradation of AXIN",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5545619",
+            "xref_name": "XAV939 stabilizes AXIN",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5689880",
+            "xref_name": "Ub-specific processing proteases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8948751",
+            "xref_name": "Regulation of PTEN stability and activity",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "O95271",
+            "xref_name": "Poly [ADP-ribose] polymerase tankyrase-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O95272",
+            "xref_name": "Poly [ADP-ribose] polymerase tankyrase-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q4G0F2",
+            "xref_name": "Poly [ADP-ribose] polymerase tankyrase-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q59FX0",
+            "xref_name": "Poly [ADP-ribose] polymerase tankyrase-1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

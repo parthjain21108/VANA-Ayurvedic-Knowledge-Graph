@@ -1,0 +1,382 @@
+{
+  "data": {
+    "accession": "Q12794",
+    "component_id": 2845,
+    "component_type": "PROTEIN",
+    "description": "Hyaluronidase-1",
+    "go_slims": [
+      {
+        "go_id": "GO:0001618"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005576"
+      },
+      {
+        "go_id": "GO:0005615"
+      },
+      {
+        "go_id": "GO:0005764"
+      },
+      {
+        "go_id": "GO:0005975"
+      },
+      {
+        "go_id": "GO:0006790"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0016798"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0046677"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 646
+      }
+    ],
+    "sequence": "MAAHLLPICALFLTLLDMAQGFRGPLLPNRPFTTVWNANTQWCLERHGVDVDVSVFDVVANPGQTFRGPDMTIFYSSQLGTYPYYTPTGEPVFGGLPQNASLIAHLARTFQDILAAIPAPDFSGLAVIDWEAWRPRWAFNWDTKDIYRQRSRALVQAQHPDWPAPQVEAVAQDQFQGAARAWMAGTLQLGRALRPRGLWGFYGFPDCYNYDFLSPNYTGQCPSGIRAQNDQLGWLWGQSRALYPSIYMPAVLEGTGKSQMYVQHRVAEAFRVAVAAGDPNLPVLPYVQIFYDTTNHFLPLDELEHSLGESAAQGAAGVVLWVSWENTRTKESCQAIKEYMDTTLGPFILNVTSGALLCSQALCSGHGRCVRRTSHPKALLLLNPASFSIQLTPGGGPLSLRGALSLEDQAQMAVEFKCRCYPGWQAPWCERKSMW",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.2.1.35",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Hyal-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "HYAL1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Hyaluronidase-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Hyaluronoglucosaminidase-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "LuCa-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "LUCA1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Lung carcinoma protein 1",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q12794",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q12794",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005576",
+        "xref_name": "extracellular region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005615",
+        "xref_name": "extracellular space",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005764",
+        "xref_name": "lysosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0036117",
+        "xref_name": "hyaluranon cable",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043202",
+        "xref_name": "lysosomal lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0001618",
+        "xref_name": "virus receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004415",
+        "xref_name": "hyalurononglucosaminidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016798",
+        "xref_name": "hydrolase activity, acting on glycosyl bonds",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0052757",
+        "xref_name": "chondroitin hydrolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000302",
+        "xref_name": "response to reactive oxygen species",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0005975",
+        "xref_name": "carbohydrate metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006027",
+        "xref_name": "glycosaminoglycan catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030207",
+        "xref_name": "chondroitin sulfate catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030214",
+        "xref_name": "hyaluronan catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030307",
+        "xref_name": "positive regulation of cell growth",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030308",
+        "xref_name": "negative regulation of cell growth",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045766",
+        "xref_name": "positive regulation of angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045785",
+        "xref_name": "positive regulation of cell adhesion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046677",
+        "xref_name": "response to antibiotic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051216",
+        "xref_name": "cartilage development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060272",
+        "xref_name": "embryonic skeletal joint morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071467",
+        "xref_name": "cellular response to pH",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071493",
+        "xref_name": "cellular response to UV-B",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1900106",
+        "xref_name": "positive regulation of hyaluranon cable assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:5320",
+        "xref_name": "HYAL1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q12794",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR013785",
+        "xref_name": "Aldolase_TIM",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017853",
+        "xref_name": "GH",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018155",
+        "xref_name": "Hyaluronidase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11769",
+        "xref_name": "HYALURONIDASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR11769:SF23",
+        "xref_name": "HYALURONIDASE-1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2PE4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2PE4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF01630",
+        "xref_name": "Glyco_hydro_56",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA29571",
+        "xref_name": "hyaluronidase 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q12794",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-2024101",
+        "xref_name": "CS/DS degradation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2160916",
+        "xref_name": "Hyaluronan degradation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2206280",
+        "xref_name": "MPS IX - Natowicz syndrome (Hyaluronan metabolism)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9953097",
+        "xref_name": "MPS IX - Natowicz syndrome (CS/DS degradation)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q12794",
+        "xref_name": "Hyaluronidase-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6FH23",
+        "xref_name": "Hyaluronidase-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6PIZ6",
+        "xref_name": "Hyaluronidase-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q7KYU2",
+        "xref_name": "Hyaluronidase-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q7LE34",
+        "xref_name": "Hyaluronidase-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8NFK5",
+        "xref_name": "Hyaluronidase-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8NFK6",
+        "xref_name": "Hyaluronidase-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8NFK7",
+        "xref_name": "Hyaluronidase-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8NFK8",
+        "xref_name": "Hyaluronidase-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8NFK9",
+        "xref_name": "Hyaluronidase-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q93013",
+        "xref_name": "Hyaluronidase-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UKD5",
+        "xref_name": "Hyaluronidase-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UNI8",
+        "xref_name": "Hyaluronidase-1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4528"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

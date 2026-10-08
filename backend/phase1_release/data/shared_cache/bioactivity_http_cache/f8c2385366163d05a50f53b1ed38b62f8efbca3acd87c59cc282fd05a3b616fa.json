@@ -1,0 +1,282 @@
+{
+  "data": {
+    "accession": "P07327",
+    "component_id": 293,
+    "component_type": "PROTEIN",
+    "description": "Alcohol dehydrogenase 1A",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0044281"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MSTAGKVIKCKAAVLWELKKPFSIEEVEVAPPKAHEVRIKMVAVGICGTDDHVVSGTMVTPLPVILGHEAAGIVESVGEGVTTVKPGDKVIPLAIPQCGKCRICKNPESNYCLKNDVSNPQGTLQDGTSRFTCRRKPIHHFLGISTFSQYTVVDENAVAKIDAASPLEKVCLIGCGFSTGYGSAVNVAKVTPGSTCAVFGLGGVGLSAIMGCKAAGAARIIAVDINKDKFAKAKELGATECINPQDYKKPIQEVLKEMTDGGVDFSFEVIGRLDTMMASLLCCHEACGTSVIVGVPPDSQNLSMNPMLLLTGRTWKGAILGGFKSKECVPKLVADFMAKKFSLDALITHVLPFEKINEGFDLLHSGKSIRTILMF",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.1.1.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "ADH1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "ADH1A",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Alcohol dehydrogenase 1A",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Alcohol dehydrogenase subunit alpha",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P07327",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004022",
+        "xref_name": "alcohol dehydrogenase (NAD+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004745",
+        "xref_name": "all-trans-retinol dehydrogenase (NAD+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990362",
+        "xref_name": "butanol dehydrogenase (NAD+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006066",
+        "xref_name": "alcohol metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042572",
+        "xref_name": "retinol metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042573",
+        "xref_name": "retinoic acid metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:249",
+        "xref_name": "ADH1A",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P07327",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002328",
+        "xref_name": "ADH_Zn_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011032",
+        "xref_name": "GroES-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013149",
+        "xref_name": "ADH-like_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013154",
+        "xref_name": "ADH-like_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020843",
+        "xref_name": "ER",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036291",
+        "xref_name": "NAD(P)-bd_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR43880",
+        "xref_name": "ALCOHOL DEHYDROGENASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR43880:SF1",
+        "xref_name": "ALCOHOL DEHYDROGENASE 1A",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1HSO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1U3T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1HSO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1U3T",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00107",
+        "xref_name": "ADH_zinc_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF08240",
+        "xref_name": "ADH_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA24570",
+        "xref_name": "alcohol dehydrogenase 1A (class I), alpha polypeptide",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P07327",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-2161541",
+        "xref_name": "Abacavir metabolism",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5365859",
+        "xref_name": "RA biosynthesis pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-71384",
+        "xref_name": "Ethanol oxidation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A8K3E3",
+        "xref_name": "Alcohol dehydrogenase 1A",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P07327",
+        "xref_name": "Alcohol dehydrogenase 1A",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q17R68",
+        "xref_name": "Alcohol dehydrogenase 1A",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1970"
+      },
+      {
+        "target_chembl_id": "CHEMBL2096668"
+      },
+      {
+        "target_chembl_id": "CHEMBL2363044"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

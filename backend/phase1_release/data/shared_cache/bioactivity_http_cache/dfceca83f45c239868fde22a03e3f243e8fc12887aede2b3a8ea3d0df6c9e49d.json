@@ -1,0 +1,684 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Histone-arginine methyltransferase CARM1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5406",
+    "target_components": [
+      {
+        "accession": "Q86X55",
+        "component_description": "Histone-arginine methyltransferase CARM1",
+        "component_id": 3701,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.1.1.319",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "CARM1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Coactivator-associated arginine methyltransferase 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Histone-arginine methyltransferase CARM1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PRMT4",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Protein arginine N-methyltransferase 4",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q86X55",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q86X55",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005694",
+            "xref_name": "chromosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043596",
+            "xref_name": "nuclear replication fork",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000976",
+            "xref_name": "transcription cis-regulatory region binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003713",
+            "xref_name": "transcription coactivator activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008013",
+            "xref_name": "beta-catenin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008168",
+            "xref_name": "methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008276",
+            "xref_name": "protein methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008469",
+            "xref_name": "histone arginine N-methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016274",
+            "xref_name": "protein-arginine N-methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0035242",
+            "xref_name": "protein-arginine omega-N asymmetric methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0035642",
+            "xref_name": "histone H3R17 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042054",
+            "xref_name": "histone methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044020",
+            "xref_name": "histone H4R3 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0062122",
+            "xref_name": "histone H3K37 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070577",
+            "xref_name": "lysine-acetylated histone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070611",
+            "xref_name": "histone H3R2 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140297",
+            "xref_name": "DNA-binding transcription factor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140592",
+            "xref_name": "histone H3R8 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140759",
+            "xref_name": "histone H3K56 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140903",
+            "xref_name": "histone H3R26 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140984",
+            "xref_name": "histone H4K12 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990259",
+            "xref_name": "histone H2AQ104 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008284",
+            "xref_name": "positive regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032259",
+            "xref_name": "methylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033146",
+            "xref_name": "regulation of intracellular estrogen receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045600",
+            "xref_name": "positive regulation of fat cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045943",
+            "xref_name": "positive regulation of transcription by RNA polymerase I",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071932",
+            "xref_name": "replication fork reversal",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904037",
+            "xref_name": "positive regulation of epithelial cell apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000171",
+            "xref_name": "negative regulation of dendrite development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:23393",
+            "xref_name": "CARM1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q86X55",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR011993",
+            "xref_name": "PH-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR025799",
+            "xref_name": "Arg_MeTrfase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR029063",
+            "xref_name": "SAM-dependent_MTases_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR055135",
+            "xref_name": "PRMT_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11006",
+            "xref_name": "PROTEIN ARGININE N-METHYLTRANSFERASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11006:SF51",
+            "xref_name": "HISTONE-ARGININE METHYLTRANSFERASE CARM1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2Y1W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2Y1X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4IKP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5DWQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5DX0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5DX1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5DX8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5DXA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5DXJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5U4X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ARJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ARV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6D2L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6DVR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6IZQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6S70",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6S71",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6S74",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6S77",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6S79",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6S7A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6S7B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6S7C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7FAI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7FAJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7U9I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G2H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G2I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SIG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SIH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8UQH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2Y1W",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2Y1X",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4IKP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5DWQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5DX0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5DX1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5DX8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5DXA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5DXJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5U4X",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6ARJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6ARV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6D2L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6DVR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6IZQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6S70",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6S71",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6S74",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6S77",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6S79",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6S7A",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6S7B",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6S7C",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7FAI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7FAJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7U9I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8G2H",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8G2I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8SIG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8SIH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8UQH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF06325",
+            "xref_name": "PrmA",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF11531",
+            "xref_name": "CARM1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF22528",
+            "xref_name": "PRMT_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA134959553",
+            "xref_name": "coactivator associated arginine methyltransferase 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q86X55",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1368108",
+            "xref_name": "BMAL1:CLOCK,NPAS2 activates circadian expression",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1989781",
+            "xref_name": "PPARA activates gene expression",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2151201",
+            "xref_name": "Transcriptional activation of mitochondrial biogenesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2426168",
+            "xref_name": "Activation of gene expression by SREBF (SREBP)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3214858",
+            "xref_name": "RMTs methylate histone arginines",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-381340",
+            "xref_name": "Transcriptional regulation of white adipocyte differentiation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-400206",
+            "xref_name": "Regulation of lipid metabolism by PPARalpha",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6804114",
+            "xref_name": "TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9018519",
+            "xref_name": "Estrogen-dependent gene expression",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9707564",
+            "xref_name": "Cytoprotection by HMOX1",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9707616",
+            "xref_name": "Heme signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9931509",
+            "xref_name": "Expression of BMAL (ARNTL), CLOCK, and NPAS2",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9933387",
+            "xref_name": "RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A6NN38",
+            "xref_name": "Histone-arginine methyltransferase CARM1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86X55",
+            "xref_name": "Histone-arginine methyltransferase CARM1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

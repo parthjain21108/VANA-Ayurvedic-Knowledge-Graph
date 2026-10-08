@@ -1,0 +1,92 @@
+{
+  "data": {
+    "activities": [
+      {
+        "action_type": null,
+        "activity_comment": null,
+        "activity_id": 25970191,
+        "activity_properties": [
+          {
+            "comments": null,
+            "relation": "=",
+            "result_flag": 0,
+            "standard_relation": "=",
+            "standard_text_value": null,
+            "standard_type": "DOSE",
+            "standard_units": "microM",
+            "standard_value": "25.0",
+            "text_value": null,
+            "type": "DOSE",
+            "units": "microM",
+            "value": "25.0"
+          },
+          {
+            "comments": null,
+            "relation": "=",
+            "result_flag": 0,
+            "standard_relation": "=",
+            "standard_text_value": null,
+            "standard_type": "TIME",
+            "standard_units": "hr",
+            "standard_value": "24.0",
+            "text_value": null,
+            "type": "TIME",
+            "units": "hrs",
+            "value": "24.0"
+          }
+        ],
+        "assay_chembl_id": "CHEMBL5543335",
+        "assay_description": "Anti-inflammatory activity against mouse BV-2 cells assessed as inhibition of LPS-induced IL-1beta secretion at 25 uM pretreated for 2 hrs followed stimulated with LPS for 22 hrs by ELISA analysis relative to control",
+        "assay_type": "F",
+        "assay_variant_accession": null,
+        "assay_variant_mutation": null,
+        "bao_endpoint": "BAO_0001103",
+        "bao_format": "BAO_0000219",
+        "bao_label": "cell-based format",
+        "canonical_smiles": "COc1ccc(-c2cc(=O)c3c(O)cc(OC)c(O)c3o2)cc1",
+        "data_validity_comment": null,
+        "data_validity_description": null,
+        "document_chembl_id": "CHEMBL5543059",
+        "document_journal": "Eur J Med Chem",
+        "document_year": 2023,
+        "ligand_efficiency": null,
+        "modality": null,
+        "molecule_chembl_id": "CHEMBL5565150",
+        "molecule_pref_name": null,
+        "parent_molecule_chembl_id": "CHEMBL5565150",
+        "pchembl_value": null,
+        "potential_duplicate": 0,
+        "qudt_units": "http://qudt.org/vocab/unit#Percent",
+        "record_id": 4080951,
+        "relation": ">",
+        "src_id": 1,
+        "standard_flag": 0,
+        "standard_relation": ">",
+        "standard_text_value": null,
+        "standard_type": "Activity",
+        "standard_units": "%",
+        "standard_upper_value": null,
+        "standard_value": "50.0",
+        "target_chembl_id": "CHEMBL614781",
+        "target_organism": "Mus musculus",
+        "target_pref_name": "BV-2",
+        "target_tax_id": "10090",
+        "text_value": null,
+        "toid": null,
+        "type": "Activity",
+        "units": "%",
+        "uo_units": "UO_0000187",
+        "upper_value": null,
+        "value": "50.0"
+      }
+    ],
+    "page_meta": {
+      "limit": 1000,
+      "next": null,
+      "offset": 0,
+      "previous": null,
+      "total_count": 1
+    }
+  },
+  "ok": true
+}

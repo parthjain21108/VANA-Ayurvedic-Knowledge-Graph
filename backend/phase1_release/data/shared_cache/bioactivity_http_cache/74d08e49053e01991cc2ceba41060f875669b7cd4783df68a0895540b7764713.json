@@ -1,0 +1,458 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Aldo-keto reductase family 1 member B10",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5983",
+    "target_components": [
+      {
+        "accession": "O60218",
+        "component_description": "Aldo-keto reductase family 1 member B10",
+        "component_id": 4490,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.1.1.300",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "1.1.1.54",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "AKR1B10",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "AKR1B11",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Aldo-keto reductase family 1 member B10",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Aldose reductase-like",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Aldose reductase-related protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ARL-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ARP",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "hARP",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "SI reductase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Small intestine reductase",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "O60218",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005764",
+            "xref_name": "lysosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001758",
+            "xref_name": "retinal dehydrogenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004032",
+            "xref_name": "aldose reductase (NADPH) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004033",
+            "xref_name": "aldo-keto reductase (NADPH) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008106",
+            "xref_name": "alcohol dehydrogenase (NADP+) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0045550",
+            "xref_name": "geranylgeranyl reductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0047655",
+            "xref_name": "allyl-alcohol dehydrogenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0047718",
+            "xref_name": "indanol dehydrogenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0052650",
+            "xref_name": "all-trans-retinol dehydrogenase (NADP+) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001523",
+            "xref_name": "retinoid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006629",
+            "xref_name": "lipid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016488",
+            "xref_name": "farnesol catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042572",
+            "xref_name": "retinol metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0044597",
+            "xref_name": "daunorubicin metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0044598",
+            "xref_name": "doxorubicin metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0110095",
+            "xref_name": "cellular detoxification of aldehyde",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:382",
+            "xref_name": "AKR1B10",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "O60218",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR018170",
+            "xref_name": "Aldo/ket_reductase_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020471",
+            "xref_name": "AKR",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023210",
+            "xref_name": "NADP_OxRdtase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036812",
+            "xref_name": "NAD(P)_OxRdtase_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11732",
+            "xref_name": "ALDO/KETO REDUCTASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1ZUA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4GA8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4GAB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4GQ0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4GQG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4I5X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4ICC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4JIH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4JII",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4WEV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4XZL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4XZM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4XZN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5LIK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5LIU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5LIW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5LIX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5LIY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5M2F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5Y7N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1ZUA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4GA8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4GAB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4GQ0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4GQG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4I5X",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4ICC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4JIH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4JII",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4WEV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4XZL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4XZM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4XZN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5LIK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5LIU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5LIW",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5LIX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5LIY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5M2F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5Y7N",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00248",
+            "xref_name": "Aldo_ket_red",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA24676",
+            "xref_name": "aldo-keto reductase family 1 member B10",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "O60218",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-975634",
+            "xref_name": "Retinoid metabolism and transport",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A4D1P1",
+            "xref_name": "Aldo-keto reductase family 1 member B10",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O60218",
+            "xref_name": "Aldo-keto reductase family 1 member B10",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O75890",
+            "xref_name": "Aldo-keto reductase family 1 member B10",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6FHF3",
+            "xref_name": "Aldo-keto reductase family 1 member B10",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8IWZ1",
+            "xref_name": "Aldo-keto reductase family 1 member B10",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

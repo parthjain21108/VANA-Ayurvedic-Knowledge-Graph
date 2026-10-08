@@ -1,0 +1,436 @@
+{
+  "data": {
+    "accession": "P42892",
+    "component_id": 3108,
+    "component_type": "PROTEIN",
+    "description": "Endothelin-converting enzyme 1",
+    "go_slims": [
+      {
+        "go_id": "GO:0003013"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005768"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0008233"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016485"
+      },
+      {
+        "go_id": "GO:0042562"
+      },
+      {
+        "go_id": "GO:0042803"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 55
+      }
+    ],
+    "sequence": "MRGVWPPPVSALLSALGMSTYKRATLDEEDLVDSLSEGDAYPNGLQVNFHSPRSGQRCWAARTQVEKRLVVLVVLLAAGLVACLAALGIQYQTRSPSVCLSEACVSVTSSILSSMDPTVDPCHDFFSYACGGWIKANPVPDGHSRWGTFSNLWEHNQAIIKHLLENSTASVSEAERKAQVYYRACMNETRIEELRAKPLMELIERLGGWNITGPWAKDNFQDTLQVVTAHYRTSPFFSVYVSADSKNSNSNVIQVDQSGLGLPSRDYYLNKTENEKVLTGYLNYMVQLGKLLGGGDEEAIRPQMQQILDFETALANITIPQEKRRDEELIYHKVTAAELQTLAPAINWLPFLNTIFYPVEINESEPIVVYDKEYLEQISTLINTTDRCLLNNYMIWNLVRKTSSFLDQRFQDADEKFMEVMYGTKKTCLPRWKFCVSDTENNLGFALGPMFVKATFAEDSKSIATEIILEIKKAFEESLSTLKWMDEETRKSAKEKADAIYNMIGYPNFIMDPKELDKVFNDYTAVPDLYFENAMRFFNFSWRVTADQLRKAPNRDQWSMTPPMVNAYYSPTKNEIVFPAGILQAPFYTRSSPKALNFGGIGVVVGHELTHAFDDQGREYDKDGNLRPWWKNSSVEAFKRQTECMVEQYSNYSVNGEPVNGRHTLGENIADNGGLKAAYRAYQNWVKKNGAEHSLPTLGLTNNQLFFLGFAQVWCSVRTPESSHEGLITDPHSPSRFRVIGSLSNSKEFSEHFRCPPGSPMNPPHKCEVW",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.4.24.71",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "ECE-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ECE1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Endothelin-converting enzyme 1",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P42892",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P42892",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005765",
+        "xref_name": "lysosomal membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005768",
+        "xref_name": "endosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0009897",
+        "xref_name": "external side of plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0010008",
+        "xref_name": "endosome membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0048471",
+        "xref_name": "perinuclear region of cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004175",
+        "xref_name": "endopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004222",
+        "xref_name": "metalloendopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008237",
+        "xref_name": "metallopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0017046",
+        "xref_name": "peptide hormone binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042803",
+        "xref_name": "protein homodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001921",
+        "xref_name": "positive regulation of receptor recycling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003100",
+        "xref_name": "regulation of systemic arterial blood pressure by endothelin",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006508",
+        "xref_name": "proteolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007186",
+        "xref_name": "G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007507",
+        "xref_name": "heart development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010814",
+        "xref_name": "substance P catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010815",
+        "xref_name": "bradykinin catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010816",
+        "xref_name": "calcitonin catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016485",
+        "xref_name": "protein processing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016486",
+        "xref_name": "peptide hormone processing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019229",
+        "xref_name": "regulation of vasoconstriction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034959",
+        "xref_name": "endothelin maturation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035050",
+        "xref_name": "embryonic heart tube development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042447",
+        "xref_name": "hormone catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042733",
+        "xref_name": "embryonic digit morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043583",
+        "xref_name": "ear development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060037",
+        "xref_name": "pharyngeal system development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060385",
+        "xref_name": "axonogenesis involved in innervation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902287",
+        "xref_name": "semaphorin-plexin signaling pathway involved in axon guidance",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:3146",
+        "xref_name": "ECE1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P42892",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000718",
+        "xref_name": "Peptidase_M13",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008753",
+        "xref_name": "Peptidase_M13_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018497",
+        "xref_name": "Peptidase_M13_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR024079",
+        "xref_name": "MetalloPept_cat_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR042089",
+        "xref_name": "Peptidase_M13_dom_2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11733",
+        "xref_name": "ZINC METALLOPROTEASE FAMILY M13 NEPRILYSIN-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR11733:SF130",
+        "xref_name": "ENDOTHELIN-CONVERTING ENZYME 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3DWB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3DWB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF01431",
+        "xref_name": "Peptidase_M13",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF05649",
+        "xref_name": "Peptidase_M13_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA27594",
+        "xref_name": "endothelin converting enzyme 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P42892",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-375276",
+        "xref_name": "Peptide ligand-binding receptors",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A8K3P1",
+        "xref_name": "Endothelin-converting enzyme 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B4E291",
+        "xref_name": "Endothelin-converting enzyme 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P42892",
+        "xref_name": "Endothelin-converting enzyme 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q14217",
+        "xref_name": "Endothelin-converting enzyme 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q17RN5",
+        "xref_name": "Endothelin-converting enzyme 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q2Z2K8",
+        "xref_name": "Endothelin-converting enzyme 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q58GE7",
+        "xref_name": "Endothelin-converting enzyme 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5THM5",
+        "xref_name": "Endothelin-converting enzyme 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5THM7",
+        "xref_name": "Endothelin-converting enzyme 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5THM8",
+        "xref_name": "Endothelin-converting enzyme 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UJQ6",
+        "xref_name": "Endothelin-converting enzyme 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UPF4",
+        "xref_name": "Endothelin-converting enzyme 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UPM4",
+        "xref_name": "Endothelin-converting enzyme 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9Y501",
+        "xref_name": "Endothelin-converting enzyme 1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4791"
+      },
+      {
+        "target_chembl_id": "CHEMBL5465380"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

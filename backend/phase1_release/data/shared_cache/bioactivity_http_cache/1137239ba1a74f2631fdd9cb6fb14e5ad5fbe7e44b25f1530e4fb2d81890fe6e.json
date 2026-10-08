@@ -1,0 +1,1152 @@
+{
+  "data": {
+    "cross_references": [
+      {
+        "xref_id": "CPX-3271",
+        "xref_name": "KCNQ1-KCNE1 I(Ks) channel complex",
+        "xref_src": "ComplexPortal"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "pref_name": "Voltage-gated potassium channel, IKs; KCNQ1(Kv7.1)/KCNE1(MinK)",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2221347",
+    "target_components": [
+      {
+        "accession": "P51787",
+        "component_description": "Potassium voltage-gated channel subfamily KQT member 1",
+        "component_id": 179,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "IKs producing slow voltage-gated potassium channel subunit alpha KvLQT1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "KCNA9",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "KCNA9 GN  ",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "KCNQ1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "KQT-like 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "KVLQT1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Potassium voltage-gated channel subfamily KQT member 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=KCNA8",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Voltage-gated potassium channel subunit Kv7.1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P51787",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P51787",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005764",
+            "xref_name": "lysosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005768",
+            "xref_name": "endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005769",
+            "xref_name": "early endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005770",
+            "xref_name": "late endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0008076",
+            "xref_name": "voltage-gated potassium channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016323",
+            "xref_name": "basolateral plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016324",
+            "xref_name": "apical plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030659",
+            "xref_name": "cytoplasmic vesicle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034702",
+            "xref_name": "monoatomic ion channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034705",
+            "xref_name": "potassium channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045121",
+            "xref_name": "membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045177",
+            "xref_name": "apical part of cell",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097546",
+            "xref_name": "ciliary base",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098576",
+            "xref_name": "lumenal side of membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1990794",
+            "xref_name": "basolateral part of cell",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005249",
+            "xref_name": "voltage-gated potassium channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005251",
+            "xref_name": "delayed rectifier potassium channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005267",
+            "xref_name": "potassium channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005516",
+            "xref_name": "calmodulin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005546",
+            "xref_name": "phosphatidylinositol-4,5-bisphosphate binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008157",
+            "xref_name": "protein phosphatase 1 binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015271",
+            "xref_name": "outward rectifier potassium channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034236",
+            "xref_name": "protein kinase A catalytic subunit binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034237",
+            "xref_name": "protein kinase A regulatory subunit binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044325",
+            "xref_name": "transmembrane transporter binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0086008",
+            "xref_name": "voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0086089",
+            "xref_name": "voltage-gated potassium channel activity involved in atrial cardiac muscle cell action potential repolarization",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0097110",
+            "xref_name": "scaffold protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1902282",
+            "xref_name": "voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001508",
+            "xref_name": "action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001696",
+            "xref_name": "gastric acid secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001698",
+            "xref_name": "gastrin-induced gastric acid secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002027",
+            "xref_name": "regulation of heart rate",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006006",
+            "xref_name": "glucose metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006813",
+            "xref_name": "potassium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006814",
+            "xref_name": "sodium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007507",
+            "xref_name": "heart development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007605",
+            "xref_name": "sensory perception of sound",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007622",
+            "xref_name": "rhythmic behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008016",
+            "xref_name": "regulation of heart contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008217",
+            "xref_name": "regulation of blood pressure",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010460",
+            "xref_name": "positive regulation of heart rate",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0015705",
+            "xref_name": "iodide transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030218",
+            "xref_name": "erythrocyte differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030644",
+            "xref_name": "intracellular chloride ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035176",
+            "xref_name": "social behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035934",
+            "xref_name": "corticosterone secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042472",
+            "xref_name": "inner ear morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048839",
+            "xref_name": "inner ear development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050910",
+            "xref_name": "detection of mechanical stimulus involved in sensory perception of sound",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055064",
+            "xref_name": "chloride ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055075",
+            "xref_name": "potassium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055085",
+            "xref_name": "transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060117",
+            "xref_name": "auditory receptor cell development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060306",
+            "xref_name": "regulation of membrane repolarization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060307",
+            "xref_name": "regulation of ventricular cardiac muscle cell membrane repolarization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060372",
+            "xref_name": "regulation of atrial cardiac muscle cell membrane repolarization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060452",
+            "xref_name": "positive regulation of cardiac muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060453",
+            "xref_name": "regulation of gastric acid secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061337",
+            "xref_name": "cardiac conduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0062094",
+            "xref_name": "stomach development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070294",
+            "xref_name": "renal sodium ion absorption",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071320",
+            "xref_name": "cellular response to cAMP",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071466",
+            "xref_name": "cellular response to xenobiotic stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071805",
+            "xref_name": "potassium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071872",
+            "xref_name": "cellular response to epinephrine stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071875",
+            "xref_name": "adrenergic receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086003",
+            "xref_name": "cardiac muscle cell contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086005",
+            "xref_name": "ventricular cardiac muscle cell action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086009",
+            "xref_name": "membrane repolarization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086011",
+            "xref_name": "membrane repolarization during action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086013",
+            "xref_name": "membrane repolarization during cardiac muscle cell action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086014",
+            "xref_name": "atrial cardiac muscle cell action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086091",
+            "xref_name": "regulation of heart rate by cardiac conduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090102",
+            "xref_name": "cochlea development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097623",
+            "xref_name": "potassium ion export across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098914",
+            "xref_name": "membrane repolarization during atrial cardiac muscle cell action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098915",
+            "xref_name": "membrane repolarization during ventricular cardiac muscle cell action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901381",
+            "xref_name": "positive regulation of potassium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905515",
+            "xref_name": "non-motile cilium assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990573",
+            "xref_name": "potassium ion import across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:6294",
+            "xref_name": "KCNQ1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P51787",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR003937",
+            "xref_name": "K_chnl_volt-dep_KCNQ",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005821",
+            "xref_name": "Ion_trans_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005827",
+            "xref_name": "K_chnl_volt-dep_KCQN1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013821",
+            "xref_name": "K_chnl_volt-dep_KCNQ_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR027359",
+            "xref_name": "Volt_channel_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR47735",
+            "xref_name": "POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY KQT MEMBER 4",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR47735:SF14",
+            "xref_name": "POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY KQT MEMBER 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3BJ4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3HFC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3HFE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4UMO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4V0C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6MIE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6UZZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6V00",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6V01",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7VUO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7VVD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7VVH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7XNI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7XNK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7XNL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7XNN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SIK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SIM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SIN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9VEC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9VEI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9VEN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9VEO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9WD8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BJ4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3HFC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3HFE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4UMO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4V0C",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7VUO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7VVD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7VVH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00520",
+            "xref_name": "Ion_trans",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF03520",
+            "xref_name": "KCNQ_channel",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA223",
+            "xref_name": "potassium voltage-gated channel subfamily Q member 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P51787",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1296072",
+            "xref_name": "Voltage gated Potassium channels",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5576890",
+            "xref_name": "Phase 3 - rapid repolarisation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5576893",
+            "xref_name": "Phase 2 - plateau phase",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "O00347",
+            "xref_name": "Potassium voltage-gated channel subfamily KQT member 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O60607",
+            "xref_name": "Potassium voltage-gated channel subfamily KQT member 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O94787",
+            "xref_name": "Potassium voltage-gated channel subfamily KQT member 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P51787",
+            "xref_name": "Potassium voltage-gated channel subfamily KQT member 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q14D14",
+            "xref_name": "Potassium voltage-gated channel subfamily KQT member 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q7Z6G9",
+            "xref_name": "Potassium voltage-gated channel subfamily KQT member 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q92960",
+            "xref_name": "Potassium voltage-gated channel subfamily KQT member 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UMN8",
+            "xref_name": "Potassium voltage-gated channel subfamily KQT member 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UMN9",
+            "xref_name": "Potassium voltage-gated channel subfamily KQT member 1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      },
+      {
+        "accession": "P15382",
+        "component_description": "Potassium voltage-gated channel subfamily E member 1",
+        "component_id": 3188,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Delayed rectifier potassium channel subunit IsK",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "IKs producing slow voltage-gated potassium channel subunit beta Mink",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "KCNE1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Minimal potassium channel",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MinK",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Potassium voltage-gated channel subfamily E member 1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P15382",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P15382",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005764",
+            "xref_name": "lysosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0008076",
+            "xref_name": "voltage-gated potassium channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016324",
+            "xref_name": "apical plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030018",
+            "xref_name": "Z disc",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034702",
+            "xref_name": "monoatomic ion channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045121",
+            "xref_name": "membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005249",
+            "xref_name": "voltage-gated potassium channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005251",
+            "xref_name": "delayed rectifier potassium channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005267",
+            "xref_name": "potassium channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031433",
+            "xref_name": "telethonin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044325",
+            "xref_name": "transmembrane transporter binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0086008",
+            "xref_name": "voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1902282",
+            "xref_name": "voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002070",
+            "xref_name": "epithelial cell maturation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006813",
+            "xref_name": "potassium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007605",
+            "xref_name": "sensory perception of sound",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008584",
+            "xref_name": "male gonad development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0021750",
+            "xref_name": "vestibular nucleus development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043266",
+            "xref_name": "regulation of potassium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060047",
+            "xref_name": "heart contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060307",
+            "xref_name": "regulation of ventricular cardiac muscle cell membrane repolarization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071320",
+            "xref_name": "cellular response to cAMP",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071468",
+            "xref_name": "cellular response to acidic pH",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071482",
+            "xref_name": "cellular response to light stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071805",
+            "xref_name": "potassium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086002",
+            "xref_name": "cardiac muscle cell action potential involved in contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086003",
+            "xref_name": "cardiac muscle cell contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086005",
+            "xref_name": "ventricular cardiac muscle cell action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086009",
+            "xref_name": "membrane repolarization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086011",
+            "xref_name": "membrane repolarization during action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086013",
+            "xref_name": "membrane repolarization during cardiac muscle cell action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086091",
+            "xref_name": "regulation of heart rate by cardiac conduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090315",
+            "xref_name": "negative regulation of protein targeting to membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097623",
+            "xref_name": "potassium ion export across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098915",
+            "xref_name": "membrane repolarization during ventricular cardiac muscle cell action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901379",
+            "xref_name": "regulation of potassium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901381",
+            "xref_name": "positive regulation of potassium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902259",
+            "xref_name": "regulation of delayed rectifier potassium channel activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902260",
+            "xref_name": "negative regulation of delayed rectifier potassium channel activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:6240",
+            "xref_name": "KCNE1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P15382",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000369",
+            "xref_name": "K_chnl_KCNE",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005424",
+            "xref_name": "KCNE1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR15282",
+            "xref_name": "POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY E MEMBER 1, 3",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR15282:SF10",
+            "xref_name": "POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY E MEMBER 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2K21",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9VEC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9VEI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "PF02060",
+            "xref_name": "ISK_Channel",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA211",
+            "xref_name": "potassium voltage-gated channel subfamily E regulatory subunit 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P15382",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-5576890",
+            "xref_name": "Phase 3 - rapid repolarisation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5576893",
+            "xref_name": "Phase 2 - plateau phase",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A5H1P2",
+            "xref_name": "Potassium voltage-gated channel subfamily E member 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P15382",
+            "xref_name": "Potassium voltage-gated channel subfamily E member 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8N709",
+            "xref_name": "Potassium voltage-gated channel subfamily E member 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q91Z94",
+            "xref_name": "Potassium voltage-gated channel subfamily E member 1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "PROTEIN COMPLEX",
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,464 @@
+{
+  "data": {
+    "accession": "Q13733",
+    "component_id": 2372,
+    "component_type": "PROTEIN",
+    "description": "Sodium/potassium-transporting ATPase subunit alpha-4",
+    "go_slims": [
+      {
+        "go_id": "GO:0003013"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0005929"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0007017"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016887"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0022857"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048870"
+      },
+      {
+        "go_id": "GO:0055085"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 494
+      },
+      {
+        "protein_classification_id": 646
+      }
+    ],
+    "sequence": "MGLWGKKGTVAPHDQSPRRRPKKGLIKKKMVKREKQKRNMEELKKEVVMDDHKLTLEELSTKYSVDLTKGHSHQRAKEILTRGGPNTVTPPPTTPEWVKFCKQLFGGFSLLLWTGAILCFVAYSIQIYFNEEPTKDNLYLSIVLSVVVIVTGCFSYYQEAKSSKIMESFKNMVPQQALVIRGGEKMQINVQEVVLGDLVEIKGGDRVPADLRLISAQGCKVDNSSLTGESEPQSRSPDFTHENPLETRNICFFSTNCVEGTARGIVIATGDSTVMGRIASLTSGLAVGQTPIAAEIEHFIHLITVVAVFLGVTFFALSLLLGYGWLEAIIFLIGIIVANVPEGLLATVTVCLTLTAKRMARKNCLVKNLEAVETLGSTSTICSDKTGTLTQNRMTVAHMWFDMTVYEADTTEEQTGKTFTKSSDTWFMLARIAGLCNRADFKANQEILPIAKRATTGDASESALLKFIEQSYSSVAEMREKNPKVAEIPFNSTNKYQMSIHLREDSSQTHVLMMKGAPERILEFCSTFLLNGQEYSMNDEMKEAFQNAYLELGGLGERVLGFCFLNLPSSFSKGFPFNTDEINFPMDNLCFVGLISMIDPPRAAVPDAVSKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGTETAEEVAARLKIPISKVDASAAKAIVVHGAELKDIQSKQLDQILQNHPEIVFARTSPQQKLIIVEGCQRLGAVVAVTGDGVNDSPALKKADIGIAMGISGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKSIMYTLTSNIPEITPFLMFIILGIPLPLGTITILCIDLGTDMVPAISLAYESAESDIMKRLPRNPKTDNLVNHRLIGMAYGQIGMIQALAGFFTYFVILAENGFRPVDLLGIRLHWEDKYLNDLEDSYGQQWTYEQRKVVEFTCQTAFFVTIVVVQWADLIISKTRRNSLFQQGMRNKVLIFGILEETLLAAFLSYTPGMDVALRMYPLKITWWLCAIPYSILIFVYDEIRKLLIRQHPDGWVERETYY",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "7.2.2.13",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "ATP1A4",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "ATP1AL2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Na(+)/K(+) ATPase alpha-4 subunit",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Sodium/potassium-transporting ATPase subunit alpha-4",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Sodium pump subunit alpha-4",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q13733",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q13733",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005890",
+        "xref_name": "sodium:potassium-exchanging ATPase complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042995",
+        "xref_name": "cell projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045121",
+        "xref_name": "membrane raft",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0097225",
+        "xref_name": "sperm midpiece",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0097733",
+        "xref_name": "photoreceptor cell cilium",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0120200",
+        "xref_name": "rod photoreceptor outer segment",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005391",
+        "xref_name": "P-type sodium:potassium-exchanging transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008556",
+        "xref_name": "P-type potassium transmembrane transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016887",
+        "xref_name": "ATP hydrolysis activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019829",
+        "xref_name": "ATPase-coupled monoatomic cation transmembrane transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019900",
+        "xref_name": "kinase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006811",
+        "xref_name": "monoatomic ion transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006813",
+        "xref_name": "potassium ion transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006814",
+        "xref_name": "sodium ion transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006883",
+        "xref_name": "intracellular sodium ion homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007166",
+        "xref_name": "cell surface receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007283",
+        "xref_name": "spermatogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009566",
+        "xref_name": "fertilization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010248",
+        "xref_name": "establishment or maintenance of transmembrane electrochemical gradient",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030007",
+        "xref_name": "intracellular potassium ion homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030317",
+        "xref_name": "flagellated sperm motility",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030641",
+        "xref_name": "regulation of cellular pH",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034220",
+        "xref_name": "monoatomic ion transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035725",
+        "xref_name": "sodium ion transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0036376",
+        "xref_name": "sodium ion export across plasma membrane",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042391",
+        "xref_name": "regulation of membrane potential",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071805",
+        "xref_name": "potassium ion transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0150104",
+        "xref_name": "transport across blood-brain barrier",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902600",
+        "xref_name": "proton transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1990573",
+        "xref_name": "potassium ion import across plasma membrane",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:14073",
+        "xref_name": "ATP1A4",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q13733",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001757",
+        "xref_name": "P_typ_ATPase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR004014",
+        "xref_name": "ATPase_P-typ_cation-transptr_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR005775",
+        "xref_name": "P-type_ATPase_IIC",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006068",
+        "xref_name": "ATPase_P-typ_cation-transptr_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008250",
+        "xref_name": "ATPase_P-typ_transduc_dom_A_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018303",
+        "xref_name": "ATPase_P-typ_P_site",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023214",
+        "xref_name": "HAD_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023298",
+        "xref_name": "ATPase_P-typ_TM_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023299",
+        "xref_name": "ATPase_P-typ_cyto_dom_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036412",
+        "xref_name": "HAD-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR044492",
+        "xref_name": "P_typ_ATPase_HD_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050510",
+        "xref_name": "Cation_transp_ATPase_P-type",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR059000",
+        "xref_name": "ATPase_P-type_domA",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR43294",
+        "xref_name": "SODIUM/POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR43294:SF3",
+        "xref_name": "SODIUM_POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA-4",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "8ZYJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "PF00122",
+        "xref_name": "E1-E2_ATPase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00689",
+        "xref_name": "Cation_ATPase_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00690",
+        "xref_name": "Cation_ATPase_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF13246",
+        "xref_name": "Cation_ATPase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA65",
+        "xref_name": "ATPase Na+/K+ transporting subunit alpha 4",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q13733",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-5578775",
+        "xref_name": "Ion homeostasis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-936837",
+        "xref_name": "Ion transport by P-type ATPases",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9679191",
+        "xref_name": "Potential therapeutics for SARS",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q13733",
+        "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q504T2",
+        "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q7Z4I9",
+        "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8TBN8",
+        "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WXA7",
+        "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WXH7",
+        "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WY13",
+        "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-4",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2095186"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

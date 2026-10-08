@@ -1,0 +1,132 @@
+{
+  "data": {
+    "accession": "Q932Y6",
+    "component_id": 4923,
+    "component_type": "PROTEIN",
+    "description": "Beta-lactamase",
+    "go_slims": [
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0009308"
+      },
+      {
+        "go_id": "GO:0016787"
+      },
+      {
+        "go_id": "GO:0016810"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0046677"
+      }
+    ],
+    "organism": "Pseudomonas aeruginosa",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 646
+      }
+    ],
+    "sequence": "MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDKLGARVGYIELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRVDAGQEQLGRRIHYSQNDLVEYSPVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRWEPELNEAIPNDERDTTMPAAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSALPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGASLIKHW",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.5.2.6",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Beta-lactamase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "bla(tem-2)",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Synonyms=bla",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q932Y6",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0008800",
+        "xref_name": "beta-lactamase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016787",
+        "xref_name": "hydrolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030655",
+        "xref_name": "beta-lactam antibiotic catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046677",
+        "xref_name": "response to antibiotic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR000871",
+        "xref_name": "Beta-lactam_class-A",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR012338",
+        "xref_name": "Beta-lactam/transpept-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023650",
+        "xref_name": "Beta-lactam_class-A_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR045155",
+        "xref_name": "Beta-lactam_cat",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR058200",
+        "xref_name": "TEM-12-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR35333",
+        "xref_name": "BETA-LACTAMASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR35333:SF3",
+        "xref_name": "BETA-LACTAMASE-TYPE TRANSPEPTIDASE FOLD CONTAINING PROTEIN",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF13354",
+        "xref_name": "Beta-lactamase2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "Q932Y6",
+        "xref_name": "Beta-lactamase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1293246"
+      }
+    ],
+    "tax_id": 287
+  },
+  "ok": true
+}

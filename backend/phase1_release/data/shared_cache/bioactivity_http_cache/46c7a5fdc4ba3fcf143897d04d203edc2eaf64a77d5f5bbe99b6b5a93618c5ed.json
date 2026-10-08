@@ -1,0 +1,804 @@
+{
+  "data": {
+    "accession": "P54760",
+    "component_id": 3451,
+    "component_type": "PROTEIN",
+    "description": "Ephrin type-B receptor 4",
+    "go_slims": [
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005576"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0007155"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0048646"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0048870"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 135
+      }
+    ],
+    "sequence": "MELRVLLCWASLAAALEETLLNTKLETADLKWVTFPQVDGQWEELSGLDEEQHSVRTYEVCDVQRAPGQAHWLRTGWVPRRGAVHVYATLRFTMLECLSLPRAGRSCKETFTVFYYESDADTATALTPAWMENPYIKVDTVAAEHLTRKRPGAEATGKVNVKTLRLGPLSKAGFYLAFQDQGACMALLSLHLFYKKCAQLTVNLTRFPETVPRELVVPVAGSCVVDAVPAPGPSPSLYCREDGQWAEQPVTGCSCAPGFEAAEGNTKCRACAQGTFKPLSGEGSCQPCPANSHSNTIGSAVCQCRVGYFRARTDPRGAPCTTPPSAPRSVVSRLNGSSLHLEWSAPLESGGREDLTYALRCRECRPGGSCAPCGGDLTFDPGPRDLVEPWVVVRGLRPDFTYTFEVTALNGVSSLATGPVPFEPVNVTTDREVPPAVSDIRVTRSSPSSLSLAWAVPRAPSGAVLDYEVKYHEKGAEGPSSVRFLKTSENRAELRGLKRGASYLVQVRARSEAGYGPFGQEHHSQTQLDESEGWREQLALIAGTAVVGVVLVLVVIVVAVLCLRKQSNGREAEYSDKHGQYLIGHGTKVYIDPFTYEDPNEAVREFAKEIDVSYVKIEEVIGAGEFGEVCRGRLKAPGKKESCVAIKTLKGGYTERQRREFLSEASIMGQFEHPNIIRLEGVVTNSMPVMILTEFMENGALDSFLRLNDGQFTVIQLVGMLRGIASGMRYLAEMSYVHRDLAARNILVNSNLVCKVSDFGLSRFLEENSSDPTYTSSLGGKIPIRWTAPEAIAFRKFTSASDAWSYGIVMWEVMSFGERPYWDMSNQDVINAIEQDYRLPPPPDCPTSLHQLMLDCWQKDRNARPRFPQVVSALDKMIRNPASLKIVARENGGASHPLLDQRQPHYSAFGSVGEWLRAIKMGRYEESFAAAGFGSFELVSQISAEDLLRIGVTLAGHQKKILASVQHMKSQAKPGTPGGTGGPAPQY",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.10.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "EPHB4",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Ephrin type-B receptor 4",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Hepatoma transmembrane kinase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "HTK",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "MYK1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "TYRO11",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Tyrosine-protein kinase TYRO11",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P54760",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P54760",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005576",
+        "xref_name": "extracellular region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043235",
+        "xref_name": "receptor complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004714",
+        "xref_name": "transmembrane receptor protein tyrosine kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005003",
+        "xref_name": "ephrin receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005004",
+        "xref_name": "GPI-linked ephrin receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005005",
+        "xref_name": "transmembrane-ephrin receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005006",
+        "xref_name": "epidermal growth factor receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005007",
+        "xref_name": "fibroblast growth factor receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005008",
+        "xref_name": "hepatocyte growth factor receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005009",
+        "xref_name": "insulin receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005010",
+        "xref_name": "insulin-like growth factor receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005011",
+        "xref_name": "macrophage colony-stimulating factor receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005018",
+        "xref_name": "platelet-derived growth factor alpha-receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005019",
+        "xref_name": "platelet-derived growth factor beta-receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005020",
+        "xref_name": "stem cell factor receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005021",
+        "xref_name": "vascular endothelial growth factor receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008288",
+        "xref_name": "boss receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0036332",
+        "xref_name": "placental growth factor receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0038062",
+        "xref_name": "protein tyrosine kinase collagen receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0060175",
+        "xref_name": "brain-derived neurotrophic factor receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001525",
+        "xref_name": "angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002042",
+        "xref_name": "cell migration involved in sprouting angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0003007",
+        "xref_name": "heart morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007155",
+        "xref_name": "cell adhesion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007169",
+        "xref_name": "cell surface receptor protein tyrosine kinase signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007173",
+        "xref_name": "epidermal growth factor receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008286",
+        "xref_name": "insulin receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008543",
+        "xref_name": "fibroblast growth factor receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031547",
+        "xref_name": "brain-derived neurotrophic factor receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035790",
+        "xref_name": "platelet-derived growth factor receptor-alpha signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035791",
+        "xref_name": "platelet-derived growth factor receptor-beta signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0036323",
+        "xref_name": "vascular endothelial growth factor receptor-1 signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0038063",
+        "xref_name": "collagen-activated tyrosine kinase receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0038084",
+        "xref_name": "vascular endothelial growth factor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0038109",
+        "xref_name": "Kit signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0038145",
+        "xref_name": "macrophage colony-stimulating factor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046777",
+        "xref_name": "protein autophosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048009",
+        "xref_name": "insulin-like growth factor receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048012",
+        "xref_name": "hepatocyte growth factor receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048013",
+        "xref_name": "ephrin receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048731",
+        "xref_name": "system development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:3395",
+        "xref_name": "EPHB4",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P54760",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001090",
+        "xref_name": "Ephrin_rcpt_lig-bd_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001245",
+        "xref_name": "Ser-Thr/Tyr_kinase_cat_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001426",
+        "xref_name": "Tyr_kinase_rcpt_V_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001660",
+        "xref_name": "SAM",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003961",
+        "xref_name": "FN3_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008266",
+        "xref_name": "Tyr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008979",
+        "xref_name": "Galactose-bd-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR009030",
+        "xref_name": "Growth_fac_rcpt_cys_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011641",
+        "xref_name": "Tyr-kin_ephrin_A/B_rcpt-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013761",
+        "xref_name": "SAM/pointed_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013783",
+        "xref_name": "Ig-like_fold",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016257",
+        "xref_name": "Tyr_kinase_ephrin_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017441",
+        "xref_name": "Protein_kinase_ATP_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020635",
+        "xref_name": "Tyr_kinase_cat_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR027936",
+        "xref_name": "Eph_TM",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR034290",
+        "xref_name": "EphB4_rcpt_lig-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036116",
+        "xref_name": "FN3_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR037636",
+        "xref_name": "EPH-B4_SAM",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050449",
+        "xref_name": "Ephrin_rcpt_TKs",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR46877",
+        "xref_name": "EPH RECEPTOR A5",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR46877:SF19",
+        "xref_name": "RECEPTOR PROTEIN-TYROSINE KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2BBA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2E7H",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2HLE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2QKQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2VWU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2VWV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2VWW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2VWX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2VWY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2VWZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2VX0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2VX1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2X9F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2XVD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2YN8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3ZEW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4AW5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4BB4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6FNI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6FNJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6FNK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6FNL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6FNM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2BBA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2HLE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2QKQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2VWU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2VWV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2VWW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2VWX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2VWY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2VWZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2VX0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2VX1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2X9F",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2XVD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2YN8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3ZEW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4AW5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4BB4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6FNI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6FNJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6FNK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6FNL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6FNM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00041",
+        "xref_name": "fn3",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00536",
+        "xref_name": "SAM_1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF01404",
+        "xref_name": "Ephrin_lbd",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF07699",
+        "xref_name": "Ephrin_rec_like",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF07714",
+        "xref_name": "PK_Tyr_Ser-Thr",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF14575",
+        "xref_name": "EphA2_TM",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF25599",
+        "xref_name": "Ephrin_CRD",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA27827",
+        "xref_name": "EPH receptor B4",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P54760",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-2682334",
+        "xref_name": "EPH-Ephrin signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-3928662",
+        "xref_name": "EPHB-mediated forward signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-3928664",
+        "xref_name": "Ephrin signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-3928665",
+        "xref_name": "EPH-ephrin mediated repulsion of cells",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B5A970",
+        "xref_name": "Ephrin type-B receptor 4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B5A971",
+        "xref_name": "Ephrin type-B receptor 4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B5A972",
+        "xref_name": "Ephrin type-B receptor 4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P54760",
+        "xref_name": "Ephrin type-B receptor 4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q7Z635",
+        "xref_name": "Ephrin type-B receptor 4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9BTA5",
+        "xref_name": "Ephrin type-B receptor 4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9BXP0",
+        "xref_name": "Ephrin type-B receptor 4",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5147"
+      },
+      {
+        "target_chembl_id": "CHEMBL2363043"
+      },
+      {
+        "target_chembl_id": "CHEMBL4523737"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Mus musculus",
+    "pref_name": "Aldo-keto reductase family 1 member C21",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1075270",
+    "target_components": [
+      {
+        "accession": "Q91WR5",
+        "component_description": "Aldo-keto reductase family 1 member C21",
+        "component_id": 4620,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.1.1.-",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "1.1.1.209",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "17-alpha-HSD",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "17-alpha-hydroxysteroid dehydrogenase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "3-alpha-hydroxysteroid dehydrogenase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "3(or 17)-alpha-hydroxysteroid dehydrogenase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Akr1c21",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Aldo-keto reductase family 1 member C21",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DD1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DD3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Dihydrodiol dehydrogenase type 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Dihydrodiol dehydrogenase type 3",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q91WR5",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q91WR5",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004033",
+            "xref_name": "aldo-keto reductase (NADPH) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005496",
+            "xref_name": "steroid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0033764",
+            "xref_name": "steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0047023",
+            "xref_name": "androsterone dehydrogenase [NAD(P)+] activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0047024",
+            "xref_name": "5-alpha-androstane-3beta,17beta-diol dehydrogenase (NADP+) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070401",
+            "xref_name": "NADP+ binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070402",
+            "xref_name": "NADPH binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0072555",
+            "xref_name": "17-beta-ketosteroid reductase (NADPH) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0072582",
+            "xref_name": "17-beta-hydroxysteroid dehydrogenase (NADP+) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1902121",
+            "xref_name": "lithocholic acid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006694",
+            "xref_name": "steroid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008202",
+            "xref_name": "steroid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR018170",
+            "xref_name": "Aldo/ket_reductase_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020471",
+            "xref_name": "AKR",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023210",
+            "xref_name": "NADP_OxRdtase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036812",
+            "xref_name": "NAD(P)_OxRdtase_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR044482",
+            "xref_name": "AKR1C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11732",
+            "xref_name": "ALDO/KETO REDUCTASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2HE5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HE8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HEJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2IPF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2IPG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2P5N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3CV6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3FJN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HE5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2HE8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2HEJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2IPF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2IPG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2P5N",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3CV6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3FJN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00248",
+            "xref_name": "Aldo_ket_red",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-MMU-193368",
+            "xref_name": "Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-MMU-193775",
+            "xref_name": "Synthesis of bile acids and bile salts via 24-hydroxycholesterol",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-MMU-193807",
+            "xref_name": "Synthesis of bile acids and bile salts via 27-hydroxycholesterol",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-MMU-2162123",
+            "xref_name": "Synthesis of Prostaglandins (PG) and Thromboxanes (TX)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-MMU-5365859",
+            "xref_name": "RA biosynthesis pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-MMU-975634",
+            "xref_name": "Retinoid metabolism and transport",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-MMU-9757110",
+            "xref_name": "Prednisone ADME",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q6P8V0",
+            "xref_name": "Aldo-keto reductase family 1 member C21",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q91WR5",
+            "xref_name": "Aldo-keto reductase family 1 member C21",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9CX32",
+            "xref_name": "Aldo-keto reductase family 1 member C21",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 10090
+  },
+  "ok": true
+}

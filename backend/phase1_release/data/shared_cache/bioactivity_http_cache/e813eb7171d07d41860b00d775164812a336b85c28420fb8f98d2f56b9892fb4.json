@@ -1,0 +1,189 @@
+{
+  "data": {
+    "accession": "Q9FD70",
+    "component_id": 5190,
+    "component_type": "PROTEIN",
+    "description": "acetyl-CoA C-acetyltransferase",
+    "go_slims": [
+      {
+        "go_id": "GO:0006790"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0016746"
+      }
+    ],
+    "organism": "Enterococcus faecalis",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1
+      }
+    ],
+    "sequence": "MKTVVIIDALRTPIGKYKGSLSQVSAVDLGTHVTTQLLKRHSTISEEIDQVIFGNVLQAGNGQNPARQIAINSGLSHEIPAMTVNEVCGSGMKAVILAKQLIQLGEAEVLIAGGIENMSQAPKLQRFNYETESYDAPFSSMMYDGLTDAFSGQAMGLTAENVAEKYHVTREEQDQFSVHSQLKAAQAQAEGIFADEIAPLEVSGTLVEKDEGIRPNSSVEKLGTLKTVFKEDGTVTAGNASTINDGASALIIASQEYAEAHGLPYLAIIRDSVEVGIDPAYMGISPIKAIQKLLARNQLTTEEIDLYEINEAFAATSIVVQRELALPEEKVNIYGGGISLGHAIGATGARLLTSLSYQLNQKEKKYGVASLCIGGGLGLAMLLERPQQKKNSRFYQMSPEERLASLLNEGQISADTKKEFENTALSSQIANHMIENQISETEVPMGVGLHLTVDETDYLVPMATEEPSVIAALSNGAKIAQGFKTVNQQRLMRGQIVFYDVADAESLIDELQVRETEIFQQAELSYPSIVKRGGGLRDLQYRAFDESFVSVDFLVDVKDAMGANIVNAMLEGVAELFREWFAEQKILFSILSNYATESVVTMKTAIPVSRLSKGSNGREIAEKIVLASRYASLDPYRAVTHNKGIMNGIEAVVLATGNDTRAVSASCHAFAVKEGRYQGLTSWTLDGEQLIGEISVPLALATVGGATKVLPKSQAAADLLAVTDAKELSRVVAAVGLAQNLAALRALVSEGIQKGHMALQARSLAMTVGATGKEVEAVAQQLKRQKTMNQDRALAILNDLRKQ",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.3.1.9",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Acetoacetyl-CoA thiolase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "acetyl-CoA C-acetyltransferase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "CYQ45_02130",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "EYC52_05135",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "mvaE",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "NCTC8732_01369",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Synonyms=atoB",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q9FD70",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0004420",
+        "xref_name": "hydroxymethylglutaryl-CoA reductase (NADPH) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016746",
+        "xref_name": "acyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016747",
+        "xref_name": "acyltransferase activity, transferring groups other than amino-acyl groups",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0015936",
+        "xref_name": "coenzyme A metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR002155",
+        "xref_name": "Thiolase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR002202",
+        "xref_name": "HMG_CoA_Rdtase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR004553",
+        "xref_name": "HMG_CoA_Rdtase_bac-typ",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR009023",
+        "xref_name": "HMG_CoA_Rdtase_NAD(P)-bd_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR009029",
+        "xref_name": "HMG_CoA_Rdtase_sub-bd_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016039",
+        "xref_name": "Thiolase-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020610",
+        "xref_name": "Thiolase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020615",
+        "xref_name": "Thiolase_acyl_enz_int_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020616",
+        "xref_name": "Thiolase_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020617",
+        "xref_name": "Thiolase_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023074",
+        "xref_name": "HMG_CoA_Rdtase_cat_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023076",
+        "xref_name": "HMG_CoA_Rdtase_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR18919",
+        "xref_name": "ACETYL-COA C-ACYLTRANSFERASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR18919:SF107",
+        "xref_name": "ACETYL-COA ACETYLTRANSFERASE, CYTOSOLIC",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF00108",
+        "xref_name": "Thiolase_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00368",
+        "xref_name": "HMG-CoA_red",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02803",
+        "xref_name": "Thiolase_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "Q9FD70",
+        "xref_name": "acetyl-CoA C-acetyltransferase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1293315"
+      }
+    ],
+    "tax_id": 1351
+  },
+  "ok": true
+}

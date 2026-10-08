@@ -1,0 +1,552 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Cytochrome P450 2C9",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3397",
+    "target_components": [
+      {
+        "accession": "P11712",
+        "component_description": "Cytochrome P450 2C9",
+        "component_id": 1718,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.14.14.1",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "1.14.14.51",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "1.14.14.52",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "1.14.14.53",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Cholesterol 25-hydroxylase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CYP2C10",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "CYP2C9",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "CYPIIC9",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450 2C9",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P-450MP",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450 MP-4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450 MP-8",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450 PB-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "(R)-limonene 6-monooxygenase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "(S)-limonene 6-monooxygenase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "(S)-limonene 7-monooxygenase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "S-mephenytoin 4-hydroxylase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=CYP2C10",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P11712",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P11712",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005789",
+            "xref_name": "endoplasmic reticulum membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004497",
+            "xref_name": "monooxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005506",
+            "xref_name": "iron ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008392",
+            "xref_name": "arachidonate epoxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008395",
+            "xref_name": "steroid hydroxylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008404",
+            "xref_name": "arachidonate 14,15-epoxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008405",
+            "xref_name": "arachidonate 11,12-epoxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016705",
+            "xref_name": "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016712",
+            "xref_name": "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0018675",
+            "xref_name": "(S)-limonene 6-monooxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0018676",
+            "xref_name": "(S)-limonene 7-monooxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034875",
+            "xref_name": "caffeine oxidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0052741",
+            "xref_name": "(R)-limonene 6-monooxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006805",
+            "xref_name": "xenobiotic metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008202",
+            "xref_name": "steroid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008203",
+            "xref_name": "cholesterol metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008210",
+            "xref_name": "estrogen metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016098",
+            "xref_name": "monoterpenoid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019369",
+            "xref_name": "arachidonate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019373",
+            "xref_name": "epoxygenase P450 pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019627",
+            "xref_name": "urea metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032787",
+            "xref_name": "monocarboxylic acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042178",
+            "xref_name": "xenobiotic catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042759",
+            "xref_name": "long-chain fatty acid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043603",
+            "xref_name": "amide metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046456",
+            "xref_name": "icosanoid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070989",
+            "xref_name": "oxidative demethylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097267",
+            "xref_name": "omega-hydroxylase P450 pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:2623",
+            "xref_name": "CYP2C9",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P11712",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001128",
+            "xref_name": "Cyt_P450",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002401",
+            "xref_name": "Cyt_P450_E_grp-I",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017972",
+            "xref_name": "Cyt_P450_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036396",
+            "xref_name": "Cyt_P450_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050182",
+            "xref_name": "Cytochrome_P450_fam2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24300",
+            "xref_name": "CYTOCHROME P450 508A4-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24300:SF400",
+            "xref_name": "CYTOCHROME P450 2C9",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1OG2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1OG5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1R9O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4NZ2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A5I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5A5J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5K7K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5W0C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5X23",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5X24",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5XXI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6VLT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7RL2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VX0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VZ7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1OG2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1OG5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1R9O",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4NZ2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5A5I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5A5J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5K7K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5W0C",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5X23",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5X24",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5XXI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6VLT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7RL2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8VX0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8VZ7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00067",
+            "xref_name": "p450",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA126",
+            "xref_name": "cytochrome P450 family 2 subfamily C member 9",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P11712",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-211981",
+            "xref_name": "Xenobiotics",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-211999",
+            "xref_name": "CYP2E1 reactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2142670",
+            "xref_name": "Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2142816",
+            "xref_name": "Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9027307",
+            "xref_name": "Biosynthesis of maresin-like SPMs",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9749641",
+            "xref_name": "Aspirin ADME",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P11712",
+            "xref_name": "Cytochrome P450 2C9",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P11713",
+            "xref_name": "Cytochrome P450 2C9",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16756",
+            "xref_name": "Cytochrome P450 2C9",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16872",
+            "xref_name": "Cytochrome P450 2C9",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5VX92",
+            "xref_name": "Cytochrome P450 2C9",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6IRV8",
+            "xref_name": "Cytochrome P450 2C9",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8WW80",
+            "xref_name": "Cytochrome P450 2C9",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

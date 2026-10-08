@@ -1,0 +1,358 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "E3 ubiquitin-protein ligase pellino homolog 1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL6066217",
+    "target_components": [
+      {
+        "accession": "Q96FA3",
+        "component_description": "E3 ubiquitin-protein ligase pellino homolog 1",
+        "component_id": 23408,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.3.2.27",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "E3 ubiquitin-protein ligase pellino homolog 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PELI1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Pellino-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Pellino-related intracellular-signaling molecule",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PRISM",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "RING-type E3 ubiquitin transferase pellino homolog 1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q96FA3",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q96FA3",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005694",
+            "xref_name": "chromosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035861",
+            "xref_name": "site of double-strand break",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004842",
+            "xref_name": "ubiquitin-protein transferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016740",
+            "xref_name": "transferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034450",
+            "xref_name": "ubiquitin-ubiquitin ligase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0061630",
+            "xref_name": "ubiquitin protein ligase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000209",
+            "xref_name": "protein polyubiquitination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000724",
+            "xref_name": "double-strand break repair via homologous recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001819",
+            "xref_name": "positive regulation of cytokine production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006281",
+            "xref_name": "DNA repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006974",
+            "xref_name": "DNA damage response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008592",
+            "xref_name": "regulation of Toll signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016567",
+            "xref_name": "protein ubiquitination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030890",
+            "xref_name": "positive regulation of B cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031398",
+            "xref_name": "positive regulation of protein ubiquitination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032496",
+            "xref_name": "response to lipopolysaccharide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034141",
+            "xref_name": "positive regulation of toll-like receptor 3 signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034145",
+            "xref_name": "positive regulation of toll-like receptor 4 signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038202",
+            "xref_name": "TORC1 signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042098",
+            "xref_name": "T cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042110",
+            "xref_name": "T cell activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042130",
+            "xref_name": "negative regulation of T cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043123",
+            "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043161",
+            "xref_name": "proteasome-mediated ubiquitin-dependent protein catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043331",
+            "xref_name": "response to dsRNA",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050868",
+            "xref_name": "negative regulation of T cell activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050871",
+            "xref_name": "positive regulation of B cell activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060544",
+            "xref_name": "regulation of necroptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060546",
+            "xref_name": "negative regulation of necroptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070534",
+            "xref_name": "protein K63-linked ubiquitination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070936",
+            "xref_name": "protein K48-linked ubiquitination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904262",
+            "xref_name": "negative regulation of TORC1 signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904263",
+            "xref_name": "positive regulation of TORC1 signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905168",
+            "xref_name": "positive regulation of double-strand break repair via homologous recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:8827",
+            "xref_name": "PELI1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q96FA3",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR006800",
+            "xref_name": "Pellino_fam",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR048334",
+            "xref_name": "Pellino_FHA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR048335",
+            "xref_name": "Pellino_RING",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR12098",
+            "xref_name": "E3 UBIQUITIN-PROTEIN LIGASE PELLINO-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR12098:SF4",
+            "xref_name": "E3 UBIQUITIN-PROTEIN LIGASE PELLINO HOMOLOG 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "9IF9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9IF9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF04710",
+            "xref_name": "Pellino_FHA",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF20723",
+            "xref_name": "Pellino_RING",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA33172",
+            "xref_name": "pellino E3 ubiquitin protein ligase 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q96FA3",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-5675482",
+            "xref_name": "Regulation of necroptotic cell death",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9020702",
+            "xref_name": "Interleukin-1 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-937039",
+            "xref_name": "IRAK1 recruits IKK complex",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-975144",
+            "xref_name": "IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q96FA3",
+            "xref_name": "E3 ubiquitin-protein ligase pellino homolog 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96SM0",
+            "xref_name": "E3 ubiquitin-protein ligase pellino homolog 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9GZY5",
+            "xref_name": "E3 ubiquitin-protein ligase pellino homolog 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9HCX0",
+            "xref_name": "E3 ubiquitin-protein ligase pellino homolog 1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

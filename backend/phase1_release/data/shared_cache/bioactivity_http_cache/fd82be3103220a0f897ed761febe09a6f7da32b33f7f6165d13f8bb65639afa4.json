@@ -1,0 +1,3103 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Sodium/potassium-transporting ATPase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2095186",
+    "target_components": [
+      {
+        "accession": "P05023",
+        "component_description": "Sodium/potassium-transporting ATPase subunit alpha-1",
+        "component_id": 101,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "7.2.2.13",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "ATP1A1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Na(+)/K(+) ATPase alpha-1 subunit",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sodium/potassium-transporting ATPase subunit alpha-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sodium pump subunit alpha-1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005391",
+            "xref_name": "P-type sodium:potassium-exchanging transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008556",
+            "xref_name": "P-type potassium transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016791",
+            "xref_name": "phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016887",
+            "xref_name": "ATP hydrolysis activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030955",
+            "xref_name": "potassium ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031402",
+            "xref_name": "sodium ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044325",
+            "xref_name": "transmembrane transporter binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046982",
+            "xref_name": "protein heterodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051087",
+            "xref_name": "protein-folding chaperone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990239",
+            "xref_name": "steroid hormone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002026",
+            "xref_name": "regulation of the force of heart contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002028",
+            "xref_name": "regulation of sodium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006813",
+            "xref_name": "potassium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006814",
+            "xref_name": "sodium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006883",
+            "xref_name": "intracellular sodium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007231",
+            "xref_name": "osmosensory signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008217",
+            "xref_name": "regulation of blood pressure",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010248",
+            "xref_name": "establishment or maintenance of transmembrane electrochemical gradient",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030007",
+            "xref_name": "intracellular potassium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031947",
+            "xref_name": "negative regulation of glucocorticoid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0036376",
+            "xref_name": "sodium ion export across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045822",
+            "xref_name": "negative regulation of heart contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045823",
+            "xref_name": "positive regulation of heart contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045989",
+            "xref_name": "positive regulation of striated muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055078",
+            "xref_name": "sodium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060047",
+            "xref_name": "heart contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071383",
+            "xref_name": "cellular response to steroid hormone stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086002",
+            "xref_name": "cardiac muscle cell action potential involved in contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086009",
+            "xref_name": "membrane repolarization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086013",
+            "xref_name": "membrane repolarization during cardiac muscle cell action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902600",
+            "xref_name": "proton transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990573",
+            "xref_name": "potassium ion import across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042383",
+            "xref_name": "sarcolemma",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005794",
+            "xref_name": "Golgi apparatus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0014069",
+            "xref_name": "postsynaptic density",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016323",
+            "xref_name": "basolateral plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016324",
+            "xref_name": "apical plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016328",
+            "xref_name": "lateral plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030315",
+            "xref_name": "T-tubule",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031090",
+            "xref_name": "organelle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0036126",
+            "xref_name": "sperm flagellum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045121",
+            "xref_name": "membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0060342",
+            "xref_name": "photoreceptor inner segment membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1903561",
+            "xref_name": "extracellular vesicle",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005890",
+            "xref_name": "sodium:potassium-exchanging ATPase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032991",
+            "xref_name": "protein-containing complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA62",
+            "xref_name": "ATPase Na+/K+ transporting subunit alpha 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "B2RBR6",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B7Z2T5",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B7Z3U6",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "F5H3A1",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16689",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6LDM4",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UCN1",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UJ20",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UJ21",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P05023",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "7E1Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7E20",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7E21",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P05023",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P05023",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:799",
+            "xref_name": "ATP1A1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-5578775",
+            "xref_name": "Ion homeostasis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-936837",
+            "xref_name": "Ion transport by P-type ATPases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9679191",
+            "xref_name": "Potential therapeutics for SARS",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P05023",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P05023",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006068",
+            "xref_name": "ATPase_P-typ_cation-transptr_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004014",
+            "xref_name": "ATPase_P-typ_cation-transptr_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023299",
+            "xref_name": "ATPase_P-typ_cyto_dom_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018303",
+            "xref_name": "ATPase_P-typ_P_site",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023298",
+            "xref_name": "ATPase_P-typ_TM_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008250",
+            "xref_name": "ATPase_P-typ_transduc_dom_A_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR059000",
+            "xref_name": "ATPase_P-type_domA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050510",
+            "xref_name": "Cation_transp_ATPase_P-type",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036412",
+            "xref_name": "HAD-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023214",
+            "xref_name": "HAD_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005775",
+            "xref_name": "P-type_ATPase_IIC",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001757",
+            "xref_name": "P_typ_ATPase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR044492",
+            "xref_name": "P_typ_ATPase_HD_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR43294",
+            "xref_name": "SODIUM/POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR43294:SF9",
+            "xref_name": "SODIUM_POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA-1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF13246",
+            "xref_name": "Cation_ATPase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00689",
+            "xref_name": "Cation_ATPase_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00690",
+            "xref_name": "Cation_ATPase_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00122",
+            "xref_name": "E1-E2_ATPase",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P14415",
+        "component_description": "Sodium/potassium-transporting ATPase subunit beta-2",
+        "component_id": 673,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Adhesion molecule in glia",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "AMOG",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ATP1B2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Sodium/potassium-dependent ATPase subunit beta-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sodium/potassium-transporting ATPase subunit beta-2",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0001895",
+            "xref_name": "retina homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0021670",
+            "xref_name": "lateral ventricle development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0021678",
+            "xref_name": "third ventricle development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0021944",
+            "xref_name": "neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045494",
+            "xref_name": "photoreceptor cell maintenance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061744",
+            "xref_name": "motor behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030674",
+            "xref_name": "protein-macromolecule adaptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046982",
+            "xref_name": "protein heterodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051117",
+            "xref_name": "ATPase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006813",
+            "xref_name": "potassium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006814",
+            "xref_name": "sodium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006883",
+            "xref_name": "intracellular sodium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007155",
+            "xref_name": "cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010976",
+            "xref_name": "positive regulation of neuron projection development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030007",
+            "xref_name": "intracellular potassium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031589",
+            "xref_name": "cell-substrate adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0036376",
+            "xref_name": "sodium ion export across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050821",
+            "xref_name": "protein stabilization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086009",
+            "xref_name": "membrane repolarization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0150104",
+            "xref_name": "transport across blood-brain barrier",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901018",
+            "xref_name": "positive regulation of potassium ion transmembrane transporter activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903278",
+            "xref_name": "positive regulation of sodium ion export across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903288",
+            "xref_name": "positive regulation of potassium ion import across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903976",
+            "xref_name": "negative regulation of glial cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990573",
+            "xref_name": "potassium ion import across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001917",
+            "xref_name": "photoreceptor inner segment",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009897",
+            "xref_name": "external side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016324",
+            "xref_name": "apical plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016328",
+            "xref_name": "lateral plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031253",
+            "xref_name": "cell projection membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0044298",
+            "xref_name": "cell body membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0071944",
+            "xref_name": "cell periphery",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097449",
+            "xref_name": "astrocyte projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097450",
+            "xref_name": "astrocyte end-foot",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098984",
+            "xref_name": "neuron to neuron synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005890",
+            "xref_name": "sodium:potassium-exchanging ATPase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA67",
+            "xref_name": "ATPase Na+/K+ transporting subunit beta 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "A0AV17",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A8K278",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D3DTQ2",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O60444",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P14415",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P14415",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P14415",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:805",
+            "xref_name": "ATP1B2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-210991",
+            "xref_name": "Basigin interactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5578775",
+            "xref_name": "Ion homeostasis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-936837",
+            "xref_name": "Ion transport by P-type ATPases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9679191",
+            "xref_name": "Potential therapeutics for SARS",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P14415",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P14415",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR000402",
+            "xref_name": "Na/K_ATPase_sub_beta",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038702",
+            "xref_name": "Na/K_ATPase_sub_beta_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11523",
+            "xref_name": "SODIUM/POTASSIUM-DEPENDENT ATPASE BETA SUBUNIT",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11523:SF26",
+            "xref_name": "SODIUM_POTASSIUM-TRANSPORTING ATPASE SUBUNIT BETA-2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00287",
+            "xref_name": "Na_K-ATPase",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P05026",
+        "component_description": "Sodium/potassium-transporting ATPase subunit beta-1",
+        "component_id": 721,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "ATP1B",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "ATP1B1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Sodium/potassium-dependent ATPase subunit beta-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sodium/potassium-transporting ATPase subunit beta-1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005391",
+            "xref_name": "P-type sodium:potassium-exchanging transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019901",
+            "xref_name": "protein kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030674",
+            "xref_name": "protein-macromolecule adaptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046982",
+            "xref_name": "protein heterodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051117",
+            "xref_name": "ATPase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006813",
+            "xref_name": "potassium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006814",
+            "xref_name": "sodium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006874",
+            "xref_name": "intracellular calcium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006883",
+            "xref_name": "intracellular sodium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007155",
+            "xref_name": "cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010248",
+            "xref_name": "establishment or maintenance of transmembrane electrochemical gradient",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010882",
+            "xref_name": "regulation of cardiac muscle contraction by calcium ion signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030007",
+            "xref_name": "intracellular potassium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035725",
+            "xref_name": "sodium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0036376",
+            "xref_name": "sodium ion export across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0044861",
+            "xref_name": "protein transport into plasma membrane raft",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045087",
+            "xref_name": "innate immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046034",
+            "xref_name": "ATP metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050821",
+            "xref_name": "protein stabilization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086009",
+            "xref_name": "membrane repolarization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086013",
+            "xref_name": "membrane repolarization during cardiac muscle cell action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098655",
+            "xref_name": "monoatomic cation transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901018",
+            "xref_name": "positive regulation of potassium ion transmembrane transporter activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902600",
+            "xref_name": "proton transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903169",
+            "xref_name": "regulation of calcium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903278",
+            "xref_name": "positive regulation of sodium ion export across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903288",
+            "xref_name": "positive regulation of potassium ion import across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903408",
+            "xref_name": "positive regulation of P-type sodium:potassium-exchanging transporter activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990573",
+            "xref_name": "potassium ion import across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0014704",
+            "xref_name": "intercalated disc",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016323",
+            "xref_name": "basolateral plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016324",
+            "xref_name": "apical plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016328",
+            "xref_name": "lateral plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030315",
+            "xref_name": "T-tubule",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031090",
+            "xref_name": "organelle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0036126",
+            "xref_name": "sperm flagellum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042383",
+            "xref_name": "sarcolemma",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1903561",
+            "xref_name": "extracellular vesicle",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005890",
+            "xref_name": "sodium:potassium-exchanging ATPase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA66",
+            "xref_name": "ATPase Na+/K+ transporting subunit beta 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q5TGZ3",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit beta-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P05026",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit beta-1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "7E1Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7E20",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7E21",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D3U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D3V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D3W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D3X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D3Y",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ZYJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P05026",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P05026",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:804",
+            "xref_name": "ATP1B1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-210991",
+            "xref_name": "Basigin interactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5578775",
+            "xref_name": "Ion homeostasis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-936837",
+            "xref_name": "Ion transport by P-type ATPases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9679191",
+            "xref_name": "Potential therapeutics for SARS",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P05026",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P05026",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR000402",
+            "xref_name": "Na/K_ATPase_sub_beta",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038702",
+            "xref_name": "Na/K_ATPase_sub_beta_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11523",
+            "xref_name": "SODIUM/POTASSIUM-DEPENDENT ATPASE BETA SUBUNIT",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11523:SF10",
+            "xref_name": "SODIUM_POTASSIUM-TRANSPORTING ATPASE SUBUNIT BETA-1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00287",
+            "xref_name": "Na_K-ATPase",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P50993",
+        "component_description": "Sodium/potassium-transporting ATPase subunit alpha-2",
+        "component_id": 1051,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "7.2.2.13",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "ATP1A2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "KIAA0778",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Na(+)/K(+) ATPase alpha-2 subunit",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sodium/potassium-transporting ATPase subunit alpha-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sodium pump subunit alpha-2",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0001662",
+            "xref_name": "behavioral fear response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002026",
+            "xref_name": "regulation of the force of heart contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002087",
+            "xref_name": "regulation of respiratory gaseous exchange by nervous system process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006937",
+            "xref_name": "regulation of muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0021764",
+            "xref_name": "amygdala development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0021989",
+            "xref_name": "olfactory cortex development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0040011",
+            "xref_name": "locomotion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045822",
+            "xref_name": "negative regulation of heart contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045823",
+            "xref_name": "positive regulation of heart contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051481",
+            "xref_name": "negative regulation of cytosolic calcium ion concentration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005391",
+            "xref_name": "P-type sodium:potassium-exchanging transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005496",
+            "xref_name": "steroid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008556",
+            "xref_name": "P-type potassium transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016791",
+            "xref_name": "phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016887",
+            "xref_name": "ATP hydrolysis activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019829",
+            "xref_name": "ATPase-coupled monoatomic cation transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030955",
+            "xref_name": "potassium ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031402",
+            "xref_name": "sodium ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046982",
+            "xref_name": "protein heterodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051087",
+            "xref_name": "protein-folding chaperone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990239",
+            "xref_name": "steroid hormone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001504",
+            "xref_name": "neurotransmitter uptake",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006813",
+            "xref_name": "potassium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006814",
+            "xref_name": "sodium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006883",
+            "xref_name": "intracellular sodium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006940",
+            "xref_name": "regulation of smooth muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006942",
+            "xref_name": "regulation of striated muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008015",
+            "xref_name": "blood circulation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008217",
+            "xref_name": "regulation of blood pressure",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008344",
+            "xref_name": "adult locomotory behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008542",
+            "xref_name": "visual learning",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010248",
+            "xref_name": "establishment or maintenance of transmembrane electrochemical gradient",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010881",
+            "xref_name": "regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019227",
+            "xref_name": "neuronal action potential propagation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019229",
+            "xref_name": "regulation of vasoconstriction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019852",
+            "xref_name": "L-ascorbic acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030007",
+            "xref_name": "intracellular potassium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035641",
+            "xref_name": "locomotory exploration behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035725",
+            "xref_name": "sodium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0036376",
+            "xref_name": "sodium ion export across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042596",
+            "xref_name": "fear response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045988",
+            "xref_name": "negative regulation of striated muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046034",
+            "xref_name": "ATP metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051899",
+            "xref_name": "membrane depolarization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051946",
+            "xref_name": "regulation of glutamate uptake involved in transmission of nerve impulse",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051966",
+            "xref_name": "regulation of synaptic transmission, glutamatergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071260",
+            "xref_name": "cellular response to mechanical stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071383",
+            "xref_name": "cellular response to steroid hormone stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071805",
+            "xref_name": "potassium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086004",
+            "xref_name": "regulation of cardiac muscle cell contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086009",
+            "xref_name": "membrane repolarization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086012",
+            "xref_name": "membrane depolarization during cardiac muscle cell action potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098655",
+            "xref_name": "monoatomic cation transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0150104",
+            "xref_name": "transport across blood-brain barrier",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902600",
+            "xref_name": "proton transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903170",
+            "xref_name": "negative regulation of calcium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990573",
+            "xref_name": "potassium ion import across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005768",
+            "xref_name": "endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005901",
+            "xref_name": "caveola",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0014704",
+            "xref_name": "intercalated disc",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030315",
+            "xref_name": "T-tubule",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031090",
+            "xref_name": "organelle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042383",
+            "xref_name": "sarcolemma",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043197",
+            "xref_name": "dendritic spine",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1903561",
+            "xref_name": "extracellular vesicle",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005890",
+            "xref_name": "sodium:potassium-exchanging ATPase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032991",
+            "xref_name": "protein-containing complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA30796",
+            "xref_name": "ATPase Na+/K+ transporting subunit alpha 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "D3DVE4",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q07059",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5JW74",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86UZ5",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UQ25",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P50993",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P50993",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P50993",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:800",
+            "xref_name": "ATP1A2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-5578775",
+            "xref_name": "Ion homeostasis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-936837",
+            "xref_name": "Ion transport by P-type ATPases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9679191",
+            "xref_name": "Potential therapeutics for SARS",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P50993",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P50993",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006068",
+            "xref_name": "ATPase_P-typ_cation-transptr_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004014",
+            "xref_name": "ATPase_P-typ_cation-transptr_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023299",
+            "xref_name": "ATPase_P-typ_cyto_dom_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018303",
+            "xref_name": "ATPase_P-typ_P_site",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023298",
+            "xref_name": "ATPase_P-typ_TM_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008250",
+            "xref_name": "ATPase_P-typ_transduc_dom_A_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR059000",
+            "xref_name": "ATPase_P-type_domA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050510",
+            "xref_name": "Cation_transp_ATPase_P-type",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036412",
+            "xref_name": "HAD-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023214",
+            "xref_name": "HAD_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005775",
+            "xref_name": "P-type_ATPase_IIC",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001757",
+            "xref_name": "P_typ_ATPase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR044492",
+            "xref_name": "P_typ_ATPase_HD_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR43294",
+            "xref_name": "SODIUM/POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR43294:SF6",
+            "xref_name": "SODIUM_POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA-2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF13246",
+            "xref_name": "Cation_ATPase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00689",
+            "xref_name": "Cation_ATPase_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00690",
+            "xref_name": "Cation_ATPase_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00122",
+            "xref_name": "E1-E2_ATPase",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P54709",
+        "component_description": "Sodium/potassium-transporting ATPase subunit beta-3",
+        "component_id": 1577,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "ATP1B3",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "ATPB-3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CD_antigen=CD298",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sodium/potassium-dependent ATPase subunit beta-3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sodium/potassium-transporting ATPase subunit beta-3",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030674",
+            "xref_name": "protein-macromolecule adaptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051117",
+            "xref_name": "ATPase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006813",
+            "xref_name": "potassium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006814",
+            "xref_name": "sodium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006883",
+            "xref_name": "intracellular sodium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030007",
+            "xref_name": "intracellular potassium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035725",
+            "xref_name": "sodium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0036376",
+            "xref_name": "sodium ion export across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050821",
+            "xref_name": "protein stabilization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071805",
+            "xref_name": "potassium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0086009",
+            "xref_name": "membrane repolarization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901018",
+            "xref_name": "positive regulation of potassium ion transmembrane transporter activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903278",
+            "xref_name": "positive regulation of sodium ion export across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903288",
+            "xref_name": "positive regulation of potassium ion import across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990573",
+            "xref_name": "potassium ion import across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016323",
+            "xref_name": "basolateral plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016324",
+            "xref_name": "apical plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0036126",
+            "xref_name": "sperm flagellum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005890",
+            "xref_name": "sodium:potassium-exchanging ATPase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA68",
+            "xref_name": "ATPase Na+/K+ transporting subunit beta 3",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "B7Z1N7",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit beta-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P54709",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit beta-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P54709",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P54709",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:806",
+            "xref_name": "ATP1B3",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-210991",
+            "xref_name": "Basigin interactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5578775",
+            "xref_name": "Ion homeostasis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-936837",
+            "xref_name": "Ion transport by P-type ATPases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9679191",
+            "xref_name": "Potential therapeutics for SARS",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P54709",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P54709",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR000402",
+            "xref_name": "Na/K_ATPase_sub_beta",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038702",
+            "xref_name": "Na/K_ATPase_sub_beta_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11523",
+            "xref_name": "SODIUM/POTASSIUM-DEPENDENT ATPASE BETA SUBUNIT",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11523:SF47",
+            "xref_name": "SODIUM_POTASSIUM-TRANSPORTING ATPASE SUBUNIT BETA-3",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00287",
+            "xref_name": "Na_K-ATPase",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P13637",
+        "component_description": "Sodium/potassium-transporting ATPase subunit alpha-3",
+        "component_id": 2371,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "7.2.2.13",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "ATP1A3",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Na(+)/K(+) ATPase alpha-3 subunit",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Na(+)/K(+) ATPase alpha(III) subunit",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sodium/potassium-transporting ATPase subunit alpha-3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sodium pump subunit alpha-3",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0001540",
+            "xref_name": "amyloid-beta binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005391",
+            "xref_name": "P-type sodium:potassium-exchanging transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008556",
+            "xref_name": "P-type potassium transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016887",
+            "xref_name": "ATP hydrolysis activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051087",
+            "xref_name": "protein-folding chaperone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990239",
+            "xref_name": "steroid hormone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006813",
+            "xref_name": "potassium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006814",
+            "xref_name": "sodium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006883",
+            "xref_name": "intracellular sodium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010248",
+            "xref_name": "establishment or maintenance of transmembrane electrochemical gradient",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030007",
+            "xref_name": "intracellular potassium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0036376",
+            "xref_name": "sodium ion export across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060075",
+            "xref_name": "regulation of resting membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071383",
+            "xref_name": "cellular response to steroid hormone stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902600",
+            "xref_name": "proton transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904646",
+            "xref_name": "cellular response to amyloid-beta",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990573",
+            "xref_name": "potassium ion import across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001917",
+            "xref_name": "photoreceptor inner segment",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005794",
+            "xref_name": "Golgi apparatus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031090",
+            "xref_name": "organelle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032809",
+            "xref_name": "neuronal cell body membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0060342",
+            "xref_name": "photoreceptor inner segment membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098984",
+            "xref_name": "neuron to neuron synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1903561",
+            "xref_name": "extracellular vesicle",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005890",
+            "xref_name": "sodium:potassium-exchanging ATPase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA64",
+            "xref_name": "ATPase Na+/K+ transporting subunit alpha 3",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "B7Z2T0",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B7Z401",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "F5H6J6",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16732",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16735",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q969K5",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P13637",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "8D3U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D3V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D3W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D3X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D3Y",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P13637",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P13637",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:801",
+            "xref_name": "ATP1A3",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-5578775",
+            "xref_name": "Ion homeostasis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-936837",
+            "xref_name": "Ion transport by P-type ATPases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9679191",
+            "xref_name": "Potential therapeutics for SARS",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P13637",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "P13637",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006068",
+            "xref_name": "ATPase_P-typ_cation-transptr_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004014",
+            "xref_name": "ATPase_P-typ_cation-transptr_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023299",
+            "xref_name": "ATPase_P-typ_cyto_dom_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018303",
+            "xref_name": "ATPase_P-typ_P_site",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023298",
+            "xref_name": "ATPase_P-typ_TM_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008250",
+            "xref_name": "ATPase_P-typ_transduc_dom_A_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR059000",
+            "xref_name": "ATPase_P-type_domA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050510",
+            "xref_name": "Cation_transp_ATPase_P-type",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036412",
+            "xref_name": "HAD-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023214",
+            "xref_name": "HAD_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005775",
+            "xref_name": "P-type_ATPase_IIC",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001757",
+            "xref_name": "P_typ_ATPase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR044492",
+            "xref_name": "P_typ_ATPase_HD_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR43294",
+            "xref_name": "SODIUM/POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR43294:SF15",
+            "xref_name": "SODIUM_POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA-3",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF13246",
+            "xref_name": "Cation_ATPase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00689",
+            "xref_name": "Cation_ATPase_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00690",
+            "xref_name": "Cation_ATPase_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00122",
+            "xref_name": "E1-E2_ATPase",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "Q13733",
+        "component_description": "Sodium/potassium-transporting ATPase subunit alpha-4",
+        "component_id": 2372,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "7.2.2.13",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "ATP1A4",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "ATP1AL2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Na(+)/K(+) ATPase alpha-4 subunit",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sodium/potassium-transporting ATPase subunit alpha-4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sodium pump subunit alpha-4",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005391",
+            "xref_name": "P-type sodium:potassium-exchanging transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008556",
+            "xref_name": "P-type potassium transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016887",
+            "xref_name": "ATP hydrolysis activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019829",
+            "xref_name": "ATPase-coupled monoatomic cation transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019900",
+            "xref_name": "kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006811",
+            "xref_name": "monoatomic ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006813",
+            "xref_name": "potassium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006814",
+            "xref_name": "sodium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006883",
+            "xref_name": "intracellular sodium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007166",
+            "xref_name": "cell surface receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007283",
+            "xref_name": "spermatogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009566",
+            "xref_name": "fertilization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010248",
+            "xref_name": "establishment or maintenance of transmembrane electrochemical gradient",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030007",
+            "xref_name": "intracellular potassium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030317",
+            "xref_name": "flagellated sperm motility",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030641",
+            "xref_name": "regulation of cellular pH",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035725",
+            "xref_name": "sodium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0036376",
+            "xref_name": "sodium ion export across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042391",
+            "xref_name": "regulation of membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071805",
+            "xref_name": "potassium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0150104",
+            "xref_name": "transport across blood-brain barrier",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902600",
+            "xref_name": "proton transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990573",
+            "xref_name": "potassium ion import across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045121",
+            "xref_name": "membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097225",
+            "xref_name": "sperm midpiece",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097733",
+            "xref_name": "photoreceptor cell cilium",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0120200",
+            "xref_name": "rod photoreceptor outer segment",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005890",
+            "xref_name": "sodium:potassium-exchanging ATPase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA65",
+            "xref_name": "ATPase Na+/K+ transporting subunit alpha 4",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q504T2",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q7Z4I9",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8TBN8",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8WXA7",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8WXH7",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8WY13",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q13733",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit alpha-4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "8ZYJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "Q13733",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q13733",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:14073",
+            "xref_name": "ATP1A4",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-5578775",
+            "xref_name": "Ion homeostasis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-936837",
+            "xref_name": "Ion transport by P-type ATPases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9679191",
+            "xref_name": "Potential therapeutics for SARS",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q13733",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "Q13733",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR006068",
+            "xref_name": "ATPase_P-typ_cation-transptr_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004014",
+            "xref_name": "ATPase_P-typ_cation-transptr_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023299",
+            "xref_name": "ATPase_P-typ_cyto_dom_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018303",
+            "xref_name": "ATPase_P-typ_P_site",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023298",
+            "xref_name": "ATPase_P-typ_TM_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008250",
+            "xref_name": "ATPase_P-typ_transduc_dom_A_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR059000",
+            "xref_name": "ATPase_P-type_domA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050510",
+            "xref_name": "Cation_transp_ATPase_P-type",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036412",
+            "xref_name": "HAD-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023214",
+            "xref_name": "HAD_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005775",
+            "xref_name": "P-type_ATPase_IIC",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001757",
+            "xref_name": "P_typ_ATPase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR044492",
+            "xref_name": "P_typ_ATPase_HD_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR43294",
+            "xref_name": "SODIUM/POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR43294:SF3",
+            "xref_name": "SODIUM_POTASSIUM-TRANSPORTING ATPASE SUBUNIT ALPHA-4",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF13246",
+            "xref_name": "Cation_ATPase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00689",
+            "xref_name": "Cation_ATPase_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00690",
+            "xref_name": "Cation_ATPase_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00122",
+            "xref_name": "E1-E2_ATPase",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P54710",
+        "component_description": "Sodium/potassium-transporting ATPase subunit gamma",
+        "component_id": 2956,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "ATP1C",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "ATP1G1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "FXYD2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "FXYD domain-containing ion transport regulator 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Na(+)/K(+) ATPase subunit gamma",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sodium/potassium-transporting ATPase subunit gamma",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sodium pump gamma chain",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0030674",
+            "xref_name": "protein-macromolecule adaptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006811",
+            "xref_name": "monoatomic ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006813",
+            "xref_name": "potassium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006814",
+            "xref_name": "sodium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006883",
+            "xref_name": "intracellular sodium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010248",
+            "xref_name": "establishment or maintenance of transmembrane electrochemical gradient",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030007",
+            "xref_name": "intracellular potassium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0036376",
+            "xref_name": "sodium ion export across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043269",
+            "xref_name": "regulation of monoatomic ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055085",
+            "xref_name": "transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902600",
+            "xref_name": "proton transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903278",
+            "xref_name": "positive regulation of sodium ion export across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903408",
+            "xref_name": "positive regulation of P-type sodium:potassium-exchanging transporter activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990573",
+            "xref_name": "potassium ion import across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005890",
+            "xref_name": "sodium:potassium-exchanging ATPase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "PA28442",
+            "xref_name": "FXYD domain containing ion transport regulator 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q15332",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit gamma",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q53YC1",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit gamma",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9GZP3",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit gamma",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9GZQ7",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit gamma",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P54710",
+            "xref_name": "Sodium/potassium-transporting ATPase subunit gamma",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "2MKV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7E1Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7E20",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7E21",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P54710",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P54710",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "HGNC:4026",
+            "xref_name": "FXYD2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "R-HSA-5578775",
+            "xref_name": "Ion homeostasis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-936837",
+            "xref_name": "Ion transport by P-type ATPases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9679191",
+            "xref_name": "Potential therapeutics for SARS",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P54710",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "IPR047282",
+            "xref_name": "ATNG",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047297",
+            "xref_name": "FXYD_motif",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000272",
+            "xref_name": "Ion-transport_regulator_FXYD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR14132",
+            "xref_name": "SODIUM/POTASSIUM-TRANSPORTING ATPASE SUBUNIT GAMMA",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR14132:SF3",
+            "xref_name": "SODIUM_POTASSIUM-TRANSPORTING ATPASE SUBUNIT GAMMA",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02038",
+            "xref_name": "ATP1G1_PLM_MAT8",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      }
+    ],
+    "target_type": "PROTEIN COMPLEX GROUP",
+    "tax_id": 9606
+  },
+  "ok": true
+}

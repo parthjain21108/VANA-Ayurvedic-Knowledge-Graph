@@ -1,0 +1,660 @@
+{
+  "data": {
+    "accession": "P53634",
+    "component_id": 593,
+    "component_type": "PROTEIN",
+    "description": "Dipeptidyl peptidase 1",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0004252"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005576"
+      },
+      {
+        "go_id": "GO:0005615"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005764"
+      },
+      {
+        "go_id": "GO:0005815"
+      },
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008219"
+      },
+      {
+        "go_id": "GO:0008233"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0030234"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0043065"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 50
+      }
+    ],
+    "sequence": "MGAGPSLLLAALLLLLSGDGAVRCDTPANCTYLDLLGTWVFQVGSSGSQRDVNCSVMGPQEKKVVVYLQKLDTAYDDLGNSGHFTIIYNQGFEIVLNDYKWFAFFKYKEEGSKVTTYCNETMTGWVHDVLGRNWACFTGKKVGTASENVYVNIAHLKNSQEKYSNRLYKYDHNFVKAINAIQKSWTATTYMEYETLTLGDMIRRSGGHSRKIPRPKPAPLTAEIQQKILHLPTSWDWRNVHGINFVSPVRNQASCGSCYSFASMGMLEARIRILTNNSQTPILSPQEVVSCSQYAQGCEGGFPYLIAGKYAQDFGLVEEACFPYTGTDSPCKMKEDCFRYYSSEYHYVGGFYGGCNEALMKLELVHHGPMAVAFEVYDDFLHYKKGIYHHTGLRDPFNPFELTNHAVLLVGYGTDSASGMDYWIVKNSWGTGWGENGYFRIRRGTDECAIESIAVAATPIPKL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.4.14.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Cathepsin C",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Cathepsin J",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "CPPI",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "CTSC",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Dipeptidyl peptidase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Dipeptidyl peptidase 1 exclusion domain chain",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Dipeptidyl peptidase 1 heavy chain",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Dipeptidyl peptidase 1 light chain",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Dipeptidyl peptidase I",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Dipeptidyl peptidase I exclusion domain chain",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Dipeptidyl peptidase I heavy chain",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Dipeptidyl peptidase I light chain",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Dipeptidyl transferase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "DPP-I",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "DPPI",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P53634",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P53634",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005576",
+        "xref_name": "extracellular region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005615",
+        "xref_name": "extracellular space",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005764",
+        "xref_name": "lysosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005788",
+        "xref_name": "endoplasmic reticulum lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005813",
+        "xref_name": "centrosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0033116",
+        "xref_name": "endoplasmic reticulum-Golgi intermediate compartment membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0035578",
+        "xref_name": "azurophil granule lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004197",
+        "xref_name": "cysteine-type endopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004252",
+        "xref_name": "serine-type endopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008234",
+        "xref_name": "cysteine-type peptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008239",
+        "xref_name": "dipeptidyl-peptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016505",
+        "xref_name": "peptidase activator activity involved in apoptotic process",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019902",
+        "xref_name": "phosphatase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031404",
+        "xref_name": "chloride ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051087",
+        "xref_name": "protein-folding chaperone binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001913",
+        "xref_name": "T cell mediated cytotoxicity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006508",
+        "xref_name": "proteolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006915",
+        "xref_name": "apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006955",
+        "xref_name": "immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031642",
+        "xref_name": "negative regulation of myelination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051603",
+        "xref_name": "proteolysis involved in protein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903052",
+        "xref_name": "positive regulation of proteolysis involved in protein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903980",
+        "xref_name": "positive regulation of microglial cell activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2001235",
+        "xref_name": "positive regulation of apoptotic signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:2528",
+        "xref_name": "CTSC",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P53634",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000169",
+        "xref_name": "Pept_cys_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000668",
+        "xref_name": "Peptidase_C1A_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013128",
+        "xref_name": "Peptidase_C1A",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR014882",
+        "xref_name": "CathepsinC_exc",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR025660",
+        "xref_name": "Pept_his_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR025661",
+        "xref_name": "Pept_asp_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036496",
+        "xref_name": "CathepsinC_exc_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR038765",
+        "xref_name": "Papain-like_cys_pep_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR039412",
+        "xref_name": "CatC",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR12411",
+        "xref_name": "CYSTEINE PROTEASE FAMILY C1-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1K3B",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2DJF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2DJG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3PDF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4CDC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4CDD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4CDE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4CDF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4OEL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4OEM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6IC5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6IC6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6IC7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6RN6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6RN7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6RN9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6RNE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6RNI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1K3B",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2DJF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2DJG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3PDF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4CDC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4CDD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4CDE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4CDF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4OEL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4OEM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6IC5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6IC6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6IC7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6RN6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6RN7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6RN9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6RNE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6RNI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00112",
+        "xref_name": "Peptidase_C1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF08773",
+        "xref_name": "CathepsinC_exc",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA27028",
+        "xref_name": "cathepsin C",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P53634",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-204005",
+        "xref_name": "COPII-mediated vesicle transport",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2132295",
+        "xref_name": "MHC class II antigen presentation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5694530",
+        "xref_name": "Cargo concentration in the ER",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6798695",
+        "xref_name": "Neutrophil degranulation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A8K7V2",
+        "xref_name": "Dipeptidyl peptidase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B5MDD5",
+        "xref_name": "Dipeptidyl peptidase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P53634",
+        "xref_name": "Dipeptidyl peptidase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q2HIY8",
+        "xref_name": "Dipeptidyl peptidase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q53G93",
+        "xref_name": "Dipeptidyl peptidase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q71E75",
+        "xref_name": "Dipeptidyl peptidase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q71E76",
+        "xref_name": "Dipeptidyl peptidase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q7M4N9",
+        "xref_name": "Dipeptidyl peptidase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q7Z3G7",
+        "xref_name": "Dipeptidyl peptidase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q7Z5U7",
+        "xref_name": "Dipeptidyl peptidase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WY99",
+        "xref_name": "Dipeptidyl peptidase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WYA7",
+        "xref_name": "Dipeptidyl peptidase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8WYA8",
+        "xref_name": "Dipeptidyl peptidase 1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2252"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

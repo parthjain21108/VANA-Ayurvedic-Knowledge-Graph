@@ -1,0 +1,160 @@
+{
+  "data": {
+    "accession": "O39930",
+    "component_id": 18531,
+    "component_type": "PROTEIN",
+    "description": "RNA-directed RNA polymerase",
+    "go_slims": [
+      {
+        "go_id": "GO:0000166"
+      },
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0003723"
+      },
+      {
+        "go_id": "GO:0004386"
+      },
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008233"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016779"
+      },
+      {
+        "go_id": "GO:0016887"
+      }
+    ],
+    "organism": "Hepacivirus hominis",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 643
+      }
+    ],
+    "sequence": "SMSYTWTGALITPCAAEESKLPINALSNSLLRHHNMVYATTSRSASLRQKKVTFDRLQVLDDHYRDVLKEMKAKASTVKAKLLSVEEACKLTPPHSAKSKFGYGAKDVRNLSSKAVNHIRSVWKDLLEDTETPIDTTIMAKNEVFCVQPEKGGRKPARLIVFPDLGVRVCEKMALYDVVSTLPQAVMGSSYGFQYSPGQRVEFLVNTWKSKKCPMGFSYDTRCFDSTVTENDIRVEESIYQCCDLAPEARQAIRSLTERLYIGGPLTNSKGQNCGYRRCRASGVLTTSCGNTLTCYLKASAACRAAKLQDCTMLVCGDDLVVICESAGTQEDAASLRAFTEAMTRYSAPPGDPPQPEYDLELITSCSSNVSVAHDASGKRVYYLTRDPTTPLARAAWETARHTPVNSWLGNIIMYAPTLWARMILMTHFFSILLAQEQLEKALDCQIYGACYSIEPLDLPQIIQRLHGLSAFSLHSYSPGEINRVASCLRKLGVPPLRVWRHRARSVRARLLSQGGRAATCGKYLFNWAVRTKLKLTPIPAASQLDLSSWFVAGYSGGDIYHSLSRARPRWFMWCLLLLSVGVGIYLLPNR",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.7.48",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "NS5b",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "RNA-directed RNA polymerase",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000166",
+        "xref_name": "nucleotide binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003723",
+        "xref_name": "RNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003968",
+        "xref_name": "RNA-dependent RNA polymerase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004386",
+        "xref_name": "helicase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008236",
+        "xref_name": "serine-type peptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016887",
+        "xref_name": "ATP hydrolysis activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0034062",
+        "xref_name": "5'-3' RNA polymerase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140665",
+        "xref_name": "ATP-dependent H3-H4 histone complex chaperone activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140849",
+        "xref_name": "ATP-dependent H2AZ histone chaperone activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006508",
+        "xref_name": "proteolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0039694",
+        "xref_name": "viral RNA genome replication",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR002166",
+        "xref_name": "RNA_pol_HCV",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR007094",
+        "xref_name": "RNA-dir_pol_PSvirus",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR043128",
+        "xref_name": "Rev_trsase/Diguanyl_cyclase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR043502",
+        "xref_name": "DNA/RNA_pol_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PF00998",
+        "xref_name": "RdRP_3",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "O39930",
+        "xref_name": "RNA-directed RNA polymerase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4296320"
+      }
+    ],
+    "tax_id": 3052230
+  },
+  "ok": true
+}

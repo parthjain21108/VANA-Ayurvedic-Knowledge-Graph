@@ -1,0 +1,191 @@
+{
+  "data": {
+    "accession": "P07639",
+    "component_id": 1875,
+    "component_type": "PROTEIN",
+    "description": "3-dehydroquinate synthase",
+    "go_slims": [
+      {
+        "go_id": "GO:0000166"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0006520"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016829"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0051287"
+      }
+    ],
+    "organism": "Escherichia coli K-12",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 648
+      }
+    ],
+    "sequence": "MERIVVTLGERSYPITIASGLFNEPASFLPLKSGEQVMLVTNETLAPLYLDKVRGVLEQAGVNVDSVILPDGEQYKSLAVLDTVFTALLQKPHGRDTTLVALGGGVVGDLTGFAAASYQRGVRFIQVPTTLLSQVDSSVGGKTAVNHPLGKNMIGAFYQPASVVVDLDCLKTLPPRELASGLAEVIKYGIILDGAFFNWLEENLDALLRLDGPAMAYCIRRCCELKAEVVAADERETGLRALLNLGHTFGHAIEAEMGYGNWLHGEAVAAGMVMAARTSERLGQFSSAETQRIITLLKRAGLPVNGPREMSAQAYLPHMLRDKKVLAGEMRLILPLAIGKSEVRSGVSHELVLNAIADCQSA",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3-dehydroquinate synthase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "4.2.3.4",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "aroB",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "DHQS",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P07639",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000166",
+        "xref_name": "nucleotide binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003856",
+        "xref_name": "3-dehydroquinate synthase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016829",
+        "xref_name": "lyase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070403",
+        "xref_name": "NAD+ binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008652",
+        "xref_name": "amino acid biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009073",
+        "xref_name": "aromatic amino acid family biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009423",
+        "xref_name": "chorismate biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "P07639",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR016037",
+        "xref_name": "DHQ_synth_AroB",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR030960",
+        "xref_name": "DHQS/DOIS_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR030963",
+        "xref_name": "DHQ_synth_fam",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050071",
+        "xref_name": "Dehydroquinate_synthase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR056179",
+        "xref_name": "DHQS_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR43622",
+        "xref_name": "3-DEHYDROQUINATE SYNTHASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR43622:SF7",
+        "xref_name": "3-DEHYDROQUINATE SYNTHASE, CHLOROPLASTIC",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF01761",
+        "xref_name": "DHQ_synthase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF24621",
+        "xref_name": "DHQS_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "P07639",
+        "xref_name": "3-dehydroquinate synthase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q2M754",
+        "xref_name": "3-dehydroquinate synthase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3554"
+      }
+    ],
+    "tax_id": 83333
+  },
+  "ok": true
+}

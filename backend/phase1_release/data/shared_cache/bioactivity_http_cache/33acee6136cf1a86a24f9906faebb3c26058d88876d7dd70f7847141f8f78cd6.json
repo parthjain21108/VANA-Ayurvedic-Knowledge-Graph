@@ -1,0 +1,794 @@
+{
+  "data": {
+    "accession": "Q03114",
+    "component_id": 4375,
+    "component_type": "PROTEIN",
+    "description": "Cyclin-dependent kinase 5",
+    "go_slims": [
+      {
+        "go_id": "GO:0005102"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005730"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0006913"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007005"
+      },
+      {
+        "go_id": "GO:0007010"
+      },
+      {
+        "go_id": "GO:0007155"
+      },
+      {
+        "go_id": "GO:0007267"
+      },
+      {
+        "go_id": "GO:0008092"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008219"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016192"
+      },
+      {
+        "go_id": "GO:0016301"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0022607"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0032880"
+      },
+      {
+        "go_id": "GO:0034330"
+      },
+      {
+        "go_id": "GO:0040007"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0043065"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0048646"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0048870"
+      },
+      {
+        "go_id": "GO:0050877"
+      },
+      {
+        "go_id": "GO:0051301"
+      }
+    ],
+    "organism": "Rattus norvegicus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 325
+      }
+    ],
+    "sequence": "MQKYEKLEKIGEGTYGTVFKAKNRETHEIVALKRVRLDDDDEGVPSSALREICLLKELKHKNIVRLHDVLHSDKKLTLVFEFCDQDLKKYFDSCNGDLDPEIVKSLLFQLLKGLGFCHSRNVLHRDLKPQNLLINRNGELKLADFGLARAFGIPVRCYSAEVVTLWYRPPDVLFGAKLYSTSIDMWSAGCIFAELANAGRPLFPGNDVDDQLKRIFRLLGTPTEEQWPAMTKLPDYKPYPMYPATTSLVNVVPKLNATGRDLLQNLLKCNPVQRISAEEALQHPYFSDFCPP",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.11.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Cdk5",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Cdkn5",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Cell division protein kinase 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Cyclin-dependent kinase 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Cyclin-dependent-like kinase 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PSSALRE GN  ",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Serine/threonine-protein kinase PSSALRE",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Synonyms=Cdkn5",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Tau protein kinase II catalytic subunit",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "TPKII catalytic subunit",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q03114",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005730",
+        "xref_name": "nucleolus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005874",
+        "xref_name": "microtubule",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0014069",
+        "xref_name": "postsynaptic density",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016533",
+        "xref_name": "protein kinase 5 complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030027",
+        "xref_name": "lamellipodium",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030054",
+        "xref_name": "cell junction",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030175",
+        "xref_name": "filopodium",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030424",
+        "xref_name": "axon",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030425",
+        "xref_name": "dendrite",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030426",
+        "xref_name": "growth cone",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031594",
+        "xref_name": "neuromuscular junction",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042995",
+        "xref_name": "cell projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043005",
+        "xref_name": "neuron projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043025",
+        "xref_name": "neuronal cell body",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043204",
+        "xref_name": "perikaryon",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045202",
+        "xref_name": "synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098685",
+        "xref_name": "Schaffer collateral - CA1 synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098793",
+        "xref_name": "presynapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098794",
+        "xref_name": "postsynapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098978",
+        "xref_name": "glutamatergic synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0002039",
+        "xref_name": "p53 binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005176",
+        "xref_name": "ErbB-2 class receptor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008092",
+        "xref_name": "cytoskeletal protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016301",
+        "xref_name": "kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019901",
+        "xref_name": "protein kinase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043125",
+        "xref_name": "ErbB-3 class receptor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046875",
+        "xref_name": "ephrin receptor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051879",
+        "xref_name": "Hsp90 protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001764",
+        "xref_name": "neuron migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001963",
+        "xref_name": "synaptic transmission, dopaminergic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006468",
+        "xref_name": "protein phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006886",
+        "xref_name": "intracellular protein transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006887",
+        "xref_name": "exocytosis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006913",
+        "xref_name": "nucleocytoplasmic transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006915",
+        "xref_name": "apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006974",
+        "xref_name": "DNA damage response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007005",
+        "xref_name": "mitochondrion organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007160",
+        "xref_name": "cell-matrix adhesion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007399",
+        "xref_name": "nervous system development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007409",
+        "xref_name": "axonogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007416",
+        "xref_name": "synapse assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007519",
+        "xref_name": "skeletal muscle tissue development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008306",
+        "xref_name": "associative learning",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008542",
+        "xref_name": "visual learning",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0014044",
+        "xref_name": "Schwann cell development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016477",
+        "xref_name": "cell migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019233",
+        "xref_name": "sensory perception of pain",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021537",
+        "xref_name": "telencephalon development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021549",
+        "xref_name": "cerebellum development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021695",
+        "xref_name": "cerebellar cortex development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021697",
+        "xref_name": "cerebellar cortex formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021766",
+        "xref_name": "hippocampus development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021819",
+        "xref_name": "layer formation in cerebral cortex",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021954",
+        "xref_name": "central nervous system neuron development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021987",
+        "xref_name": "cerebral cortex development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0022038",
+        "xref_name": "corpus callosum development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030182",
+        "xref_name": "neuron differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030334",
+        "xref_name": "regulation of cell migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030517",
+        "xref_name": "negative regulation of axon extension",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030866",
+        "xref_name": "cortical actin cytoskeleton organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030900",
+        "xref_name": "forebrain development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031397",
+        "xref_name": "negative regulation of protein ubiquitination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031914",
+        "xref_name": "negative regulation of synaptic plasticity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032801",
+        "xref_name": "receptor catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034352",
+        "xref_name": "positive regulation of glial cell apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035249",
+        "xref_name": "synaptic transmission, glutamatergic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035418",
+        "xref_name": "protein localization to synapse",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043113",
+        "xref_name": "receptor clustering",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043525",
+        "xref_name": "positive regulation of neuron apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045055",
+        "xref_name": "regulated exocytosis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045786",
+        "xref_name": "negative regulation of cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045861",
+        "xref_name": "negative regulation of proteolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045892",
+        "xref_name": "negative regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045956",
+        "xref_name": "positive regulation of calcium ion-dependent exocytosis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046826",
+        "xref_name": "negative regulation of protein export from nucleus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048148",
+        "xref_name": "behavioral response to cocaine",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048167",
+        "xref_name": "regulation of synaptic plasticity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048488",
+        "xref_name": "synaptic vesicle endocytosis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048489",
+        "xref_name": "synaptic vesicle transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048511",
+        "xref_name": "rhythmic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048675",
+        "xref_name": "axon extension",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048709",
+        "xref_name": "oligodendrocyte differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048812",
+        "xref_name": "neuron projection morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048813",
+        "xref_name": "dendrite morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051301",
+        "xref_name": "cell division",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051402",
+        "xref_name": "neuron apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051966",
+        "xref_name": "regulation of synaptic transmission, glutamatergic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060078",
+        "xref_name": "regulation of postsynaptic membrane potential",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060079",
+        "xref_name": "excitatory postsynaptic potential",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061001",
+        "xref_name": "regulation of dendritic spine morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070509",
+        "xref_name": "calcium ion import",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090314",
+        "xref_name": "positive regulation of protein targeting to membrane",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0099509",
+        "xref_name": "regulation of presynaptic cytosolic calcium ion concentration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0099533",
+        "xref_name": "positive regulation of presynaptic cytosolic calcium concentration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1901387",
+        "xref_name": "positive regulation of voltage-gated calcium channel activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1901987",
+        "xref_name": "regulation of cell cycle phase transition",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903076",
+        "xref_name": "regulation of protein localization to plasma membrane",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904646",
+        "xref_name": "cellular response to amyloid-beta",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1905806",
+        "xref_name": "regulation of synapse pruning",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "Q03114",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008271",
+        "xref_name": "Ser/Thr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017441",
+        "xref_name": "Protein_kinase_ATP_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050108",
+        "xref_name": "CDK",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24056",
+        "xref_name": "CELL DIVISION PROTEIN KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR24056:SF46",
+        "xref_name": "CYCLIN-DEPENDENT KINASE 5",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF00069",
+        "xref_name": "Pkinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-RNO-180024",
+        "xref_name": "DARPP-32 events",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-399956",
+        "xref_name": "CRMPs in Sema3A signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-6804756",
+        "xref_name": "Regulation of TP53 Activity through Phosphorylation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-9841922",
+        "xref_name": "MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q03114",
+        "xref_name": "Cyclin-dependent kinase 5",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5901"
+      }
+    ],
+    "tax_id": 10116
+  },
+  "ok": true
+}

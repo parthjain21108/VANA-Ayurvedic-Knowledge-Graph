@@ -1,0 +1,64 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Hepatitis C virus",
+    "pref_name": "Genome polyprotein",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1293305",
+    "target_components": [
+      {
+        "accession": "Q2Q167",
+        "component_description": "Core protein",
+        "component_id": 5155,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Core protein",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0019028",
+            "xref_name": "viral capsid",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030430",
+            "xref_name": "host cell cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005198",
+            "xref_name": "structural molecule activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "IPR002522",
+            "xref_name": "HCV_core_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR044896",
+            "xref_name": "HCV_core_chain_A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PF01543",
+            "xref_name": "HCV_capsid",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "Q2Q167",
+            "xref_name": null,
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 3052230
+  },
+  "ok": true
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "accession": "P43250",
+    "component_id": 4709,
+    "component_type": "PROTEIN",
+    "description": "G protein-coupled receptor kinase 6",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 283
+      }
+    ],
+    "sequence": "MELENIVANTVLLKAREGGGGNRKGKSKKWRQMLQFPHISQCEELRLSLERDYHSLCERQPIGRLLFREFCATRPELSRCVAFLDGVAEYEVTPDDKRKACGRQLTQNFLSHTGPDLIPEVPRQLVTNCTQRLEQGPCKDLFQELTRLTHEYLSVAPFADYLDSIYFNRFLQWKWLERQPVTKNTFRQYRVLGKGGFGEVCACQVRATGKMYACKKLEKKRIKKRKGEAMALNEKQILEKVNSRFVVSLAYAYETKDALCLVLTLMNGGDLKFHIYHMGQAGFPEARAVFYAAEICCGLEDLHRERIVYRDLKPENILLDDHGHIRISDLGLAVHVPEGQTIKGRVGTVGYMAPEVVKNERYTFSPDWWALGCLLYEMIAGQSPFQQRKKKIKREEVERLVKEVPEEYSERFSPQARSLCSQLLCKDPAERLGCRGGSAREVKEHPLFKKLNFKRLGAGMLEPPFKPDPQAIYCKDVLDIEQFSTVKGVELEPTDQDFYQKFATGSVPIPWQNEMVETECFQELNVFGLDGSVPPDLDWKGQPPAPPKKGLLQRLFSRQDCCGNCSDSEEELPTRL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.11.16",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "GPRK6",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "G protein-coupled receptor kinase 6",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "G protein-coupled receptor kinase GRK6",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "GRK6",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P43250",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P43250",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0007165",
+        "xref_name": "signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007186",
+        "xref_name": "G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008277",
+        "xref_name": "regulation of G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009966",
+        "xref_name": "regulation of signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016055",
+        "xref_name": "Wnt signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:4545",
+        "xref_name": "GRK6",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P43250",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000239",
+        "xref_name": "GPCR_kinase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000961",
+        "xref_name": "AGC-kinase_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008271",
+        "xref_name": "Ser/Thr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016137",
+        "xref_name": "RGS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017441",
+        "xref_name": "Protein_kinase_ATP_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036305",
+        "xref_name": "RGS_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR044926",
+        "xref_name": "RGS_subdomain_2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24355",
+        "xref_name": "G PROTEIN-COUPLED RECEPTOR KINASE/RIBOSOMAL PROTEIN S6 KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR24355:SF15",
+        "xref_name": "G PROTEIN-COUPLED RECEPTOR KINASE 6",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2ACX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3NYN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3NYO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ACX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3NYN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3NYO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00069",
+        "xref_name": "Pkinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00615",
+        "xref_name": "RGS",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA28942",
+        "xref_name": "G protein-coupled receptor kinase 6",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P43250",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-418555",
+        "xref_name": "G alpha (s) signalling events",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "O60541",
+        "xref_name": "G protein-coupled receptor kinase 6",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P43250",
+        "xref_name": "G protein-coupled receptor kinase 6",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q13652",
+        "xref_name": "G protein-coupled receptor kinase 6",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL6144"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,418 @@
+{
+  "data": {
+    "accession": "P15428",
+    "component_id": 5150,
+    "component_type": "PROTEIN",
+    "description": "15-hydroxyprostaglandin dehydrogenase [NAD(+)]",
+    "go_slims": [
+      {
+        "go_id": "GO:0004930"
+      },
+      {
+        "go_id": "GO:0005615"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0007565"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0043065"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0051287"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MHVNGKVALVTGAAQGIGRAFAEALLLKGAKVALVDWNLEAGVQCKAALDEQFEPQKTLFIQCDVADQQQLRDTFRKVVDHFGRLDILVNNAGVNNEKNWEKTLQINLVSVISGTYLGLDYMSKQNGGEGGIIINMSSLAGLMPVAQQPVYCASKHGIVGFTRSAALAANLMNSGVRLNAICPGFVNTAILESIEKEENMGQYIEYKDHIKDMIKYYGILDPPLIANGLITLIEDDALNGAIMKITTSKGIHFQDYDTTPFQAKTQ",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.1.1.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.1.1.141",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.1.1.232",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "15-hydroxyprostaglandin dehydrogenase [NAD(+)]",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "15-PGDH",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Eicosanoid/docosanoid dehydrogenase [NAD(+)]",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "HPGD",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "PGDH1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Prostaglandin dehydrogenase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SDR36C1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Short chain dehydrogenase/reductase family 36C member 1",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P15428",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P15428",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005615",
+        "xref_name": "extracellular space",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016323",
+        "xref_name": "basolateral plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004957",
+        "xref_name": "prostaglandin E receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016404",
+        "xref_name": "15-hydroxyprostaglandin dehydrogenase (NAD+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016616",
+        "xref_name": "oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051287",
+        "xref_name": "NAD binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070403",
+        "xref_name": "NAD+ binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001822",
+        "xref_name": "kidney development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006693",
+        "xref_name": "prostaglandin metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007179",
+        "xref_name": "transforming growth factor beta receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007565",
+        "xref_name": "female pregnancy",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007567",
+        "xref_name": "parturition",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019372",
+        "xref_name": "lipoxygenase pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030728",
+        "xref_name": "ovulation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043065",
+        "xref_name": "positive regulation of apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045786",
+        "xref_name": "negative regulation of cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070493",
+        "xref_name": "thrombin-activated receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097070",
+        "xref_name": "ductus arteriosus closure",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904707",
+        "xref_name": "positive regulation of vascular associated smooth muscle cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:5154",
+        "xref_name": "HPGD",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P15428",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002347",
+        "xref_name": "SDR_fam",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020904",
+        "xref_name": "Sc_DH/Rdtase_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036291",
+        "xref_name": "NAD(P)-bd_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR44229",
+        "xref_name": "15-HYDROXYPROSTAGLANDIN DEHYDROGENASE [NAD(+)]",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR44229:SF4",
+        "xref_name": "15-HYDROXYPROSTAGLANDIN DEHYDROGENASE [NAD(+)]",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2GDZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8CVN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8CWL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8FD8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9PFL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9PFM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2GDZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9PFL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9PFM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00106",
+        "xref_name": "adh_short",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA29424",
+        "xref_name": "15-hydroxyprostaglandin dehydrogenase",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P15428",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-2142700",
+        "xref_name": "Biosynthesis of Lipoxins (LX)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2162123",
+        "xref_name": "Synthesis of Prostaglandins (PG) and Thromboxanes (TX)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9018676",
+        "xref_name": "Biosynthesis of D-series resolvins",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9018896",
+        "xref_name": "Biosynthesis of E-series 18(S)-resolvins",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B4DTA4",
+        "xref_name": "15-hydroxyprostaglandin dehydrogenase [NAD(+)]",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B4DU74",
+        "xref_name": "15-hydroxyprostaglandin dehydrogenase [NAD(+)]",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B4DV57",
+        "xref_name": "15-hydroxyprostaglandin dehydrogenase [NAD(+)]",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "D3DP43",
+        "xref_name": "15-hydroxyprostaglandin dehydrogenase [NAD(+)]",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "E7EV11",
+        "xref_name": "15-hydroxyprostaglandin dehydrogenase [NAD(+)]",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O00749",
+        "xref_name": "15-hydroxyprostaglandin dehydrogenase [NAD(+)]",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P15428",
+        "xref_name": "15-hydroxyprostaglandin dehydrogenase [NAD(+)]",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q06F08",
+        "xref_name": "15-hydroxyprostaglandin dehydrogenase [NAD(+)]",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q12998",
+        "xref_name": "15-hydroxyprostaglandin dehydrogenase [NAD(+)]",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1293255"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

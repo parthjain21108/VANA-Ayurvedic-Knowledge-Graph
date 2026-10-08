@@ -1,0 +1,346 @@
+{
+  "data": {
+    "accession": "P07363",
+    "component_id": 18418,
+    "component_type": "PROTEIN",
+    "description": "Chemotaxis protein CheA",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016301"
+      },
+      {
+        "go_id": "GO:0016772"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0040011"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048870"
+      }
+    ],
+    "organism": "Escherichia coli (strain K12)",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 643
+      }
+    ],
+    "sequence": "MSMDISDFYQTFFDEADELLADMEQHLLVLQPEAPDAEQLNAIFRAAHSIKGGAGTFGFSVLQETTHLMENLLDEARRGEMQLNTDIINLFLETKDIMQEQLDAYKQSQEPDAASFDYICQALRQLALEAKGETPSAVTRLSVVAKSEPQDEQSRSQSPRRIILSRLKAGEVDLLEEELGHLTTLTDVVKGADSLSAILPGDIAEDDITAVLCFVIEADQITFETVEVSPKISTPPVLKLAAEQAPTGRVEREKTTRSNESTSIRVAVEKVDQLINLVGELVITQSMLAQRSSELDPVNHGDLITSMGQLQRNARDLQESVMSIRMMPMEYVFSRYPRLVRDLAGKLGKQVELTLVGSSTELDKSLIERIIDPLTHLVRNSLDHGIELPEKRLAAGKNSVGNLILSAEHQGGNICIEVTDDGAGLNRERILAKAASQGLTVSENMSDDEVAMLIFAPGFSTAEQVTDVSGRGVGMDVVKRNIQKMGGHVEIQSKQGTGTTIRILLPLTLAILDGMSVRVADEVFILPLNAVMESLQPREADLHPLAGGERVLEVRGEYLPIVELWKVFNVAGAKTEATQGIVVILQSGGRRYALLVDQLIGQHQVVVKNLESNYRKVPGISAATILGDGSVALIVDVSALQAINREQRMANTAA",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.13.3",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "cheA",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Chemotaxis protein CheA",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P07363",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098561",
+        "xref_name": "methyl accepting chemotaxis protein complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000155",
+        "xref_name": "phosphorelay sensor kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004673",
+        "xref_name": "protein histidine kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016301",
+        "xref_name": "kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000160",
+        "xref_name": "phosphorelay signal transduction system",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006935",
+        "xref_name": "chemotaxis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031400",
+        "xref_name": "negative regulation of protein modification process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050920",
+        "xref_name": "regulation of chemotaxis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071977",
+        "xref_name": "bacterial-type flagellum-dependent swimming motility",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1901875",
+        "xref_name": "positive regulation of post-translational protein modification",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902021",
+        "xref_name": "regulation of bacterial-type flagellum-dependent cell motility",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "P07363",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002545",
+        "xref_name": "CheW-lke_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003594",
+        "xref_name": "HATPase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR004105",
+        "xref_name": "CheA-like_dim",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR004358",
+        "xref_name": "Sig_transdc_His_kin-like_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR005467",
+        "xref_name": "His_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008207",
+        "xref_name": "Sig_transdc_His_kin_Hpt_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR015162",
+        "xref_name": "CheY-binding",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR035891",
+        "xref_name": "CheY-binding_CheA",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036061",
+        "xref_name": "CheW-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036097",
+        "xref_name": "HisK_dim/P_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036641",
+        "xref_name": "HPT_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036890",
+        "xref_name": "HATPase_C_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR037006",
+        "xref_name": "CheA-like_homodim_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR051315",
+        "xref_name": "Bact_Chemotaxis_CheA",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR43395",
+        "xref_name": "SENSOR HISTIDINE KINASE CHEA",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR43395:SF10",
+        "xref_name": "CHEMOTAXIS PROTEIN CHEA",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1A0O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1EAY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1FFG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1FFS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1FFW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1FWP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2LP4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6S1K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8C5V",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1A0O",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1EAY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1FFG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1FFS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1FFW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF01584",
+        "xref_name": "CheW",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF01627",
+        "xref_name": "Hpt",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02518",
+        "xref_name": "HATPase_c",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02895",
+        "xref_name": "H-kinase_dim",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF09078",
+        "xref_name": "CheY-binding",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "P07363",
+        "xref_name": "Chemotaxis protein CheA",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P76302",
+        "xref_name": "Chemotaxis protein CheA",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4295999"
+      }
+    ],
+    "tax_id": 83333
+  },
+  "ok": true
+}

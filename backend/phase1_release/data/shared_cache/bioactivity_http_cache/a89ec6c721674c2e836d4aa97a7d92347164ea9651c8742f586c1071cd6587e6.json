@@ -1,0 +1,232 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Influenza A virus (A/Puerto Rico/8/1934(H1N1))",
+    "pref_name": "Neuraminidase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2051",
+    "target_components": [
+      {
+        "accession": "P03468",
+        "component_description": "Neuraminidase",
+        "component_id": 391,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.2.1.18",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "NA",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Neuraminidase",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0020002",
+            "xref_name": "host cell plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0033644",
+            "xref_name": "host cell membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0044423",
+            "xref_name": "virion component",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0055036",
+            "xref_name": "virion membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004308",
+            "xref_name": "exo-alpha-sialidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016504",
+            "xref_name": "peptidase activator activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016798",
+            "xref_name": "hydrolase activity, acting on glycosyl bonds",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005975",
+            "xref_name": "carbohydrate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019076",
+            "xref_name": "viral release from host cell",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046761",
+            "xref_name": "viral budding from plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "P03468",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001860",
+            "xref_name": "Glyco_hydro_34",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033654",
+            "xref_name": "Sialidase_Influenza_A/B",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036278",
+            "xref_name": "Sialidase_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "6WZY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6X00",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6WZY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6X00",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00064",
+            "xref_name": "Neur",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-HSA-168255",
+            "xref_name": "Influenza Infection",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-168275",
+            "xref_name": "Entry of Influenza Virion into Host Cell via Endocytosis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-168277",
+            "xref_name": "Influenza Virus Induced Apoptosis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-168288",
+            "xref_name": "Fusion of the Influenza Virion to the Host Cell Endosome",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-168298",
+            "xref_name": "Release",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-168302",
+            "xref_name": "Budding",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-168303",
+            "xref_name": "Packaging of Eight RNA Segments",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-168316",
+            "xref_name": "Assembly of Viral Components at the Budding Site",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-168336",
+            "xref_name": "Uncoating of the Influenza Virion",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-168874",
+            "xref_name": "Transport of HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum to the Golgi Apparatus",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-192823",
+            "xref_name": "Viral mRNA Translation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A4GXH6",
+            "xref_name": "Neuraminidase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P03468",
+            "xref_name": "Neuraminidase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q20N35",
+            "xref_name": "Neuraminidase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q84043",
+            "xref_name": "Neuraminidase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8JUU4",
+            "xref_name": "Neuraminidase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 211044
+  },
+  "ok": true
+}

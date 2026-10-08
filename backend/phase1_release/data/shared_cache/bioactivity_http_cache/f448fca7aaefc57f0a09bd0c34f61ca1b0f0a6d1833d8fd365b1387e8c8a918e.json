@@ -1,0 +1,1931 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2096661",
+    "target_components": [
+      {
+        "accession": "P20701",
+        "component_description": "Integrin alpha-L",
+        "component_id": 97,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "CD11A",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "CD11 antigen-like family member A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CD_antigen=CD11a",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Integrin alpha-L",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ITGAL",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Leukocyte adhesion glycoprotein LFA-1 alpha chain",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Leukocyte function-associated molecule 1 alpha chain",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "LFA-1A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=CD11A",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P20701",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P20701",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0008305",
+            "xref_name": "integrin complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009897",
+            "xref_name": "external side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034687",
+            "xref_name": "integrin alphaL-beta2 complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035579",
+            "xref_name": "specific granule membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005178",
+            "xref_name": "integrin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030369",
+            "xref_name": "ICAM-3 receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050839",
+            "xref_name": "cell adhesion molecule binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002291",
+            "xref_name": "T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006909",
+            "xref_name": "phagocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007155",
+            "xref_name": "cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007157",
+            "xref_name": "heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007159",
+            "xref_name": "leukocyte cell-cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007160",
+            "xref_name": "cell-matrix adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007229",
+            "xref_name": "integrin-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033627",
+            "xref_name": "cell adhesion mediated by integrin",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035683",
+            "xref_name": "memory T cell extravasation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043113",
+            "xref_name": "receptor clustering",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098609",
+            "xref_name": "cell-cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:6148",
+            "xref_name": "ITGAL",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P20701",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000413",
+            "xref_name": "Integrin_alpha",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002035",
+            "xref_name": "VWF_A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013517",
+            "xref_name": "FG-GAP",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013519",
+            "xref_name": "Int_alpha_beta-p",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013649",
+            "xref_name": "Integrin_alpha_Ig-like_1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018184",
+            "xref_name": "Integrin_alpha_C_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR028994",
+            "xref_name": "Integrin_alpha_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR032695",
+            "xref_name": "Integrin_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036465",
+            "xref_name": "vWFA_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR048285",
+            "xref_name": "Integrin_alpha_Ig-like_2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR23220",
+            "xref_name": "INTEGRIN ALPHA",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR23220:SF84",
+            "xref_name": "INTEGRIN ALPHA-L",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1CQP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1DGQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1LFA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1MJN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1MQ8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1MQ9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1MQA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RD4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1T0P",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1XDD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1XDG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1XUO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1ZON",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1ZOO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1ZOP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2ICA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2K8O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2M3E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2O7N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BN3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BQM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BQN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3E2M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3EOA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3EOB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3F74",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3F78",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3HI6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3M6F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3TCX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4IXD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5E6R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5E6S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5E6U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BXB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BXF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BXJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6CKB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KC3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KC5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7KC6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1CQP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1LFA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1MJN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1MQ8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1MQ9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1MQA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RD4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1T0P",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1XDD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1XDG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1XUO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1ZON",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1ZOO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1ZOP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2ICA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2O7N",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3BN3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3BQM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3BQN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3E2M",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3EOA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3EOB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3F74",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3F78",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3HI6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3M6F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3TCX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4IXD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5E6R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5E6S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5E6U",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BXB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BXF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BXJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6CKB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7KC3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7KC5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7KC6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00092",
+            "xref_name": "VWA",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00357",
+            "xref_name": "Integrin_alpha",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF01839",
+            "xref_name": "FG-GAP",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF08441",
+            "xref_name": "Integrin_A_Ig_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF20805",
+            "xref_name": "Integrin_A_Ig_2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA29948",
+            "xref_name": "integrin subunit alpha L",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P20701",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-198933",
+            "xref_name": "Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-202733",
+            "xref_name": "Cell surface interactions at the vascular wall",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-216083",
+            "xref_name": "Integrin cell surface interactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6798695",
+            "xref_name": "Neutrophil degranulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8949275",
+            "xref_name": "RUNX3 Regulates Immune Response and Cell Migration",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "O43746",
+            "xref_name": "Integrin alpha-L",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P20701",
+            "xref_name": "Integrin alpha-L",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q45H73",
+            "xref_name": "Integrin alpha-L",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96HB1",
+            "xref_name": "Integrin alpha-L",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UBC8",
+            "xref_name": "Integrin alpha-L",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      },
+      {
+        "accession": "P05362",
+        "component_description": "Intercellular adhesion molecule 1",
+        "component_id": 1397,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "CD_antigen=CD54",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ICAM-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ICAM1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Intercellular adhesion molecule 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Major group rhinovirus receptor",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P05362",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P05362",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0001772",
+            "xref_name": "immunological synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005925",
+            "xref_name": "focal adhesion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009897",
+            "xref_name": "external side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045121",
+            "xref_name": "membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001618",
+            "xref_name": "virus receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004888",
+            "xref_name": "transmembrane signaling receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005178",
+            "xref_name": "integrin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0038023",
+            "xref_name": "signaling receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001910",
+            "xref_name": "regulation of leukocyte mediated cytotoxicity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002291",
+            "xref_name": "T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002457",
+            "xref_name": "T cell antigen processing and presentation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002693",
+            "xref_name": "positive regulation of cellular extravasation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007155",
+            "xref_name": "cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007157",
+            "xref_name": "heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007159",
+            "xref_name": "leukocyte cell-cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0022614",
+            "xref_name": "membrane to membrane docking",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033627",
+            "xref_name": "cell adhesion mediated by integrin",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0044406",
+            "xref_name": "adhesion of symbiont to host",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046718",
+            "xref_name": "symbiont entry into host cell",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046813",
+            "xref_name": "receptor-mediated virion attachment to host cell",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050900",
+            "xref_name": "leukocyte migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061028",
+            "xref_name": "establishment of endothelial barrier",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071333",
+            "xref_name": "cellular response to glucose stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0072683",
+            "xref_name": "T cell extravasation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098609",
+            "xref_name": "cell-cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900027",
+            "xref_name": "regulation of ruffle assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902042",
+            "xref_name": "negative regulation of extrinsic apoptotic signaling pathway via death domain receptors",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904646",
+            "xref_name": "cellular response to amyloid-beta",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000352",
+            "xref_name": "negative regulation of endothelial cell apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:5344",
+            "xref_name": "ICAM1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P05362",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR003599",
+            "xref_name": "Ig_sub",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003987",
+            "xref_name": "ICAM_VCAM_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003988",
+            "xref_name": "ICAM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013768",
+            "xref_name": "ICAM_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013783",
+            "xref_name": "Ig-like_fold",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036179",
+            "xref_name": "Ig-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047012",
+            "xref_name": "ICAM_VCAM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR048679",
+            "xref_name": "ICAM1_3_5_D2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR13771",
+            "xref_name": "INTERCELLULAR ADHESION MOLECULE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR13771:SF18",
+            "xref_name": "INTERCELLULAR ADHESION MOLECULE 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1D3E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1D3I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1D3L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1IAM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1IC1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1MQ8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1P53",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1Z7Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2OZ4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3TCX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5MZA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6EIT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6S8U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7BG7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1D3L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1IAM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1IC1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1MQ8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1P53",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2OZ4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3TCX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5MZA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6S8U",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF03921",
+            "xref_name": "ICAM_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF13895",
+            "xref_name": "Ig_2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF21146",
+            "xref_name": "ICAM1_3_5_D2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA29592",
+            "xref_name": "intercellular adhesion molecule 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P05362",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-198933",
+            "xref_name": "Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-216083",
+            "xref_name": "Integrin cell surface interactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6783783",
+            "xref_name": "Interleukin-10 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6785807",
+            "xref_name": "Interleukin-4 and Interleukin-13 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-877300",
+            "xref_name": "Interferon gamma signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B2R6M3",
+            "xref_name": "Intercellular adhesion molecule 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P05362",
+            "xref_name": "Intercellular adhesion molecule 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5NKV7",
+            "xref_name": "Intercellular adhesion molecule 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96B50",
+            "xref_name": "Intercellular adhesion molecule 1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      },
+      {
+        "accession": "P05107",
+        "component_description": "Integrin beta-2",
+        "component_id": 1948,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "CD18",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "CD_antigen=CD18",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cell surface adhesion glycoproteins LFA-1/CR3/p150,95 subunit beta",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Complement receptor C3 subunit beta",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Integrin beta-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ITGB2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "MFI7",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P05107",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P05107",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005925",
+            "xref_name": "focal adhesion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0008305",
+            "xref_name": "integrin complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009897",
+            "xref_name": "external side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034687",
+            "xref_name": "integrin alphaL-beta2 complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034688",
+            "xref_name": "integrin alphaM-beta2 complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034689",
+            "xref_name": "integrin alphaX-beta2 complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035579",
+            "xref_name": "specific granule membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043235",
+            "xref_name": "receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0044853",
+            "xref_name": "plasma membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045121",
+            "xref_name": "membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070821",
+            "xref_name": "tertiary granule membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0101003",
+            "xref_name": "ficolin-1-rich granule membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1903561",
+            "xref_name": "extracellular vesicle",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001540",
+            "xref_name": "amyloid-beta binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001851",
+            "xref_name": "complement component C3b binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005178",
+            "xref_name": "integrin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019901",
+            "xref_name": "protein kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030369",
+            "xref_name": "ICAM-3 receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031072",
+            "xref_name": "heat shock protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050839",
+            "xref_name": "cell adhesion molecule binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001774",
+            "xref_name": "microglial cell activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002523",
+            "xref_name": "leukocyte migration involved in inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006898",
+            "xref_name": "receptor-mediated endocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006909",
+            "xref_name": "phagocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006911",
+            "xref_name": "phagocytosis, engulfment",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006915",
+            "xref_name": "apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007155",
+            "xref_name": "cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007159",
+            "xref_name": "leukocyte cell-cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007160",
+            "xref_name": "cell-matrix adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007229",
+            "xref_name": "integrin-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007267",
+            "xref_name": "cell-cell signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008360",
+            "xref_name": "regulation of cell shape",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030593",
+            "xref_name": "neutrophil chemotaxis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031623",
+            "xref_name": "receptor internalization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032930",
+            "xref_name": "positive regulation of superoxide anion generation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034113",
+            "xref_name": "heterotypic cell-cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035987",
+            "xref_name": "endodermal cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043113",
+            "xref_name": "receptor clustering",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043315",
+            "xref_name": "positive regulation of neutrophil degranulation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043542",
+            "xref_name": "endothelial cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045123",
+            "xref_name": "cellular extravasation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045429",
+            "xref_name": "positive regulation of nitric oxide biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045766",
+            "xref_name": "positive regulation of angiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045963",
+            "xref_name": "negative regulation of dopamine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071404",
+            "xref_name": "cellular response to low-density lipoprotein particle stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090314",
+            "xref_name": "positive regulation of protein targeting to membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097242",
+            "xref_name": "amyloid-beta clearance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098609",
+            "xref_name": "cell-cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098742",
+            "xref_name": "cell-cell adhesion via plasma-membrane adhesion molecules",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904996",
+            "xref_name": "positive regulation of leukocyte adhesion to vascular endothelial cell",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990266",
+            "xref_name": "neutrophil migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000363",
+            "xref_name": "positive regulation of prostaglandin-E synthase activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:6155",
+            "xref_name": "ITGB2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P05107",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR002369",
+            "xref_name": "Integrin_bsu_VWA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012896",
+            "xref_name": "Integrin_bsu_tail",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR014836",
+            "xref_name": "Integrin_bsu_cyt_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR015439",
+            "xref_name": "Integrin_b-2_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR015812",
+            "xref_name": "Integrin_bsu",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016201",
+            "xref_name": "PSI",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR032695",
+            "xref_name": "Integrin_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033760",
+            "xref_name": "Integrin_beta_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036349",
+            "xref_name": "Integrin_bsu_tail_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036465",
+            "xref_name": "vWFA_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR057073",
+            "xref_name": "EGF_integrin_2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR057243",
+            "xref_name": "Integrin_I-EGF_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10082",
+            "xref_name": "INTEGRIN BETA SUBUNIT",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10082:SF15",
+            "xref_name": "INTEGRIN BETA-2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1L3Y",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1YUK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2JF1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2P26",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2P28",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2V7D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3K6S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3K71",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3K72",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4NEH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4NEN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5E6R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5E6S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5E6U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5E6V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5E6W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5E6X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ES4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5XR1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ZAZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7P2D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7USL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7USM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1YUK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2JF1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2P26",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2P28",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2V7D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3K6S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3K71",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3K72",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4NEH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4NEN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5E6R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5E6S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5E6U",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5E6V",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5E6W",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5E6X",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5ES4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7P2D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00362",
+            "xref_name": "Integrin_beta",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF07965",
+            "xref_name": "Integrin_B_tail",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF08725",
+            "xref_name": "Integrin_b_cyt",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF17205",
+            "xref_name": "PSI_integrin",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF23105",
+            "xref_name": "EGF_integrin",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA29955",
+            "xref_name": "integrin subunit beta 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P05107",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-166016",
+            "xref_name": "Toll Like Receptor 4 (TLR4) Cascade",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-198933",
+            "xref_name": "Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-202733",
+            "xref_name": "Cell surface interactions at the vascular wall",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-216083",
+            "xref_name": "Integrin cell surface interactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6785807",
+            "xref_name": "Interleukin-4 and Interleukin-13 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6798695",
+            "xref_name": "Neutrophil degranulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B3KTS8",
+            "xref_name": "Integrin beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D3DSM1",
+            "xref_name": "Integrin beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P05107",
+            "xref_name": "Integrin beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16418",
+            "xref_name": "Integrin beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q53HS5",
+            "xref_name": "Integrin beta-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UD72",
+            "xref_name": "Integrin beta-2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "PROTEIN COMPLEX",
+    "tax_id": 9606
+  },
+  "ok": true
+}

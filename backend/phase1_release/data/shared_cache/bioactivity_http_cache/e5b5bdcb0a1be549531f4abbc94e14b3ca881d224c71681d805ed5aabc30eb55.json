@@ -1,0 +1,512 @@
+{
+  "data": {
+    "accession": "Q8NFU5",
+    "component_id": 18905,
+    "component_type": "PROTEIN",
+    "description": "Inositol polyphosphate multikinase",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0008219"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016301"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0044281"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 643
+      }
+    ],
+    "sequence": "MATEPPSPLRVEAPGPPEMRTSPAIESTPEGTPQPAGGRLRFLNGCVPLSHQVAGHMYGKDKVGILQHPDGTVLKQLQPPPRGPRELEFYNMVYAADCFDGVLLELRKYLPKYYGIWSPPTAPNDLYLKLEDVTHKFNKPCIMDVKIGQKSYDPFASSEKIQQQVSKYPLMEEIGFLVLGMRVYHVHSDSYETENQHYGRSLTKETIKDGVSRFFHNGYCLRKDAVAASIQKIEKILQWFENQKQLNFYASSLLFVYEGSSQPTTTKLNDRTLAEKFLSKGQLSDTEVLEYNNNFHVLSSTANGKIESSVGKSLSKMYARHRKIYTKKHHSQTSLKVENLEQDNGWKSMSQEHLNGNVLSQLEKVFYHLPTGCQEIAEVEVRMIDFAHVFPSNTIDEGYVYGLKHLISVLRSILDN",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.1.140",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "2.7.1.151",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "2.7.1.153",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "IMPK",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Inositol 1,3,4,6-tetrakisphosphate 5-kinase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Inositol polyphosphate multikinase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "IPMK",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q8NFU5",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000823",
+        "xref_name": "inositol-1,4,5-trisphosphate 6-kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000824",
+        "xref_name": "inositol-1,4,5,6-tetrakisphosphate 3-kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000825",
+        "xref_name": "inositol-1,3,4,5-tetrakisphosphate 6-kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008440",
+        "xref_name": "inositol-1,4,5-trisphosphate 3-kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016301",
+        "xref_name": "kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046934",
+        "xref_name": "1-phosphatidylinositol-4,5-bisphosphate 3-kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0047326",
+        "xref_name": "inositol-1,3,4,6-tetrakisphosphate 5-kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051765",
+        "xref_name": "inositol tetrakisphosphate kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0102732",
+        "xref_name": "inositol-1,2,3,4,6-pentakisphosphate 5-kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0180030",
+        "xref_name": "inositol phosphate kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006629",
+        "xref_name": "lipid metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019637",
+        "xref_name": "organophosphate metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032957",
+        "xref_name": "inositol trisphosphate metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032958",
+        "xref_name": "inositol phosphate biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043647",
+        "xref_name": "inositol phosphate metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070266",
+        "xref_name": "necroptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:20739",
+        "xref_name": "IPMK",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q8NFU5",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR005522",
+        "xref_name": "IPK",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR038286",
+        "xref_name": "IPK_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR12400",
+        "xref_name": "INOSITOL POLYPHOSPHATE KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR12400:SF80",
+        "xref_name": "INOSITOL POLYPHOSPHATE MULTIKINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "5W2G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5W2H",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5W2I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6E7F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6M88",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6M89",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6M8A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6M8B",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6M8C",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6M8D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6M8E",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V6W",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V6X",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V6Y",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V6Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V70",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V71",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V72",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V73",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V74",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V75",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V76",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V77",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V78",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8V79",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5W2G",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5W2H",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5W2I",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6E7F",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6M88",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6M89",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6M8A",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6M8B",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6M8C",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6M8D",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6M8E",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8V6W",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8V6X",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8V6Y",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8V6Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8V70",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8V71",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8V72",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8V73",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8V74",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8V75",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8V76",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8V77",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8V78",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8V79",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF03770",
+        "xref_name": "IPK",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA134903369",
+        "xref_name": "inositol polyphosphate multikinase",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q8NFU5",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1855191",
+        "xref_name": "Synthesis of IPs in the nucleus",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q8NFU5",
+        "xref_name": "Inositol polyphosphate multikinase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4523401"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

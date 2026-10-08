@@ -1,0 +1,730 @@
+{
+  "data": {
+    "accession": "P02511",
+    "component_id": 10055,
+    "component_type": "PROTEIN",
+    "description": "Alpha-crystallin B chain",
+    "go_slims": [
+      {
+        "go_id": "GO:0001540"
+      },
+      {
+        "go_id": "GO:0005198"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005576"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005764"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006457"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007010"
+      },
+      {
+        "go_id": "GO:0007017"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008092"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008219"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0042803"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0050821"
+      },
+      {
+        "go_id": "GO:0051082"
+      },
+      {
+        "go_id": "GO:0065003"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 601
+      }
+    ],
+    "sequence": "MDIAIHHPWIRRPFFPFHSPSRLFDQFFGEHLLESDLFPTSTSLSPFYLRPPSFLRAPSWFDTGLSEMRLEKDRFSVNLDVKHFSPEELKVKVLGDVIEVHGKHEERQDEHGFISREFHRKYRIPADVDPLTITSSLSSDGVLTVNGPRKQVSGPERTIPITREEKPAVTAAPKK",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Alpha(B)-crystallin",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Alpha-crystallin B chain",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "CRYA2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "CRYAB",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Heat shock protein beta-5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Heat shock protein family B member 5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "HspB5",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "HSPB5",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Renal carcinoma antigen NY-REN-27",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Rosenthal fiber component",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P02511",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P02511",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005576",
+        "xref_name": "extracellular region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005764",
+        "xref_name": "lysosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0009986",
+        "xref_name": "cell surface",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030018",
+        "xref_name": "Z disc",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030424",
+        "xref_name": "axon",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031430",
+        "xref_name": "M band",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031674",
+        "xref_name": "I band",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032432",
+        "xref_name": "actin filament bundle",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032991",
+        "xref_name": "protein-containing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043197",
+        "xref_name": "dendritic spine",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043204",
+        "xref_name": "perikaryon",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043292",
+        "xref_name": "contractile muscle fiber",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0097060",
+        "xref_name": "synaptic membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0097512",
+        "xref_name": "cardiac myofibril",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0001540",
+        "xref_name": "amyloid-beta binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005198",
+        "xref_name": "structural molecule activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005212",
+        "xref_name": "structural constituent of eye lens",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008017",
+        "xref_name": "microtubule binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008092",
+        "xref_name": "cytoskeletal protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042803",
+        "xref_name": "protein homodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051082",
+        "xref_name": "unfolded protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001666",
+        "xref_name": "response to hypoxia",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002088",
+        "xref_name": "lens development in camera-type eye",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006457",
+        "xref_name": "protein folding",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007021",
+        "xref_name": "tubulin complex assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007517",
+        "xref_name": "muscle organ development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009408",
+        "xref_name": "response to heat",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010629",
+        "xref_name": "negative regulation of gene expression",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030308",
+        "xref_name": "negative regulation of cell growth",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031109",
+        "xref_name": "microtubule polymerization or depolymerization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031333",
+        "xref_name": "negative regulation of protein-containing complex assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032387",
+        "xref_name": "negative regulation of intracellular transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042026",
+        "xref_name": "protein refolding",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042542",
+        "xref_name": "response to hydrogen peroxide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043010",
+        "xref_name": "camera-type eye development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043066",
+        "xref_name": "negative regulation of apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043067",
+        "xref_name": "regulation of programmed cell death",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045892",
+        "xref_name": "negative regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050821",
+        "xref_name": "protein stabilization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051403",
+        "xref_name": "stress-activated MAPK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060561",
+        "xref_name": "apoptotic process involved in morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071480",
+        "xref_name": "cellular response to gamma radiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1905907",
+        "xref_name": "negative regulation of amyloid fibril formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000378",
+        "xref_name": "negative regulation of reactive oxygen species metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:2389",
+        "xref_name": "CRYAB",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P02511",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001436",
+        "xref_name": "Alpha-crystallin/sHSP_animal",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR002068",
+        "xref_name": "A-crystallin/Hsp20_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003090",
+        "xref_name": "Alpha-crystallin_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008978",
+        "xref_name": "HSP20-like_chaperone",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR037882",
+        "xref_name": "ACD_alphaB-crystallin",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR055269",
+        "xref_name": "Alpha-crystallin/HSP_16",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR45640",
+        "xref_name": "HEAT SHOCK PROTEIN HSP-12.2-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR45640:SF5",
+        "xref_name": "ALPHA-CRYSTALLIN B CHAIN",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2KLR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2N0K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2WJ7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2Y1Y",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2Y1Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2Y22",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2YGD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3J07",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3L1G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3SGM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3SGN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3SGO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3SGP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3SGR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3SGS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4M5S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4M5T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5VVV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6BP9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7ROJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9BEE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2WJ7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2Y1Y",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2Y1Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2Y22",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3L1G",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3SGM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3SGN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3SGO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3SGP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3SGR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3SGS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4M5S",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4M5T",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5VVV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7ROJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00011",
+        "xref_name": "HSP20",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00525",
+        "xref_name": "Crystallin",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA26907",
+        "xref_name": "crystallin alpha B",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P02511",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-3371571",
+        "xref_name": "HSF1-dependent transactivation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B0YIX0",
+        "xref_name": "Alpha-crystallin B chain",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O43416",
+        "xref_name": "Alpha-crystallin B chain",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P02511",
+        "xref_name": "Alpha-crystallin B chain",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UC37",
+        "xref_name": "Alpha-crystallin B chain",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UC38",
+        "xref_name": "Alpha-crystallin B chain",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UC39",
+        "xref_name": "Alpha-crystallin B chain",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UC40",
+        "xref_name": "Alpha-crystallin B chain",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UC41",
+        "xref_name": "Alpha-crystallin B chain",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3621022"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

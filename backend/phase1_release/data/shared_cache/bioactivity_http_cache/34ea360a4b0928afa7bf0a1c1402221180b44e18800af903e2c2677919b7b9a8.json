@@ -1,0 +1,996 @@
+{
+  "data": {
+    "accession": "P27361",
+    "component_id": 37,
+    "component_type": "PROTEIN",
+    "description": "Mitogen-activated protein kinase 3",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005635"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005768"
+      },
+      {
+        "go_id": "GO:0005794"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005856"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0006914"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008134"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008219"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016192"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0043085"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048646"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0050877"
+      },
+      {
+        "go_id": "GO:0051219"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 329
+      }
+    ],
+    "sequence": "MAAAAAQGGGGGEPRRTEGVGPGVPGEVEMVKGQPFDVGPRYTQLQYIGEGAYGMVSSAYDHVRKTRVAIKKISPFEHQTYCQRTLREIQILLRFRHENVIGIRDILRASTLEAMRDVYIVQDLMETDLYKLLKSQQLSNDHICYFLYQILRGLKYIHSANVLHRDLKPSNLLINTTCDLKICDFGLARIADPEHDHTGFLTEYVATRWYRAPEIMLNSKGYTKSIDIWSVGCILAEMLSNRPIFPGKHYLDQLNHILGILGSPSQEDLNCIINMKARNYLQSLPSKTKVAWAKLFPKSDSKALDLLDRMLTFNPNKRITVEEALAHPYLEQYYDPTDEPVAEEPFTFAMELDDLPKERLKELIFQETARFQPGVLEAP",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.11.24",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "ERK-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ERK1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "ERT2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Extracellular signal-regulated kinase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Insulin-stimulated MAP2 kinase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MAPK 3",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MAPK3",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "MAP kinase 3",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MAP kinase isoform p44",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Microtubule-associated protein 2 kinase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Mitogen-activated protein kinase 3",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "p44-ERK1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "p44-MAPK",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PRKM3",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P27361",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P27361",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005635",
+        "xref_name": "nuclear envelope",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005769",
+        "xref_name": "early endosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005770",
+        "xref_name": "late endosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005788",
+        "xref_name": "endoplasmic reticulum lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005794",
+        "xref_name": "Golgi apparatus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005856",
+        "xref_name": "cytoskeleton",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005901",
+        "xref_name": "caveola",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005925",
+        "xref_name": "focal adhesion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031143",
+        "xref_name": "pseudopodium",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070161",
+        "xref_name": "anchoring junction",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098978",
+        "xref_name": "glutamatergic synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0001784",
+        "xref_name": "phosphotyrosine residue binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019902",
+        "xref_name": "phosphatase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140297",
+        "xref_name": "DNA-binding transcription factor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000165",
+        "xref_name": "MAPK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006468",
+        "xref_name": "protein phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006915",
+        "xref_name": "apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006974",
+        "xref_name": "DNA damage response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007254",
+        "xref_name": "JNK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008286",
+        "xref_name": "insulin receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009887",
+        "xref_name": "animal organ morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010759",
+        "xref_name": "positive regulation of macrophage chemotaxis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0014032",
+        "xref_name": "neural crest cell development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0014044",
+        "xref_name": "Schwann cell development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016310",
+        "xref_name": "phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019233",
+        "xref_name": "sensory perception of pain",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030278",
+        "xref_name": "regulation of ossification",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030509",
+        "xref_name": "BMP signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030641",
+        "xref_name": "regulation of cellular pH",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030878",
+        "xref_name": "thyroid gland development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031281",
+        "xref_name": "positive regulation of cyclase activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031663",
+        "xref_name": "lipopolysaccharide-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032206",
+        "xref_name": "positive regulation of telomere maintenance",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032872",
+        "xref_name": "regulation of stress-activated MAPK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0033554",
+        "xref_name": "cellular response to stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034198",
+        "xref_name": "cellular response to amino acid starvation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035556",
+        "xref_name": "intracellular signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0038083",
+        "xref_name": "peptidyl-tyrosine autophosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0038133",
+        "xref_name": "ERBB2-ERBB3 signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042473",
+        "xref_name": "outer ear morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042552",
+        "xref_name": "myelination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042770",
+        "xref_name": "signal transduction in response to DNA damage",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048009",
+        "xref_name": "insulin-like growth factor receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048538",
+        "xref_name": "thymus development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050804",
+        "xref_name": "modulation of chemical synaptic transmission",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051216",
+        "xref_name": "cartilage development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051403",
+        "xref_name": "stress-activated MAPK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051493",
+        "xref_name": "regulation of cytoskeleton organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060020",
+        "xref_name": "Bergmann glial cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060324",
+        "xref_name": "face development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060425",
+        "xref_name": "lung morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060440",
+        "xref_name": "trachea formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061308",
+        "xref_name": "cardiac neural crest cell development involved in heart development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070371",
+        "xref_name": "ERK1 and ERK2 cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070374",
+        "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070498",
+        "xref_name": "interleukin-1-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071260",
+        "xref_name": "cellular response to mechanical stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0072584",
+        "xref_name": "caveolin-mediated endocytosis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090170",
+        "xref_name": "regulation of Golgi inheritance",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0098792",
+        "xref_name": "xenophagy",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0120041",
+        "xref_name": "positive regulation of macrophage proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904262",
+        "xref_name": "negative regulation of TORC1 signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904417",
+        "xref_name": "positive regulation of xenophagy",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000641",
+        "xref_name": "regulation of early endosome to late endosome transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:6877",
+        "xref_name": "MAPK3",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P27361",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003527",
+        "xref_name": "MAP_kinase_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008271",
+        "xref_name": "Ser/Thr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008349",
+        "xref_name": "MAPK_ERK1/2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017441",
+        "xref_name": "Protein_kinase_ATP_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050117",
+        "xref_name": "MAPK",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24055",
+        "xref_name": "MITOGEN-ACTIVATED PROTEIN KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2ZOQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4QTB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6GES",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ZOQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4QTB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6GES",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00069",
+        "xref_name": "Pkinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA30622",
+        "xref_name": "mitogen-activated protein kinase 3",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P27361",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-110056",
+        "xref_name": "MAPK3 (ERK1) activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-112409",
+        "xref_name": "RAF-independent MAPK1/3 activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-1169408",
+        "xref_name": "ISG15 antiviral mechanism",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-1181150",
+        "xref_name": "Signaling by NODAL",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-1295596",
+        "xref_name": "Spry regulation of FGF signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-1502540",
+        "xref_name": "Signaling by Activin",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-162658",
+        "xref_name": "Golgi Cisternae Pericentriolar Stack Reorganization",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-170968",
+        "xref_name": "Frs2-mediated activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-198753",
+        "xref_name": "ERK/MAPK targets",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-202670",
+        "xref_name": "ERKs are inactivated",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2029482",
+        "xref_name": "Regulation of actin dynamics for phagocytic cup formation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2173795",
+        "xref_name": "Downregulation of SMAD2/3:SMAD4 transcriptional activity",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2173796",
+        "xref_name": "SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2559580",
+        "xref_name": "Oxidative Stress Induced Senescence",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2559582",
+        "xref_name": "Senescence-Associated Secretory Phenotype (SASP)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2559585",
+        "xref_name": "Oncogene Induced Senescence",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2871796",
+        "xref_name": "FCERI mediated MAPK activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-3371453",
+        "xref_name": "Regulation of HSF1-mediated heat shock response",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-375165",
+        "xref_name": "NCAM signaling for neurite out-growth",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-444257",
+        "xref_name": "RSK activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-445144",
+        "xref_name": "Signal transduction by L1",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-450341",
+        "xref_name": "Activation of the AP-1 family of transcription factors",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-456926",
+        "xref_name": "Thrombin signalling through proteinase activated receptors (PARs)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5654726",
+        "xref_name": "Negative regulation of FGFR1 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5654727",
+        "xref_name": "Negative regulation of FGFR2 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5654732",
+        "xref_name": "Negative regulation of FGFR3 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5654733",
+        "xref_name": "Negative regulation of FGFR4 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5663213",
+        "xref_name": "RHO GTPases Activate WASPs and WAVEs",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5668599",
+        "xref_name": "RHO GTPases Activate NADPH Oxidases",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5673001",
+        "xref_name": "RAF/MAP kinase cascade",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5674135",
+        "xref_name": "MAP2K and MAPK activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5674499",
+        "xref_name": "Negative feedback regulation of MAPK pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5675221",
+        "xref_name": "Negative regulation of MAPK pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6802946",
+        "xref_name": "Signaling by moderate kinase activity BRAF mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6802948",
+        "xref_name": "Signaling by high-kinase activity BRAF mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6802952",
+        "xref_name": "Signaling by BRAF and RAF1 fusions",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6802955",
+        "xref_name": "Paradoxical activation of RAF signaling by kinase inactive BRAF",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6811558",
+        "xref_name": "PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-73728",
+        "xref_name": "RNA Polymerase I Promoter Opening",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-74749",
+        "xref_name": "Signal attenuation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-877300",
+        "xref_name": "Interferon gamma signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-879415",
+        "xref_name": "Advanced glycosylation endproduct receptor signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-881907",
+        "xref_name": "Gastrin-CREB signalling pathway via PKC and MAPK",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939211",
+        "xref_name": "ESR-mediated signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8940973",
+        "xref_name": "RUNX2 regulates osteoblast differentiation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8943724",
+        "xref_name": "Regulation of PTEN gene transcription",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9627069",
+        "xref_name": "Regulation of the apoptosome activity",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9634638",
+        "xref_name": "Estrogen-dependent nuclear events downstream of ESR-membrane signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9635465",
+        "xref_name": "Suppression of apoptosis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9649948",
+        "xref_name": "Signaling downstream of RAS mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9652169",
+        "xref_name": "Signaling by MAP2K mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9656223",
+        "xref_name": "Signaling by RAF1 mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9664422",
+        "xref_name": "FCGR3A-mediated phagocytosis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9725371",
+        "xref_name": "Nuclear events stimulated by ALK signaling in cancer",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9732724",
+        "xref_name": "IFNG signaling activates MAPKs",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9764725",
+        "xref_name": "Negative Regulation of CDH1 Gene Transcription",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9768919",
+        "xref_name": "NPAS4 regulates expression of target genes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-982772",
+        "xref_name": "Growth hormone receptor signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9842640",
+        "xref_name": "Signaling by LTK in cancer",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9856649",
+        "xref_name": "Transcriptional and post-translational regulation of MITF-M expression and activity",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A8CZ58",
+        "xref_name": "Mitogen-activated protein kinase 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B0LPG3",
+        "xref_name": "Mitogen-activated protein kinase 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P27361",
+        "xref_name": "Mitogen-activated protein kinase 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8NHX1",
+        "xref_name": "Mitogen-activated protein kinase 3",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3385"
+      },
+      {
+        "target_chembl_id": "CHEMBL1907606"
+      },
+      {
+        "target_chembl_id": "CHEMBL4523619"
+      },
+      {
+        "target_chembl_id": "CHEMBL6195573"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

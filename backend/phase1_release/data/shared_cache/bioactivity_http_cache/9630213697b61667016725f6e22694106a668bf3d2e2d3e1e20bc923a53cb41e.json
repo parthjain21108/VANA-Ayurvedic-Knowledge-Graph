@@ -1,0 +1,183 @@
+{
+  "data": {
+    "accession": "P43071",
+    "component_id": 5497,
+    "component_type": "PROTEIN",
+    "description": "Multidrug resistance protein CDR1",
+    "go_slims": [
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016887"
+      },
+      {
+        "go_id": "GO:0022857"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0046677"
+      },
+      {
+        "go_id": "GO:0055085"
+      }
+    ],
+    "organism": "Candida albicans",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1132
+      }
+    ],
+    "sequence": "MSDSKMSSQDESKLEKAISQDSSSENHSINEYHGFDAHTSENIQNLARTFTHDSFKDDSSAGLLKYLTHMSEVPGVNPYEHEEINNDQLNPDSENFNAKFWVKNLRKLFESDPEYYKPSKLGIGYRNLRAYGVANDSDYQPTVTNALWKLATEGFRHFQKDDDSRYFDILKSMDAIMRPGELTVVLGRPGAGCSTLLKTIAVNTYGFHIGKESQITYDGLSPHDIERHYRGDVIYSAETDVHFPHLSVGDTLEFAARLRTPQNRGEGIDRETYAKHMASVYMATYGLSHTRNTNVGNDFVRGVSGGERKRVSIAEASLSGANIQCWDNATRGLDSATALEFIRALKTSAVILDTTPLIAIYQCSQDAYDLFDKVVVLYEGYQIFFGKATKAKEYFEKMGWKCPQRQTTADFLTSLTNPAEREPLPGYEDKVPRTAQEFETYWKNSPEYAELTKEIDEYFVECERSNTRETYRESHVAKQSNNTRPASPYTVSFFMQVRYGVARNFLRMKGDPSIPIFSVFGQLVMGLILSSVFYNLSQTTGSFYYRGAAMFFAVLFNAFSSLLEIMSLFEARPIVEKHKKYALYRPSADALASIISELPVKLAMSMSFNFVFYFMVNFRRNPGRFFFYWLMCIWCTFVMSHLFRSIGAVSTSISGAMTPATVLLLAMVIYTGFVIPTPSMLGWSRWINYINPVGYVFESLMVNEFHGREFQCAQYVPSGPGYENISRSNQVCTAVGSVPGNEMVSGTNYLAGAYQYYNSHKWRNLGITIGFAVFFLAIYIALTEFNKGAMQKGEIVLFLKGSLKKHKRKTAASNKGDIEAGPVAGKLDYQDEAEAVNNEKFTEKGSTGSVDFPENREIFFWRDLTYQVKIKKEDRVILDHVDGWVKPGQITALMGASGAGKTTLLNCLSERVTTGIITDGERLVNGHALDSSFQRSIGYVQQQDVHLPTSTVREALQFSAYLRQSNKISKKEKDDYVDYVIDLLEMTDYADALVGVAGEGLNVEQRKRLTIGVELVAKPKLLLFLDEPTSGLDSQTAWSICKLMRKLADHGQAILCTIHQPSALIMAEFDRLLFLQKGGRTAYFGELGENCQTMINYFEKYGADPCPKEANPAEWMLQVVGAAPGSHAKQDYFEVWRNSSEYQAVREEINRMEAELSKLPRDNDPEALLKYAAPLWKQYLLVSWRTIVQDWRSPGYIYSKIFLVVSAALFNGFSFFKAKNNMQGLQNQMFSVFMFFIPFNTLVQQMLPYFVKQRDVYEVREAPSRTFSWFAFIAGQITSEIPYQVAVGTIAFFCWYYPLGLYNNATPTDSVNPRGVLMWMLVTAFYVYTATMGQLCMSFSELADNAANLATLLFTMCLNFCGVLAGPDVLPGFWIFMYRCNPFTYLVQAMLSTGLANTFVKCAEREYVSVKPPNGESCSTYLDPYIKFAGGYFETRNDGSCAFCQMSSTNTFLKSVNSLYSERWRNFGIFIAFIAINIILTVIFYWLARVPKGNREKKNKK",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "CDR1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Multidrug resistance protein CDR1",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P43071",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016887",
+        "xref_name": "ATP hydrolysis activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140359",
+        "xref_name": "ABC-type transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046677",
+        "xref_name": "response to antibiotic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1990961",
+        "xref_name": "xenobiotic detoxification by transmembrane export across the plasma membrane",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR003439",
+        "xref_name": "ABC_transporter-like_ATP-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003593",
+        "xref_name": "AAA+_ATPase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR005285",
+        "xref_name": "Drug-R_PDR/CDR",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR010929",
+        "xref_name": "PDR_CDR_ABC",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013525",
+        "xref_name": "ABC2_TM",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017871",
+        "xref_name": "ABC_transporter-like_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR027417",
+        "xref_name": "P-loop_NTPase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029481",
+        "xref_name": "ABC_trans_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR034001",
+        "xref_name": "ABCG_PDR_1",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR034003",
+        "xref_name": "ABCG_PDR_2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR19241",
+        "xref_name": "ATP-BINDING CASSETTE TRANSPORTER",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF00005",
+        "xref_name": "ABC_tran",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF01061",
+        "xref_name": "ABC2_membrane",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF06422",
+        "xref_name": "PDR_CDR",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF14510",
+        "xref_name": "ABC_trans_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA26330",
+        "xref_name": "cerebellar degeneration related protein 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P43071",
+        "xref_name": "Multidrug resistance protein CDR1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1163109"
+      }
+    ],
+    "tax_id": 5476
+  },
+  "ok": true
+}

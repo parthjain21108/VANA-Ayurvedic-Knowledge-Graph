@@ -1,0 +1,588 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Protein kinase C alpha type",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL299",
+    "target_components": [
+      {
+        "accession": "P17252",
+        "component_description": "Protein kinase C alpha type",
+        "component_id": 966,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.11.13",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "PKC-A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PKCA",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "PKC-alpha",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PRKACA",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "PRKCA",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Protein kinase C alpha type",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P17252",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P17252",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031966",
+            "xref_name": "mitochondrial membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035866",
+            "xref_name": "alphav-beta3 integrin-PKCalpha complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0036064",
+            "xref_name": "ciliary basal body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048471",
+            "xref_name": "perinuclear region of cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005178",
+            "xref_name": "integrin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019899",
+            "xref_name": "enzyme binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019992",
+            "xref_name": "diacylglycerol binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001525",
+            "xref_name": "angiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001938",
+            "xref_name": "positive regulation of endothelial cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002159",
+            "xref_name": "desmosome assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006468",
+            "xref_name": "protein phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006915",
+            "xref_name": "apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007077",
+            "xref_name": "mitotic nuclear membrane disassembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007155",
+            "xref_name": "cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010595",
+            "xref_name": "positive regulation of endothelial cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010613",
+            "xref_name": "positive regulation of cardiac muscle hypertrophy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0018107",
+            "xref_name": "peptidyl-threonine phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030335",
+            "xref_name": "positive regulation of cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031666",
+            "xref_name": "positive regulation of lipopolysaccharide-mediated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032024",
+            "xref_name": "positive regulation of insulin secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034351",
+            "xref_name": "negative regulation of glial cell apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035556",
+            "xref_name": "intracellular signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043488",
+            "xref_name": "regulation of mRNA stability",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043536",
+            "xref_name": "positive regulation of blood vessel endothelial cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045651",
+            "xref_name": "positive regulation of macrophage differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045766",
+            "xref_name": "positive regulation of angiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045780",
+            "xref_name": "positive regulation of bone resorption",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045785",
+            "xref_name": "positive regulation of cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045931",
+            "xref_name": "positive regulation of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090330",
+            "xref_name": "regulation of platelet aggregation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097190",
+            "xref_name": "apoptotic signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0106071",
+            "xref_name": "positive regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0110063",
+            "xref_name": "positive regulation of angiotensin-activated signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000707",
+            "xref_name": "positive regulation of dense core granule biogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9393",
+            "xref_name": "PRKCA",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P17252",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000008",
+            "xref_name": "C2_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000719",
+            "xref_name": "Prot_kinase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000961",
+            "xref_name": "AGC-kinase_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002219",
+            "xref_name": "PKC_DAG/PE",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008271",
+            "xref_name": "Ser/Thr_kinase_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011009",
+            "xref_name": "Kinase-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR014375",
+            "xref_name": "Protein_kinase_C_a/b/g",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017441",
+            "xref_name": "Protein_kinase_ATP_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017892",
+            "xref_name": "Pkinase_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020454",
+            "xref_name": "DAG/PE-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR034663",
+            "xref_name": "cPKC_alpha",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035892",
+            "xref_name": "C2_domain_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046349",
+            "xref_name": "C1-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24351",
+            "xref_name": "RIBOSOMAL PROTEIN S6 KINASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2ELI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3IW4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4DNL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4RA4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8U37",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8UAK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3IW4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4DNL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4RA4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8U37",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8UAK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00069",
+            "xref_name": "Pkinase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00130",
+            "xref_name": "C1_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00168",
+            "xref_name": "C2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00433",
+            "xref_name": "Pkinase_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA33759",
+            "xref_name": "protein kinase C alpha",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P17252",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-111933",
+            "xref_name": "Calmodulin induced events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-114516",
+            "xref_name": "Disinhibition of SNARE formation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1250196",
+            "xref_name": "SHC1 events in ERBB2 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1433557",
+            "xref_name": "Signaling by SCF-KIT",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1433559",
+            "xref_name": "Regulation of KIT signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2179392",
+            "xref_name": "EGFR Transactivation by Gastrin",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2514859",
+            "xref_name": "Inactivation, recovery and regulation of the phototransduction cascade",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3000170",
+            "xref_name": "Syndecan interactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-399997",
+            "xref_name": "Acetylcholine regulates insulin secretion",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-4086398",
+            "xref_name": "Ca2+ pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-416993",
+            "xref_name": "Trafficking of GluR2-containing AMPA receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-418597",
+            "xref_name": "G alpha (z) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-4419969",
+            "xref_name": "Depolymerization of the Nuclear Lamina",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-450520",
+            "xref_name": "HuR (ELAVL1) binds and stabilizes mRNA",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5099900",
+            "xref_name": "WNT5A-dependent internalization of FZD4",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5218921",
+            "xref_name": "VEGFR2 mediated cell proliferation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5668599",
+            "xref_name": "RHO GTPases Activate NADPH Oxidases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-76005",
+            "xref_name": "Response to elevated platelet cytosolic Ca2+",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8853659",
+            "xref_name": "RET signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9010642",
+            "xref_name": "ROBO receptors bind AKAP5",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B5BU22",
+            "xref_name": "Protein kinase C alpha type",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P17252",
+            "xref_name": "Protein kinase C alpha type",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q15137",
+            "xref_name": "Protein kinase C alpha type",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q32M72",
+            "xref_name": "Protein kinase C alpha type",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96RE4",
+            "xref_name": "Protein kinase C alpha type",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

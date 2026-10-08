@@ -1,0 +1,468 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Lysosomal alpha-glucosidase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2608",
+    "target_components": [
+      {
+        "accession": "P10253",
+        "component_description": "Lysosomal alpha-glucosidase",
+        "component_id": 943,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.2.1.20",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "70 kDa lysosomal alpha-glucosidase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "76 kDa lysosomal alpha-glucosidase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Acid maltase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Aglucosidase alfa",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GAA",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Lysosomal alpha-glucosidase",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P10253",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P10253",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005764",
+            "xref_name": "lysosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005765",
+            "xref_name": "lysosomal membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035577",
+            "xref_name": "azurophil granule membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043202",
+            "xref_name": "lysosomal lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070821",
+            "xref_name": "tertiary granule membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0101003",
+            "xref_name": "ficolin-1-rich granule membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0120282",
+            "xref_name": "autolysosome lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004553",
+            "xref_name": "hydrolase activity, hydrolyzing O-glycosyl compounds",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004558",
+            "xref_name": "alpha-1,4-glucosidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016798",
+            "xref_name": "hydrolase activity, acting on glycosyl bonds",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030246",
+            "xref_name": "carbohydrate binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0090599",
+            "xref_name": "alpha-glucosidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000023",
+            "xref_name": "maltose metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002026",
+            "xref_name": "regulation of the force of heart contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0003007",
+            "xref_name": "heart morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005975",
+            "xref_name": "carbohydrate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005977",
+            "xref_name": "glycogen metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005980",
+            "xref_name": "glycogen catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005985",
+            "xref_name": "sucrose metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006006",
+            "xref_name": "glucose metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007626",
+            "xref_name": "locomotory behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009888",
+            "xref_name": "tissue development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035904",
+            "xref_name": "aorta development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043181",
+            "xref_name": "vacuolar sequestering",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050884",
+            "xref_name": "neuromuscular process controlling posture",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050885",
+            "xref_name": "neuromuscular process controlling balance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061723",
+            "xref_name": "glycophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:4065",
+            "xref_name": "GAA",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P10253",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000322",
+            "xref_name": "Glyco_hydro_31_TIM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000519",
+            "xref_name": "P_trefoil_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011013",
+            "xref_name": "Gal_mutarotase_sf_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013780",
+            "xref_name": "Glyco_hydro_b",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017853",
+            "xref_name": "GH",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017957",
+            "xref_name": "P_trefoil_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR025887",
+            "xref_name": "Glyco_hydro_31_N_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR030458",
+            "xref_name": "Glyco_hydro_31_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR030459",
+            "xref_name": "Glyco_hydro_31_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR044913",
+            "xref_name": "P_trefoil_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR048395",
+            "xref_name": "Glyco_hydro_31_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR22762",
+            "xref_name": "ALPHA-GLUCOSIDASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR22762:SF92",
+            "xref_name": "LYSOSOMAL ALPHA-GLUCOSIDASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "5KZW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5KZX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NN3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NN4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NN5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NN6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NN8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7P2Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7P32",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8CB1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8CB6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5KZW",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5KZX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NN3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NN4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NN5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NN6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5NN8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7P2Z",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7P32",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8CB1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8CB6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00088",
+            "xref_name": "Trefoil",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF01055",
+            "xref_name": "Glyco_hydro_31_2nd",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF13802",
+            "xref_name": "Gal_mutarotas_2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF21365",
+            "xref_name": "Glyco_hydro_31_3rd",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA28476",
+            "xref_name": "alpha glucosidase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P10253",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-5357609",
+            "xref_name": "Glycogen storage disease type II (GAA)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6798695",
+            "xref_name": "Neutrophil degranulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-70221",
+            "xref_name": "Glycogen breakdown (glycogenolysis)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P10253",
+            "xref_name": "Lysosomal alpha-glucosidase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q09GN4",
+            "xref_name": "Lysosomal alpha-glucosidase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q14351",
+            "xref_name": "Lysosomal alpha-glucosidase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16302",
+            "xref_name": "Lysosomal alpha-glucosidase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8IWE7",
+            "xref_name": "Lysosomal alpha-glucosidase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

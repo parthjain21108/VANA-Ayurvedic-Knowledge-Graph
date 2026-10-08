@@ -1,0 +1,788 @@
+{
+  "data": {
+    "accession": "P14867",
+    "component_id": 23,
+    "component_type": "PROTEIN",
+    "description": "Gamma-aminobutyric acid receptor subunit alpha-1",
+    "go_slims": [
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0007267"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0022607"
+      },
+      {
+        "go_id": "GO:0022857"
+      },
+      {
+        "go_id": "GO:0034330"
+      },
+      {
+        "go_id": "GO:0055085"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1173
+      }
+    ],
+    "sequence": "MRKSPGLSDCLWAWILLLSTLTGRSYGQPSLQDELKDNTTVFTRILDRLLDGYDNRLRPGLGERVTEVKTDIFVTSFGPVSDHDMEYTIDVFFRQSWKDERLKFKGPMTVLRLNNLMASKIWTPDTFFHNGKKSVAHNMTMPNKLLRITEDGTLLYTMRLTVRAECPMHLEDFPMDAHACPLKFGSYAYTRAEVVYEWTREPARSVVVAEDGSRLNQYDLLGQTVDSGIVQSSTGEYVVMTTHFHLKRKIGYFVIQTYLPCIMTVILSQVSFWLNRESVPARTVFGVTTVLTMTTLSISARNSLPKVAYATAMDWFIAVCYAFVFSALIEFATVNYFTKRGYAWDGKSVVPEKPKKVKDPLIKKNNTYAPTATSYTPNLARGDPGLATIAKSATIEPKEVKPETKPPEPKKTFNSVSKIDRLSRIAFPLLFGIFNLVYWATYLNREPQLKAPTPHQ",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "GABA(A) receptor subunit alpha-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "GABAAR subunit alpha-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "GABRA1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Gamma-aminobutyric acid receptor subunit alpha-1",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P14867",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P14867",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030659",
+        "xref_name": "cytoplasmic vesicle membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032590",
+        "xref_name": "dendrite membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0034707",
+        "xref_name": "chloride channel complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043005",
+        "xref_name": "neuron projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043197",
+        "xref_name": "dendritic spine",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045202",
+        "xref_name": "synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045211",
+        "xref_name": "postsynaptic membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098794",
+        "xref_name": "postsynapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098982",
+        "xref_name": "GABA-ergic synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0099634",
+        "xref_name": "postsynaptic specialization membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:1902495",
+        "xref_name": "transmembrane transporter complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:1902710",
+        "xref_name": "GABA receptor complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:1902711",
+        "xref_name": "GABA-A receptor complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004890",
+        "xref_name": "GABA-A receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005230",
+        "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005254",
+        "xref_name": "chloride channel activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008503",
+        "xref_name": "benzodiazepine receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016917",
+        "xref_name": "GABA receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0022851",
+        "xref_name": "GABA-gated chloride ion channel activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1904315",
+        "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006821",
+        "xref_name": "chloride transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007214",
+        "xref_name": "gamma-aminobutyric acid signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034220",
+        "xref_name": "monoatomic ion transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051932",
+        "xref_name": "synaptic transmission, GABAergic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060078",
+        "xref_name": "regulation of postsynaptic membrane potential",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902476",
+        "xref_name": "chloride transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904862",
+        "xref_name": "inhibitory synapse assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:4075",
+        "xref_name": "GABRA1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P14867",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001390",
+        "xref_name": "GABAAa_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR005431",
+        "xref_name": "GABBAa1_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006028",
+        "xref_name": "GABAA/Glycine_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006029",
+        "xref_name": "Neurotrans-gated_channel_TM",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006201",
+        "xref_name": "Neur_channel",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006202",
+        "xref_name": "Neur_chan_lig-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018000",
+        "xref_name": "Neurotransmitter_ion_chnl_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036719",
+        "xref_name": "Neuro-gated_channel_TM_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036734",
+        "xref_name": "Neur_chan_lig-bd_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR038050",
+        "xref_name": "Neuro_actylchol_rec",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR047024",
+        "xref_name": "Gabra-1-6_TM",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR047079",
+        "xref_name": "GABRA1_ECD",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR18945",
+        "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "6CDU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6D1S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6D6T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6D6U",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6HUG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6HUJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6HUK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6HUO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6HUP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6I53",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6X3S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6X3T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6X3U",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6X3V",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6X3W",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6X3X",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6X3Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6X40",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7PBD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7PBZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7PC0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7QNE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7T0W",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7T0Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8DD2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8DD3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8SGO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8SI9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8SID",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8VQY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8VRN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CRS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CRV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CSB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CT0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CTJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CTP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CTV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CX7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CXA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CXB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CXC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CXD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9DRX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9EQG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FAS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FFZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FG1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FG2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FG3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FG4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FG5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FG6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FG7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FG8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FG9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FGA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FGB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FGC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FGD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FGF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FGG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9FGH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9H9E",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CDU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6D1S",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF02931",
+        "xref_name": "Neur_chan_LBD",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02932",
+        "xref_name": "Neur_chan_memb",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA28489",
+        "xref_name": "gamma-aminobutyric acid type A receptor subunit alpha1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P14867",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1236394",
+        "xref_name": "Signaling by ERBB4",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-977443",
+        "xref_name": "GABA receptor activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "D3DQK6",
+        "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P14867",
+        "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8N629",
+        "xref_name": "Gamma-aminobutyric acid receptor subunit alpha-1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1962"
+      },
+      {
+        "target_chembl_id": "CHEMBL1907597"
+      },
+      {
+        "target_chembl_id": "CHEMBL2093872"
+      },
+      {
+        "target_chembl_id": "CHEMBL2094121"
+      },
+      {
+        "target_chembl_id": "CHEMBL2095172"
+      },
+      {
+        "target_chembl_id": "CHEMBL2109243"
+      },
+      {
+        "target_chembl_id": "CHEMBL2109244"
+      },
+      {
+        "target_chembl_id": "CHEMBL2111392"
+      },
+      {
+        "target_chembl_id": "CHEMBL3885570"
+      },
+      {
+        "target_chembl_id": "CHEMBL4106151"
+      },
+      {
+        "target_chembl_id": "CHEMBL4296044"
+      },
+      {
+        "target_chembl_id": "CHEMBL4523638"
+      },
+      {
+        "target_chembl_id": "CHEMBL5303741"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

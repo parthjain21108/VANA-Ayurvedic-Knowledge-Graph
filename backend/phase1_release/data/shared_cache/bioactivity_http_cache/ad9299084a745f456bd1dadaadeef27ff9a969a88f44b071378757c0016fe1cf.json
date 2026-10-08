@@ -1,0 +1,482 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Nuclear receptor subfamily 4 group A member 2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5002",
+    "target_components": [
+      {
+        "accession": "P43354",
+        "component_description": "Nuclear receptor subfamily 4 group A member 2",
+        "component_id": 3314,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Immediate-early response protein NOT",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NOT",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "NR4A2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Nuclear receptor subfamily 4 group A member 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NURR1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Orphan nuclear receptor NURR1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TINUR",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Transcriptionally-inducible nuclear receptor",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P43354",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P43354",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000785",
+            "xref_name": "chromatin",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005667",
+            "xref_name": "transcription regulator complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016607",
+            "xref_name": "nuclear speck",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032991",
+            "xref_name": "protein-containing complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000977",
+            "xref_name": "RNA polymerase II transcription regulatory region sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000978",
+            "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004879",
+            "xref_name": "nuclear receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008013",
+            "xref_name": "beta-catenin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0035259",
+            "xref_name": "nuclear glucocorticoid receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043565",
+            "xref_name": "sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046965",
+            "xref_name": "nuclear retinoid X receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046982",
+            "xref_name": "protein heterodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990837",
+            "xref_name": "sequence-specific double-stranded DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000122",
+            "xref_name": "negative regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001666",
+            "xref_name": "response to hypoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001764",
+            "xref_name": "neuron migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007399",
+            "xref_name": "nervous system development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008344",
+            "xref_name": "adult locomotory behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0021952",
+            "xref_name": "central nervous system projection neuron axonogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0021953",
+            "xref_name": "central nervous system neuron differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0021986",
+            "xref_name": "habenula development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030182",
+            "xref_name": "neuron differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030522",
+            "xref_name": "intracellular receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034599",
+            "xref_name": "cellular response to oxidative stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042416",
+            "xref_name": "dopamine biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042417",
+            "xref_name": "dopamine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042551",
+            "xref_name": "neuron maturation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043524",
+            "xref_name": "negative regulation of neuron apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043576",
+            "xref_name": "regulation of respiratory gaseous exchange",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045444",
+            "xref_name": "fat cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045893",
+            "xref_name": "positive regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051402",
+            "xref_name": "neuron apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051866",
+            "xref_name": "general adaptation syndrome",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060070",
+            "xref_name": "canonical Wnt signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071376",
+            "xref_name": "cellular response to corticotropin-releasing hormone stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071542",
+            "xref_name": "dopaminergic neuron differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904948",
+            "xref_name": "midbrain dopaminergic neuron differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2001234",
+            "xref_name": "negative regulation of apoptotic signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:7981",
+            "xref_name": "NR4A2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P43354",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000536",
+            "xref_name": "Nucl_hrmn_rcpt_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001628",
+            "xref_name": "Znf_hrmn_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001723",
+            "xref_name": "Nuclear_hrmn_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003070",
+            "xref_name": "NR4A1-3",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003073",
+            "xref_name": "NR4A2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013088",
+            "xref_name": "Znf_NHR/GATA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035500",
+            "xref_name": "NHR-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24085",
+            "xref_name": "NUCLEAR HORMONE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24085:SF0",
+            "xref_name": "NUCLEAR RECEPTOR SUBFAMILY 4 GROUP A MEMBER 2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1OVL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5Y41",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5YD6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6DDA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6L6L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6L6Q",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7WNH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8CYO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1OVL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5Y41",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5YD6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6DDA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6L6L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6L6Q",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7WNH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8CYO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00104",
+            "xref_name": "Hormone_recep",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00105",
+            "xref_name": "zf-C4",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA31762",
+            "xref_name": "nuclear receptor subfamily 4 group A member 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P43354",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-383280",
+            "xref_name": "Nuclear Receptor transcription pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-4090294",
+            "xref_name": "SUMOylation of intracellular receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P43354",
+            "xref_name": "Nuclear receptor subfamily 4 group A member 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16311",
+            "xref_name": "Nuclear receptor subfamily 4 group A member 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q53RZ2",
+            "xref_name": "Nuclear receptor subfamily 4 group A member 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6NXU0",
+            "xref_name": "Nuclear receptor subfamily 4 group A member 2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

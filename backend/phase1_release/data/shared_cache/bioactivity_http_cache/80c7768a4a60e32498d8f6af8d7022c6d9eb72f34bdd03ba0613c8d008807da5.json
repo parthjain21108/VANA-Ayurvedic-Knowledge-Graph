@@ -1,0 +1,88 @@
+{
+  "data": {
+    "accession": "Q7WZI6",
+    "component_id": 5198,
+    "component_type": "PROTEIN",
+    "description": "Shiga toxin subunit B",
+    "go_slims": [
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0005576"
+      },
+      {
+        "go_id": "GO:0019835"
+      },
+      {
+        "go_id": "GO:0044403"
+      }
+    ],
+    "organism": "Escherichia coli O157:H7",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 601
+      }
+    ],
+    "sequence": "MKKTLLITASLSFFSASALATPDCVTGKVEYTKYNDDDTFTVKVGDKELFTNRWNLQSLLLSAQITGMTVTIKTNACHNGGGFSEVIFR",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Shiga toxin subunit B",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "stx1",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q7WZI6",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005576",
+        "xref_name": "extracellular region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0090729",
+        "xref_name": "toxin activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019836",
+        "xref_name": "hemolysis by symbiont of host erythrocytes",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR003189",
+        "xref_name": "SLT_beta",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008992",
+        "xref_name": "Enterotoxin",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PF02258",
+        "xref_name": "SLT_beta",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "Q7WZI6",
+        "xref_name": "Shiga toxin subunit B",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2095183"
+      }
+    ],
+    "tax_id": 83334
+  },
+  "ok": true
+}

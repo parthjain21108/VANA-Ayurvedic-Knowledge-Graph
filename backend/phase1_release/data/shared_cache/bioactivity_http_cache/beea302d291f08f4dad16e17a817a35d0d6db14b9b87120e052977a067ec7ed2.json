@@ -1,0 +1,88 @@
+{
+  "data": {
+    "accession": "Q2Q167",
+    "component_id": 5155,
+    "component_type": "PROTEIN",
+    "description": "Core protein",
+    "go_slims": [
+      {
+        "go_id": "GO:0005198"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0019028"
+      }
+    ],
+    "organism": "Hepacivirus hominis",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1
+      },
+      {
+        "protein_classification_id": 41
+      },
+      {
+        "protein_classification_id": 49
+      },
+      {
+        "protein_classification_id": 78
+      },
+      {
+        "protein_classification_id": 643
+      }
+    ],
+    "sequence": "MSTNPKPQRKTKRNTNRRPQDVKFPGGGQIVGGVYLLPRRGPRLGVRATRKTSERSQPRGRRQPIPKDQRTTGKSWGKPGYPWPLYGNEGLGWAGWLLSPRGSRPSWGPNDPRHRSRNVGKVIDTL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Core protein",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "GO:0019028",
+        "xref_name": "viral capsid",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030430",
+        "xref_name": "host cell cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005198",
+        "xref_name": "structural molecule activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "IPR002522",
+        "xref_name": "HCV_core_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR044896",
+        "xref_name": "HCV_core_chain_A",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PF01543",
+        "xref_name": "HCV_capsid",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "Q2Q167",
+        "xref_name": null,
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1293305"
+      }
+    ],
+    "tax_id": 3052230
+  },
+  "ok": true
+}

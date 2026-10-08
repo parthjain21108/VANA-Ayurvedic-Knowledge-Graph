@@ -1,0 +1,525 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "DNA polymerase alpha catalytic subunit",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1828",
+    "target_components": [
+      {
+        "accession": "P09884",
+        "component_description": "DNA polymerase alpha catalytic subunit",
+        "component_id": 125,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.7.7",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "DNA polymerase alpha catalytic subunit",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DNA polymerase alpha catalytic subunit p180",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "POLA",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "POLA1",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P09884",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P09884",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000785",
+            "xref_name": "chromatin",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005635",
+            "xref_name": "nuclear envelope",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005658",
+            "xref_name": "alpha DNA polymerase:primase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005730",
+            "xref_name": "nucleolus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016363",
+            "xref_name": "nuclear matrix",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000166",
+            "xref_name": "nucleotide binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003682",
+            "xref_name": "chromatin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003688",
+            "xref_name": "DNA replication origin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003697",
+            "xref_name": "single-stranded DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003887",
+            "xref_name": "DNA-directed DNA polymerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019901",
+            "xref_name": "protein kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034061",
+            "xref_name": "DNA polymerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000731",
+            "xref_name": "DNA synthesis involved in DNA repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006270",
+            "xref_name": "DNA replication initiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006271",
+            "xref_name": "DNA strand elongation involved in DNA replication",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006272",
+            "xref_name": "leading strand elongation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006273",
+            "xref_name": "lagging strand elongation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006281",
+            "xref_name": "DNA repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006289",
+            "xref_name": "nucleotide-excision repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006303",
+            "xref_name": "double-strand break repair via nonhomologous end joining",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032479",
+            "xref_name": "regulation of type I interferon production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902975",
+            "xref_name": "mitotic DNA replication initiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904161",
+            "xref_name": "DNA synthesis involved in UV-damage excision repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9173",
+            "xref_name": "POLA1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P09884",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR006133",
+            "xref_name": "DNA-dir_DNA_pol_B_exonuc",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006134",
+            "xref_name": "DNA-dir_DNA_pol_B_multi_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006172",
+            "xref_name": "DNA-dir_DNA_pol_B",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012337",
+            "xref_name": "RNaseH-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR015088",
+            "xref_name": "Znf_DNA-dir_DNA_pol_B_alpha",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017964",
+            "xref_name": "DNA-dir_DNA_pol_B_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023211",
+            "xref_name": "DNA_pol_palm_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR024647",
+            "xref_name": "DNA_pol_a_cat_su_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036397",
+            "xref_name": "RNaseH_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038256",
+            "xref_name": "Pol_alpha_znc_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR042087",
+            "xref_name": "DNA_pol_B_thumb",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR043502",
+            "xref_name": "DNA/RNA_pol_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR045846",
+            "xref_name": "POLBc_alpha",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR45861",
+            "xref_name": "DNA POLYMERASE ALPHA CATALYTIC SUBUNIT",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR45861:SF1",
+            "xref_name": "DNA POLYMERASE ALPHA CATALYTIC SUBUNIT",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1K0P",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1K18",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1N5G",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Q5V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QCL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Y97",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5EXR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5IUD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6AS7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7N2M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7OPL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7U5C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8B9D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D0B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D0K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D96",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8D9D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8QJ7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VY3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9C8V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9MJ5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Q5V",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QCL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4Y97",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5EXR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5IUD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6AS7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7N2M",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00136",
+            "xref_name": "DNA_pol_B",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF03104",
+            "xref_name": "DNA_pol_B_exo1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF08996",
+            "xref_name": "zf-DNA_Pol",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF12254",
+            "xref_name": "DNA_pol_alpha_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA162399856",
+            "xref_name": "DNA polymerase alpha 1, catalytic subunit",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P09884",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-113501",
+            "xref_name": "Inhibition of replication initiation of damaged DNA by RB1/E2F1",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-174411",
+            "xref_name": "Polymerase switching on the C-strand of the telomere",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-174430",
+            "xref_name": "Telomere C-strand synthesis initiation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-68952",
+            "xref_name": "DNA replication initiation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-68962",
+            "xref_name": "Activation of the pre-replicative complex",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-69091",
+            "xref_name": "Polymerase switching",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-69166",
+            "xref_name": "Removal of the Flap Intermediate",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-69183",
+            "xref_name": "Processive synthesis on the lagging strand",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-69205",
+            "xref_name": "G1/S-Specific Transcription",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9710421",
+            "xref_name": "Defective pyroptosis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P09884",
+            "xref_name": "DNA polymerase alpha catalytic subunit",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86UQ7",
+            "xref_name": "DNA polymerase alpha catalytic subunit",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

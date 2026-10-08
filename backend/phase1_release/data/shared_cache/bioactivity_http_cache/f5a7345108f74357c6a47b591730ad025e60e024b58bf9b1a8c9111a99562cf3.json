@@ -1,0 +1,420 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Matrilysin",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4073",
+    "target_components": [
+      {
+        "accession": "P09237",
+        "component_description": "Matrilysin",
+        "component_id": 2392,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.4.24.23",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Matrilysin",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Matrin",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Matrix metalloproteinase-7",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MMP-7",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MMP7",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "MPSL1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "PUMP1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Pump-1 protease",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Uterine metalloproteinase",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P09237",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004175",
+            "xref_name": "endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004222",
+            "xref_name": "metalloendopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004252",
+            "xref_name": "serine-type endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008233",
+            "xref_name": "peptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008237",
+            "xref_name": "metallopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002779",
+            "xref_name": "antibacterial peptide secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002780",
+            "xref_name": "antibacterial peptide biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006509",
+            "xref_name": "membrane protein ectodomain proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0022617",
+            "xref_name": "extracellular matrix disassembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030198",
+            "xref_name": "extracellular matrix organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030335",
+            "xref_name": "positive regulation of cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030574",
+            "xref_name": "collagen catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031293",
+            "xref_name": "membrane protein intracellular domain proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042127",
+            "xref_name": "regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:7174",
+            "xref_name": "MMP7",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P09237",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001818",
+            "xref_name": "Pept_M10_metallopeptidase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002477",
+            "xref_name": "Peptidoglycan-bd-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006026",
+            "xref_name": "Peptidase_Metallo",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR021158",
+            "xref_name": "Pept_M10A_Zn_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR021190",
+            "xref_name": "Pept_M10A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR024079",
+            "xref_name": "MetalloPept_cat_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033739",
+            "xref_name": "M10A_MMP",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036365",
+            "xref_name": "PGBD-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10201",
+            "xref_name": "MATRIX METALLOPROTEINASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10201:SF143",
+            "xref_name": "MATRILYSIN",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1MMP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1MMQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1MMR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2DDY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2MZE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2MZH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2MZI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2Y6C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2Y6D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5UE2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5UE5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7WXX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8JUD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8JUF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8JUG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8K4Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1MMP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1MMQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1MMR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2Y6C",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2Y6D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7WXX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8JUD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8JUF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8JUG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8K4Z",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00413",
+            "xref_name": "Peptidase_M10",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF01471",
+            "xref_name": "PG_binding_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA30887",
+            "xref_name": "matrix metallopeptidase 7",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P09237",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1442490",
+            "xref_name": "Collagen degradation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1474228",
+            "xref_name": "Degradation of the extracellular matrix",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1592389",
+            "xref_name": "Activation of Matrix Metalloproteinases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2022090",
+            "xref_name": "Assembly of collagen fibrils and other multimeric structures",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9009391",
+            "xref_name": "Extra-nuclear estrogen signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P09237",
+            "xref_name": "Matrilysin",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9BTK9",
+            "xref_name": "Matrilysin",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

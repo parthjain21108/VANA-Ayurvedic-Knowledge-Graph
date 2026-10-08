@@ -1,0 +1,408 @@
+{
+  "data": {
+    "accession": "Q96AD5",
+    "component_id": 17007,
+    "component_type": "PROTEIN",
+    "description": "Patatin-like phospholipase domain-containing protein 2",
+    "go_slims": [
+      {
+        "go_id": "GO:0003824"
+      },
+      {
+        "go_id": "GO:0004623"
+      },
+      {
+        "go_id": "GO:0004806"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005811"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016746"
+      },
+      {
+        "go_id": "GO:0016787"
+      },
+      {
+        "go_id": "GO:0016788"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0047499"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 646
+      }
+    ],
+    "sequence": "MFPREKTWNISFAGCGFLGVYYVGVASCLREHAPFLVANATHIYGASAGALTATALVTGVCLGEAGAKFIEVSKEARKRFLGPLHPSFNLVKIIRSFLLKVLPADSHEHASGRLGISLTRVSDGENVIISHFNSKDELIQANVCSGFIPVYCGLIPPSLQGVRYVDGGISDNLPLYELKNTITVSPFSGESDICPQDSSTNIHELRVTNTSIQFNLRNLYRLSKALFPPEPLVLREMCKQGYRDGLRFLQRNGLLNRPNPLLALPPARPHGPEDKDQAVESAQAEDYSQLPGEDHILEHLPARLNEALLEACVEPTDLLTTLSNMLPVRLATAMMVPYTLPLESALSFTIRLLEWLPDVPEDIRWMKEQTGSICQYLVMRAKRKLGRHLPSRLPEQVELRRVQSLPSVPLSCAAYREALPGWMRNNLSLGDALAKWEECQRQLLLGLFCTNVAFPPEALRMRAPADPAPAPADPASPQHQLAGPAPLLSTPAPEARPVIGALGL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.1.1.3",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "3.1.1.4",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Adipose triglyceride lipase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ATGL ",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Calcium-independent phospholipase A2-zeta",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Desnutrin",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "iPLA2-zeta",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Patatin-like phospholipase domain-containing protein 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PEDF-R",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Pigment epithelium-derived factor receptor",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PNPLA2",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Transport-secretion protein 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "TTS2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "TTS2.2",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q96AD5",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005788",
+        "xref_name": "endoplasmic reticulum lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005789",
+        "xref_name": "endoplasmic reticulum membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005811",
+        "xref_name": "lipid droplet",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003824",
+        "xref_name": "catalytic activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004465",
+        "xref_name": "lipoprotein lipase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004623",
+        "xref_name": "phospholipase A2 activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004806",
+        "xref_name": "triacylglycerol lipase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016411",
+        "xref_name": "acylglycerol O-acyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016787",
+        "xref_name": "hydrolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0047498",
+        "xref_name": "calcium-dependent phospholipase A2 activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0047499",
+        "xref_name": "calcium-independent phospholipase A2 activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0050253",
+        "xref_name": "retinyl-palmitate esterase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051264",
+        "xref_name": "mono-olein transacylation activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051265",
+        "xref_name": "diolein transacylation activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006651",
+        "xref_name": "diacylglycerol biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010891",
+        "xref_name": "negative regulation of sequestering of triglyceride",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010898",
+        "xref_name": "positive regulation of triglyceride catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016042",
+        "xref_name": "lipid catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019433",
+        "xref_name": "triglyceride catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035356",
+        "xref_name": "intracellular triglyceride homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042572",
+        "xref_name": "retinol metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0055088",
+        "xref_name": "lipid homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:30802",
+        "xref_name": "PNPLA2",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q96AD5",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002641",
+        "xref_name": "PNPLA_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016035",
+        "xref_name": "Acyl_Trfase/lysoPLipase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR033562",
+        "xref_name": "PLPL",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR033903",
+        "xref_name": "PNPLA2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR12406",
+        "xref_name": "CALCIUM-INDEPENDENT PHOSPHOLIPASE A2 IPLA2 -RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR12406:SF29",
+        "xref_name": "PATATIN-LIKE PHOSPHOLIPASE DOMAIN-CONTAINING PROTEIN 2",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF01734",
+        "xref_name": "Patatin",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA134903083",
+        "xref_name": "patatin like phospholipase domain containing 2",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q96AD5",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1482883",
+        "xref_name": "Acyl chain remodeling of DAG and TAG",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-381426",
+        "xref_name": "Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8957275",
+        "xref_name": "Post-translational protein phosphorylation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9841922",
+        "xref_name": "MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "O60643",
+        "xref_name": "Patatin-like phospholipase domain-containing protein 2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5EFF5",
+        "xref_name": "Patatin-like phospholipase domain-containing protein 2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6XYE5",
+        "xref_name": "Patatin-like phospholipase domain-containing protein 2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96AD5",
+        "xref_name": "Patatin-like phospholipase domain-containing protein 2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96ET6",
+        "xref_name": "Patatin-like phospholipase domain-containing protein 2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9NQ61",
+        "xref_name": "Patatin-like phospholipase domain-containing protein 2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9NQ62",
+        "xref_name": "Patatin-like phospholipase domain-containing protein 2",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3822353"
+      },
+      {
+        "target_chembl_id": "CHEMBL5483085"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

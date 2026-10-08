@@ -1,0 +1,412 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "NADPH oxidase 4",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1250375",
+    "target_components": [
+      {
+        "accession": "Q9NPH5",
+        "component_description": "NADPH oxidase 4",
+        "component_id": 5233,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.6.3.1",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Kidney oxidase-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Kidney superoxide-producing NADPH oxidase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "KOX-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NADPH oxidase 4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NOX4",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Renal NAD(P)H-oxidase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "RENOX",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q9NPH5",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q9NPH5",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005730",
+            "xref_name": "nucleolus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005789",
+            "xref_name": "endoplasmic reticulum membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005925",
+            "xref_name": "focal adhesion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043020",
+            "xref_name": "NADPH oxidase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048471",
+            "xref_name": "perinuclear region of cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070161",
+            "xref_name": "anchoring junction",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0071944",
+            "xref_name": "cell periphery",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097038",
+            "xref_name": "perinuclear endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000166",
+            "xref_name": "nucleotide binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0009055",
+            "xref_name": "electron transfer activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016174",
+            "xref_name": "NAD(P)H oxidase H2O2-forming activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016175",
+            "xref_name": "superoxide-generating NAD(P)H oxidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050660",
+            "xref_name": "flavin adenine dinucleotide binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050664",
+            "xref_name": "oxidoreductase activity, acting on NAD(P)H, oxygen as acceptor",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0106292",
+            "xref_name": "superoxide-generating NADPH oxidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0106294",
+            "xref_name": "NADPH oxidase H202-forming activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990782",
+            "xref_name": "protein tyrosine kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000902",
+            "xref_name": "cell morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0003015",
+            "xref_name": "heart process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006801",
+            "xref_name": "superoxide metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008285",
+            "xref_name": "negative regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045453",
+            "xref_name": "bone resorption",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050667",
+            "xref_name": "homocysteine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051897",
+            "xref_name": "positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055007",
+            "xref_name": "cardiac muscle cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061098",
+            "xref_name": "positive regulation of protein tyrosine kinase activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071333",
+            "xref_name": "cellular response to glucose stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0072593",
+            "xref_name": "reactive oxygen species metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903409",
+            "xref_name": "reactive oxygen species biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000573",
+            "xref_name": "positive regulation of DNA biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:7891",
+            "xref_name": "NOX4",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q9NPH5",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000778",
+            "xref_name": "Cyt_b245_heavy_chain",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013112",
+            "xref_name": "FAD-bd_8",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013121",
+            "xref_name": "Fe_red_NAD-bd_6",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013130",
+            "xref_name": "Fe3_Rdtase_TM_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017927",
+            "xref_name": "FAD-bd_FR_type",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017938",
+            "xref_name": "Riboflavin_synthase-like_b-brl",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR039261",
+            "xref_name": "FNR_nucleotide-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050369",
+            "xref_name": "RBOH/FRE",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11972",
+            "xref_name": "NADPH OXIDASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11972:SF206",
+            "xref_name": "NADPH OXIDASE 4",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF01794",
+            "xref_name": "Ferric_reduct",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF08022",
+            "xref_name": "FAD_binding_8",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF08030",
+            "xref_name": "NAD_binding_6",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA31692",
+            "xref_name": "NADPH oxidase 4",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q9NPH5",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-3299685",
+            "xref_name": "Detoxification of Reactive Oxygen Species",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9702518",
+            "xref_name": "STAT5 activation downstream of FLT3 ITD mutants",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9703465",
+            "xref_name": "Signaling by FLT3 fusion proteins",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8K715",
+            "xref_name": "NADPH oxidase 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B7Z520",
+            "xref_name": "NADPH oxidase 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "E7EMD7",
+            "xref_name": "NADPH oxidase 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5K3R4",
+            "xref_name": "NADPH oxidase 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5K3R5",
+            "xref_name": "NADPH oxidase 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5K3R6",
+            "xref_name": "NADPH oxidase 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5K3R8",
+            "xref_name": "NADPH oxidase 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q7Z7G3",
+            "xref_name": "NADPH oxidase 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86V92",
+            "xref_name": "NADPH oxidase 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NPH5",
+            "xref_name": "NADPH oxidase 4",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

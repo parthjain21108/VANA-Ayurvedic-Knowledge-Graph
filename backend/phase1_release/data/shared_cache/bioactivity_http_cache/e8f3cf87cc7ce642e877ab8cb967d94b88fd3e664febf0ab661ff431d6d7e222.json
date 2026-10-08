@@ -1,0 +1,995 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Drosophila melanogaster",
+    "pref_name": "Ecdysone receptor",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2366581",
+    "target_components": [
+      {
+        "accession": "P34021",
+        "component_description": "Ecdysone receptor",
+        "component_id": 3986,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "20E receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "20-hydroxy-ecdysone receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Ecdysone receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Ecdysteroid receptor B1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "EcR",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "EcRH",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NR1H1 ",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Nuclear receptor subfamily 1 group H member 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=EcrB1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P34021",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P34021",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005700",
+            "xref_name": "polytene chromosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0008230",
+            "xref_name": "ecdysone receptor holocomplex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0008231",
+            "xref_name": "repressor ecdysone receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0008232",
+            "xref_name": "activator ecdysone receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0090575",
+            "xref_name": "RNA polymerase II transcription regulator complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000976",
+            "xref_name": "transcription cis-regulatory region binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000977",
+            "xref_name": "RNA polymerase II transcription regulatory region sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000978",
+            "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001046",
+            "xref_name": "core promoter sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001222",
+            "xref_name": "transcription corepressor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001223",
+            "xref_name": "transcription coactivator binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004879",
+            "xref_name": "nuclear receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005102",
+            "xref_name": "signaling receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005496",
+            "xref_name": "steroid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0035100",
+            "xref_name": "ecdysone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043565",
+            "xref_name": "sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046982",
+            "xref_name": "protein heterodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140297",
+            "xref_name": "DNA-binding transcription factor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000122",
+            "xref_name": "negative regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001752",
+            "xref_name": "compound eye photoreceptor fate commitment",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002164",
+            "xref_name": "larval development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006911",
+            "xref_name": "phagocytosis, engulfment",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006914",
+            "xref_name": "autophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007155",
+            "xref_name": "cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007281",
+            "xref_name": "germ cell development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007291",
+            "xref_name": "sperm individualization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007298",
+            "xref_name": "border follicle cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007390",
+            "xref_name": "germ-band shortening",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007422",
+            "xref_name": "peripheral nervous system development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007443",
+            "xref_name": "Malpighian tubule morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007476",
+            "xref_name": "imaginal disc-derived wing morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007488",
+            "xref_name": "histoblast morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007552",
+            "xref_name": "metamorphosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007616",
+            "xref_name": "long-term memory",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008258",
+            "xref_name": "head involution",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008340",
+            "xref_name": "determination of adult lifespan",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008362",
+            "xref_name": "chitin-based embryonic cuticle biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008544",
+            "xref_name": "epidermis development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010002",
+            "xref_name": "cardioblast differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010629",
+            "xref_name": "negative regulation of gene expression",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016319",
+            "xref_name": "mushroom body development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016322",
+            "xref_name": "neuron remodeling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0018990",
+            "xref_name": "ecdysis, chitin-based cuticle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030154",
+            "xref_name": "cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035053",
+            "xref_name": "dorsal vessel heart proper cell fate commitment",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035073",
+            "xref_name": "pupariation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035076",
+            "xref_name": "ecdysone receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035180",
+            "xref_name": "larval wandering behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035188",
+            "xref_name": "hatching",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035193",
+            "xref_name": "larval central nervous system remodeling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035206",
+            "xref_name": "regulation of hemocyte proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035297",
+            "xref_name": "regulation of Malpighian tubule diameter",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0040003",
+            "xref_name": "chitin-based cuticle development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0040034",
+            "xref_name": "regulation of development, heterochronic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042632",
+            "xref_name": "cholesterol homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043065",
+            "xref_name": "positive regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045892",
+            "xref_name": "negative regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045893",
+            "xref_name": "positive regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045938",
+            "xref_name": "positive regulation of circadian sleep/wake cycle, sleep",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048102",
+            "xref_name": "autophagic cell death",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048477",
+            "xref_name": "oogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048738",
+            "xref_name": "cardiac muscle tissue development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048813",
+            "xref_name": "dendrite morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904799",
+            "xref_name": "regulation of neuron remodeling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904801",
+            "xref_name": "positive regulation of neuron remodeling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "P34021",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000536",
+            "xref_name": "Nucl_hrmn_rcpt_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001628",
+            "xref_name": "Znf_hrmn_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001723",
+            "xref_name": "Nuclear_hrmn_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003069",
+            "xref_name": "Ecdystd_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013088",
+            "xref_name": "Znf_NHR/GATA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035500",
+            "xref_name": "NHR-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR041889",
+            "xref_name": "NR_LBD_EcR",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050234",
+            "xref_name": "Nuclear_hormone_rcpt_NR1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24082",
+            "xref_name": "NUCLEAR HORMONE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24082:SF507",
+            "xref_name": "BILE ACID RECEPTOR-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1R0N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1R0O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HAN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1R0N",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1R0O",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2HAN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00104",
+            "xref_name": "Hormone_recep",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00105",
+            "xref_name": "zf-C4",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-DME-159418",
+            "xref_name": "Recycling of bile acids and salts",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-383280",
+            "xref_name": "Nuclear Receptor transcription pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-4090294",
+            "xref_name": "SUMOylation of intracellular receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-8866427",
+            "xref_name": "VLDLR internalisation and degradation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-9029569",
+            "xref_name": "NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-9623433",
+            "xref_name": "NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P34021",
+            "xref_name": "Ecdysone receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q0E9N8",
+            "xref_name": "Ecdysone receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6AWL4",
+            "xref_name": "Ecdysone receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8SY10",
+            "xref_name": "Ecdysone receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q95TS4",
+            "xref_name": "Ecdysone receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9V9K8",
+            "xref_name": "Ecdysone receptor",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      },
+      {
+        "accession": "P20153",
+        "component_description": "Protein ultraspiracle",
+        "component_id": 8126,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Cf1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Chorion factor 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NR2B4",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Nuclear receptor subfamily 2 group B member 4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Protein ultraspiracle",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "usp",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "XR2C",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P20153",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P20153",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005700",
+            "xref_name": "polytene chromosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0008230",
+            "xref_name": "ecdysone receptor holocomplex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0008232",
+            "xref_name": "activator ecdysone receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000976",
+            "xref_name": "transcription cis-regulatory region binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000978",
+            "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001046",
+            "xref_name": "core promoter sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003707",
+            "xref_name": "nuclear steroid receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004879",
+            "xref_name": "nuclear receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005102",
+            "xref_name": "signaling receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008289",
+            "xref_name": "lipid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0035100",
+            "xref_name": "ecdysone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042562",
+            "xref_name": "hormone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043565",
+            "xref_name": "sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046982",
+            "xref_name": "protein heterodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006697",
+            "xref_name": "ecdysone biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007281",
+            "xref_name": "germ cell development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007298",
+            "xref_name": "border follicle cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007399",
+            "xref_name": "nervous system development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007552",
+            "xref_name": "metamorphosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016319",
+            "xref_name": "mushroom body development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016322",
+            "xref_name": "neuron remodeling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030154",
+            "xref_name": "cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035073",
+            "xref_name": "pupariation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035076",
+            "xref_name": "ecdysone receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0040034",
+            "xref_name": "regulation of development, heterochronic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042594",
+            "xref_name": "response to starvation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045596",
+            "xref_name": "negative regulation of cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045892",
+            "xref_name": "negative regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045893",
+            "xref_name": "positive regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046620",
+            "xref_name": "regulation of organ growth",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048384",
+            "xref_name": "retinoic acid receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048813",
+            "xref_name": "dendrite morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071390",
+            "xref_name": "cellular response to ecdysone",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "P20153",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000003",
+            "xref_name": "Retinoid-X_rcpt/HNF4",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000536",
+            "xref_name": "Nucl_hrmn_rcpt_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001628",
+            "xref_name": "Znf_hrmn_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001723",
+            "xref_name": "Nuclear_hrmn_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013088",
+            "xref_name": "Znf_NHR/GATA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035500",
+            "xref_name": "NHR-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050274",
+            "xref_name": "Nuclear_hormone_rcpt_NR2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24083",
+            "xref_name": "NUCLEAR HORMONE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1HG4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1R0O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HAN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1HG4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1R0O",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2HAN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00104",
+            "xref_name": "Hormone_recep",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00105",
+            "xref_name": "zf-C4",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-DME-159418",
+            "xref_name": "Recycling of bile acids and salts",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-200425",
+            "xref_name": "Carnitine shuttle",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-381340",
+            "xref_name": "Transcriptional regulation of white adipocyte differentiation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-383280",
+            "xref_name": "Nuclear Receptor transcription pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-400206",
+            "xref_name": "Regulation of lipid metabolism by PPARalpha",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-5362517",
+            "xref_name": "Signaling by Retinoic Acid",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-9029569",
+            "xref_name": "NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-9616222",
+            "xref_name": "Transcriptional regulation of granulopoiesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-9623433",
+            "xref_name": "NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-9707564",
+            "xref_name": "Cytoprotection by HMOX1",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-DME-9841922",
+            "xref_name": "MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P20153",
+            "xref_name": "Protein ultraspiracle",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9W535",
+            "xref_name": "Protein ultraspiracle",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "PROTEIN COMPLEX",
+    "tax_id": 7227
+  },
+  "ok": true
+}

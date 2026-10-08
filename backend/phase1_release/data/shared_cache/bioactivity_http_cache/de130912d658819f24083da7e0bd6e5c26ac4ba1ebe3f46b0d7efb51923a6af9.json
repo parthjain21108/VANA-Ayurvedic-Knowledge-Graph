@@ -1,0 +1,440 @@
+{
+  "data": {
+    "accession": "Q00796",
+    "component_id": 616,
+    "component_type": "PROTEIN",
+    "description": "Sorbitol dehydrogenase",
+    "go_slims": [
+      {
+        "go_id": "GO:0005615"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005929"
+      },
+      {
+        "go_id": "GO:0005975"
+      },
+      {
+        "go_id": "GO:0007017"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0030246"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0048870"
+      },
+      {
+        "go_id": "GO:0051287"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MAAAAKPNNLSLVVHGPGDLRLENYPIPEPGPNEVLLRMHSVGICGSDVHYWEYGRIGNFIVKKPMVLGHEASGTVEKVGSSVKHLKPGDRVAIEPGAPRENDEFCKMGRYNLSPSIFFCATPPDDGNLCRFYKHNAAFCYKLPDNVTFEEGALIEPLSVGIHACRRGGVTLGHKVLVCGAGPIGMVTLLVAKAMGAAQVVVTDLSATRLSKAKEIGADLVLQISKESPQEIARKVEGQLGCKPEVTIECTGAEASIQAGIYATRSGGNLVLVGLGSEMTTVPLLHAAIREVDIKGVFRYCNTWPVAISMLASKSVNVKPLVTHRFPLEKALEAFETFKKGLGLKIMLKCDPSDQNP",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.1.1.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.1.1.14",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.1.1.4",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.1.1.56",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.1.1.9",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "L-iditol 2-dehydrogenase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Polyol dehydrogenase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "RDH",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Ribitol dehydrogenase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "(R,R)-butanediol dehydrogenase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SDH",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Sorbitol dehydrogenase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SORD",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "XDH",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Xylitol dehydrogenase",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q00796",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q00796",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005615",
+        "xref_name": "extracellular space",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031514",
+        "xref_name": "motile cilium",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031966",
+        "xref_name": "mitochondrial membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000721",
+        "xref_name": "(R,R)-butanediol dehydrogenase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003939",
+        "xref_name": "L-iditol 2-dehydrogenase (NAD+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004022",
+        "xref_name": "alcohol dehydrogenase (NAD+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016616",
+        "xref_name": "oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030246",
+        "xref_name": "carbohydrate binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046526",
+        "xref_name": "D-xylulose reductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0047833",
+        "xref_name": "D-sorbitol dehydrogenase (acceptor) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0050255",
+        "xref_name": "ribitol 2-dehydrogenase (NAD+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051287",
+        "xref_name": "NAD binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006006",
+        "xref_name": "glucose metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006060",
+        "xref_name": "sorbitol metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006062",
+        "xref_name": "sorbitol catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019640",
+        "xref_name": "D-glucuronate catabolic process to D-xylulose 5-phosphate",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030317",
+        "xref_name": "flagellated sperm motility",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046370",
+        "xref_name": "fructose biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051160",
+        "xref_name": "xylitol catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051164",
+        "xref_name": "xylitol metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:11184",
+        "xref_name": "SORD",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q00796",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002328",
+        "xref_name": "ADH_Zn_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011032",
+        "xref_name": "GroES-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013149",
+        "xref_name": "ADH-like_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013154",
+        "xref_name": "ADH-like_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020843",
+        "xref_name": "ER",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036291",
+        "xref_name": "NAD(P)-bd_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR045306",
+        "xref_name": "SDH-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR43161",
+        "xref_name": "SORBITOL DEHYDROGENASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR43161:SF9",
+        "xref_name": "SORBITOL DEHYDROGENASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1PL6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1PL7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1PL8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1PL6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1PL7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1PL8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00107",
+        "xref_name": "ADH_zinc_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF08240",
+        "xref_name": "ADH_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA36021",
+        "xref_name": "sorbitol dehydrogenase",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q00796",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-5652227",
+        "xref_name": "Fructose biosynthesis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5661270",
+        "xref_name": "Formation of xylulose-5-phosphate",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B2R655",
+        "xref_name": "Sorbitol dehydrogenase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B7Z3A6",
+        "xref_name": "Sorbitol dehydrogenase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "J3JZZ5",
+        "xref_name": "Sorbitol dehydrogenase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q00796",
+        "xref_name": "Sorbitol dehydrogenase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q16682",
+        "xref_name": "Sorbitol dehydrogenase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UMD6",
+        "xref_name": "Sorbitol dehydrogenase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2275"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

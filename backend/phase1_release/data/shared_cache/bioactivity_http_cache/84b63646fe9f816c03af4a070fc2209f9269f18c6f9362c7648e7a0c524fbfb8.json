@@ -1,0 +1,210 @@
+{
+  "data": {
+    "accession": "P14916",
+    "component_id": 2017,
+    "component_type": "PROTEIN",
+    "description": "Urease subunit alpha",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0016787"
+      },
+      {
+        "go_id": "GO:0016810"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0071941"
+      }
+    ],
+    "organism": "Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori)",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 646
+      }
+    ],
+    "sequence": "MKLTPKELDKLMLHYAGELAKKRKEKGIKLNYVEAVALISAHIMEEARAGKKTAAELMQEGRTLLKPDDVMDGVASMIHEVGIEAMFPDGTKLVTVHTPIEANGKLVPGELFLKNEDITINEGKKAVSVKVKNVGDRPVQIGSHFHFFEVNRCLDFDREKTFGKRLDIASGTAVRFEPGEEKSVELIDIGGNRRIFGFNALVDRQADNESKKIALHRAKERGFHGAKSDDNYVKTIKE",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.5.1.5",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "hpuA",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "ureA",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Urea amidohydrolase subunit alpha",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Urease subunit alpha",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P14916",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0035550",
+        "xref_name": "urease complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0009039",
+        "xref_name": "urease activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016151",
+        "xref_name": "nickel cation binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016787",
+        "xref_name": "hydrolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043419",
+        "xref_name": "urea catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "P14916",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002019",
+        "xref_name": "Urease_beta-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR002026",
+        "xref_name": "Urease_gamma/gamma-beta_su",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008223",
+        "xref_name": "Urease_gamma-beta_su",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036461",
+        "xref_name": "Urease_betasu_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036463",
+        "xref_name": "Urease_gamma_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050069",
+        "xref_name": "Urease_subunit",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR33569",
+        "xref_name": "UREASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR33569:SF1",
+        "xref_name": "UREASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1E9Y",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1E9Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6QSU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6ZJA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8HC1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1E9Y",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1E9Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00547",
+        "xref_name": "Urease_gamma",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00699",
+        "xref_name": "Urease_beta",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "P14916",
+        "xref_name": "Urease subunit alpha",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3885651"
+      }
+    ],
+    "tax_id": 85962
+  },
+  "ok": true
+}

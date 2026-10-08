@@ -1,0 +1,414 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Tyrosine-protein kinase Yes",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2073",
+    "target_components": [
+      {
+        "accession": "P07947",
+        "component_description": "Tyrosine-protein kinase Yes",
+        "component_id": 433,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.10.2",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "p61-Yes",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Proto-oncogene c-Yes",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tyrosine-protein kinase Yes",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "YES",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "YES1",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P07947",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P07947",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005794",
+            "xref_name": "Golgi apparatus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005813",
+            "xref_name": "centrosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005856",
+            "xref_name": "cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005884",
+            "xref_name": "actin filament",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005925",
+            "xref_name": "focal adhesion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070161",
+            "xref_name": "anchoring junction",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001784",
+            "xref_name": "phosphotyrosine residue binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005102",
+            "xref_name": "signaling receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019899",
+            "xref_name": "enzyme binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044325",
+            "xref_name": "transmembrane transporter binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002862",
+            "xref_name": "negative regulation of inflammatory response to antigenic stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007169",
+            "xref_name": "cell surface receptor protein tyrosine kinase signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010827",
+            "xref_name": "regulation of D-glucose transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030154",
+            "xref_name": "cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031295",
+            "xref_name": "T cell costimulation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038096",
+            "xref_name": "Fc-gamma receptor signaling pathway involved in phagocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043114",
+            "xref_name": "regulation of vascular permeability",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045087",
+            "xref_name": "innate immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048013",
+            "xref_name": "ephrin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050731",
+            "xref_name": "positive regulation of peptidyl-tyrosine phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050900",
+            "xref_name": "leukocyte migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071300",
+            "xref_name": "cellular response to retinoic acid",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:12841",
+            "xref_name": "YES1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P07947",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000719",
+            "xref_name": "Prot_kinase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000980",
+            "xref_name": "SH2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001245",
+            "xref_name": "Ser-Thr/Tyr_kinase_cat_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001452",
+            "xref_name": "SH3_domain",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008266",
+            "xref_name": "Tyr_kinase_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011009",
+            "xref_name": "Kinase-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017441",
+            "xref_name": "Protein_kinase_ATP_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020635",
+            "xref_name": "Tyr_kinase_cat_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035751",
+            "xref_name": "Yes_SH3",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036028",
+            "xref_name": "SH3-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036860",
+            "xref_name": "SH2_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050198",
+            "xref_name": "Non-receptor_tyrosine_kinases",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24418",
+            "xref_name": "TYROSINE-PROTEIN KINASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2HDA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HDA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00017",
+            "xref_name": "SH2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00018",
+            "xref_name": "SH3_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF07714",
+            "xref_name": "PK_Tyr_Ser-Thr",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA37432",
+            "xref_name": "YES proto-oncogene 1, Src family tyrosine kinase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P07947",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1227986",
+            "xref_name": "Signaling by ERBB2",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1433557",
+            "xref_name": "Signaling by SCF-KIT",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1433559",
+            "xref_name": "Regulation of KIT signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2029481",
+            "xref_name": "FCGR activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-210990",
+            "xref_name": "PECAM1 interactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2682334",
+            "xref_name": "EPH-Ephrin signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-389356",
+            "xref_name": "Co-stimulation by CD28",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-389513",
+            "xref_name": "Co-inhibition by CTLA4",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3928662",
+            "xref_name": "EPHB-mediated forward signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3928663",
+            "xref_name": "EPHA-mediated growth cone collapse",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3928665",
+            "xref_name": "EPH-ephrin mediated repulsion of cells",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8940973",
+            "xref_name": "RUNX2 regulates osteoblast differentiation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-912631",
+            "xref_name": "Regulation of signaling by CBL",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9664323",
+            "xref_name": "FCGR3A-mediated IL10 synthesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9664422",
+            "xref_name": "FCGR3A-mediated phagocytosis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9670439",
+            "xref_name": "Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9680350",
+            "xref_name": "Signaling by CSF1 (M-CSF) in myeloid cells",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A6NLB3",
+            "xref_name": "Tyrosine-protein kinase Yes",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "D3DUH1",
+            "xref_name": "Tyrosine-protein kinase Yes",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P07947",
+            "xref_name": "Tyrosine-protein kinase Yes",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

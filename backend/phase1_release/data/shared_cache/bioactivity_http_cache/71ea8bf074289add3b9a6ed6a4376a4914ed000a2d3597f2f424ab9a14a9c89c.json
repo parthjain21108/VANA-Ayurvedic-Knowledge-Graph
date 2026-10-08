@@ -1,0 +1,128 @@
+{
+  "data": {
+    "accession": "P27189",
+    "component_id": 4228,
+    "component_type": "PROTEIN",
+    "description": "DNA primase TraC",
+    "go_slims": [
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0016779"
+      }
+    ],
+    "organism": "Escherichia coli",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 643
+      }
+    ],
+    "sequence": "MAEVKKPFHEQVAERLIEQLKAGTAPWQKPWEPGMPGSFIPLNPTTGKRYKGINAIQLMAQGHADPRWMTYKQAAAAGAQVRRGEKGTPIQYWKFSEEQTKTDEQTGKPVLDANGDPVKVTVQLERPRVFFATVFNAEQIDGLPPLERKEQTWSAVERAEHILAASGATIRHGEHDRAFYRPSTDSIHLPDKGQFPSADNYYATALHELGHWTGHPSRLDRDLAHPFGSEGYAKEELRAEIASMILGDELGIGHDPGQHAAYVGSWIKALQEDPLEIFRAAADAEKIQDFVLAFEQKQIQEQTTQQAIEPAQGATMEQQQDQVARPAIAPADELIAQTLRMYRAGAEPAEGNQSLAALTETTLGFELPADWTGRVQVQANVEVEHDGERSVVPAGDREPEFWGVYANHAWGGHQWLADFAGPDAQTNAEALADRLAVIDAYATANEYEQAAKFARIHEERVRRDPNSTDEDRVAAKEARKAAEGTAMLHDEDLQRRIADYEREQQEMAQAMNAAEQPAAAQAPAKPERAYLNVPFKEKDEVKALGARWDRQERAWYVPAGVDPAPFAKWAREGATAAVEARAEAQPTQPTAERPNAAQERVYLAVPYGERQVAKAAGAQWDKVAKSWYAGPNADMGKLQRWLPDNVPTQQSPAVTPEDEFAEALKSMGCVVTPGGEHPIMDGKKHRIETEGDKKGEKSGFYVGHLDGHPAGYIKNNRTGVEMKWKAKGYALDPAEKAKMQAEAAAKLAARAEEQERQHEATAQRIGRQAQSLVPITEPTPYLRDKGLQVHAGVLTDQEGQKTYIPAYDADGKQWTMQYIQEDGTKRFAKDSRKEGCFHVVGGMDALAAAPALVIGEGYATAATVAEALGHATVAAFDSGNLQAVAEALHAKFPDKPVVIAGDDDRQVQITQGVNPGRTKAQEAAKAVGGKAIFPIFAPGENAYPKELPPITPENYRNHLHAEKRLADAAAGKVQLSEADTAKLKESLLNDGQLAALSNMKKHTDFNDLSERSSLGKDGVERQVRSAVGKVLLDEGQRQKVQQLKQQDIEQQEQRQRRARTY",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.7.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "DNA primase TraC",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Replication primase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "traC",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P27189",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0000428",
+        "xref_name": "DNA-directed RNA polymerase complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003697",
+        "xref_name": "single-stranded DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016779",
+        "xref_name": "nucleotidyltransferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "IPR006171",
+        "xref_name": "TOPRIM_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013610",
+        "xref_name": "ArdC_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR034154",
+        "xref_name": "TOPRIM_DnaG/twinkle",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR041459",
+        "xref_name": "MPTase-PolyVal",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR043764",
+        "xref_name": "DUF5710",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PF08401",
+        "xref_name": "ArdcN",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF13362",
+        "xref_name": "Toprim_3",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF18818",
+        "xref_name": "MPTase-PolyVal",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF18974",
+        "xref_name": "DUF5710",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "P27184",
+        "xref_name": "DNA primase TraC",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P27189",
+        "xref_name": "DNA primase TraC",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1075082"
+      }
+    ],
+    "tax_id": 562
+  },
+  "ok": true
+}

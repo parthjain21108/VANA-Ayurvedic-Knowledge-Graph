@@ -1,0 +1,68 @@
+{
+  "data": {
+    "activities": [
+      {
+        "action_type": null,
+        "activity_comment": "287718",
+        "activity_id": 17670063,
+        "activity_properties": [],
+        "assay_chembl_id": "CHEMBL3705921",
+        "assay_description": "Enzyme Inhibition Assay: Human SCD-1 enzyme activity using HepG2 cell microsomes after treating with inhibitory compounds (% inhibition):Human hepatocarcinoma HepG2 cells (ATCC, HB-8065) are cultured to confluence and trypsinised. The cell pellet is taken up with 10 mM Tris (pH 7.4) sucrose (250 mM) DTT (1 mM) buffer and the cells are lysed by sonication. The microsomes are obtained after centrifugation at 10,000 g for 20 minutes at 4 C. followed by centrifugation of the supernatant at 100,000 g for 60 minutes at 4 C. The pellet is taken up with 10 mM Tris (pH 7.4) sucrose (250 mM) buffer at 4 C. and the microsomal proteins are assayed and stored at -196 C. (liquid nitrogen).The enzyme reaction measures the conversion of stearic acid (C18:0 fatty acid) to oleic acid (C18:1 fatty acid) by SCD-1. The enzyme reaction is started by adding 125 ug of HepG2 cell microsomal fraction to tubes (total reaction volume of 500 ul) containing 62 uM of stearic acid.",
+        "assay_type": "B",
+        "assay_variant_accession": null,
+        "assay_variant_mutation": null,
+        "bao_endpoint": "BAO_0000190",
+        "bao_format": "BAO_0000219",
+        "bao_label": "cell-based format",
+        "canonical_smiles": "CCCCCCCCC1=C(CCCCCCCC(=O)O)C1",
+        "data_validity_comment": null,
+        "data_validity_description": null,
+        "document_chembl_id": "CHEMBL3639020",
+        "document_journal": null,
+        "document_year": 2015,
+        "ligand_efficiency": {
+          "bei": "22.15",
+          "le": "0.42",
+          "lle": "0.27",
+          "sei": "17.49"
+        },
+        "modality": null,
+        "molecule_chembl_id": "CHEMBL3677268",
+        "molecule_pref_name": null,
+        "parent_molecule_chembl_id": "CHEMBL3677268",
+        "pchembl_value": "6.52",
+        "potential_duplicate": 0,
+        "qudt_units": "http://www.openphacts.org/units/Nanomolar",
+        "record_id": 2553032,
+        "relation": "=",
+        "src_id": 37,
+        "standard_flag": 1,
+        "standard_relation": "=",
+        "standard_text_value": null,
+        "standard_type": "IC50",
+        "standard_units": "nM",
+        "standard_upper_value": null,
+        "standard_value": "300.0",
+        "target_chembl_id": "CHEMBL5555",
+        "target_organism": "Homo sapiens",
+        "target_pref_name": "Stearoyl-CoA desaturase",
+        "target_tax_id": "9606",
+        "text_value": null,
+        "toid": null,
+        "type": "IC50",
+        "units": "nM",
+        "uo_units": "UO_0000065",
+        "upper_value": null,
+        "value": "300.0"
+      }
+    ],
+    "page_meta": {
+      "limit": 1000,
+      "next": null,
+      "offset": 0,
+      "previous": null,
+      "total_count": 1
+    }
+  },
+  "ok": true
+}

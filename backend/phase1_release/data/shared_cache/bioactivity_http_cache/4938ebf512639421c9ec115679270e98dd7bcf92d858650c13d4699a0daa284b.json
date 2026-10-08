@@ -1,0 +1,439 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Histone-lysine N-methyltransferase, H3 lysine-36 specific",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3588738",
+    "target_components": [
+      {
+        "accession": "Q96L73",
+        "component_description": "Histone-lysine N-methyltransferase, H3 lysine-36 specific",
+        "component_id": 9996,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.1.1.357",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Androgen receptor-associated protein of 267 kDa",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Androgen receptor coactivator 267 kDa protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ARA267",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "H3-K36-HMTase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Histone-lysine N-methyltransferase, H3 lysine-36 specific",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "KMT3B",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Lysine N-methyltransferase 3B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NR-binding SET domain-containing protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NSD1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Nuclear receptor-binding SET domain-containing protein 1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q96L73",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q96L73",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000785",
+            "xref_name": "chromatin",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005694",
+            "xref_name": "chromosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000978",
+            "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003682",
+            "xref_name": "chromatin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003712",
+            "xref_name": "transcription coregulator activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003714",
+            "xref_name": "transcription corepressor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008168",
+            "xref_name": "methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030331",
+            "xref_name": "nuclear estrogen receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042054",
+            "xref_name": "histone methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042799",
+            "xref_name": "histone H4K20 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042974",
+            "xref_name": "nuclear retinoic acid receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046965",
+            "xref_name": "nuclear retinoid X receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046966",
+            "xref_name": "nuclear thyroid hormone receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046975",
+            "xref_name": "histone H3K36 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050681",
+            "xref_name": "nuclear androgen receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140938",
+            "xref_name": "histone H3 methyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140954",
+            "xref_name": "histone H3K36 dimethyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000122",
+            "xref_name": "negative regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032259",
+            "xref_name": "methylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045893",
+            "xref_name": "positive regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:14234",
+            "xref_name": "NSD1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q96L73",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000313",
+            "xref_name": "PWWP_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001214",
+            "xref_name": "SET_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001965",
+            "xref_name": "Znf_PHD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003616",
+            "xref_name": "Post-SET_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006560",
+            "xref_name": "AWS_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011011",
+            "xref_name": "Znf_FYVE_PHD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013083",
+            "xref_name": "Znf_RING/FYVE/PHD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR019786",
+            "xref_name": "Zinc_finger_PHD-type_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR019787",
+            "xref_name": "Znf_PHD-finger",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR041306",
+            "xref_name": "C5HCH",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046341",
+            "xref_name": "SET_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047423",
+            "xref_name": "PWWP_NSD1_rpt2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047426",
+            "xref_name": "PHD1_NSD1_2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047428",
+            "xref_name": "PHD2_NSD1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047429",
+            "xref_name": "PHD3_NSD1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047430",
+            "xref_name": "PHD4_NSD1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047432",
+            "xref_name": "PHD5_NSD1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR047433",
+            "xref_name": "SET_NSD1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050777",
+            "xref_name": "SET2_Histone-Lys_MeTrsfase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR055197",
+            "xref_name": "PHDvar_NSD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR055198",
+            "xref_name": "NSD_PHD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR059153",
+            "xref_name": "NSD_PHD-1st",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR22884",
+            "xref_name": "SET DOMAIN PROTEINS",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3OOI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6KQP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6KQQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8C5L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3OOI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6KQP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6KQQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8C5L",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00628",
+            "xref_name": "PHD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00855",
+            "xref_name": "PWWP",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00856",
+            "xref_name": "SET",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF17907",
+            "xref_name": "AWS",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF17982",
+            "xref_name": "C5HCH",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF22908",
+            "xref_name": "PHD_NSD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF23004",
+            "xref_name": "PHDvar_NSD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF23011",
+            "xref_name": "PHD-1st_NSD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA31790",
+            "xref_name": "nuclear receptor binding SET domain protein 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q96L73",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-3214841",
+            "xref_name": "PKMTs methylate histone lysines",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q96L73",
+            "xref_name": "Histone-lysine N-methyltransferase, H3 lysine-36 specific",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96PD8",
+            "xref_name": "Histone-lysine N-methyltransferase, H3 lysine-36 specific",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96RN7",
+            "xref_name": "Histone-lysine N-methyltransferase, H3 lysine-36 specific",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

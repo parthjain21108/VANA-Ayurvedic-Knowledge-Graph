@@ -1,0 +1,588 @@
+{
+  "data": {
+    "accession": "P17787",
+    "component_id": 26,
+    "component_type": "PROTEIN",
+    "description": "Neuronal acetylcholine receptor subunit beta-2",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0007267"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0022857"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0050877"
+      },
+      {
+        "go_id": "GO:0055085"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 406
+      }
+    ],
+    "sequence": "MARRCGPVALLLGFGLLRLCSGVWGTDTEERLVEHLLDPSRYNKLIRPATNGSELVTVQLMVSLAQLISVHEREQIMTTNVWLTQEWEDYRLTWKPEEFDNMKKVRLPSKHIWLPDVVLYNNADGMYEVSFYSNAVVSYDGSIFWLPPAIYKSACKIEVKHFPFDQQNCTMKFRSWTYDRTEIDLVLKSEVASLDDFTPSGEWDIVALPGRRNENPDDSTYVDITYDFIIRRKPLFYTINLIIPCVLITSLAILVFYLPSDCGEKMTLCISVLLALTVFLLLISKIVPPTSLDVPLVGKYLMFTMVLVTFSIVTSVCVLNVHHRSPTTHTMAPWVKVVFLEKLPALLFMQQPRHHCARQRLRLRRRQREREGAGALFFREAPGADSCTCFVNRASVQGLAGAFGAEPAPVAGPGRSGEPCGCGLREAVDGVRFIADHMRSEDDDQSVSEDWKYVAMVIDRLFLWIFVFVCVFGTIGMFLQPLFQNYTTTTFLHSDHSAPSSK",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "CHRNB2",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Neuronal acetylcholine receptor subunit beta-2",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P17787",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P17787",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005892",
+        "xref_name": "acetylcholine-gated channel complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0009897",
+        "xref_name": "external side of plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032991",
+        "xref_name": "protein-containing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042734",
+        "xref_name": "presynaptic membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043005",
+        "xref_name": "neuron projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0044853",
+        "xref_name": "plasma membrane raft",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045202",
+        "xref_name": "synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045211",
+        "xref_name": "postsynaptic membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098981",
+        "xref_name": "cholinergic synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0099634",
+        "xref_name": "postsynaptic specialization membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004888",
+        "xref_name": "transmembrane signaling receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0015276",
+        "xref_name": "ligand-gated monoatomic ion channel activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0015464",
+        "xref_name": "acetylcholine receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0022848",
+        "xref_name": "acetylcholine-gated monoatomic cation-selective channel activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042166",
+        "xref_name": "acetylcholine binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1904315",
+        "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001666",
+        "xref_name": "response to hypoxia",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006811",
+        "xref_name": "monoatomic ion transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006816",
+        "xref_name": "calcium ion transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007165",
+        "xref_name": "signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007271",
+        "xref_name": "synaptic transmission, cholinergic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007601",
+        "xref_name": "visual perception",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007605",
+        "xref_name": "sensory perception of sound",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007612",
+        "xref_name": "learning",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007613",
+        "xref_name": "memory",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007626",
+        "xref_name": "locomotory behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008306",
+        "xref_name": "associative learning",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008542",
+        "xref_name": "visual learning",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0014059",
+        "xref_name": "regulation of dopamine secretion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019233",
+        "xref_name": "sensory perception of pain",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021562",
+        "xref_name": "vestibulocochlear nerve development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021631",
+        "xref_name": "optic nerve morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021771",
+        "xref_name": "lateral geniculate nucleus development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021952",
+        "xref_name": "central nervous system projection neuron axonogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030890",
+        "xref_name": "positive regulation of B cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032225",
+        "xref_name": "regulation of synaptic transmission, dopaminergic",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0033603",
+        "xref_name": "positive regulation of dopamine secretion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034220",
+        "xref_name": "monoatomic ion transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035095",
+        "xref_name": "behavioral response to nicotine",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035176",
+        "xref_name": "social behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042113",
+        "xref_name": "B cell activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042320",
+        "xref_name": "regulation of circadian sleep/wake cycle, REM sleep",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045759",
+        "xref_name": "negative regulation of action potential",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048814",
+        "xref_name": "regulation of dendrite morphogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050877",
+        "xref_name": "nervous system process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050890",
+        "xref_name": "cognition",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051899",
+        "xref_name": "membrane depolarization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051963",
+        "xref_name": "regulation of synapse assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060078",
+        "xref_name": "regulation of postsynaptic membrane potential",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060079",
+        "xref_name": "excitatory postsynaptic potential",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060084",
+        "xref_name": "synaptic transmission involved in micturition",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0095500",
+        "xref_name": "acetylcholine receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:1962",
+        "xref_name": "CHRNB2",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P17787",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002394",
+        "xref_name": "Nicotinic_acetylcholine_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006029",
+        "xref_name": "Neurotrans-gated_channel_TM",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006201",
+        "xref_name": "Neur_channel",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006202",
+        "xref_name": "Neur_chan_lig-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018000",
+        "xref_name": "Neurotransmitter_ion_chnl_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036719",
+        "xref_name": "Neuro-gated_channel_TM_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036734",
+        "xref_name": "Neur_chan_lig-bd_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR038050",
+        "xref_name": "Neuro_actylchol_rec",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR18945",
+        "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2K58",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2K59",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2KSR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2LM2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5KXI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CNJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CNK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UR8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6USF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8SSZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8ST0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8ST1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8ST2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8ST3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8ST4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5KXI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF02931",
+        "xref_name": "Neur_chan_LBD",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02932",
+        "xref_name": "Neur_chan_memb",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA115",
+        "xref_name": "cholinergic receptor nicotinic beta 2 subunit",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P17787",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-629587",
+        "xref_name": "Highly sodium permeable postsynaptic acetylcholine nicotinic receptors",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-629594",
+        "xref_name": "Highly calcium permeable postsynaptic nicotinic acetylcholine receptors",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-629597",
+        "xref_name": "Highly calcium permeable nicotinic acetylcholine receptors",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P17787",
+        "xref_name": "Neuronal acetylcholine receptor subunit beta-2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UEH9",
+        "xref_name": "Neuronal acetylcholine receptor subunit beta-2",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1883"
+      },
+      {
+        "target_chembl_id": "CHEMBL1907589"
+      },
+      {
+        "target_chembl_id": "CHEMBL2109233"
+      },
+      {
+        "target_chembl_id": "CHEMBL2109234"
+      },
+      {
+        "target_chembl_id": "CHEMBL2109236"
+      },
+      {
+        "target_chembl_id": "CHEMBL2109237"
+      },
+      {
+        "target_chembl_id": "CHEMBL2111384"
+      },
+      {
+        "target_chembl_id": "CHEMBL2221346"
+      },
+      {
+        "target_chembl_id": "CHEMBL3038458"
+      },
+      {
+        "target_chembl_id": "CHEMBL3038461"
+      },
+      {
+        "target_chembl_id": "CHEMBL3137272"
+      },
+      {
+        "target_chembl_id": "CHEMBL3885595"
+      },
+      {
+        "target_chembl_id": "CHEMBL4524133"
+      },
+      {
+        "target_chembl_id": "CHEMBL4804182"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

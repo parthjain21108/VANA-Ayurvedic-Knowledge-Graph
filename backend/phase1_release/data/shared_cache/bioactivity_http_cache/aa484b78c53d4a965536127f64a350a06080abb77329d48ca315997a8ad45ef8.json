@@ -1,0 +1,1287 @@
+{
+  "data": {
+    "cross_references": [
+      {
+        "xref_id": "CPX-2007",
+        "xref_name": "Cyclin B1-CDK1 complex",
+        "xref_src": "ComplexPortal"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "pref_name": "Cyclin-dependent kinase 1/cyclin B1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1907602",
+    "target_components": [
+      {
+        "accession": "P06493",
+        "component_description": "Cyclin-dependent kinase 1",
+        "component_id": 7,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.11.22",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "2.7.11.23",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "CDC2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "CDC28A",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "CDK1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "CDK1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CDKN1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Cell division control protein 2 homolog",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cell division protein kinase 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cyclin-dependent kinase 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "P34CDC2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "p34 protein kinase",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P06493",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P06493",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000781",
+            "xref_name": "chromosome, telomeric region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005789",
+            "xref_name": "endoplasmic reticulum membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005813",
+            "xref_name": "centrosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005856",
+            "xref_name": "cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005876",
+            "xref_name": "spindle microtubule",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030496",
+            "xref_name": "midbody",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001618",
+            "xref_name": "virus receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003682",
+            "xref_name": "chromatin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016301",
+            "xref_name": "kinase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030332",
+            "xref_name": "cyclin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030544",
+            "xref_name": "Hsp70 protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000082",
+            "xref_name": "G1/S transition of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000086",
+            "xref_name": "G2/M transition of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000226",
+            "xref_name": "microtubule cytoskeleton organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006281",
+            "xref_name": "DNA repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006915",
+            "xref_name": "apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006974",
+            "xref_name": "DNA damage response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007077",
+            "xref_name": "mitotic nuclear membrane disassembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007095",
+            "xref_name": "mitotic G2 DNA damage checkpoint signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007098",
+            "xref_name": "centrosome cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009636",
+            "xref_name": "response to toxic substance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010628",
+            "xref_name": "positive regulation of gene expression",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010629",
+            "xref_name": "negative regulation of gene expression",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010971",
+            "xref_name": "positive regulation of G2/M transition of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014038",
+            "xref_name": "regulation of Schwann cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016477",
+            "xref_name": "cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0018105",
+            "xref_name": "peptidyl-serine phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0018107",
+            "xref_name": "peptidyl-threonine phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030261",
+            "xref_name": "chromosome condensation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030855",
+            "xref_name": "epithelial cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031100",
+            "xref_name": "animal organ regeneration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034501",
+            "xref_name": "protein localization to kinetochore",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042307",
+            "xref_name": "positive regulation of protein import into nucleus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042542",
+            "xref_name": "response to hydrogen peroxide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042752",
+            "xref_name": "regulation of circadian rhythm",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043066",
+            "xref_name": "negative regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0044772",
+            "xref_name": "mitotic cell cycle phase transition",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045740",
+            "xref_name": "positive regulation of DNA replication",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045931",
+            "xref_name": "positive regulation of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045995",
+            "xref_name": "regulation of embryonic development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046718",
+            "xref_name": "symbiont entry into host cell",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048144",
+            "xref_name": "fibroblast proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048511",
+            "xref_name": "rhythmic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048678",
+            "xref_name": "response to axon injury",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051301",
+            "xref_name": "cell division",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055015",
+            "xref_name": "ventricular cardiac muscle cell development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060045",
+            "xref_name": "positive regulation of cardiac muscle cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0062033",
+            "xref_name": "positive regulation of mitotic sister chromatid segregation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0065003",
+            "xref_name": "protein-containing complex assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070301",
+            "xref_name": "cellular response to hydrogen peroxide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070371",
+            "xref_name": "ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071407",
+            "xref_name": "cellular response to organic cyclic compound",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900182",
+            "xref_name": "positive regulation of protein localization to nucleus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902423",
+            "xref_name": "regulation of attachment of mitotic spindle microtubules to kinetochore",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902850",
+            "xref_name": "microtubule cytoskeleton organization involved in mitosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905448",
+            "xref_name": "positive regulation of mitochondrial ATP synthesis coupled electron transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:1722",
+            "xref_name": "CDK1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P06493",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000719",
+            "xref_name": "Prot_kinase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008271",
+            "xref_name": "Ser/Thr_kinase_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011009",
+            "xref_name": "Kinase-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017441",
+            "xref_name": "Protein_kinase_ATP_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050108",
+            "xref_name": "CDK",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24056",
+            "xref_name": "CELL DIVISION PROTEIN KINASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24056:SF334",
+            "xref_name": "CYCLIN-DEPENDENT KINASE 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "4Y72",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4YC3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4YC6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5HQ0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5LQF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6GU2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6GU3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6GU4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6GU6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6GU7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6TWN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7NJ0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Y72",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4YC3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4YC6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5HQ0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5LQF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6GU2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6GU3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6GU4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6GU6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6GU7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6TWN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00069",
+            "xref_name": "Pkinase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA99",
+            "xref_name": "cyclin dependent kinase 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P06493",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-110056",
+            "xref_name": "MAPK3 (ERK1) activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-113507",
+            "xref_name": "E2F-enabled inhibition of pre-replication complex formation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1362300",
+            "xref_name": "Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-162658",
+            "xref_name": "Golgi Cisternae Pericentriolar Stack Reorganization",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-174048",
+            "xref_name": "APC/C:Cdc20 mediated degradation of Cyclin B",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-174184",
+            "xref_name": "Cdc20:Phospho-APC/C mediated degradation of Cyclin A",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-176408",
+            "xref_name": "Regulation of APC/C activators between G1/S and early anaphase",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-176412",
+            "xref_name": "Phosphorylation of the APC/C",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-176417",
+            "xref_name": "Phosphorylation of Emi1",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2299718",
+            "xref_name": "Condensation of Prophase Chromosomes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2465910",
+            "xref_name": "MASTL Facilitates Mitotic Progression",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2500257",
+            "xref_name": "Resolution of Sister Chromatid Cohesion",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2514853",
+            "xref_name": "Condensation of Prometaphase Chromosomes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2565942",
+            "xref_name": "Regulation of PLK1 Activity at G2/M Transition",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2980767",
+            "xref_name": "Activation of NIMA Kinases NEK9, NEK6, NEK7",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2995383",
+            "xref_name": "Initiation of Nuclear Envelope (NE) Reformation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3301854",
+            "xref_name": "Nuclear Pore Complex (NPC) Disassembly",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-380259",
+            "xref_name": "Loss of Nlp from mitotic centrosomes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-380270",
+            "xref_name": "Recruitment of mitotic centrosome proteins and complexes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-380284",
+            "xref_name": "Loss of proteins required for interphase microtubule organization from the centrosome",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-380320",
+            "xref_name": "Recruitment of NuMA to mitotic centrosomes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-4419969",
+            "xref_name": "Depolymerization of the Nuclear Lamina",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5620912",
+            "xref_name": "Anchoring of the basal body to the plasma membrane",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5687128",
+            "xref_name": "MAPK6/MAPK4 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5689896",
+            "xref_name": "Ovarian tumor domain proteases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6804114",
+            "xref_name": "TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6804757",
+            "xref_name": "Regulation of TP53 Degradation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-68875",
+            "xref_name": "Mitotic Prophase",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-69205",
+            "xref_name": "G1/S-Specific Transcription",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-69273",
+            "xref_name": "Cyclin A/B1/B2 associated events during G2/M transition",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-69478",
+            "xref_name": "G2/M DNA replication checkpoint",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-75035",
+            "xref_name": "Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8852276",
+            "xref_name": "The role of GTSE1 in G2/M progression after G2 checkpoint",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8854518",
+            "xref_name": "AURKA Activation by TPX2",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8878166",
+            "xref_name": "Transcriptional regulation by RUNX2",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9833482",
+            "xref_name": "PKR-mediated signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8K7C4",
+            "xref_name": "Cyclin-dependent kinase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "C9J497",
+            "xref_name": "Cyclin-dependent kinase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O60764",
+            "xref_name": "Cyclin-dependent kinase 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P06493",
+            "xref_name": "Cyclin-dependent kinase 1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      },
+      {
+        "accession": "P14635",
+        "component_description": "G2/mitotic-specific cyclin-B1",
+        "component_id": 22,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "CCNB",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "CCNB1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "G2/mitotic-specific cyclin-B1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P14635",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P14635",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000922",
+            "xref_name": "spindle pole",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000940",
+            "xref_name": "outer kinetochore",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005813",
+            "xref_name": "centrosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005815",
+            "xref_name": "microtubule organizing center",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005856",
+            "xref_name": "cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005113",
+            "xref_name": "patched binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019901",
+            "xref_name": "protein kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044389",
+            "xref_name": "ubiquitin-like protein ligase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000082",
+            "xref_name": "G1/S transition of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000086",
+            "xref_name": "G2/M transition of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001701",
+            "xref_name": "in utero embryonic development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007052",
+            "xref_name": "mitotic spindle organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007080",
+            "xref_name": "mitotic metaphase chromosome alignment",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010971",
+            "xref_name": "positive regulation of G2/M transition of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0044772",
+            "xref_name": "mitotic cell cycle phase transition",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045787",
+            "xref_name": "positive regulation of cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045931",
+            "xref_name": "positive regulation of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048146",
+            "xref_name": "positive regulation of fibroblast proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051301",
+            "xref_name": "cell division",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051987",
+            "xref_name": "positive regulation of attachment of spindle microtubules to kinetochore",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090266",
+            "xref_name": "regulation of mitotic cell cycle spindle assembly checkpoint",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1905448",
+            "xref_name": "positive regulation of mitochondrial ATP synthesis coupled electron transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:1579",
+            "xref_name": "CCNB1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P14635",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR004367",
+            "xref_name": "Cyclin_C-dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006671",
+            "xref_name": "Cyclin_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013763",
+            "xref_name": "Cyclin-like_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036915",
+            "xref_name": "Cyclin-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR039361",
+            "xref_name": "Cyclin",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046965",
+            "xref_name": "Cyclin_A/B-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR048026",
+            "xref_name": "CCNB1_first_cyclin-box",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR048258",
+            "xref_name": "Cyclins_cyclin-box",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10177",
+            "xref_name": "CYCLINS",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2B9R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2JGZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4Y72",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4YC3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5HQ0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5LQF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6GU2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6GU3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6GU4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7NJ0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8TAR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8TAU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9FH9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2B9R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2JGZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4Y72",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4YC3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5HQ0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5LQF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6GU2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6GU3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6GU4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00134",
+            "xref_name": "Cyclin_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02984",
+            "xref_name": "Cyclin_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA95",
+            "xref_name": "cyclin B1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P14635",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-113507",
+            "xref_name": "E2F-enabled inhibition of pre-replication complex formation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-156711",
+            "xref_name": "Polo-like kinase mediated events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-162658",
+            "xref_name": "Golgi Cisternae Pericentriolar Stack Reorganization",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-174048",
+            "xref_name": "APC/C:Cdc20 mediated degradation of Cyclin B",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-176408",
+            "xref_name": "Regulation of APC/C activators between G1/S and early anaphase",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-176412",
+            "xref_name": "Phosphorylation of the APC/C",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-176417",
+            "xref_name": "Phosphorylation of Emi1",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2299718",
+            "xref_name": "Condensation of Prophase Chromosomes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2465910",
+            "xref_name": "MASTL Facilitates Mitotic Progression",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2500257",
+            "xref_name": "Resolution of Sister Chromatid Cohesion",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2514853",
+            "xref_name": "Condensation of Prometaphase Chromosomes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2565942",
+            "xref_name": "Regulation of PLK1 Activity at G2/M Transition",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2980767",
+            "xref_name": "Activation of NIMA Kinases NEK9, NEK6, NEK7",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2995383",
+            "xref_name": "Initiation of Nuclear Envelope (NE) Reformation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3301854",
+            "xref_name": "Nuclear Pore Complex (NPC) Disassembly",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-4419969",
+            "xref_name": "Depolymerization of the Nuclear Lamina",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6804114",
+            "xref_name": "TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-68875",
+            "xref_name": "Mitotic Prophase",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-69273",
+            "xref_name": "Cyclin A/B1/B2 associated events during G2/M transition",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-69478",
+            "xref_name": "G2/M DNA replication checkpoint",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-75035",
+            "xref_name": "Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8852276",
+            "xref_name": "The role of GTSE1 in G2/M progression after G2 checkpoint",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8878166",
+            "xref_name": "Transcriptional regulation by RUNX2",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9725371",
+            "xref_name": "Nuclear events stimulated by ALK signaling in cancer",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9825892",
+            "xref_name": "Regulation of MITF-M-dependent genes involved in cell cycle and proliferation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8K066",
+            "xref_name": "G2/mitotic-specific cyclin-B1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P14635",
+            "xref_name": "G2/mitotic-specific cyclin-B1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5TZP9",
+            "xref_name": "G2/mitotic-specific cyclin-B1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "PROTEIN COMPLEX",
+    "tax_id": 9606
+  },
+  "ok": true
+}

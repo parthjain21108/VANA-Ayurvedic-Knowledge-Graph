@@ -1,0 +1,347 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Rattus norvegicus",
+    "pref_name": "Thioredoxin reductase 1, cytoplasmic",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL6035",
+    "target_components": [
+      {
+        "accession": "O89049",
+        "component_description": "Thioredoxin reductase 1, cytoplasmic",
+        "component_id": 4570,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.11.1.2",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "1.8.1.9",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "NADPH-dependent thioredoxin reductase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Peroxidase TXNRD1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Thioredoxin reductase 1, cytoplasmic",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Thioredoxin reductase TR1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Trxr1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Txnrd1",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004791",
+            "xref_name": "thioredoxin-disulfide reductase (NADPH) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016174",
+            "xref_name": "NAD(P)H oxidase H2O2-forming activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0033797",
+            "xref_name": "selenate reductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0045340",
+            "xref_name": "mercury ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050137",
+            "xref_name": "NADPH peroxidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050660",
+            "xref_name": "flavin adenine dinucleotide binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0071949",
+            "xref_name": "FAD binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001707",
+            "xref_name": "mesoderm formation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006979",
+            "xref_name": "response to oxidative stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007369",
+            "xref_name": "gastrulation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008283",
+            "xref_name": "cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016259",
+            "xref_name": "selenocysteine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042537",
+            "xref_name": "benzene-containing compound metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042744",
+            "xref_name": "hydrogen peroxide catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043065",
+            "xref_name": "positive regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048678",
+            "xref_name": "response to axon injury",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055093",
+            "xref_name": "response to hyperoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070276",
+            "xref_name": "halogen metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070995",
+            "xref_name": "NADPH oxidation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071280",
+            "xref_name": "cellular response to copper ion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071455",
+            "xref_name": "cellular response to hyperoxia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098869",
+            "xref_name": "cellular oxidant detoxification",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR001100",
+            "xref_name": "Pyr_nuc-diS_OxRdtase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004099",
+            "xref_name": "Pyr_nucl-diS_OxRdtase_dimer",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006338",
+            "xref_name": "Thioredoxin/glutathione_Rdtase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012999",
+            "xref_name": "Pyr_OxRdtase_I_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016156",
+            "xref_name": "FAD/NAD-linked_Rdtase_dimer_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023753",
+            "xref_name": "FAD/NAD-binding_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036188",
+            "xref_name": "FAD/NAD-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046952",
+            "xref_name": "GSHR/TRXR-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR42737",
+            "xref_name": "GLUTATHIONE REDUCTASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR42737:SF8",
+            "xref_name": "THIOREDOXIN-DISULFIDE REDUCTASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1H6V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3EAN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3EAO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4KPR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1H6V",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3EAN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3EAO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4KPR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF02852",
+            "xref_name": "Pyr_redox_dim",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF07992",
+            "xref_name": "Pyr_redox_2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-RNO-3299685",
+            "xref_name": "Detoxification of Reactive Oxygen Species",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-499943",
+            "xref_name": "Interconversion of nucleotide di- and triphosphates",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-5263617",
+            "xref_name": "Metabolism of ingested MeSeO2H into MeSeH",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-5628897",
+            "xref_name": "TP53 Regulates Metabolic Genes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "O89049",
+            "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5U344",
+            "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9JKZ3",
+            "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9JKZ4",
+            "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9R1I3",
+            "xref_name": "Thioredoxin reductase 1, cytoplasmic",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 10116
+  },
+  "ok": true
+}

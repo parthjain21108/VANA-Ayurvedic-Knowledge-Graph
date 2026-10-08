@@ -1,0 +1,502 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "NPC intracellular cholesterol transporter 1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1293277",
+    "target_components": [
+      {
+        "accession": "O15118",
+        "component_description": "NPC intracellular cholesterol transporter 1",
+        "component_id": 5003,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Niemann-Pick C1 protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "NPC1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "NPC intracellular cholesterol transporter 1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "O15118",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "O15118",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005635",
+            "xref_name": "nuclear envelope",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005764",
+            "xref_name": "lysosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005765",
+            "xref_name": "lysosomal membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005768",
+            "xref_name": "endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005794",
+            "xref_name": "Golgi apparatus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031902",
+            "xref_name": "late endosome membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045121",
+            "xref_name": "membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048471",
+            "xref_name": "perinuclear region of cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001618",
+            "xref_name": "virus receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004888",
+            "xref_name": "transmembrane signaling receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015485",
+            "xref_name": "cholesterol binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0038023",
+            "xref_name": "signaling receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001889",
+            "xref_name": "liver development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006869",
+            "xref_name": "lipid transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006897",
+            "xref_name": "endocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006914",
+            "xref_name": "autophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007041",
+            "xref_name": "lysosomal transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007628",
+            "xref_name": "adult walking behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008203",
+            "xref_name": "cholesterol metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008206",
+            "xref_name": "bile acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0012501",
+            "xref_name": "programmed cell death",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0015918",
+            "xref_name": "sterol transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016125",
+            "xref_name": "sterol metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016236",
+            "xref_name": "macroautophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016242",
+            "xref_name": "negative regulation of macroautophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0022008",
+            "xref_name": "neurogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030301",
+            "xref_name": "cholesterol transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031579",
+            "xref_name": "membrane raft organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032365",
+            "xref_name": "intracellular lipid transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032367",
+            "xref_name": "intracellular cholesterol transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033344",
+            "xref_name": "cholesterol efflux",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042632",
+            "xref_name": "cholesterol homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046718",
+            "xref_name": "symbiont entry into host cell",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071383",
+            "xref_name": "cellular response to steroid hormone stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071404",
+            "xref_name": "cellular response to low-density lipoprotein particle stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904036",
+            "xref_name": "negative regulation of epithelial cell apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904262",
+            "xref_name": "negative regulation of TORC1 signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000900",
+            "xref_name": "cyclodextrin metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:7897",
+            "xref_name": "NPC1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "O15118",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000731",
+            "xref_name": "SSD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004765",
+            "xref_name": "NPC1-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR032190",
+            "xref_name": "NPC1_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR053956",
+            "xref_name": "NPC1_MLD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR053958",
+            "xref_name": "HMGCR/SNAP/NPC1-like_SSD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR45727",
+            "xref_name": "NPC INTRACELLULAR CHOLESTEROL TRANSPORTER 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR45727:SF2",
+            "xref_name": "NPC INTRACELLULAR CHOLESTEROL TRANSPORTER 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3GKH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3GKI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3GKJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3JD8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5F18",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5F1B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5HNS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5JNX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5KWY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5U73",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5U74",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6UOX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6W5R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6W5S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6W5T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6W5U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6W5V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8EUS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9DZ2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3GKH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3GKI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3GKJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5F18",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5F1B",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5HNS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5KWY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5U73",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5U74",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8EUS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF12349",
+            "xref_name": "Sterol-sensing",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF16414",
+            "xref_name": "NPC1_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF22314",
+            "xref_name": "NPC1_MLD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA31698",
+            "xref_name": "NPC intracellular cholesterol transporter 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "O15118",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-8964038",
+            "xref_name": "LDL clearance",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B4DET3",
+            "xref_name": "NPC intracellular cholesterol transporter 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O15118",
+            "xref_name": "NPC intracellular cholesterol transporter 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9P130",
+            "xref_name": "NPC intracellular cholesterol transporter 1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

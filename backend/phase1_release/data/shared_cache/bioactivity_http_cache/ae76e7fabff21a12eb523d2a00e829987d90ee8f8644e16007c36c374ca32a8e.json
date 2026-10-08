@@ -1,0 +1,369 @@
+{
+  "data": {
+    "accession": "Q8IUX4",
+    "component_id": 5797,
+    "component_type": "PROTEIN",
+    "description": "DNA dC->dU-editing enzyme APOBEC-3F",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0003723"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016787"
+      },
+      {
+        "go_id": "GO:0016810"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 646
+      }
+    ],
+    "sequence": "MKPHFRNTVERMYRDTFSYNFYNRPILSRRNTVWLCYEVKTKGPSRPRLDAKIFRGQVYSQPEHHAEMCFLSWFCGNQLPAYKCFQITWFVSWTPCPDCVAKLAEFLAEHPNVTLTISAARLYYYWERDYRRALCRLSQAGARVKIMDDEEFAYCWENFVYSEGQPFMPWYKFDDNYAFLHRTLKEILRNPMEAMYPHIFYFHFKNLRKAYGRNESWLCFTMEVVKHHSPVSWKRGVFRNQVDPETHCHAERCFLSWFCDDILSPNTNYEVTWYTSWSPCPECAGEVAEFLARHSNVNLTIFTARLYYFWDTDYQEGLRSLSQEGASVEIMGYKDFKYCWENFVYNDDEPFKPWKGLKYNFLFLDSKLQEILE",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.5.4.38",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "A3F",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "APOBEC3F",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Apolipoprotein B mRNA-editing enzyme catalytic polypeptide-like 3F",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "DNA dC->dU-editing enzyme APOBEC-3F",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q8IUX4",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0000932",
+        "xref_name": "P-body",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030895",
+        "xref_name": "apolipoprotein B mRNA editing enzyme complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:1990904",
+        "xref_name": "ribonucleoprotein complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003723",
+        "xref_name": "RNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004126",
+        "xref_name": "cytidine deaminase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016787",
+        "xref_name": "hydrolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0002230",
+        "xref_name": "positive regulation of defense response to virus by host",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010526",
+        "xref_name": "transposable element silencing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0044029",
+        "xref_name": "positive regulation of gene expression via chromosomal CpG island demethylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045071",
+        "xref_name": "negative regulation of viral genome replication",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045087",
+        "xref_name": "innate immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045869",
+        "xref_name": "negative regulation of single stranded viral RNA replication via double stranded DNA intermediate",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048525",
+        "xref_name": "negative regulation of viral process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070383",
+        "xref_name": "DNA cytosine deamination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:17356",
+        "xref_name": "APOBEC3F",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q8IUX4",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002125",
+        "xref_name": "CMP_dCMP_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016192",
+        "xref_name": "APOBEC/CMP_deaminase_Zn-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016193",
+        "xref_name": "Cytidine_deaminase-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050610",
+        "xref_name": "APOBEC_Cyt_Deaminase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR13857",
+        "xref_name": "MRNA EDITING ENZYME",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR13857:SF45",
+        "xref_name": "DNA DC-DU-EDITING ENZYME APOBEC-3F",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3WUS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4IOU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4J4J",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5HX4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5HX5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5W2M",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5ZVA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5ZVB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6NIL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8VUD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3WUS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4IOU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4J4J",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5HX4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5HX5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5W2M",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5ZVA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5ZVB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8VUD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF18782",
+        "xref_name": "NAD2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA24896",
+        "xref_name": "apolipoprotein B mRNA editing enzyme catalytic subunit 3F",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q8IUX4",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "B0QYD4",
+        "xref_name": "DNA dC->dU-editing enzyme APOBEC-3F",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q45F03",
+        "xref_name": "DNA dC->dU-editing enzyme APOBEC-3F",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6ICH3",
+        "xref_name": "DNA dC->dU-editing enzyme APOBEC-3F",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q7Z2N2",
+        "xref_name": "DNA dC->dU-editing enzyme APOBEC-3F",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q7Z2N5",
+        "xref_name": "DNA dC->dU-editing enzyme APOBEC-3F",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8IUX4",
+        "xref_name": "DNA dC->dU-editing enzyme APOBEC-3F",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2007626"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

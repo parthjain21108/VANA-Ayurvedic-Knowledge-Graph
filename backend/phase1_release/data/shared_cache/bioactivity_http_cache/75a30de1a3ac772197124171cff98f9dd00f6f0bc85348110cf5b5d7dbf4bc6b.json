@@ -1,0 +1,472 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Mus musculus",
+    "pref_name": "Toll-like receptor 2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1075106",
+    "target_components": [
+      {
+        "accession": "Q9QUN7",
+        "component_description": "Toll-like receptor 2",
+        "component_id": 3996,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "CD_antigen=CD282",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tlr2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Toll-like receptor 2",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q9QUN7",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005794",
+            "xref_name": "Golgi apparatus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009897",
+            "xref_name": "external side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030670",
+            "xref_name": "phagocytic vesicle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035354",
+            "xref_name": "Toll-like receptor 1-Toll-like receptor 2 protein complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035355",
+            "xref_name": "Toll-like receptor 2-Toll-like receptor 6 protein complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045121",
+            "xref_name": "membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001540",
+            "xref_name": "amyloid-beta binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004888",
+            "xref_name": "transmembrane signaling receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0038187",
+            "xref_name": "pattern recognition receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042497",
+            "xref_name": "triacyl lipopeptide binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042498",
+            "xref_name": "diacyl lipopeptide binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0061809",
+            "xref_name": "NAD+ nucleotidase, cyclic ADP-ribose generating",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001819",
+            "xref_name": "positive regulation of cytokine production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002224",
+            "xref_name": "toll-like receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002687",
+            "xref_name": "positive regulation of leukocyte migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002730",
+            "xref_name": "regulation of dendritic cell cytokine production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002752",
+            "xref_name": "cell surface pattern recognition receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002755",
+            "xref_name": "MyD88-dependent toll-like receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006809",
+            "xref_name": "nitric oxide biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006955",
+            "xref_name": "immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007612",
+            "xref_name": "learning",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014005",
+            "xref_name": "microglia development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030837",
+            "xref_name": "negative regulation of actin filament polymerization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032680",
+            "xref_name": "regulation of tumor necrosis factor production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032695",
+            "xref_name": "negative regulation of interleukin-12 production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032722",
+            "xref_name": "positive regulation of chemokine production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032728",
+            "xref_name": "positive regulation of interferon-beta production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032731",
+            "xref_name": "positive regulation of interleukin-1 beta production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032735",
+            "xref_name": "positive regulation of interleukin-12 production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032741",
+            "xref_name": "positive regulation of interleukin-18 production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032755",
+            "xref_name": "positive regulation of interleukin-6 production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032760",
+            "xref_name": "positive regulation of tumor necrosis factor production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045087",
+            "xref_name": "innate immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045429",
+            "xref_name": "positive regulation of nitric oxide biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050729",
+            "xref_name": "positive regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050765",
+            "xref_name": "negative regulation of phagocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050900",
+            "xref_name": "leukocyte migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051964",
+            "xref_name": "negative regulation of synapse assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060907",
+            "xref_name": "positive regulation of macrophage cytokine production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070371",
+            "xref_name": "ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071221",
+            "xref_name": "cellular response to bacterial lipopeptide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071223",
+            "xref_name": "cellular response to lipoteichoic acid",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071224",
+            "xref_name": "cellular response to peptidoglycan",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071726",
+            "xref_name": "cellular response to diacyl bacterial lipopeptide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071727",
+            "xref_name": "cellular response to triacyl bacterial lipopeptide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098792",
+            "xref_name": "xenophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902533",
+            "xref_name": "positive regulation of intracellular signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902624",
+            "xref_name": "positive regulation of neutrophil migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904417",
+            "xref_name": "positive regulation of xenophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990266",
+            "xref_name": "neutrophil migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "Q9QUN7",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000157",
+            "xref_name": "TIR_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000483",
+            "xref_name": "Cys-rich_flank_reg_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001611",
+            "xref_name": "Leu-rich_rpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003591",
+            "xref_name": "Leu-rich_rpt_typical-subtyp",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017241",
+            "xref_name": "Toll-like_receptor",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR032675",
+            "xref_name": "LRR_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035897",
+            "xref_name": "Toll_tir_struct_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24365",
+            "xref_name": "TOLL-LIKE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24365:SF17",
+            "xref_name": "TOLL-LIKE RECEPTOR 2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2Z81",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2Z82",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3A79",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3A7B",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3A7C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5D3I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2Z81",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2Z82",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3A79",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3A7B",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3A7C",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5D3I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF01582",
+            "xref_name": "TIR",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF13516",
+            "xref_name": "LRR_6",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF13855",
+            "xref_name": "LRR_8",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-MMU-1461957",
+            "xref_name": "Beta defensins",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-MMU-5686938",
+            "xref_name": "Regulation of TLR by endogenous ligand",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-MMU-6798695",
+            "xref_name": "Neutrophil degranulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q3U400",
+            "xref_name": "Toll-like receptor 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9DBC4",
+            "xref_name": "Toll-like receptor 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9QUN7",
+            "xref_name": "Toll-like receptor 2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 10090
+  },
+  "ok": true
+}

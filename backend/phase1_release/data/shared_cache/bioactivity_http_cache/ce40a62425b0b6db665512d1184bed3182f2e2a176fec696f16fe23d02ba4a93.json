@@ -1,0 +1,566 @@
+{
+  "data": {
+    "accession": "P05412",
+    "component_id": 3289,
+    "component_type": "PROTEIN",
+    "description": "Transcription factor Jun",
+    "go_slims": [
+      {
+        "go_id": "GO:0000228"
+      },
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0003723"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008134"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0030234"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0043065"
+      },
+      {
+        "go_id": "GO:0044403"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 12
+      }
+    ],
+    "sequence": "MTAKMETTFYDDALNASFLPSESGPYGYSNPKILKQSMTLNLADPVGSLKPHLRAKNSDLLTSPDVGLLKLASPELERLIIQSSNGHITTTPTPTQFLCPKNVTDEQEGFAEGFVRALAELHSQNTLPSVTSAAQPVNGAGMVAPAVASVAGGSGSGGFSASLHSEPPVYANLSNFNPGALSSGGGAPSYGAAGLAFPAQPQQQQQPPHHLPQQMPVQHPRLQALKEEPQTVPEMPGETPPLSPIDMESQERIKAERKRMRNRIAASKCRKRKLERIARLEEKVKTLKAQNSELASTANMLREQVAQLKQKVMNHVNSGCQLMLTQQLQTF",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Activator protein 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "AP1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "JUN",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "p39",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Proto-oncogene c-Jun",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Transcription factor AP-1 subunit Jun",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Transcription factor Jun",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "V-jun avian sarcoma virus 17 oncogene homolog",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P05412",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0000228",
+        "xref_name": "nuclear chromosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000785",
+        "xref_name": "chromatin",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000791",
+        "xref_name": "euchromatin",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005667",
+        "xref_name": "transcription regulator complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0035976",
+        "xref_name": "transcription factor AP-1 complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0090575",
+        "xref_name": "RNA polymerase II transcription regulator complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000976",
+        "xref_name": "transcription cis-regulatory region binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000978",
+        "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003690",
+        "xref_name": "double-stranded DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003723",
+        "xref_name": "RNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005096",
+        "xref_name": "GTPase activator activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019899",
+        "xref_name": "enzyme binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031625",
+        "xref_name": "ubiquitin protein ligase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0035497",
+        "xref_name": "cAMP response element binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0044389",
+        "xref_name": "ubiquitin-like protein ligase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0061629",
+        "xref_name": "RNA polymerase II-specific DNA-binding transcription factor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070412",
+        "xref_name": "R-SMAD binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140296",
+        "xref_name": "general transcription initiation factor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990837",
+        "xref_name": "sequence-specific double-stranded DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000122",
+        "xref_name": "negative regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007179",
+        "xref_name": "transforming growth factor beta receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019046",
+        "xref_name": "release from viral latency",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034976",
+        "xref_name": "response to endoplasmic reticulum stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042127",
+        "xref_name": "regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043065",
+        "xref_name": "positive regulation of apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043922",
+        "xref_name": "negative regulation by host of viral transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043923",
+        "xref_name": "positive regulation by host of viral transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045892",
+        "xref_name": "negative regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045893",
+        "xref_name": "positive regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051726",
+        "xref_name": "regulation of cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060395",
+        "xref_name": "SMAD protein signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0140467",
+        "xref_name": "integrated stress response signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902895",
+        "xref_name": "positive regulation of miRNA transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904707",
+        "xref_name": "positive regulation of vascular associated smooth muscle cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000144",
+        "xref_name": "positive regulation of DNA-templated transcription initiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:6204",
+        "xref_name": "JUN",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P05412",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002112",
+        "xref_name": "Leuzip_Jun",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR004827",
+        "xref_name": "bZIP",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR005643",
+        "xref_name": "JNK",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008917",
+        "xref_name": "TF_DNA-bd_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR046347",
+        "xref_name": "bZIP_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050946",
+        "xref_name": "AP-1_TF_bZIP",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11462",
+        "xref_name": "JUN TRANSCRIPTION FACTOR-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR11462:SF8",
+        "xref_name": "TRANSCRIPTION FACTOR JUN",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1A02",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1FOS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1JNM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1JUN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1S9K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1T2K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5FV8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5T01",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6Y3V",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8SOS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1A02",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1FOS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1JNM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1S9K",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1T2K",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5FV8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5T01",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6Y3V",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8SOS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00170",
+        "xref_name": "bZIP_1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF03957",
+        "xref_name": "Jun",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA30006",
+        "xref_name": "Jun proto-oncogene, AP-1 transcription factor subunit",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P05412",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1912408",
+        "xref_name": "Pre-NOTCH Transcription and Translation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2559580",
+        "xref_name": "Oxidative Stress Induced Senescence",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2559582",
+        "xref_name": "Senescence-Associated Secretory Phenotype (SASP)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2871796",
+        "xref_name": "FCERI mediated MAPK activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-450341",
+        "xref_name": "Activation of the AP-1 family of transcription factors",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5617472",
+        "xref_name": "Activation of anterior HOX genes in hindbrain development during early embryogenesis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5687128",
+        "xref_name": "MAPK6/MAPK4 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6796648",
+        "xref_name": "TP53 Regulates Transcription of DNA Repair Genes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8862803",
+        "xref_name": "Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8943724",
+        "xref_name": "Regulation of PTEN gene transcription",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9018519",
+        "xref_name": "Estrogen-dependent gene expression",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9673324",
+        "xref_name": "WNT5:FZD7-mediated leishmania damping",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9725370",
+        "xref_name": "Signaling by ALK fusions and activated point mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P05412",
+        "xref_name": "Transcription factor Jun",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6FHM7",
+        "xref_name": "Transcription factor Jun",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96G93",
+        "xref_name": "Transcription factor Jun",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4977"
+      },
+      {
+        "target_chembl_id": "CHEMBL2111421"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

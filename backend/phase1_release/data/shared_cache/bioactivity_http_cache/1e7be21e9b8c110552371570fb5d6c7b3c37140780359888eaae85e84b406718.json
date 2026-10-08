@@ -1,0 +1,365 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "DNA-3-methyladenine glycosylase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3396943",
+    "target_components": [
+      {
+        "accession": "P29372",
+        "component_description": "DNA-3-methyladenine glycosylase",
+        "component_id": 9749,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.2.2.21",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "3-alkyladenine DNA glycosylase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "3-methyladenine DNA glycosidase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "AAG",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "ADPG",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ANPG",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "DNA-3-methyladenine glycosylase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MID1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "MPG",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "N-methylpurine-DNA glycosylase",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P29372",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P29372",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042645",
+            "xref_name": "mitochondrial nucleoid",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003684",
+            "xref_name": "damaged DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003905",
+            "xref_name": "alkylbase DNA N-glycosylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008725",
+            "xref_name": "DNA-3-methyladenine glycosylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016787",
+            "xref_name": "hydrolase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019104",
+            "xref_name": "DNA N-glycosylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043916",
+            "xref_name": "DNA-7-methylguanine glycosylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0052821",
+            "xref_name": "DNA-7-methyladenine glycosylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0052822",
+            "xref_name": "DNA-3-methylguanine glycosylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990053",
+            "xref_name": "DNA-5-methylcytosine glycosylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006281",
+            "xref_name": "DNA repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006284",
+            "xref_name": "base-excision repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006307",
+            "xref_name": "DNA alkylation repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045007",
+            "xref_name": "depurination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:7211",
+            "xref_name": "MPG",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P29372",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR003180",
+            "xref_name": "MPG",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011034",
+            "xref_name": "Formyl_transferase-like_C_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036995",
+            "xref_name": "MPG_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10429",
+            "xref_name": "DNA-3-METHYLADENINE GLYCOSYLASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10429:SF0",
+            "xref_name": "DNA-3-METHYLADENINE GLYCOSYLASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1BNK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1EWN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1F4R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1F6O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3QI5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3UBY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7XFH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7XFJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7XFM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1BNK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1EWN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1F4R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1F6O",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3QI5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3UBY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF02245",
+            "xref_name": "Pur_DNA_glyco",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA30917",
+            "xref_name": "N-methylpurine DNA glycosylase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P29372",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-110330",
+            "xref_name": "Recognition and association of DNA glycosylase with site containing an affected purine",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-110331",
+            "xref_name": "Cleavage of the damaged purine",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-110357",
+            "xref_name": "Displacement of DNA glycosylase by APEX1",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "G5E9E2",
+            "xref_name": "DNA-3-methyladenine glycosylase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P29372",
+            "xref_name": "DNA-3-methyladenine glycosylase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q13770",
+            "xref_name": "DNA-3-methyladenine glycosylase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q15275",
+            "xref_name": "DNA-3-methyladenine glycosylase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q15961",
+            "xref_name": "DNA-3-methyladenine glycosylase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5J9I4",
+            "xref_name": "DNA-3-methyladenine glycosylase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96BZ6",
+            "xref_name": "DNA-3-methyladenine glycosylase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96S33",
+            "xref_name": "DNA-3-methyladenine glycosylase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NNX5",
+            "xref_name": "DNA-3-methyladenine glycosylase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

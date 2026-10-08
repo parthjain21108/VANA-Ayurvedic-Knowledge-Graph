@@ -1,0 +1,376 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Mus musculus",
+    "pref_name": "Elongation factor 2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL6196077",
+    "target_components": [
+      {
+        "accession": "P58252",
+        "component_description": "Elongation factor 2",
+        "component_id": 27905,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.6.5.-",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Eef2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "EF-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Elongation factor 2",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P58252",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005840",
+            "xref_name": "ribosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016235",
+            "xref_name": "aggresome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098794",
+            "xref_name": "postsynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098978",
+            "xref_name": "glutamatergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1990904",
+            "xref_name": "ribonucleoprotein complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0002039",
+            "xref_name": "p53 binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003723",
+            "xref_name": "RNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003746",
+            "xref_name": "translation elongation factor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003924",
+            "xref_name": "GTPase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005525",
+            "xref_name": "GTP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008097",
+            "xref_name": "5S rRNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019901",
+            "xref_name": "protein kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043022",
+            "xref_name": "ribosome binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051015",
+            "xref_name": "actin filament binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0106222",
+            "xref_name": "lncRNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002244",
+            "xref_name": "hematopoietic progenitor cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002931",
+            "xref_name": "response to ischemia",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0003009",
+            "xref_name": "skeletal muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006412",
+            "xref_name": "translation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006414",
+            "xref_name": "translational elongation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009410",
+            "xref_name": "response to xenobiotic stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014009",
+            "xref_name": "glial cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032355",
+            "xref_name": "response to estradiol",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034976",
+            "xref_name": "response to endoplasmic reticulum stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035914",
+            "xref_name": "skeletal muscle cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042542",
+            "xref_name": "response to hydrogen peroxide",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045471",
+            "xref_name": "response to ethanol",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045727",
+            "xref_name": "positive regulation of translation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051593",
+            "xref_name": "response to folic acid",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0140242",
+            "xref_name": "translation at postsynapse",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990416",
+            "xref_name": "cellular response to brain-derived neurotrophic factor stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000767",
+            "xref_name": "positive regulation of cytoplasmic translation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "P58252",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000640",
+            "xref_name": "EFG_V-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000795",
+            "xref_name": "T_Tr_GTP-bd_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004161",
+            "xref_name": "EFTu-like_2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005225",
+            "xref_name": "Small_GTP-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005517",
+            "xref_name": "Transl_elong_EFG/EF2_IV",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR009000",
+            "xref_name": "Transl_B-barrel_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR014721",
+            "xref_name": "Ribsml_uS5_D2-typ_fold_subgr",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020568",
+            "xref_name": "Ribosomal_Su5_D2-typ_SF",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR027417",
+            "xref_name": "P-loop_NTPase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR031157",
+            "xref_name": "G_TR_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035647",
+            "xref_name": "EFG_III/V",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR041095",
+            "xref_name": "EFG_II",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR42908",
+            "xref_name": "TRANSLATION ELONGATION FACTOR-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR42908:SF35",
+            "xref_name": "ELONGATION FACTOR 2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "7LS1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7LS2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "PF00009",
+            "xref_name": "GTP_EFTU",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00679",
+            "xref_name": "EFG_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF03144",
+            "xref_name": "GTP_EFTU_D2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF03764",
+            "xref_name": "EFG_IV",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF14492",
+            "xref_name": "EFG_III",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-MMU-156902",
+            "xref_name": "Peptide chain elongation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-MMU-5358493",
+            "xref_name": "Synthesis of diphthamide-EEF2",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-MMU-6798695",
+            "xref_name": "Neutrophil degranulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-MMU-8876725",
+            "xref_name": "Protein methylation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P58252",
+            "xref_name": "Elongation factor 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q544E4",
+            "xref_name": "Elongation factor 2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 10090
+  },
+  "ok": true
+}

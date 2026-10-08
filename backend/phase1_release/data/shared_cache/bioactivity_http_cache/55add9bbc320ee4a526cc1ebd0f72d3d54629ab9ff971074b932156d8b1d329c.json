@@ -1,0 +1,392 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Ubiquitin carboxyl-terminal hydrolase 2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1293227",
+    "target_components": [
+      {
+        "accession": "O75604",
+        "component_description": "Ubiquitin carboxyl-terminal hydrolase 2",
+        "component_id": 5143,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.4.19.12",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "41 kDa ubiquitin-specific protease",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Deubiquitinating enzyme 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Ubiquitin carboxyl-terminal hydrolase 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Ubiquitin-specific-processing protease 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Ubiquitin thioesterase 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "UBP41",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "USP2",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "O75604",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "O75604",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005813",
+            "xref_name": "centrosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048471",
+            "xref_name": "perinuclear region of cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004197",
+            "xref_name": "cysteine-type endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004843",
+            "xref_name": "cysteine-type deubiquitinase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008233",
+            "xref_name": "peptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008234",
+            "xref_name": "cysteine-type peptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030332",
+            "xref_name": "cyclin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031625",
+            "xref_name": "ubiquitin protein ligase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000122",
+            "xref_name": "negative regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007517",
+            "xref_name": "muscle organ development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043153",
+            "xref_name": "entrainment of circadian clock by photoperiod",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045475",
+            "xref_name": "locomotor rhythm",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045931",
+            "xref_name": "positive regulation of mitotic cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048511",
+            "xref_name": "rhythmic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048512",
+            "xref_name": "circadian behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050821",
+            "xref_name": "protein stabilization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901796",
+            "xref_name": "regulation of signal transduction by p53 class mediator",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:12618",
+            "xref_name": "USP2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "O75604",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001394",
+            "xref_name": "Peptidase_C19_UCH",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018200",
+            "xref_name": "USP_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR028889",
+            "xref_name": "USP",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038765",
+            "xref_name": "Papain-like_cys_pep_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050185",
+            "xref_name": "Ub_carboxyl-term_hydrolase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR21646",
+            "xref_name": "UBIQUITIN CARBOXYL-TERMINAL HYDROLASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR21646:SF17",
+            "xref_name": "UBIQUITIN CARBOXYL-TERMINAL HYDROLASE 2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2HD5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2IBI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3NHE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3V6C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3V6E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5XU8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5XVE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6DGF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HD5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2IBI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3NHE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3V6C",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3V6E",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5XU8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5XVE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6DGF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00443",
+            "xref_name": "UCH",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA37244",
+            "xref_name": "ubiquitin specific peptidase 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "O75604",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-5357786",
+            "xref_name": "TNFR1-induced proapoptotic signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5357905",
+            "xref_name": "Regulation of TNFR1 signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5357956",
+            "xref_name": "TNFR1-induced NF-kappa-B signaling pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5689880",
+            "xref_name": "Ub-specific processing proteases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6804757",
+            "xref_name": "Regulation of TP53 Degradation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B0YJB8",
+            "xref_name": "Ubiquitin carboxyl-terminal hydrolase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "E9PPM2",
+            "xref_name": "Ubiquitin carboxyl-terminal hydrolase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O75604",
+            "xref_name": "Ubiquitin carboxyl-terminal hydrolase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8IUM2",
+            "xref_name": "Ubiquitin carboxyl-terminal hydrolase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8IW04",
+            "xref_name": "Ubiquitin carboxyl-terminal hydrolase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96MB9",
+            "xref_name": "Ubiquitin carboxyl-terminal hydrolase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9BQ21",
+            "xref_name": "Ubiquitin carboxyl-terminal hydrolase 2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

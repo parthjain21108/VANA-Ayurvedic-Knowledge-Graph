@@ -1,0 +1,383 @@
+{
+  "data": {
+    "accession": "Q9UBE0",
+    "component_id": 4933,
+    "component_type": "PROTEIN",
+    "description": "SUMO-activating enzyme subunit 1",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016874"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0030234"
+      },
+      {
+        "go_id": "GO:0032880"
+      },
+      {
+        "go_id": "GO:0043008"
+      },
+      {
+        "go_id": "GO:0046982"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 601
+      }
+    ],
+    "sequence": "MVEKEEAGGGISEEEAAQYDRQIRLWGLEAQKRLRASRVLLVGLKGLGAEIAKNLILAGVKGLTMLDHEQVTPEDPGAQFLIRTGSVGRNRAEASLERAQNLNPMVDVKVDTEDIEKKPESFFTQFDAVCLTCCSRDVIVKVDQICHKNSIKFFTGDVFGYHGYTFANLGEHEFVEEKTKVAKVSQGVEDGPDTKRAKLDSSETTMVKKKVVFCPVKEALEVDWSSEKAKAALKRTTSDYFLLQVLLKFRTDKGRDPSSDTYEEDSELLLQIRNDVLDSLGISPDLLPEDFVRYCFSEMAPVCAVVGGILAQEIVKALSQRDPPHNNFFFFDGMKGNGIVECLGPK",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "AOS1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "SAE1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "SUA1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "SUMO-activating enzyme subunit 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SUMO-activating enzyme subunit 1, N-terminally processed",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Ubiquitin-like 1-activating enzyme E1A",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "UBLE1A",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q9UBE0",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q9UBE0",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031510",
+        "xref_name": "SUMO activating enzyme complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004839",
+        "xref_name": "ubiquitin activating enzyme activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008047",
+        "xref_name": "enzyme activator activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008641",
+        "xref_name": "ubiquitin-like modifier activating enzyme activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016874",
+        "xref_name": "ligase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019948",
+        "xref_name": "SUMO activating enzyme activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043008",
+        "xref_name": "ATP-dependent protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0044388",
+        "xref_name": "small protein activating enzyme binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046982",
+        "xref_name": "protein heterodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0033235",
+        "xref_name": "positive regulation of protein sumoylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1903955",
+        "xref_name": "positive regulation of protein targeting to mitochondrion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:30660",
+        "xref_name": "SAE1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q9UBE0",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000011",
+        "xref_name": "UBQ/SUMO-activ_enz_E1-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000594",
+        "xref_name": "ThiF_NAD_FAD-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR035985",
+        "xref_name": "Ubiquitin-activating_enz",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR045886",
+        "xref_name": "ThiF/MoeB/HesA",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR10953",
+        "xref_name": "UBIQUITIN-ACTIVATING ENZYME E1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR10953:SF201",
+        "xref_name": "SUMO-ACTIVATING ENZYME SUBUNIT 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1Y8Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1Y8R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3KYC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3KYD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CWY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CWZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6XOG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6XOH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6XOI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8VY5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1Y8Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1Y8R",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3KYC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3KYD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6CWY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6CWZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6XOG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6XOH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6XOI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8VY5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00899",
+        "xref_name": "ThiF",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA162402387",
+        "xref_name": "SUMO1 activating enzyme subunit 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q9UBE0",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-3065676",
+        "xref_name": "SUMO is conjugated to E1 (UBA2:SAE1)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-3065678",
+        "xref_name": "SUMO is transferred from E1 to E2 (UBE2I, UBC9)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B2RDP5",
+        "xref_name": "SUMO-activating enzyme subunit 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B3KMQ2",
+        "xref_name": "SUMO-activating enzyme subunit 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "F5GXX7",
+        "xref_name": "SUMO-activating enzyme subunit 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "G3XAK6",
+        "xref_name": "SUMO-activating enzyme subunit 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O95717",
+        "xref_name": "SUMO-activating enzyme subunit 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9P020",
+        "xref_name": "SUMO-activating enzyme subunit 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UBE0",
+        "xref_name": "SUMO-activating enzyme subunit 1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1615388"
+      },
+      {
+        "target_chembl_id": "CHEMBL2095174"
+      },
+      {
+        "target_chembl_id": "CHEMBL3137290"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

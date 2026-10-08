@@ -1,0 +1,614 @@
+{
+  "data": {
+    "accession": "P11413",
+    "component_id": 3643,
+    "component_type": "PROTEIN",
+    "description": "Glucose-6-phosphate 1-dehydrogenase",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005975"
+      },
+      {
+        "go_id": "GO:0006091"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0006790"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0021700"
+      },
+      {
+        "go_id": "GO:0030246"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0042803"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MAEQVALSRTQVCGILREELFQGDAFHQSDTHIFIIMGASGDLAKKKIYPTIWWLFRDGLLPENTFIVGYARSRLTVADIRKQSEPFFKATPEEKLKLEDFFARNSYVAGQYDDAASYQRLNSHMNALHLGSQANRLFYLALPPTVYEAVTKNIHESCMSQIGWNRIIVEKPFGRDLQSSDRLSNHISSLFREDQIYRIDHYLGKEMVQNLMVLRFANRIFGPIWNRDNIACVILTFKEPFGTEGRGGYFDEFGIIRDVMQNHLLQMLCLVAMEKPASTNSDDVRDEKVKVLKCISEVQANNVVLGQYVGNPDGEGEATKGYLDDPTVPRGSTTATFAAVVLYVENERWDGVPFILRCGKALNERKAEVRLQFHDVAGDIFHQQCKRNELVIRVQPNEAVYTKMMTKKPGMFFNPEESELDLTYGNRYKNVKLPDAYERLILDVFCGSQMHFVRSDELREAWRIFTPLLHQIELEKPKPIPYIYGSRGPTEADELMKRVGFQYEGTYKWVNPHKL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.-.-.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.1.1.49",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "G6PD",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "G6PD",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Glucose-6-phosphate 1-dehydrogenase",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P11413",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P11413",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0009898",
+        "xref_name": "cytoplasmic side of plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0034451",
+        "xref_name": "centriolar satellite",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004345",
+        "xref_name": "glucose-6-phosphate dehydrogenase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005536",
+        "xref_name": "D-glucose binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030246",
+        "xref_name": "carbohydrate binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042803",
+        "xref_name": "protein homodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0050661",
+        "xref_name": "NADP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006006",
+        "xref_name": "glucose metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006098",
+        "xref_name": "pentose-phosphate shunt",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006629",
+        "xref_name": "lipid metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006695",
+        "xref_name": "cholesterol biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006739",
+        "xref_name": "NADP metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006740",
+        "xref_name": "NADPH regeneration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006749",
+        "xref_name": "glutathione metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009051",
+        "xref_name": "pentose-phosphate shunt, oxidative branch",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010734",
+        "xref_name": "negative regulation of protein glutathionylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019322",
+        "xref_name": "pentose biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0021762",
+        "xref_name": "substantia nigra development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034599",
+        "xref_name": "cellular response to oxidative stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043249",
+        "xref_name": "erythrocyte maturation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043523",
+        "xref_name": "regulation of neuron apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046390",
+        "xref_name": "ribose phosphate biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051156",
+        "xref_name": "glucose 6-phosphate metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061052",
+        "xref_name": "negative regulation of cell growth involved in cardiac muscle cell development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904879",
+        "xref_name": "positive regulation of calcium ion transmembrane transport via high voltage-gated calcium channel",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000378",
+        "xref_name": "negative regulation of reactive oxygen species metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:4057",
+        "xref_name": "G6PD",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P11413",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001282",
+        "xref_name": "G6P_DH",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR019796",
+        "xref_name": "G6P_DH_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR022674",
+        "xref_name": "G6P_DH_NAD-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR022675",
+        "xref_name": "G6P_DH_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036291",
+        "xref_name": "NAD(P)-bd_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR23429",
+        "xref_name": "GLUCOSE-6-PHOSPHATE 1-DEHYDROGENASE G6PD",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR23429:SF0",
+        "xref_name": "GLUCOSE-6-PHOSPHATE 1-DEHYDROGENASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1QKI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2BH9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2BHL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5UKW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6E07",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6E08",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6JYU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6VA0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6VA7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6VA8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6VA9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6VAQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7SEH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7SEI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7SNF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7SNG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7SNH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7SNI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7TOE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7TOF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UAG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UAL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UC2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7ZVD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7ZVE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1QKI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2BH9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2BHL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5UKW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6E07",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6E08",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6JYU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6VA0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6VA7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6VA8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6VA9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6VAQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7SEH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7SEI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7ZVD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7ZVE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00479",
+        "xref_name": "G6PD_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02781",
+        "xref_name": "G6PD_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA28469",
+        "xref_name": "glucose-6-phosphate dehydrogenase",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P11413",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-5628897",
+        "xref_name": "TP53 Regulates Metabolic Genes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-71336",
+        "xref_name": "Pentose phosphate pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9818028",
+        "xref_name": "NFE2L2 regulates pentose phosphate pathway genes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "D3DWX9",
+        "xref_name": "Glucose-6-phosphate 1-dehydrogenase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P11413",
+        "xref_name": "Glucose-6-phosphate 1-dehydrogenase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q16000",
+        "xref_name": "Glucose-6-phosphate 1-dehydrogenase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q16765",
+        "xref_name": "Glucose-6-phosphate 1-dehydrogenase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8IU70",
+        "xref_name": "Glucose-6-phosphate 1-dehydrogenase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8IU88",
+        "xref_name": "Glucose-6-phosphate 1-dehydrogenase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8IUA6",
+        "xref_name": "Glucose-6-phosphate 1-dehydrogenase",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96PQ2",
+        "xref_name": "Glucose-6-phosphate 1-dehydrogenase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5347"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

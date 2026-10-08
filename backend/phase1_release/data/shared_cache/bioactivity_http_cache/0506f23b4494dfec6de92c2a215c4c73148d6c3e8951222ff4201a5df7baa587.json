@@ -1,0 +1,214 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "17-beta-hydroxysteroid dehydrogenase type 3",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4234",
+    "target_components": [
+      {
+        "accession": "P37058",
+        "component_description": "17-beta-hydroxysteroid dehydrogenase type 3",
+        "component_id": 2553,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.1.1.62",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "1.1.1.64",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "17-beta-HSD 3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "17-beta-hydroxysteroid dehydrogenase type 3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "EDH17B3",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Estradiol 17-beta-dehydrogenase 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HSD17B3",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "SDR12C2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Short chain dehydrogenase/reductase family 12C member 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Testicular 17-beta-hydroxysteroid dehydrogenase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Testosterone 17-beta-dehydrogenase 3",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P37058",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P37058",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005789",
+            "xref_name": "endoplasmic reticulum membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004303",
+            "xref_name": "estradiol 17-beta-dehydrogenase [NAD(P)+] activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030283",
+            "xref_name": "testosterone dehydrogenase [NAD(P)+] activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0047045",
+            "xref_name": "testosterone 17-beta-dehydrogenase (NADP+) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0072582",
+            "xref_name": "17-beta-hydroxysteroid dehydrogenase (NADP+) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006694",
+            "xref_name": "steroid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006702",
+            "xref_name": "androgen biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030539",
+            "xref_name": "male genitalia development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061370",
+            "xref_name": "testosterone biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:5212",
+            "xref_name": "HSD17B3",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P37058",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR002347",
+            "xref_name": "SDR_fam",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020904",
+            "xref_name": "Sc_DH/Rdtase_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036291",
+            "xref_name": "NAD(P)-bd_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR051019",
+            "xref_name": "VLCFA-Steroid_DH",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR43899",
+            "xref_name": "RH59310P",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR43899:SF7",
+            "xref_name": "17-BETA-HYDROXYSTEROID DEHYDROGENASE TYPE 3",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00106",
+            "xref_name": "adh_short",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA29480",
+            "xref_name": "hydroxysteroid 17-beta dehydrogenase 3",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P37058",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-193048",
+            "xref_name": "Androgen biosynthesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-75876",
+            "xref_name": "Synthesis of very long-chain fatty acyl-CoAs",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P37058",
+            "xref_name": "17-beta-hydroxysteroid dehydrogenase type 3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5U0Q6",
+            "xref_name": "17-beta-hydroxysteroid dehydrogenase type 3",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

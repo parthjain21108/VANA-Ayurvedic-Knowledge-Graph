@@ -1,0 +1,908 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Bifunctional 3'-5' exonuclease/ATP-dependent helicase WRN",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2146312",
+    "target_components": [
+      {
+        "accession": "Q14191",
+        "component_description": "Bifunctional 3'-5' exonuclease/ATP-dependent helicase WRN",
+        "component_id": 6779,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.1.-.-",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "3'-5' exonuclease",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5.6.2.4",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "ATP-dependent helicase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Bifunctional 3'-5' exonuclease/ATP-dependent helicase WRN",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DNA 3'-5' helicase WRN",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DNA helicase, RecQ-like type 3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "RECQ3",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "RECQL2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "RecQ protein-like 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Werner syndrome protein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "WRN",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q14191",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q14191",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000781",
+            "xref_name": "chromosome, telomeric region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005657",
+            "xref_name": "replication fork",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005694",
+            "xref_name": "chromosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005730",
+            "xref_name": "nucleolus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005813",
+            "xref_name": "centrosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016607",
+            "xref_name": "nuclear speck",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000287",
+            "xref_name": "magnesium ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000400",
+            "xref_name": "four-way junction DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000403",
+            "xref_name": "Y-form DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000405",
+            "xref_name": "bubble DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003676",
+            "xref_name": "nucleic acid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003678",
+            "xref_name": "DNA helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003682",
+            "xref_name": "chromatin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004386",
+            "xref_name": "helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004527",
+            "xref_name": "exonuclease activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008408",
+            "xref_name": "3'-5' exonuclease activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0009378",
+            "xref_name": "four-way junction helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016853",
+            "xref_name": "isomerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016887",
+            "xref_name": "ATP hydrolysis activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030145",
+            "xref_name": "manganese ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0036121",
+            "xref_name": "double-stranded DNA helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043138",
+            "xref_name": "3'-5' DNA helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051880",
+            "xref_name": "G-quadruplex DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0061749",
+            "xref_name": "forked DNA-dependent helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0061821",
+            "xref_name": "telomeric D-loop binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0061849",
+            "xref_name": "telomeric G-quadruplex DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070337",
+            "xref_name": "3'-flap-structured DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140665",
+            "xref_name": "ATP-dependent H3-H4 histone complex chaperone activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140849",
+            "xref_name": "ATP-dependent H2AZ histone chaperone activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1905773",
+            "xref_name": "8-hydroxy-2'-deoxyguanosine DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990518",
+            "xref_name": "single-stranded 3'-5' DNA helicase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000723",
+            "xref_name": "telomere maintenance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000724",
+            "xref_name": "double-strand break repair via homologous recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000731",
+            "xref_name": "DNA synthesis involved in DNA repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006259",
+            "xref_name": "DNA metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006268",
+            "xref_name": "DNA unwinding involved in DNA replication",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006281",
+            "xref_name": "DNA repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006284",
+            "xref_name": "base-excision repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006302",
+            "xref_name": "double-strand break repair",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006310",
+            "xref_name": "DNA recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006974",
+            "xref_name": "DNA damage response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006979",
+            "xref_name": "response to oxidative stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008340",
+            "xref_name": "determination of adult lifespan",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009267",
+            "xref_name": "cellular response to starvation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031297",
+            "xref_name": "replication fork processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032201",
+            "xref_name": "telomere maintenance via semi-conservative replication",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032508",
+            "xref_name": "DNA duplex unwinding",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0040009",
+            "xref_name": "regulation of growth rate",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0044806",
+            "xref_name": "G-quadruplex DNA unwinding",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051345",
+            "xref_name": "positive regulation of hydrolase activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061820",
+            "xref_name": "telomeric D-loop disassembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071480",
+            "xref_name": "cellular response to gamma radiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090398",
+            "xref_name": "cellular senescence",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090399",
+            "xref_name": "replicative senescence",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090656",
+            "xref_name": "t-circle formation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098530",
+            "xref_name": "positive regulation of strand invasion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902570",
+            "xref_name": "protein localization to nucleolus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:12791",
+            "xref_name": "WRN",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q14191",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001650",
+            "xref_name": "Helicase_C-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002121",
+            "xref_name": "HRDC_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002562",
+            "xref_name": "3'-5'_exonuclease_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004589",
+            "xref_name": "DNA_helicase_ATP-dep_RecQ",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR010997",
+            "xref_name": "HRDC-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011545",
+            "xref_name": "DEAD/DEAH_box_helicase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012337",
+            "xref_name": "RNaseH-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR014001",
+            "xref_name": "Helicase_ATP-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018982",
+            "xref_name": "RQC_domain",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR027417",
+            "xref_name": "P-loop_NTPase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR029491",
+            "xref_name": "Helicase_HTH",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR032284",
+            "xref_name": "RecQ_Zn-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036388",
+            "xref_name": "WH-like_DNA-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036390",
+            "xref_name": "WH_DNA-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036397",
+            "xref_name": "RNaseH_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR044876",
+            "xref_name": "HRDC_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR13710",
+            "xref_name": "DNA HELICASE RECQ FAMILY MEMBER",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR13710:SF120",
+            "xref_name": "BIFUNCTIONAL 3'-5' EXONUCLEASE_ATP-DEPENDENT HELICASE WRN",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2AXL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2DGZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2E1E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2E1F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2FBT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2FBV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2FBX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2FBY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2FC0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3AAF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6TYV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6YHR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7GQS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7GQT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7GQU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7XUT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8PFL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8PFO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8PFP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8YLE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9OG3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9OG8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9OW9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9OWA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9OWB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9OWC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9OWD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2E1E",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2E1F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2FBT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2FBV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2FBX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2FBY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2FC0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3AAF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6TYV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6YHR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7GQS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7GQT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7GQU",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7XUT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8PFL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8PFO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8PFP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8YLE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9OG3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9OG8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9OW9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9OWA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9OWB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9OWC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9OWD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00270",
+            "xref_name": "DEAD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00271",
+            "xref_name": "Helicase_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00570",
+            "xref_name": "HRDC",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF01612",
+            "xref_name": "DNA_pol_A_exo1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF09382",
+            "xref_name": "RQC",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF14493",
+            "xref_name": "HTH_40",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF16124",
+            "xref_name": "RecQ_Zn_bind",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA367",
+            "xref_name": "WRN RecQ like helicase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q14191",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-174414",
+            "xref_name": "Processive synthesis on the C-strand of the telomere",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-174437",
+            "xref_name": "Removal of the Flap Intermediate from the C-strand",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-3108214",
+            "xref_name": "SUMOylation of DNA damage response and repair proteins",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5685938",
+            "xref_name": "HDR through Single Strand Annealing (SSA)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5685942",
+            "xref_name": "HDR through Homologous Recombination (HRR)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693554",
+            "xref_name": "Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693568",
+            "xref_name": "Resolution of D-loop Structures through Holliday Junction Intermediates",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693579",
+            "xref_name": "Homologous DNA Pairing and Strand Exchange",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693607",
+            "xref_name": "Processing of DNA double-strand break ends",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5693616",
+            "xref_name": "Presynaptic phase of homologous DNA pairing and strand exchange",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6804756",
+            "xref_name": "Regulation of TP53 Activity through Phosphorylation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-69473",
+            "xref_name": "G2/M DNA damage checkpoint",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9701192",
+            "xref_name": "Defective homologous recombination repair (HRR) due to BRCA1 loss of function",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9704331",
+            "xref_name": "Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9704646",
+            "xref_name": "Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9709570",
+            "xref_name": "Impaired BRCA2 binding to RAD51",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9709603",
+            "xref_name": "Impaired BRCA2 binding to PALB2",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A1KYY9",
+            "xref_name": "Bifunctional 3'-5' exonuclease/ATP-dependent helicase WRN",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q14191",
+            "xref_name": "Bifunctional 3'-5' exonuclease/ATP-dependent helicase WRN",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

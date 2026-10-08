@@ -1,0 +1,921 @@
+{
+  "data": {
+    "accession": "P61088",
+    "component_id": 4640,
+    "component_type": "PROTEIN",
+    "description": "Ubiquitin-conjugating enzyme E2 N",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0003723"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016740"
+      },
+      {
+        "go_id": "GO:0016746"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0030234"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0032182"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1035
+      }
+    ],
+    "sequence": "MAGLPRRIIKETQRLLAEPVPGIKAEPDESNARYFHVVIAGPQDSPFEGGTFKLELFLPEEYPMAAPKVRFMTKIYHPNVDKLGRICLDILKDKWSPALQIRTVLLSIQALLSAPNPDDPLANDVAEQWKTNEAQAIETARAWTRLYAMNNI",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.3.2.23",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Bendless-like ubiquitin-conjugating enzyme",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "BLU",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "E2 ubiquitin-conjugating enzyme N",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Ubc13",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "UbcH13",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "UBE2N",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Ubiquitin carrier protein N",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Ubiquitin-conjugating enzyme E2 N",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Ubiquitin-protein ligase N",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P61088",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P61088",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0000151",
+        "xref_name": "ubiquitin ligase complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031371",
+        "xref_name": "ubiquitin conjugating enzyme complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031372",
+        "xref_name": "UBC13-MMS2 complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032991",
+        "xref_name": "protein-containing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098794",
+        "xref_name": "postsynapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098978",
+        "xref_name": "glutamatergic synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003723",
+        "xref_name": "RNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004842",
+        "xref_name": "ubiquitin-protein transferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016740",
+        "xref_name": "transferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019787",
+        "xref_name": "ubiquitin-like protein transferase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031625",
+        "xref_name": "ubiquitin protein ligase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043130",
+        "xref_name": "ubiquitin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0061631",
+        "xref_name": "ubiquitin conjugating enzyme activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0097027",
+        "xref_name": "ubiquitin-protein transferase activator activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000724",
+        "xref_name": "double-strand break repair via homologous recombination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0000729",
+        "xref_name": "DNA double-strand break processing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006281",
+        "xref_name": "DNA repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006282",
+        "xref_name": "regulation of DNA repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006301",
+        "xref_name": "postreplication repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006511",
+        "xref_name": "ubiquitin-dependent protein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043123",
+        "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043161",
+        "xref_name": "proteasome-mediated ubiquitin-dependent protein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045739",
+        "xref_name": "positive regulation of DNA repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050852",
+        "xref_name": "T cell receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0140374",
+        "xref_name": "antiviral innate immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902523",
+        "xref_name": "positive regulation of protein K63-linked ubiquitination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902533",
+        "xref_name": "positive regulation of intracellular signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904262",
+        "xref_name": "negative regulation of TORC1 signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000781",
+        "xref_name": "positive regulation of double-strand break repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:12492",
+        "xref_name": "UBE2N",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P61088",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000608",
+        "xref_name": "UBC",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR016135",
+        "xref_name": "UBQ-conjugating_enzyme/RWD",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023313",
+        "xref_name": "UBQ-conjugating_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24068",
+        "xref_name": "UBIQUITIN-CONJUGATING ENZYME E2",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1J7D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2C2V",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3HCT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3HCU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3VON",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3W31",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4DHI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4DHJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4DHZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4IP3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4NR3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4NRG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4NRI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ONL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ONM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ONN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ORH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4TKP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4WHV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5AIT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5AIU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5EYA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5H7S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5VNZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5VO0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5YWR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6D6I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6JKY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6KFP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6KG6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6KL4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6LP2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6P5B",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6S53",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6ULH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UMP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UMS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7BBD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7BBF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7BXG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9BIV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9LHJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1J7D",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2C2V",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3HCT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3HCU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3VON",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3W31",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4DHI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4DHJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4DHZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4IP3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4NR3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4NRG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4NRI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ONL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ONM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ONN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ORH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4TKP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4WHV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5AIT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5AIU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5EYA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5H7S",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5VNZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5VO0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5YWR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6D6I",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6JKY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6KFP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6KG6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6KL4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6LP2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6P5B",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6S53",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6ULH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UMP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6UMS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7BBD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7BBF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7BXG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9BIV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9LHJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00179",
+        "xref_name": "UQ_con",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA37141",
+        "xref_name": "ubiquitin conjugating enzyme E2 N",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P61088",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1169408",
+        "xref_name": "ISG15 antiviral mechanism",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-168638",
+        "xref_name": "NOD1/2 Signaling Pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-168927",
+        "xref_name": "TICAM1, RIP1-mediated IKK complex recruitment",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-202424",
+        "xref_name": "Downstream TCR signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2871837",
+        "xref_name": "FCERI mediated NF-kB activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-445989",
+        "xref_name": "TAK1-dependent IKK and NF-kappa-B activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-450302",
+        "xref_name": "activated TAK1 mediates p38 MAPK activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-450321",
+        "xref_name": "JNK (c-Jun kinases) phosphorylation and activation mediated by activated human TAK1",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5205685",
+        "xref_name": "PINK1-PRKN Mediated Mitophagy",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5607764",
+        "xref_name": "CLEC7A (Dectin-1) signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5693565",
+        "xref_name": "Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5693571",
+        "xref_name": "Nonhomologous End-Joining (NHEJ)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5693607",
+        "xref_name": "Processing of DNA double-strand break ends",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5696395",
+        "xref_name": "Formation of Incision Complex in GG-NER",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-69473",
+        "xref_name": "G2/M DNA damage checkpoint",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8866654",
+        "xref_name": "E3 ubiquitin ligases ubiquitinate target proteins",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9020702",
+        "xref_name": "Interleukin-1 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-937039",
+        "xref_name": "IRAK1 recruits IKK complex",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-937041",
+        "xref_name": "IKK complex recruitment mediated by RIP1",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9646399",
+        "xref_name": "Aggrephagy",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9705671",
+        "xref_name": "SARS-CoV-2 activates/modulates innate and adaptive immune responses",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-975110",
+        "xref_name": "TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-975144",
+        "xref_name": "IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-983168",
+        "xref_name": "Antigen processing: Ubiquitination & Proteasome degradation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P61088",
+        "xref_name": "Ubiquitin-conjugating enzyme E2 N",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q16781",
+        "xref_name": "Ubiquitin-conjugating enzyme E2 N",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q53Y81",
+        "xref_name": "Ubiquitin-conjugating enzyme E2 N",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL6089"
+      },
+      {
+        "target_chembl_id": "CHEMBL3883289"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

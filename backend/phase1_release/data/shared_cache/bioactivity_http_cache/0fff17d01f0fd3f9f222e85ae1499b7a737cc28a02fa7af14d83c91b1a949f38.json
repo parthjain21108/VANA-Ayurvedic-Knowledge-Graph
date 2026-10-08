@@ -1,0 +1,514 @@
+{
+  "data": {
+    "accession": "Q13951",
+    "component_id": 5234,
+    "component_type": "PROTEIN",
+    "description": "Core-binding factor subunit beta",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0021700"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0030674"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 601
+      }
+    ],
+    "sequence": "MPRVVPDQRSKFENEEFFRKLSRECEIKYTGFRDRPHEERQARFQNACRDGRSEIAFVATGTNLSLQFFPASWQGEQRQTPSREYVDLEREAGKVYLKAPMILNGVCVIWKGWIDLQRLDGMGCLEFDEERAQQEDALAQQAFEEARRRTREFEDRDRSHREEMEVRVSQLLAVTGKKTTRP",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "CBFB",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "CBF-beta",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Core-binding factor subunit beta",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PEA2-beta",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PEBP2-beta",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Polyomavirus enhancer-binding protein 2 beta subunit",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SL3-3 enhancer factor 1 subunit beta",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SL3/AKV core-binding factor beta subunit",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q13951",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q13951",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016513",
+        "xref_name": "core-binding factor complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003713",
+        "xref_name": "transcription coactivator activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043565",
+        "xref_name": "sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000122",
+        "xref_name": "negative regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001503",
+        "xref_name": "ossification",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001649",
+        "xref_name": "osteoblast differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030098",
+        "xref_name": "lymphocyte differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030099",
+        "xref_name": "myeloid cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043371",
+        "xref_name": "negative regulation of CD4-positive, alpha-beta T cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043378",
+        "xref_name": "positive regulation of CD8-positive, alpha-beta T cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048469",
+        "xref_name": "cell maturation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060216",
+        "xref_name": "definitive hemopoiesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:1539",
+        "xref_name": "CBFB",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q13951",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR003417",
+        "xref_name": "CBF_beta",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036552",
+        "xref_name": "CBF_bsu_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR10276",
+        "xref_name": "CORE-BINDING FACTOR, BETA SUBUNIT",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR10276:SF3",
+        "xref_name": "CORE-BINDING FACTOR SUBUNIT BETA",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1CL3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1E50",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1H9D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4N9F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6NIL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6P59",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6VGD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6VGE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6VGG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8CX0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8CX1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8CX2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8E40",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8FVI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8FVJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8H0I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8J62",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8SZK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1E50",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1H9D",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4N9F",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6P59",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6VGD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6VGE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6VGG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF02312",
+        "xref_name": "CBF_beta",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA26114",
+        "xref_name": "core-binding factor subunit beta",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q13951",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-8877330",
+        "xref_name": "RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8878166",
+        "xref_name": "Transcriptional regulation by RUNX2",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8931987",
+        "xref_name": "RUNX1 regulates estrogen receptor mediated transcription",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8934593",
+        "xref_name": "Regulation of RUNX1 Expression and Activity",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8935964",
+        "xref_name": "RUNX1 regulates expression of components of tight junctions",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8936459",
+        "xref_name": "RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939236",
+        "xref_name": "RUNX1 regulates transcription of genes involved in differentiation of HSCs",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939242",
+        "xref_name": "RUNX1 regulates transcription of genes involved in differentiation of keratinocytes",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939243",
+        "xref_name": "RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939245",
+        "xref_name": "RUNX1 regulates transcription of genes involved in BCR signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939246",
+        "xref_name": "RUNX1 regulates transcription of genes involved in differentiation of myeloid cells",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939247",
+        "xref_name": "RUNX1 regulates transcription of genes involved in interleukin signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939256",
+        "xref_name": "RUNX1 regulates transcription of genes involved in WNT signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8939902",
+        "xref_name": "Regulation of RUNX2 expression and activity",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8940973",
+        "xref_name": "RUNX2 regulates osteoblast differentiation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8941284",
+        "xref_name": "RUNX2 regulates chondrocyte maturation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8941326",
+        "xref_name": "RUNX2 regulates bone development",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8941332",
+        "xref_name": "RUNX2 regulates genes involved in cell migration",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8941333",
+        "xref_name": "RUNX2 regulates genes involved in differentiation of myeloid cells",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8941858",
+        "xref_name": "Regulation of RUNX3 expression and activity",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8949275",
+        "xref_name": "RUNX3 Regulates Immune Response and Cell Migration",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8951911",
+        "xref_name": "RUNX3 regulates RUNX1-mediated transcription",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8951936",
+        "xref_name": "RUNX3 regulates p14-ARF",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9018519",
+        "xref_name": "Estrogen-dependent gene expression",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9616222",
+        "xref_name": "Transcriptional regulation of granulopoiesis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A8K347",
+        "xref_name": "Core-binding factor subunit beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q13124",
+        "xref_name": "Core-binding factor subunit beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q13951",
+        "xref_name": "Core-binding factor subunit beta",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9HCT2",
+        "xref_name": "Core-binding factor subunit beta",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1615386"
+      },
+      {
+        "target_chembl_id": "CHEMBL2093862"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

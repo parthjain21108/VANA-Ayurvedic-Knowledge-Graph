@@ -1,0 +1,87 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Borrelia burgdorferi (strain ATCC 35210 / B31 / CIP 102532 / DSM4680)",
+    "pref_name": "Telomere resolvase ResT",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1667698",
+    "target_components": [
+      {
+        "accession": "O50979",
+        "component_description": "Telomere resolvase ResT",
+        "component_id": 5089,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.1.22.-",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "resT",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Telomere resolvase ResT",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "O50979",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009295",
+            "xref_name": "nucleoid",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004519",
+            "xref_name": "endonuclease activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006310",
+            "xref_name": "DNA recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR032047",
+            "xref_name": "ResT/TelK_cat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038280",
+            "xref_name": "ResT/TelK_cat_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PF16684",
+            "xref_name": "ResT-TelK_cat",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "O50979",
+            "xref_name": "Telomere resolvase ResT",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 224326
+  },
+  "ok": true
+}

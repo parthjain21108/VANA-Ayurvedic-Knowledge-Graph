@@ -1,0 +1,85 @@
+{
+  "run_id": "20260920T164003582726Z",
+  "input_dir": "..\\Acacia_leucophloea_update",
+  "store_root": "data\\canonical",
+  "dry_run": false,
+  "node_stats": {
+    "Plant": {
+      "added": 0,
+      "total": 115
+    },
+    "PlantPart": {
+      "added": 0,
+      "total": 590
+    },
+    "Phytochemicals": {
+      "added": 0,
+      "total": 2395
+    },
+    "TherapeuticUses": {
+      "added": 0,
+      "total": 540
+    },
+    "Targets": {
+      "added": 0,
+      "total": 435
+    },
+    "Documents": {
+      "added": 0,
+      "total": 820
+    },
+    "Bioactivities": {
+      "added": 0,
+      "total": 3296,
+      "source_rows": 578
+    }
+  },
+  "relationship_stats": {
+    "HAS_PART.csv": {
+      "added": 0,
+      "total": 590,
+      "source_rows": 9
+    },
+    "CONTAINS.csv": {
+      "added": 0,
+      "total": 8832,
+      "source_rows": 50
+    },
+    "USED_FOR.csv": {
+      "added": 0,
+      "total": 7286,
+      "source_rows": 33
+    },
+    "HAS_BIOACTIVITY.csv": {
+      "added": 0,
+      "total": 3804,
+      "source_rows": 612
+    },
+    "MEASURED_ON.csv": {
+      "added": 0,
+      "total": 3296,
+      "source_rows": 578
+    },
+    "REPORTED_IN.csv": {
+      "added": 0,
+      "total": 3296,
+      "source_rows": 578
+    }
+  },
+  "changed_files": [
+    "Plant.csv",
+    "PlantPart.csv",
+    "Phytochemicals.csv",
+    "TherapeuticUses.csv",
+    "Bioactivities.csv",
+    "Targets.csv",
+    "Documents.csv",
+    "HAS_PART.csv",
+    "CONTAINS.csv",
+    "USED_FOR.csv",
+    "HAS_BIOACTIVITY.csv",
+    "MEASURED_ON.csv",
+    "REPORTED_IN.csv"
+  ],
+  "snapshot": "data\\canonical\\snapshots\\20260920T164003376693Z"
+}

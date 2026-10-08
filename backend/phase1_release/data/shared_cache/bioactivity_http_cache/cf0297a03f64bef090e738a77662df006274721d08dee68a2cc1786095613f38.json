@@ -1,0 +1,480 @@
+{
+  "data": {
+    "accession": "P05129",
+    "component_id": 1268,
+    "component_type": "PROTEIN",
+    "description": "Protein kinase C gamma type",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0007267"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0009636"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0050877"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 317
+      }
+    ],
+    "sequence": "MAGLGPGVGDSEGGPRPLFCRKGALRQKVVHEVKSHKFTARFFKQPTFCSHCTDFIWGIGKQGLQCQVCSFVVHRRCHEFVTFECPGAGKGPQTDDPRNKHKFRLHSYSSPTFCDHCGSLLYGLVHQGMKCSCCEMNVHRRCVRSVPSLCGVDHTERRGRLQLEIRAPTADEIHVTVGEARNLIPMDPNGLSDPYVKLKLIPDPRNLTKQKTRTVKATLNPVWNETFVFNLKPGDVERRLSVEVWDWDRTSRNDFMGAMSFGVSELLKAPVDGWYKLLNQEEGEYYNVPVADADNCSLLQKFEACNYPLELYERVRMGPSSSPIPSPSPSPTDPKRCFFGASPGRLHISDFSFLMVLGKGSFGKVMLAERRGSDELYAIKILKKDVIVQDDDVDCTLVEKRVLALGGRGPGGRPHFLTQLHSTFQTPDRLYFVMEYVTGGDLMYHIQQLGKFKEPHAAFYAAEIAIGLFFLHNQGIIYRDLKLDNVMLDAEGHIKITDFGMCKENVFPGTTTRTFCGTPDYIAPEIIAYQPYGKSVDWWSFGVLLYEMLAGQPPFDGEDEEELFQAIMEQTVTYPKSLSREAVAICKGFLTKHPGKRLGSGPDGEPTIRAHGFFRWIDWERLERLEIPPPFRPRPCGRSGENFDKFFTRAAPALTPPDRLVLASIDQADFQGFTYVNPDFVHPDARSPTSPVPVPVM",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.11.13",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "PKCG",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "PKC-gamma",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PRKCG",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Protein kinase C gamma type",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P05129",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P05129",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005911",
+        "xref_name": "cell-cell junction",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0014069",
+        "xref_name": "postsynaptic density",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030425",
+        "xref_name": "dendrite",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043005",
+        "xref_name": "neuron projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0044305",
+        "xref_name": "calyx of Held",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045202",
+        "xref_name": "synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0048471",
+        "xref_name": "perinuclear region of cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0097060",
+        "xref_name": "synaptic membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0099523",
+        "xref_name": "presynaptic cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0099524",
+        "xref_name": "postsynaptic cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006468",
+        "xref_name": "protein phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007200",
+        "xref_name": "phospholipase C-activating G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007268",
+        "xref_name": "chemical synaptic transmission",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007611",
+        "xref_name": "learning or memory",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007635",
+        "xref_name": "chemosensory behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009636",
+        "xref_name": "response to toxic substance",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016310",
+        "xref_name": "phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031397",
+        "xref_name": "negative regulation of protein ubiquitination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032095",
+        "xref_name": "regulation of response to food",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032425",
+        "xref_name": "positive regulation of mismatch repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035556",
+        "xref_name": "intracellular signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042177",
+        "xref_name": "negative regulation of protein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042752",
+        "xref_name": "regulation of circadian rhythm",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043524",
+        "xref_name": "negative regulation of neuron apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048265",
+        "xref_name": "response to pain",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048511",
+        "xref_name": "rhythmic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050764",
+        "xref_name": "regulation of phagocytosis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060291",
+        "xref_name": "long-term synaptic potentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060384",
+        "xref_name": "innervation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0099171",
+        "xref_name": "presynaptic modulation of chemical synaptic transmission",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1901799",
+        "xref_name": "negative regulation of proteasomal protein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1990911",
+        "xref_name": "response to psychosocial stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000300",
+        "xref_name": "regulation of synaptic vesicle exocytosis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:9402",
+        "xref_name": "PRKCG",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P05129",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000008",
+        "xref_name": "C2_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000961",
+        "xref_name": "AGC-kinase_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR002219",
+        "xref_name": "PKC_DAG/PE",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008271",
+        "xref_name": "Ser/Thr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR014375",
+        "xref_name": "Protein_kinase_C_a/b/g",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017441",
+        "xref_name": "Protein_kinase_ATP_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017892",
+        "xref_name": "Pkinase_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020454",
+        "xref_name": "DAG/PE-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR035892",
+        "xref_name": "C2_domain_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR046349",
+        "xref_name": "C1-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24351",
+        "xref_name": "RIBOSOMAL PROTEIN S6 KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2E73",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2UZP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2UZP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00069",
+        "xref_name": "Pkinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00130",
+        "xref_name": "C1_1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00168",
+        "xref_name": "C2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00433",
+        "xref_name": "Pkinase_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA33766",
+        "xref_name": "protein kinase C gamma",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P05129",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-111933",
+        "xref_name": "Calmodulin induced events",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-114516",
+        "xref_name": "Disinhibition of SNARE formation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-416993",
+        "xref_name": "Trafficking of GluR2-containing AMPA receptors",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-418597",
+        "xref_name": "G alpha (z) signalling events",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5099900",
+        "xref_name": "WNT5A-dependent internalization of FZD4",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-76005",
+        "xref_name": "Response to elevated platelet cytosolic Ca2+",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B7Z8Q0",
+        "xref_name": "Protein kinase C gamma type",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P05129",
+        "xref_name": "Protein kinase C gamma type",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2938"
+      },
+      {
+        "target_chembl_id": "CHEMBL2093867"
+      },
+      {
+        "target_chembl_id": "CHEMBL2096620"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

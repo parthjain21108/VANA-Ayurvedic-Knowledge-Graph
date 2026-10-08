@@ -1,0 +1,624 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "5'-AMP-activated protein kinase catalytic subunit alpha-2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2116",
+    "target_components": [
+      {
+        "accession": "P54646",
+        "component_description": "5'-AMP-activated protein kinase catalytic subunit alpha-2",
+        "component_id": 458,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.11.1",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "2.7.11.31",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "5'-AMP-activated protein kinase catalytic subunit alpha-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ACACA kinase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Acetyl-CoA carboxylase kinase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "AMPK",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "AMPK2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "AMPK subunit alpha-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HMGCR kinase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Hydroxymethylglutaryl-CoA reductase kinase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PRKAA2",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P54646",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P54646",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005794",
+            "xref_name": "Golgi apparatus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0010494",
+            "xref_name": "cytoplasmic stress granule",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016607",
+            "xref_name": "nuclear speck",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031588",
+            "xref_name": "nucleotide-activated protein kinase complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003682",
+            "xref_name": "chromatin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006468",
+            "xref_name": "protein phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006633",
+            "xref_name": "fatty acid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006695",
+            "xref_name": "cholesterol biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006914",
+            "xref_name": "autophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008610",
+            "xref_name": "lipid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010508",
+            "xref_name": "positive regulation of autophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010629",
+            "xref_name": "negative regulation of gene expression",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016055",
+            "xref_name": "Wnt signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016239",
+            "xref_name": "positive regulation of macroautophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031669",
+            "xref_name": "cellular response to nutrient levels",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032007",
+            "xref_name": "negative regulation of TOR signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034599",
+            "xref_name": "cellular response to oxidative stress",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042149",
+            "xref_name": "cellular response to glucose starvation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042593",
+            "xref_name": "glucose homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042752",
+            "xref_name": "regulation of circadian rhythm",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043066",
+            "xref_name": "negative regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045821",
+            "xref_name": "positive regulation of glycolytic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048511",
+            "xref_name": "rhythmic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055089",
+            "xref_name": "fatty acid homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0062028",
+            "xref_name": "regulation of stress granule assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070507",
+            "xref_name": "regulation of microtubule cytoskeleton organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071277",
+            "xref_name": "cellular response to calcium ion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071333",
+            "xref_name": "cellular response to glucose stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071380",
+            "xref_name": "cellular response to prostaglandin E stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071466",
+            "xref_name": "cellular response to xenobiotic stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097009",
+            "xref_name": "energy homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903829",
+            "xref_name": "positive regulation of protein localization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1903944",
+            "xref_name": "negative regulation of hepatocyte apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904262",
+            "xref_name": "negative regulation of TORC1 signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904428",
+            "xref_name": "negative regulation of tubulin deacetylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1990044",
+            "xref_name": "protein localization to lipid droplet",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000758",
+            "xref_name": "positive regulation of peptidyl-lysine acetylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9377",
+            "xref_name": "PRKAA2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P54646",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000719",
+            "xref_name": "Prot_kinase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008271",
+            "xref_name": "Ser/Thr_kinase_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011009",
+            "xref_name": "Kinase-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017441",
+            "xref_name": "Protein_kinase_ATP_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR028375",
+            "xref_name": "KA1/Ssp2_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR028783",
+            "xref_name": "PRKAA2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR032270",
+            "xref_name": "AMPK_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR039148",
+            "xref_name": "AMPKA2_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR049020",
+            "xref_name": "PRKAA1/2_AID",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24346",
+            "xref_name": "MAP/MICROTUBULE AFFINITY-REGULATING KINASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24346:SF104",
+            "xref_name": "5'-AMP-ACTIVATED PROTEIN KINASE CATALYTIC SUBUNIT ALPHA-2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2H6D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2LTU",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2YZA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3AQV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4CFE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4CFF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4ZHX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5EZV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ISO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6B1U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6B2E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BX6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7MYJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8BIK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9IC2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2H6D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2YZA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3AQV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4CFE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4CFF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4ZHX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5EZV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5ISO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6B1U",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6B2E",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BX6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7MYJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8BIK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9IC2",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00069",
+            "xref_name": "Pkinase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF16579",
+            "xref_name": "AdenylateSensor",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF21147",
+            "xref_name": "AMPK_alpha_AID",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA33745",
+            "xref_name": "protein kinase AMP-activated catalytic subunit alpha 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P54646",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1445148",
+            "xref_name": "Translocation of SLC2A4 (GLUT4) to the plasma membrane",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1632852",
+            "xref_name": "Macroautophagy",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-163680",
+            "xref_name": "AMPK inhibits chREBP transcriptional activation activity",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-200425",
+            "xref_name": "Carnitine shuttle",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-2151209",
+            "xref_name": "Activation of PPARGC1A (PGC-1alpha) by phosphorylation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-380972",
+            "xref_name": "Energy dependent regulation of mTOR by LKB1-AMPK",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5628897",
+            "xref_name": "TP53 Regulates Metabolic Genes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6804756",
+            "xref_name": "Regulation of TP53 Activity through Phosphorylation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9613354",
+            "xref_name": "Lipophagy",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9619483",
+            "xref_name": "Activation of AMPK downstream of NMDARs",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9759194",
+            "xref_name": "Nuclear events mediated by NFE2L2",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P54646",
+            "xref_name": "5'-AMP-activated protein kinase catalytic subunit alpha-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9H1E8",
+            "xref_name": "5'-AMP-activated protein kinase catalytic subunit alpha-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UD43",
+            "xref_name": "5'-AMP-activated protein kinase catalytic subunit alpha-2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

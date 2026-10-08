@@ -1,0 +1,256 @@
+{
+  "data": {
+    "accession": "Q63344",
+    "component_id": 5939,
+    "component_type": "PROTEIN",
+    "description": "Monocarboxylate transporter 2",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0022857"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0055085"
+      }
+    ],
+    "organism": "Rattus norvegicus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 704
+      }
+    ],
+    "sequence": "MPSESSVKATAAPPPFPLPPDGGWGWVVVCASFISIGFSYAFPKAVTVFFNDIKDIFKTTSSQIAWISSIMLAVMYAGGPISSVLVNNYGSRPVVIVGGLLCCTGMILASFSSSVIELYLTVGFIGGLGLAFNLQPALTIIGKYFYRKRPLANGFAMAGSPVFLSTLAPFNQFLFNSYGWKGSFLILGAIFLHSCVAGCLMRPVGPSPRAAKSKSKVGSRQDSSTKRLSKVSTAEKINRFLDFGLFTHRGFLIYLSGNVVLFLGMFAPIIFLAPYAKDKGVDDYNSAFLLSVMAFTDMFARPSVGLIANTSLIRPRIQYLFSVAIMFTGICHLLCPLAHSYTALVVYVIFFGIGFGSISSLLFECLMDQVGASRFSSAVGLVTIVECCPVLFGPPLAGKLLDITGQYKYLYIASGIVVLSSGIYLLICNAINYRLLEKERKREKARRKKSASQASKEMEALSRSKQDDVTVKVSNTHNPPSDRDKESSI",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Mct2",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "MCT 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Monocarboxylate transporter 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Slc16a7",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Solute carrier family 16 member 7",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q63344",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016323",
+        "xref_name": "basolateral plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098685",
+        "xref_name": "Schaffer collateral - CA1 synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098686",
+        "xref_name": "hippocampal mossy fiber to CA3 synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098688",
+        "xref_name": "parallel fiber to Purkinje cell synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098839",
+        "xref_name": "postsynaptic density membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0098978",
+        "xref_name": "glutamatergic synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008028",
+        "xref_name": "monocarboxylic acid transmembrane transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0015129",
+        "xref_name": "lactate transmembrane transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0022857",
+        "xref_name": "transmembrane transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0050833",
+        "xref_name": "pyruvate transmembrane transporter activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0015718",
+        "xref_name": "monocarboxylic acid transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035873",
+        "xref_name": "lactate transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035879",
+        "xref_name": "plasma membrane lactate transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0055085",
+        "xref_name": "transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1901475",
+        "xref_name": "pyruvate transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR004743",
+        "xref_name": "MCT",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011701",
+        "xref_name": "MFS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020846",
+        "xref_name": "MFS_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036259",
+        "xref_name": "MFS_trans_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050327",
+        "xref_name": "Proton-linked_MCT",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11360",
+        "xref_name": "MONOCARBOXYLATE TRANSPORTER",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR11360:SF25",
+        "xref_name": "MONOCARBOXYLATE TRANSPORTER 2",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF07690",
+        "xref_name": "MFS_1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-RNO-433692",
+        "xref_name": "Proton-coupled monocarboxylate transport",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q63344",
+        "xref_name": "Monocarboxylate transporter 2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q63649",
+        "xref_name": "Monocarboxylate transporter 2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q66HS9",
+        "xref_name": "Monocarboxylate transporter 2",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2073718"
+      }
+    ],
+    "tax_id": 10116
+  },
+  "ok": true
+}

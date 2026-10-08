@@ -1,0 +1,424 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Aromatase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1978",
+    "target_components": [
+      {
+        "accession": "P11511",
+        "component_description": "Aromatase",
+        "component_id": 301,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.14.14.14",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "ARO1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Aromatase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CYAR",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "CYP19",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "CYP19A1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "CYPXIX",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P450 19A1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cytochrome P-450AROM",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Estrogen synthase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=ARO1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P11511",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P11511",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005789",
+            "xref_name": "endoplasmic reticulum membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004497",
+            "xref_name": "monooxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005506",
+            "xref_name": "iron ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008395",
+            "xref_name": "steroid hydroxylase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0009055",
+            "xref_name": "electron transfer activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016705",
+            "xref_name": "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016712",
+            "xref_name": "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070330",
+            "xref_name": "aromatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002677",
+            "xref_name": "negative regulation of chronic inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006629",
+            "xref_name": "lipid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006694",
+            "xref_name": "steroid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006703",
+            "xref_name": "estrogen biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006710",
+            "xref_name": "androgen catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006949",
+            "xref_name": "syncytium formation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008209",
+            "xref_name": "androgen metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008585",
+            "xref_name": "female gonad development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010760",
+            "xref_name": "negative regulation of macrophage chemotaxis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016125",
+            "xref_name": "sterol metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030540",
+            "xref_name": "female genitalia development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030879",
+            "xref_name": "mammary gland development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060065",
+            "xref_name": "uterus development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060736",
+            "xref_name": "prostate gland growth",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061370",
+            "xref_name": "testosterone biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000866",
+            "xref_name": "positive regulation of estradiol secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:2594",
+            "xref_name": "CYP19A1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P11511",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001128",
+            "xref_name": "Cyt_P450",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002401",
+            "xref_name": "Cyt_P450_E_grp-I",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017972",
+            "xref_name": "Cyt_P450_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036396",
+            "xref_name": "Cyt_P450_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050196",
+            "xref_name": "Cytochrome_P450_Monoox",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24291",
+            "xref_name": "CYTOCHROME P450 FAMILY 4",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24291:SF43",
+            "xref_name": "AROMATASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3EQM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3S79",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3S7S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4GL5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4GL7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4KQ8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5JKV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5JKW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5JL6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5JL7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5JL9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3EQM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3S79",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3S7S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4GL5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4GL7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4KQ8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5JKV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5JKW",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5JL6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5JL7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5JL9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00067",
+            "xref_name": "p450",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA27091",
+            "xref_name": "cytochrome P450 family 19 subfamily A member 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P11511",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-193144",
+            "xref_name": "Estrogen biosynthesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-211976",
+            "xref_name": "Endogenous sterols",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5579030",
+            "xref_name": "Defective CYP19A1 causes AEXS",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P11511",
+            "xref_name": "Aromatase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16731",
+            "xref_name": "Aromatase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q3B764",
+            "xref_name": "Aromatase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q58FA0",
+            "xref_name": "Aromatase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8IYJ7",
+            "xref_name": "Aromatase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "accession": "Q9BUB5",
+    "component_id": 3035,
+    "component_type": "PROTEIN",
+    "description": "MAP kinase-interacting serine/threonine-protein kinase 1",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005516"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 428
+      }
+    ],
+    "sequence": "MVSSQKLEKPIEMGSSEPLPIADGDRRRKKKRRGRATDSLPGKFEDMYKLTSELLGEGAYAKVQGAVSLQNGKEYAVKIIEKQAGHSRSRVFREVETLYQCQGNKNILELIEFFEDDTRFYLVFEKLQGGSILAHIQKQKHFNEREASRVVRDVAAALDFLHTKDKVSLCHLGWSAMAPSGLTAAPTSLGSSDPPTSASQVAGTTGIAHRDLKPENILCESPEKVSPVKICDFDLGSGMKLNNSCTPITTPELTTPCGSAEYMAPEVVEVFTDQATFYDKRCDLWSLGVVLYIMLSGYPPFVGHCGADCGWDRGEVCRVCQNKLFESIQEGKYEFPDKDWAHISSEAKDLISKLLVRDAKQRLSAAQVLQHPWVQGQAPEKGLPTPQVLQRNSSTMDLTLFAAEAIALNRQLSQHEENELAEEPEALADGLCSMKLSPPCKSRLARRRALAQAGRGEDRSPPTAL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.11.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "MAP kinase-interacting serine/threonine-protein kinase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MAP kinase signal-integrating kinase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MAPK signal-integrating kinase 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MKNK1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Mnk1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MNK1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q9BUB5",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q9BUB5",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005516",
+        "xref_name": "calmodulin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006468",
+        "xref_name": "protein phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0018105",
+        "xref_name": "peptidyl-serine phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035556",
+        "xref_name": "intracellular signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:7110",
+        "xref_name": "MKNK1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q9BUB5",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008271",
+        "xref_name": "Ser/Thr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017441",
+        "xref_name": "Protein_kinase_ATP_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050205",
+        "xref_name": "CDPK_Ser/Thr_kinases",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24349",
+        "xref_name": "SERINE/THREONINE-PROTEIN KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2HW6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2Y9Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5WVD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2HW6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2Y9Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5WVD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00069",
+        "xref_name": "Pkinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA30829",
+        "xref_name": "MAPK interacting serine/threonine kinase 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q9BUB5",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1295596",
+        "xref_name": "Spry regulation of FGF signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "D3DQ20",
+        "xref_name": "MAP kinase-interacting serine/threonine-protein kinase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "D3DQ21",
+        "xref_name": "MAP kinase-interacting serine/threonine-protein kinase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O00312",
+        "xref_name": "MAP kinase-interacting serine/threonine-protein kinase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5TC06",
+        "xref_name": "MAP kinase-interacting serine/threonine-protein kinase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5TC07",
+        "xref_name": "MAP kinase-interacting serine/threonine-protein kinase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6V0N6",
+        "xref_name": "MAP kinase-interacting serine/threonine-protein kinase 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9BUB5",
+        "xref_name": "MAP kinase-interacting serine/threonine-protein kinase 1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4718"
+      },
+      {
+        "target_chembl_id": "CHEMBL3883293"
+      },
+      {
+        "target_chembl_id": "CHEMBL6195540"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

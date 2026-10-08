@@ -1,0 +1,837 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Fibrinogen beta chain",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2048",
+    "target_components": [
+      {
+        "accession": "P02675",
+        "component_description": "Fibrinogen beta chain",
+        "component_id": 388,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "FGB",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Fibrinogen beta chain",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Fibrinopeptide B",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P02675",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P02675",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005577",
+            "xref_name": "fibrinogen complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005938",
+            "xref_name": "cell cortex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009897",
+            "xref_name": "external side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0031093",
+            "xref_name": "platelet alpha granule lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0072562",
+            "xref_name": "blood microparticle",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1903561",
+            "xref_name": "extracellular vesicle",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005102",
+            "xref_name": "signaling receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005198",
+            "xref_name": "structural molecule activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005201",
+            "xref_name": "extracellular matrix structural constituent",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050839",
+            "xref_name": "cell adhesion molecule binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051087",
+            "xref_name": "protein-folding chaperone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002250",
+            "xref_name": "adaptive immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007160",
+            "xref_name": "cell-matrix adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007596",
+            "xref_name": "blood coagulation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030168",
+            "xref_name": "platelet activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031639",
+            "xref_name": "plasminogen activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034116",
+            "xref_name": "positive regulation of heterotypic cell-cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042730",
+            "xref_name": "fibrinolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043152",
+            "xref_name": "induction of bacterial agglutination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0044320",
+            "xref_name": "cellular response to leptin stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045087",
+            "xref_name": "innate immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045907",
+            "xref_name": "positive regulation of vasoconstriction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045921",
+            "xref_name": "positive regulation of exocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050714",
+            "xref_name": "positive regulation of protein secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051258",
+            "xref_name": "protein polymerization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0065003",
+            "xref_name": "protein-containing complex assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070527",
+            "xref_name": "platelet aggregation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0072378",
+            "xref_name": "blood coagulation, fibrin clot formation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090277",
+            "xref_name": "positive regulation of peptide hormone secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900026",
+            "xref_name": "positive regulation of substrate adhesion-dependent cell spreading",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902042",
+            "xref_name": "negative regulation of extrinsic apoptotic signaling pathway via death domain receptors",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000352",
+            "xref_name": "negative regulation of endothelial cell apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:3662",
+            "xref_name": "FGB",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P02675",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR002181",
+            "xref_name": "Fibrinogen_a/b/g_C_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012290",
+            "xref_name": "Fibrinogen_a/b/g_coil_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR014716",
+            "xref_name": "Fibrinogen_a/b/g_C_1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020837",
+            "xref_name": "Fibrinogen_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036056",
+            "xref_name": "Fibrinogen-like_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR037579",
+            "xref_name": "FIB_ANG-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR47221",
+            "xref_name": "FIBRINOGEN ALPHA CHAIN",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR47221:SF5",
+            "xref_name": "FIBRINOGEN C-TERMINAL DOMAIN-CONTAINING PROTEIN",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1FZA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1FZB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1FZC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1FZE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1FZF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1FZG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1LT9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1LTJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1N86",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1N8E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RE3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RE4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RF0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1RF1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2A45",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2FFD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2H43",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HLO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HOD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2HPC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2OYH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2OYI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2Q9I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2XNX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2XNY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2Z4E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3BVH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3E1I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3GHG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3H32",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3HUS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6ATZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BIJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BIL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6V0Y",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6V13",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6V15",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6V18",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6V19",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6V1A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1FZA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1FZB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1FZC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1FZE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1FZF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1FZG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1LT9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1LTJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1N86",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1N8E",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RE3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RE4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RF0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1RF1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2A45",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2FFD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2H43",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2HLO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2HOD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2HPC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2OYH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2OYI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2Q9I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2XNX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2XNY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2Z4E",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3BVH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3E1I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3GHG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3H32",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3HUS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6ATZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BIJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BIL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6V0Y",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6V13",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6V15",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6V18",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6V19",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6V1A",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00147",
+            "xref_name": "Fibrinogen_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF08702",
+            "xref_name": "Fib_alpha",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA163",
+            "xref_name": "fibrinogen beta chain",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P02675",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-114608",
+            "xref_name": "Platelet degranulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1236974",
+            "xref_name": "ER-Phagosome pathway",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-140875",
+            "xref_name": "Common Pathway of Fibrin Clot Formation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-166058",
+            "xref_name": "MyD88:MAL(TIRAP) cascade initiated on plasma membrane",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-216083",
+            "xref_name": "Integrin cell surface interactions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-354192",
+            "xref_name": "Integrin signaling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-354194",
+            "xref_name": "GRB2:SOS provides linkage to MAPK signaling for Integrins",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-372708",
+            "xref_name": "p130Cas linkage to MAPK signaling for integrins",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5602498",
+            "xref_name": "MyD88 deficiency (TLR2/4)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5603041",
+            "xref_name": "IRAK4 deficiency (TLR2/4)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5674135",
+            "xref_name": "MAP2K and MAPK activation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5686938",
+            "xref_name": "Regulation of TLR by endogenous ligand",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6802946",
+            "xref_name": "Signaling by moderate kinase activity BRAF mutants",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6802948",
+            "xref_name": "Signaling by high-kinase activity BRAF mutants",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6802952",
+            "xref_name": "Signaling by BRAF and RAF1 fusions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6802955",
+            "xref_name": "Paradoxical activation of RAF signaling by kinase inactive BRAF",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9649948",
+            "xref_name": "Signaling downstream of RAS mutants",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9656223",
+            "xref_name": "Signaling by RAF1 mutants",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A0JLR9",
+            "xref_name": "Fibrinogen beta chain",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B2R7G3",
+            "xref_name": "Fibrinogen beta chain",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P02675",
+            "xref_name": "Fibrinogen beta chain",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q32Q65",
+            "xref_name": "Fibrinogen beta chain",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q3KPF2",
+            "xref_name": "Fibrinogen beta chain",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

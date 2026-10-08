@@ -1,0 +1,130 @@
+{
+  "data": {
+    "accession": "Q965D6",
+    "component_id": 2830,
+    "component_type": "PROTEIN",
+    "description": "3-oxoacyl-[acyl-carrier-protein] reductase",
+    "go_slims": [
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0044281"
+      },
+      {
+        "go_id": "GO:0051287"
+      }
+    ],
+    "organism": "Plasmodium falciparum",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MSVLHRFYLFFLFTKFFHCYKISYVLKNAKLAPNHAIKNINSLNLLSENKKENYYYCGENKVALVTGAGRGIGREIAKMLAKSVSHVICISRTQKSCDSVVDEIKSFGYESSGYAGDVSKKEEISEVINKILTEHKNVDILVSNAGITRDNLFLRMKNDEWEDVLRTNLNSLFYITQPISKRMINNRYGRIINISSIVGLTGNVGQANYSSSKAGVIGFTKSLAKELASRNITVNAIAPGFISSDMTDKISEQIKKNIISNIPAGRMGTPEEVANLACFLSSDKSGYINGRVFVIDGGLSP",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.1.1.100",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "3-oxoacyl-[acyl-carrier-protein] reductase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "fabG",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q965D6",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0004316",
+        "xref_name": "3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051287",
+        "xref_name": "NAD binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006633",
+        "xref_name": "fatty acid biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR002347",
+        "xref_name": "SDR_fam",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011284",
+        "xref_name": "3oxo_ACP_reduc",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020904",
+        "xref_name": "Sc_DH/Rdtase_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036291",
+        "xref_name": "NAD(P)-bd_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050259",
+        "xref_name": "SDR",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR057326",
+        "xref_name": "KR_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR42879",
+        "xref_name": "3-OXOACYL-(ACYL-CARRIER-PROTEIN) REDUCTASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR42879:SF2",
+        "xref_name": "3-OXOACYL-[ACYL-CARRIER-PROTEIN] REDUCTASE FABG",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF00106",
+        "xref_name": "adh_short",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "Q965D6",
+        "xref_name": "3-oxoacyl-[acyl-carrier-protein] reductase",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4513"
+      }
+    ],
+    "tax_id": 5833
+  },
+  "ok": true
+}

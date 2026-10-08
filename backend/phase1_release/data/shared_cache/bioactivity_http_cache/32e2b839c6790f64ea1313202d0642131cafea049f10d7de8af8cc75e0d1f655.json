@@ -1,0 +1,483 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "D-amino-acid oxidase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5485",
+    "target_components": [
+      {
+        "accession": "P14920",
+        "component_description": "D-amino-acid oxidase",
+        "component_id": 3777,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.4.3.3",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "DAAO",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "D-amino-acid oxidase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DAMOX",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "DAMOX",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DAO",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "DAO",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P14920",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P14920",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005741",
+            "xref_name": "mitochondrial outer membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005777",
+            "xref_name": "peroxisome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005782",
+            "xref_name": "peroxisomal matrix",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048786",
+            "xref_name": "presynaptic active zone",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003884",
+            "xref_name": "D-amino-acid oxidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016491",
+            "xref_name": "oxidoreductase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043799",
+            "xref_name": "glycine oxidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0071949",
+            "xref_name": "FAD binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006562",
+            "xref_name": "proline catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007586",
+            "xref_name": "digestion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019478",
+            "xref_name": "D-amino acid catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0036088",
+            "xref_name": "D-serine catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042416",
+            "xref_name": "dopamine biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046416",
+            "xref_name": "D-amino acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055130",
+            "xref_name": "D-alanine catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070178",
+            "xref_name": "D-serine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070945",
+            "xref_name": "neutrophil-mediated killing of gram-negative bacterium",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:2671",
+            "xref_name": "DAO",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P14920",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR006076",
+            "xref_name": "FAD-dep_OxRdtase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006181",
+            "xref_name": "D-amino_acid_oxidase_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023209",
+            "xref_name": "DAO",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11530",
+            "xref_name": "D-AMINO ACID OXIDASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11530:SF15",
+            "xref_name": "D-AMINO-ACID OXIDASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2DU8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2E48",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2E49",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2E4A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2E82",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3CUK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3G3E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3W4I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3W4J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3W4K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3ZNN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3ZNO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3ZNP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3ZNQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QFC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4QFD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ZJ9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5ZJA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6KBP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7U9S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7U9U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8HY5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2DU8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2E48",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2E49",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2E4A",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2E82",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3CUK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3G3E",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3W4I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3W4J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3W4K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3ZNN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3ZNO",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3ZNP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3ZNQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QFC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4QFD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5ZJ9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5ZJA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6KBP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7U9S",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7U9U",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8HY5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF01266",
+            "xref_name": "DAO",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA27139",
+            "xref_name": "D-amino acid oxidase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P14920",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-389661",
+            "xref_name": "Glyoxylate metabolism and glycine degradation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9033241",
+            "xref_name": "Peroxisomal protein import",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B2R7I5",
+            "xref_name": "D-amino-acid oxidase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P14920",
+            "xref_name": "D-amino-acid oxidase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16758",
+            "xref_name": "D-amino-acid oxidase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8N6R2",
+            "xref_name": "D-amino-acid oxidase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

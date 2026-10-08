@@ -1,0 +1,203 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Rattus norvegicus",
+    "pref_name": "Norepinephrine transporter",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL304",
+    "target_components": [
+      {
+        "accession": "Q9WTR4",
+        "component_description": "Transporter",
+        "component_id": 2355,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Slc6a2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Transporter",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q9WTR4",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030672",
+            "xref_name": "synaptic vesicle membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032809",
+            "xref_name": "neuronal cell body membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042734",
+            "xref_name": "presynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098793",
+            "xref_name": "presynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003779",
+            "xref_name": "actin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005326",
+            "xref_name": "neurotransmitter transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005328",
+            "xref_name": "neurotransmitter:sodium symporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005330",
+            "xref_name": "dopamine:sodium symporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005334",
+            "xref_name": "norepinephrine:sodium symporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008504",
+            "xref_name": "monoamine transmembrane transporter activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043014",
+            "xref_name": "alpha-tubulin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0048487",
+            "xref_name": "beta-tubulin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006836",
+            "xref_name": "neurotransmitter transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006865",
+            "xref_name": "amino acid transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0015874",
+            "xref_name": "norepinephrine transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035725",
+            "xref_name": "sodium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048265",
+            "xref_name": "response to pain",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051583",
+            "xref_name": "dopamine uptake involved in synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051620",
+            "xref_name": "norepinephrine uptake",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098810",
+            "xref_name": "neurotransmitter reuptake",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR000175",
+            "xref_name": "Na/ntran_symport",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002435",
+            "xref_name": "Na/ntran_symport_noradrenaline",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR037272",
+            "xref_name": "SNS_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11616",
+            "xref_name": "SODIUM/CHLORIDE DEPENDENT TRANSPORTER",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11616:SF320",
+            "xref_name": "SODIUM-DEPENDENT NORADRENALINE TRANSPORTER",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00209",
+            "xref_name": "SNF",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "Q9WTR4",
+            "xref_name": "Transporter",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 10116
+  },
+  "ok": true
+}

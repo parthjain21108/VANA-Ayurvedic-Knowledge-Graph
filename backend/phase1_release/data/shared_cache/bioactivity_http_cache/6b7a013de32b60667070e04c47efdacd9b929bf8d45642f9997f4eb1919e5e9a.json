@@ -1,0 +1,445 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Polyunsaturated fatty acid lipoxygenase ALOX15B",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2457",
+    "target_components": [
+      {
+        "accession": "O15296",
+        "component_description": "Polyunsaturated fatty acid lipoxygenase ALOX15B",
+        "component_id": 798,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "1.13.11.-",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "1.13.11.33",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "15-lipoxygenase 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "15-LOX-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "15-LOX-B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ALOX15B",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Arachidonate 15-lipoxygenase B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Arachidonate 15-lipoxygenase type II",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Linoleate 13-lipoxygenase 15-LOb",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Polyunsaturated fatty acid lipoxygenase ALOX15B",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "O15296",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "O15296",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005856",
+            "xref_name": "cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005912",
+            "xref_name": "adherens junction",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005925",
+            "xref_name": "focal adhesion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070161",
+            "xref_name": "anchoring junction",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005506",
+            "xref_name": "iron ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005509",
+            "xref_name": "calcium ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008289",
+            "xref_name": "lipid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016165",
+            "xref_name": "linoleate 13S-lipoxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016702",
+            "xref_name": "oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0036403",
+            "xref_name": "arachidonate 8(S)-lipoxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0050473",
+            "xref_name": "arachidonate 15-lipoxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051213",
+            "xref_name": "dioxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990136",
+            "xref_name": "linoleate 9S-lipoxygenase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001676",
+            "xref_name": "long-chain fatty acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006629",
+            "xref_name": "lipid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006690",
+            "xref_name": "icosanoid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006915",
+            "xref_name": "apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008285",
+            "xref_name": "negative regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010744",
+            "xref_name": "positive regulation of macrophage derived foam cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019369",
+            "xref_name": "arachidonate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019372",
+            "xref_name": "lipoxygenase pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030336",
+            "xref_name": "negative regulation of cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030850",
+            "xref_name": "prostate gland development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030856",
+            "xref_name": "regulation of epithelial cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032722",
+            "xref_name": "positive regulation of chemokine production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034440",
+            "xref_name": "lipid oxidation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035360",
+            "xref_name": "positive regulation of peroxisome proliferator activated receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043651",
+            "xref_name": "linoleic acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045618",
+            "xref_name": "positive regulation of keratinocyte differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045786",
+            "xref_name": "negative regulation of cell cycle",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045926",
+            "xref_name": "negative regulation of growth",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051122",
+            "xref_name": "hepoxilin biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071926",
+            "xref_name": "endocannabinoid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901696",
+            "xref_name": "cannabinoid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2001303",
+            "xref_name": "lipoxin A4 biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:434",
+            "xref_name": "ALOX15B",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "O15296",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000907",
+            "xref_name": "LipOase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001024",
+            "xref_name": "PLAT/LH2_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001885",
+            "xref_name": "LipOase_mml",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013819",
+            "xref_name": "LipOase_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020833",
+            "xref_name": "LipOase_Fe_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020834",
+            "xref_name": "LipOase_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036226",
+            "xref_name": "LipOase_C_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036392",
+            "xref_name": "PLAT/LH2_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR042062",
+            "xref_name": "PLAT_LOX_verte",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11771",
+            "xref_name": "LIPOXYGENASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "4NRE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7LAF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8VIY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4NRE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7LAF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "8VIY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00305",
+            "xref_name": "Lipoxygenase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF01477",
+            "xref_name": "PLAT",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA24725",
+            "xref_name": "arachidonate 15-lipoxygenase type B",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "O15296",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-2142770",
+            "xref_name": "Synthesis of 15-eicosatetraenoic acid derivatives",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "D3DTR2",
+            "xref_name": "Polyunsaturated fatty acid lipoxygenase ALOX15B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O15296",
+            "xref_name": "Polyunsaturated fatty acid lipoxygenase ALOX15B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8IYQ2",
+            "xref_name": "Polyunsaturated fatty acid lipoxygenase ALOX15B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8TEV3",
+            "xref_name": "Polyunsaturated fatty acid lipoxygenase ALOX15B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8TEV4",
+            "xref_name": "Polyunsaturated fatty acid lipoxygenase ALOX15B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8TEV5",
+            "xref_name": "Polyunsaturated fatty acid lipoxygenase ALOX15B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8TEV6",
+            "xref_name": "Polyunsaturated fatty acid lipoxygenase ALOX15B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UKM4",
+            "xref_name": "Polyunsaturated fatty acid lipoxygenase ALOX15B",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,381 @@
+{
+  "data": {
+    "accession": "Q9Y3R4",
+    "component_id": 1523,
+    "component_type": "PROTEIN",
+    "description": "Sialidase-2",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005764"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005975"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016798"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 646
+      }
+    ],
+    "sequence": "MASLPVLQKESVFQSGAHAYRIPALLYLPGQQSLLAFAEQRASKKDEHAELIVLRRGDYDAPTHQVQWQAQEVVAQARLDGHRSMNPCPLYDAQTGTLFLFFIAIPGQVTEQQQLQTRANVTRLCQVTSTDHGRTWSSPRDLTDAAIGPAYREWSTFAVGPGHCLQLHDRARSLVVPAYAYRKLHPIQRPIPSAFCFLSHDHGRTWARGHFVAQDTLECQVAEVETGEQRVVTLNARSHLRARVQAQSTNDGLDFQESQLVKKLVEPPPQGCQGSVISFPSPRSGPGSPAQWLLYTHPTHSWQRADLGAYLNPRPPAPEAWSEPVLLAKGSCAYSDLQSMGTGPDGSPLFGCLYEANDYEEIVFLMFTLKQAFPAEYLPQ",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.2.1.18",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Cytosolic sialidase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "N-acetyl-alpha-neuraminidase 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "NEU2",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Sialidase-2",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q9Y3R4",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005764",
+        "xref_name": "lysosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:1902494",
+        "xref_name": "catalytic complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004308",
+        "xref_name": "exo-alpha-sialidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016798",
+        "xref_name": "hydrolase activity, acting on glycosyl bonds",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006516",
+        "xref_name": "glycoprotein catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006689",
+        "xref_name": "ganglioside catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0009313",
+        "xref_name": "oligosaccharide catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016042",
+        "xref_name": "lipid catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046479",
+        "xref_name": "glycosphingolipid catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:7759",
+        "xref_name": "NEU2",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "IPR011040",
+        "xref_name": "Sialidase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR026856",
+        "xref_name": "Sialidase_fam",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036278",
+        "xref_name": "Sialidase_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR10628",
+        "xref_name": "SIALIDASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR10628:SF6",
+        "xref_name": "SIALIDASE-2",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1SNT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1SO7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1VCU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2F0Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2F10",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2F11",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2F12",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2F13",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2F24",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2F25",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2F26",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2F27",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2F28",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2F29",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4NC5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4NCS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1SNT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1SO7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1VCU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2F0Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2F10",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2F11",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2F12",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2F13",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2F24",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2F25",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2F26",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2F27",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2F28",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2F29",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4NC5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4NCS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF13088",
+        "xref_name": "BNR_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA31561",
+        "xref_name": "neuraminidase 2",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q9Y3R4",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-4085001",
+        "xref_name": "Sialic acid metabolism",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9840310",
+        "xref_name": "Glycosphingolipid catabolism",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q3KNW4",
+        "xref_name": "Sialidase-2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6NTB4",
+        "xref_name": "Sialidase-2",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9Y3R4",
+        "xref_name": "Sialidase-2",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3200"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,381 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Cysteine protease ATG4B",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1741221",
+    "target_components": [
+      {
+        "accession": "Q9Y4P1",
+        "component_description": "Cysteine protease ATG4B",
+        "component_id": 5485,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.4.22.-",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "APG4B",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "ATG4B",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "AUTL1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "AUTL1 GN  ",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "AUT-like 1 cysteine endopeptidase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Autophagin-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Autophagy-related cysteine endopeptidase 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Autophagy-related protein 4 homolog B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cysteine protease ATG4B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "hAPG4B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HsAPG4B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "KIAA0943",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Synonyms=APG4B",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q9Y4P1",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q9Y4P1",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000421",
+            "xref_name": "autophagosome membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005776",
+            "xref_name": "autophagosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004175",
+            "xref_name": "endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004197",
+            "xref_name": "cysteine-type endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008234",
+            "xref_name": "cysteine-type peptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019786",
+            "xref_name": "protein-phosphatidylethanolamide deconjugating activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0097110",
+            "xref_name": "scaffold protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000045",
+            "xref_name": "autophagosome assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000423",
+            "xref_name": "mitophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006914",
+            "xref_name": "autophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016236",
+            "xref_name": "macroautophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016237",
+            "xref_name": "microautophagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0016485",
+            "xref_name": "protein processing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031173",
+            "xref_name": "otolith mineralization completed early in development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034497",
+            "xref_name": "protein localization to phagophore assembly site",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034727",
+            "xref_name": "piecemeal microautophagy of the nucleus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035973",
+            "xref_name": "aggrephagy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:20790",
+            "xref_name": "ATG4B",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "IPR005078",
+            "xref_name": "Peptidase_C54",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038765",
+            "xref_name": "Papain-like_cys_pep_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046792",
+            "xref_name": "Peptidase_C54_cat",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046793",
+            "xref_name": "ATG4_LIR",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR22624",
+            "xref_name": "CYSTEINE PROTEASE ATG4",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR22624:SF39",
+            "xref_name": "CYSTEINE PROTEASE ATG4B",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2CY7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2D1I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2Z0D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2Z0E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2ZZP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5LXH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5LXI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2CY7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2D1I",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2Z0D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2Z0E",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2ZZP",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5LXH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5LXI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF03416",
+            "xref_name": "Peptidase_C54",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF20166",
+            "xref_name": "ATG4_LIR",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA134898340",
+            "xref_name": "autophagy related 4B cysteine peptidase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q9Y4P1",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1632852",
+            "xref_name": "Macroautophagy",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B7WNK2",
+            "xref_name": "Cysteine protease ATG4B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q53NU4",
+            "xref_name": "Cysteine protease ATG4B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6ZUV8",
+            "xref_name": "Cysteine protease ATG4B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8WYM9",
+            "xref_name": "Cysteine protease ATG4B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96K07",
+            "xref_name": "Cysteine protease ATG4B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96K96",
+            "xref_name": "Cysteine protease ATG4B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q96SZ1",
+            "xref_name": "Cysteine protease ATG4B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9Y2F2",
+            "xref_name": "Cysteine protease ATG4B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9Y4P1",
+            "xref_name": "Cysteine protease ATG4B",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

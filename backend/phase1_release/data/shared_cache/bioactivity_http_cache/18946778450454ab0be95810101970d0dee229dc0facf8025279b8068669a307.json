@@ -1,0 +1,408 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Free fatty acid receptor 4",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5339",
+    "target_components": [
+      {
+        "accession": "Q5NUL3",
+        "component_description": "Free fatty acid receptor 4",
+        "component_id": 3635,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "FFAR4",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Free fatty acid receptor 4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GPR120",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "GPR129",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "G-protein coupled receptor 120",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "G-protein coupled receptor 129",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "G-protein coupled receptor GT01",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "G-protein coupled receptor PGR4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "O3FAR1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Omega-3 fatty acid receptor 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PGR4",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Synonyms=GPR120",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q5NUL3",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q5NUL3",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005764",
+            "xref_name": "lysosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005765",
+            "xref_name": "lysosomal membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005768",
+            "xref_name": "endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005929",
+            "xref_name": "cilium",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0010008",
+            "xref_name": "endosome membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0060170",
+            "xref_name": "ciliary membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005504",
+            "xref_name": "fatty acid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008289",
+            "xref_name": "lipid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008527",
+            "xref_name": "taste receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001818",
+            "xref_name": "negative regulation of cytokine production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007189",
+            "xref_name": "adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007200",
+            "xref_name": "phospholipase C-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007204",
+            "xref_name": "positive regulation of cytosolic calcium ion concentration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010827",
+            "xref_name": "regulation of D-glucose transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030154",
+            "xref_name": "cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032691",
+            "xref_name": "negative regulation of interleukin-1 beta production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032870",
+            "xref_name": "cellular response to hormone stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0036321",
+            "xref_name": "ghrelin secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043066",
+            "xref_name": "negative regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045444",
+            "xref_name": "fat cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045669",
+            "xref_name": "positive regulation of osteoblast differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046879",
+            "xref_name": "hormone secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050728",
+            "xref_name": "negative regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050872",
+            "xref_name": "white fat cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050873",
+            "xref_name": "brown fat cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070094",
+            "xref_name": "positive regulation of glucagon secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090275",
+            "xref_name": "negative regulation of somatostatin secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090336",
+            "xref_name": "positive regulation of brown fat cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0120162",
+            "xref_name": "positive regulation of cold-induced thermogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:19061",
+            "xref_name": "FFAR4",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q5NUL3",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR45695",
+            "xref_name": "LEUCOKININ RECEPTOR-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR45695:SF37",
+            "xref_name": "FREE FATTY ACID RECEPTOR 4-LIKE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "8G59",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8H4I",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8H4K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8H4L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ID3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ID4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ID6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ID8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ID9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8IYS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8T3O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8T3Q",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA134924595",
+            "xref_name": "free fatty acid receptor 4",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q5NUL3",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-381771",
+            "xref_name": "Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-416476",
+            "xref_name": "G alpha (q) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-444209",
+            "xref_name": "Free fatty acid receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q495H1",
+            "xref_name": "Free fatty acid receptor 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5NUL3",
+            "xref_name": "Free fatty acid receptor 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5VY25",
+            "xref_name": "Free fatty acid receptor 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5VY26",
+            "xref_name": "Free fatty acid receptor 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q7Z605",
+            "xref_name": "Free fatty acid receptor 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86SM7",
+            "xref_name": "Free fatty acid receptor 4",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

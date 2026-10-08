@@ -1,0 +1,329 @@
+{
+  "data": {
+    "accession": "Q63470",
+    "component_id": 3800,
+    "component_type": "PROTEIN",
+    "description": "Dual specificity tyrosine-phosphorylation-regulated kinase 1A",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005730"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005856"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008092"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0030674"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Rattus norvegicus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 465
+      }
+    ],
+    "sequence": "MHTGGETSACKPSSVRLAPSFSFHAAGLQMAAQMPHSHQYSDRRQPNISDQQVSALSYSDQIQQPLTNQVMPDIVMLQRRMPQTFRDPATAPLRKLSVDLIKTYKHINEVYYAKKKRRHQQGQGDDSSHKKERKVYNDGYDDDNYDYIVKNGEKWMDRYEIDSLIGKGSFGQVVKAYDRVEQEWVAIKIIKNKKAFLNQAQIEVRLLELMNKHDTEMKYYIVHLKRHFMFRNHLCLVFEMLSYNLYDLLRNTNFRGVSLNLTRKFAQQMCTALLFLATPELSIIHCDLKPENILLCNPKRSAIKIVDFGSSCQLGQRIYQYIQSRFYRSPEVLLGMPYDLAIDMWSLGCILVEMHTGEPLFSGANEVDQMNKIVEVLGIPPAHILDQAPKARKFFEKLPDGTWSLKKTKDGKREYKPPGTRKLHNILGVETGGPGGRRAGESGHTVADYLKFKDLILRMLDYDPKTRIQPYYALQHSFFKKTADEGTNTSNSVSTSPAMEQSQSSGTTSSTSSSSGGSSGTSNSGRARSDPTHQHRHSGGHFAAAVQAMDCETHSPQVRQQFPAPLGWSGTEAPTQVTVETHPVQETTFHVAPQQNALHHHHGNSSHHHHHHHHHHHHHGQQALGNRTRPRVYNSPTNSSSTQDSMEVGHSHHSMTSLSSSTTSSSTSSSSTGNQGNQAYQNRPVAANTLDFGQNGAMDVNLTVYSNPRQETGIAGHPTYQFSANTGPAHYMTEGHLTMRQGADREESPMTGVCVQQSPVASS",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.11.23",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "2.7.12.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Dual specificity tyrosine-phosphorylation-regulated kinase 1A",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Dual specificity YAK1-related kinase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Dyrk",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Dyrk1a",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "MNBH",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Protein kinase minibrain homolog",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "RP86",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q63470",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005730",
+        "xref_name": "nucleolus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005856",
+        "xref_name": "cytoskeleton",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016607",
+        "xref_name": "nuclear speck",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030424",
+        "xref_name": "axon",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030425",
+        "xref_name": "dendrite",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:1990904",
+        "xref_name": "ribonucleoprotein complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003713",
+        "xref_name": "transcription coactivator activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0048156",
+        "xref_name": "tau protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006468",
+        "xref_name": "protein phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007623",
+        "xref_name": "circadian rhythm",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0018105",
+        "xref_name": "peptidyl-serine phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0018107",
+        "xref_name": "peptidyl-threonine phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0018108",
+        "xref_name": "peptidyl-tyrosine phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031115",
+        "xref_name": "negative regulation of microtubule polymerization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0033120",
+        "xref_name": "positive regulation of RNA splicing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0033173",
+        "xref_name": "calcineurin-NFAT signaling cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034205",
+        "xref_name": "amyloid-beta formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043518",
+        "xref_name": "negative regulation of DNA damage response, signal transduction by p53 class mediator",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045786",
+        "xref_name": "negative regulation of cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045893",
+        "xref_name": "positive regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046777",
+        "xref_name": "protein autophosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048025",
+        "xref_name": "negative regulation of mRNA splicing, via spliceosome",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060043",
+        "xref_name": "regulation of cardiac muscle cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061050",
+        "xref_name": "regulation of cell growth involved in cardiac muscle cell development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090310",
+        "xref_name": "negative regulation of DNA methylation-dependent heterochromatin formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090312",
+        "xref_name": "positive regulation of protein deacetylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "Q63470",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008271",
+        "xref_name": "Ser/Thr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017441",
+        "xref_name": "Protein_kinase_ATP_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR044131",
+        "xref_name": "PKc_DYR1A/1B",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050494",
+        "xref_name": "Ser_Thr_dual-spec_kinase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24058",
+        "xref_name": "DUAL SPECIFICITY PROTEIN KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR24058:SF121",
+        "xref_name": "DUAL SPECIFICITY TYROSINE-PHOSPHORYLATION-REGULATED KINASE 1A",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF00069",
+        "xref_name": "Pkinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-RNO-1538133",
+        "xref_name": "G0 and Early G1",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q63470",
+        "xref_name": "Dual specificity tyrosine-phosphorylation-regulated kinase 1A",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5508"
+      }
+    ],
+    "tax_id": 10116
+  },
+  "ok": true
+}

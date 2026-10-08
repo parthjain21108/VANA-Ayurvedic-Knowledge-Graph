@@ -1,0 +1,597 @@
+{
+  "data": {
+    "accession": "P11802",
+    "component_id": 17,
+    "component_type": "PROTEIN",
+    "description": "Cyclin-dependent kinase 4",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005730"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016301"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      },
+      {
+        "go_id": "GO:0051301"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 148
+      }
+    ],
+    "sequence": "MATSRYEPVAEIGVGAYGTVYKARDPHSGHFVALKSVRVPNGGGGGGGLPISTVREVALLRRLEAFEHPNVVRLMDVCATSRTDREIKVTLVFEHVDQDLRTYLDKAPPPGLPAETIKDLMRQFLRGLDFLHANCIVHRDLKPENILVTSGGTVKLADFGLARIYSYQMALTPVVVTLWYRAPEVLLQSTYATPVDMWSVGCIFAEMFRRKPLFCGNSEADQLGKIFDLIGLPPEDDWPRDVSLPRGAFPPRGPRPVQSVVPEMEESGAQLLLEMLTFNPHKRISAFRALQHSYLHKDEGNPE",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.11.22",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "CDK4",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Cell division protein kinase 4",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Cyclin-dependent kinase 4",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PSK-J3",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P11802",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P11802",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0000785",
+        "xref_name": "chromatin",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005667",
+        "xref_name": "transcription regulator complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005730",
+        "xref_name": "nucleolus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005923",
+        "xref_name": "bicellular tight junction",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031965",
+        "xref_name": "nuclear membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016301",
+        "xref_name": "kinase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030332",
+        "xref_name": "cyclin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000082",
+        "xref_name": "G1/S transition of mitotic cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006468",
+        "xref_name": "protein phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007165",
+        "xref_name": "signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008284",
+        "xref_name": "positive regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010389",
+        "xref_name": "regulation of G2/M transition of mitotic cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010971",
+        "xref_name": "positive regulation of G2/M transition of mitotic cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048146",
+        "xref_name": "positive regulation of fibroblast proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051301",
+        "xref_name": "cell division",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051726",
+        "xref_name": "regulation of cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061469",
+        "xref_name": "regulation of type B pancreatic cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071222",
+        "xref_name": "cellular response to lipopolysaccharide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904628",
+        "xref_name": "cellular response to phorbol 13-acetate 12-myristate",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904637",
+        "xref_name": "cellular response to ionomycin",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:1773",
+        "xref_name": "CDK4",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P11802",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000719",
+        "xref_name": "Prot_kinase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008271",
+        "xref_name": "Ser/Thr_kinase_AS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011009",
+        "xref_name": "Kinase-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017441",
+        "xref_name": "Protein_kinase_ATP_BS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050108",
+        "xref_name": "CDK",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24056",
+        "xref_name": "CELL DIVISION PROTEIN KINASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR24056:SF129",
+        "xref_name": "CYCLIN-DEPENDENT KINASE 4",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2W96",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2W99",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2W9F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2W9Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3G33",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5FWK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5FWL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5FWM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5FWP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6P8E",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6P8F",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6P8G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6P8H",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7SJ3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CSK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2W96",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2W99",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2W9F",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2W9Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3G33",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6P8E",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6P8F",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6P8G",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6P8H",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7SJ3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9CSK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00069",
+        "xref_name": "Pkinase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA102",
+        "xref_name": "cyclin dependent kinase 4",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P11802",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-187577",
+        "xref_name": "SCF(Skp2)-mediated degradation of p27/p21",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2559580",
+        "xref_name": "Oxidative Stress Induced Senescence",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2559582",
+        "xref_name": "Senescence-Associated Secretory Phenotype (SASP)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2559585",
+        "xref_name": "Oncogene Induced Senescence",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-3214858",
+        "xref_name": "RMTs methylate histone arginines",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-381340",
+        "xref_name": "Transcriptional regulation of white adipocyte differentiation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-69231",
+        "xref_name": "Cyclin D associated events in G1",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-75815",
+        "xref_name": "Ubiquitin-dependent degradation of Cyclin D",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8849470",
+        "xref_name": "PTK6 Regulates Cell Cycle",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8878166",
+        "xref_name": "Transcriptional regulation by RUNX2",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-912446",
+        "xref_name": "Meiotic recombination",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9616222",
+        "xref_name": "Transcriptional regulation of granulopoiesis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9630791",
+        "xref_name": "Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9630794",
+        "xref_name": "Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9632697",
+        "xref_name": "Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9632700",
+        "xref_name": "Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9661069",
+        "xref_name": "Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9754119",
+        "xref_name": "Drug-mediated inhibition of CDK4/CDK6 activity",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B2R9A0",
+        "xref_name": "Cyclin-dependent kinase 4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B4DNF9",
+        "xref_name": "Cyclin-dependent kinase 4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O00576",
+        "xref_name": "Cyclin-dependent kinase 4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P11802",
+        "xref_name": "Cyclin-dependent kinase 4",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6FG61",
+        "xref_name": "Cyclin-dependent kinase 4",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL331"
+      },
+      {
+        "target_chembl_id": "CHEMBL1907601"
+      },
+      {
+        "target_chembl_id": "CHEMBL2095942"
+      },
+      {
+        "target_chembl_id": "CHEMBL2111326"
+      },
+      {
+        "target_chembl_id": "CHEMBL3038472"
+      },
+      {
+        "target_chembl_id": "CHEMBL3038517"
+      },
+      {
+        "target_chembl_id": "CHEMBL3301385"
+      },
+      {
+        "target_chembl_id": "CHEMBL3559691"
+      },
+      {
+        "target_chembl_id": "CHEMBL3885548"
+      },
+      {
+        "target_chembl_id": "CHEMBL3885553"
+      },
+      {
+        "target_chembl_id": "CHEMBL3885554"
+      },
+      {
+        "target_chembl_id": "CHEMBL4106184"
+      },
+      {
+        "target_chembl_id": "CHEMBL4523686"
+      },
+      {
+        "target_chembl_id": "CHEMBL4523715"
+      },
+      {
+        "target_chembl_id": "CHEMBL4523732"
+      },
+      {
+        "target_chembl_id": "CHEMBL4523963"
+      },
+      {
+        "target_chembl_id": "CHEMBL4630748"
+      },
+      {
+        "target_chembl_id": "CHEMBL4888444"
+      },
+      {
+        "target_chembl_id": "CHEMBL6195586"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

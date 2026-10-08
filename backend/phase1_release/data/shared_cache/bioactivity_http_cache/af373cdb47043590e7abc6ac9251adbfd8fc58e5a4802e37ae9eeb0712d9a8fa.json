@@ -1,0 +1,330 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Synaptojanin-2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4523129",
+    "target_components": [
+      {
+        "accession": "O15056",
+        "component_description": "Synaptojanin-2",
+        "component_id": 18627,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.1.3.36",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "KIAA0348",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Synaptic inositol 1,4,5-trisphosphate 5-phosphatase 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synaptojanin-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "SYNJ2",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "O15056",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "O15056",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005856",
+            "xref_name": "cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045121",
+            "xref_name": "membrane raft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048471",
+            "xref_name": "perinuclear region of cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098793",
+            "xref_name": "presynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003723",
+            "xref_name": "RNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004438",
+            "xref_name": "phosphatidylinositol-3-phosphate phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004439",
+            "xref_name": "phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016787",
+            "xref_name": "hydrolase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016791",
+            "xref_name": "phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034596",
+            "xref_name": "phosphatidylinositol phosphate 4-phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043813",
+            "xref_name": "phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0052629",
+            "xref_name": "phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0052658",
+            "xref_name": "inositol-1,4,5-trisphosphate 5-phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0052866",
+            "xref_name": "phosphatidylinositol phosphate phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006629",
+            "xref_name": "lipid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006661",
+            "xref_name": "phosphatidylinositol biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0036092",
+            "xref_name": "phosphatidylinositol-3-phosphate biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046856",
+            "xref_name": "phosphatidylinositol dephosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048488",
+            "xref_name": "synaptic vesicle endocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061024",
+            "xref_name": "membrane organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:11504",
+            "xref_name": "SYNJ2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "O15056",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000300",
+            "xref_name": "IPPc",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000504",
+            "xref_name": "RRM_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002013",
+            "xref_name": "SAC_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR012677",
+            "xref_name": "Nucleotide-bd_a/b_plait_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR015047",
+            "xref_name": "SYNJ1/2_RRM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR034973",
+            "xref_name": "SYNJ2_RRM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035979",
+            "xref_name": "RBD_domain_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036691",
+            "xref_name": "Endo/exonu/phosph_ase_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046985",
+            "xref_name": "IP5",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR11200",
+            "xref_name": "INOSITOL 5-PHOSPHATASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR11200:SF148",
+            "xref_name": "SYNAPTOJANIN-2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1UFW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "PF02383",
+            "xref_name": "Syja_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF08952",
+            "xref_name": "DUF1866",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF22669",
+            "xref_name": "Exo_endo_phos2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA36286",
+            "xref_name": "synaptojanin 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "O15056",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1660499",
+            "xref_name": "Synthesis of PIPs at the plasma membrane",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8856828",
+            "xref_name": "Clathrin-mediated endocytosis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "O15056",
+            "xref_name": "Synaptojanin-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5TA13",
+            "xref_name": "Synaptojanin-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5TA16",
+            "xref_name": "Synaptojanin-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5TA19",
+            "xref_name": "Synaptojanin-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86XK0",
+            "xref_name": "Synaptojanin-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q8IZA8",
+            "xref_name": "Synaptojanin-2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9H226",
+            "xref_name": "Synaptojanin-2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

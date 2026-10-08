@@ -1,0 +1,85 @@
+{
+  "run_id": "20260920T063635421330Z",
+  "input_dir": "C:\\VANA PRODUCTION\\backend\\Citrus_sinensis",
+  "store_root": "C:\\VANA PRODUCTION\\backend\\phase1_release\\data\\canonical",
+  "dry_run": false,
+  "node_stats": {
+    "Plant": {
+      "added": 1,
+      "total": 113
+    },
+    "PlantPart": {
+      "added": 7,
+      "total": 581
+    },
+    "Phytochemicals": {
+      "added": 66,
+      "total": 2341
+    },
+    "TherapeuticUses": {
+      "added": 0,
+      "total": 535
+    },
+    "Targets": {
+      "added": 1,
+      "total": 430
+    },
+    "Documents": {
+      "added": 3,
+      "total": 808
+    },
+    "Bioactivities": {
+      "added": 23,
+      "total": 3250,
+      "source_rows": 251
+    }
+  },
+  "relationship_stats": {
+    "HAS_PART.csv": {
+      "added": 7,
+      "total": 581,
+      "source_rows": 7
+    },
+    "CONTAINS.csv": {
+      "added": 494,
+      "total": 8487,
+      "source_rows": 494
+    },
+    "USED_FOR.csv": {
+      "added": 20,
+      "total": 7137,
+      "source_rows": 20
+    },
+    "HAS_BIOACTIVITY.csv": {
+      "added": 34,
+      "total": 3746,
+      "source_rows": 262
+    },
+    "MEASURED_ON.csv": {
+      "added": 23,
+      "total": 3250,
+      "source_rows": 251
+    },
+    "REPORTED_IN.csv": {
+      "added": 23,
+      "total": 3250,
+      "source_rows": 251
+    }
+  },
+  "changed_files": [
+    "Plant.csv",
+    "PlantPart.csv",
+    "Phytochemicals.csv",
+    "TherapeuticUses.csv",
+    "Bioactivities.csv",
+    "Targets.csv",
+    "Documents.csv",
+    "HAS_PART.csv",
+    "CONTAINS.csv",
+    "USED_FOR.csv",
+    "HAS_BIOACTIVITY.csv",
+    "MEASURED_ON.csv",
+    "REPORTED_IN.csv"
+  ],
+  "snapshot": "C:\\VANA PRODUCTION\\backend\\phase1_release\\data\\canonical\\snapshots\\20260920T063635265677Z"
+}

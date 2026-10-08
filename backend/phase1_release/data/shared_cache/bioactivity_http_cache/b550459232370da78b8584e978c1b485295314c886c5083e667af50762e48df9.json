@@ -1,0 +1,898 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "HSP60/HSP10",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4106131",
+    "target_components": [
+      {
+        "accession": "P10809",
+        "component_description": "60 kDa heat shock protein, mitochondrial",
+        "component_id": 3038,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5.6.1.7",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "60 kDa chaperonin",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "60 kDa heat shock protein, mitochondrial",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Chaperonin 60",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CPN60",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Heat shock protein 60",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Heat shock protein family D member 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Hsp60",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HSP-60",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HSP60",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "HSPD1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "HuCHA60",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Mitochondrial matrix protein P1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "P60 lymphocyte protein",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P10809",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P10809",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005743",
+            "xref_name": "mitochondrial inner membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005769",
+            "xref_name": "early endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005905",
+            "xref_name": "clathrin-coated pit",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032991",
+            "xref_name": "protein-containing complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0046696",
+            "xref_name": "lipopolysaccharide receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097225",
+            "xref_name": "sperm midpiece",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097524",
+            "xref_name": "sperm plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001530",
+            "xref_name": "lipopolysaccharide binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002039",
+            "xref_name": "p53 binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003688",
+            "xref_name": "DNA replication origin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003697",
+            "xref_name": "single-stranded DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003723",
+            "xref_name": "RNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003725",
+            "xref_name": "double-stranded RNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016853",
+            "xref_name": "isomerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016887",
+            "xref_name": "ATP hydrolysis activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019899",
+            "xref_name": "enzyme binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031625",
+            "xref_name": "ubiquitin protein ligase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034185",
+            "xref_name": "apolipoprotein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034186",
+            "xref_name": "apolipoprotein A-I binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051082",
+            "xref_name": "unfolded protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051087",
+            "xref_name": "protein-folding chaperone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140608",
+            "xref_name": "cysteine-type endopeptidase activator activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0140662",
+            "xref_name": "ATP-dependent protein folding chaperone",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002755",
+            "xref_name": "MyD88-dependent toll-like receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002842",
+            "xref_name": "positive regulation of T cell mediated immune response to tumor cell",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006457",
+            "xref_name": "protein folding",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006458",
+            "xref_name": "'de novo' protein folding",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006986",
+            "xref_name": "response to unfolded protein",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008637",
+            "xref_name": "apoptotic mitochondrial changes",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009409",
+            "xref_name": "response to cold",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032727",
+            "xref_name": "positive regulation of interferon-alpha production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032729",
+            "xref_name": "positive regulation of type II interferon production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032733",
+            "xref_name": "positive regulation of interleukin-10 production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032735",
+            "xref_name": "positive regulation of interleukin-12 production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032755",
+            "xref_name": "positive regulation of interleukin-6 production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034514",
+            "xref_name": "mitochondrial unfolded protein response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042026",
+            "xref_name": "protein refolding",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042100",
+            "xref_name": "B cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042110",
+            "xref_name": "T cell activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042113",
+            "xref_name": "B cell activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043032",
+            "xref_name": "positive regulation of macrophage activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043066",
+            "xref_name": "negative regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0044406",
+            "xref_name": "adhesion of symbiont to host",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045041",
+            "xref_name": "protein import into mitochondrial intermembrane space",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048291",
+            "xref_name": "isotype switching to IgG isotypes",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050821",
+            "xref_name": "protein stabilization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050870",
+            "xref_name": "positive regulation of T cell activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051131",
+            "xref_name": "chaperone-mediated protein complex assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051604",
+            "xref_name": "protein maturation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051702",
+            "xref_name": "biological process involved in interaction with symbiont",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900118",
+            "xref_name": "negative regulation of execution phase of apoptosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900119",
+            "xref_name": "positive regulation of execution phase of apoptosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:5261",
+            "xref_name": "HSPD1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P10809",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001844",
+            "xref_name": "Cpn60/GroEL",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002423",
+            "xref_name": "Cpn60/GroEL/TCP-1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018370",
+            "xref_name": "Chaperonin_Cpn60_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR027409",
+            "xref_name": "GroEL-like_apical_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR027410",
+            "xref_name": "TCP-1-like_intermed_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR027413",
+            "xref_name": "GROEL-like_equatorial_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR45633",
+            "xref_name": "60 KDA HEAT SHOCK PROTEIN, MITOCHONDRIAL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "4PJ1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HT7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6MRC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6MRD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7AZP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7L7S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G7J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G7K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G7L",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G7M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G7N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G7O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8U39",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ES0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ES1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ES2",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ES3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ES4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ES5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ES6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4PJ1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6HT7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00118",
+            "xref_name": "Cpn60_TCP1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA29527",
+            "xref_name": "heat shock protein family D (Hsp60) member 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P10809",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1268020",
+            "xref_name": "Mitochondrial protein import",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8869496",
+            "xref_name": "TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9837999",
+            "xref_name": "Mitochondrial protein degradation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9841251",
+            "xref_name": "Mitochondrial unfolded protein response (UPRmt)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B2R5M6",
+            "xref_name": "60 kDa heat shock protein, mitochondrial",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B7Z712",
+            "xref_name": "60 kDa heat shock protein, mitochondrial",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P10809",
+            "xref_name": "60 kDa heat shock protein, mitochondrial",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q38L19",
+            "xref_name": "60 kDa heat shock protein, mitochondrial",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UCR6",
+            "xref_name": "60 kDa heat shock protein, mitochondrial",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      },
+      {
+        "accession": "P61604",
+        "component_description": "10 kDa heat shock protein, mitochondrial",
+        "component_id": 16985,
+        "component_type": "PROTEIN",
+        "relationship": "PROTEIN SUBUNIT",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "10 kDa chaperonin",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "10 kDa heat shock protein, mitochondrial",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Chaperonin 10",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "CPN10",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Early-pregnancy factor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "EPF",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Heat shock protein family E member 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Hsp10",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HSPE1",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P61604",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P61604",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003723",
+            "xref_name": "RNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0044183",
+            "xref_name": "protein folding chaperone",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051082",
+            "xref_name": "unfolded protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051087",
+            "xref_name": "protein-folding chaperone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001649",
+            "xref_name": "osteoblast differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006457",
+            "xref_name": "protein folding",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006986",
+            "xref_name": "response to unfolded protein",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051085",
+            "xref_name": "chaperone cofactor-dependent protein refolding",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097193",
+            "xref_name": "intrinsic apoptotic signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:5269",
+            "xref_name": "HSPE1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P61604",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR011032",
+            "xref_name": "GroES-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018369",
+            "xref_name": "Chaprnonin_Cpn10_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020818",
+            "xref_name": "Chaperonin_GroES",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR037124",
+            "xref_name": "Chaperonin_GroES_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10772",
+            "xref_name": "10 KDA HEAT SHOCK PROTEIN",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10772:SF0",
+            "xref_name": "10 KDA HEAT SHOCK PROTEIN, MITOCHONDRIAL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "4PJ1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HT7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6MRC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6MRD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G7N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G7O",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ES0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ES1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ES4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9ES5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4PJ1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6HT7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00166",
+            "xref_name": "Cpn10",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA29535",
+            "xref_name": "heat shock protein family E (Hsp10) member 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P61604",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-9013408",
+            "xref_name": "RHOG GTPase cycle",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9841251",
+            "xref_name": "Mitochondrial unfolded protein response (UPRmt)",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "O95421",
+            "xref_name": "10 kDa heat shock protein, mitochondrial",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P61604",
+            "xref_name": "10 kDa heat shock protein, mitochondrial",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q04984",
+            "xref_name": "10 kDa heat shock protein, mitochondrial",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q53X54",
+            "xref_name": "10 kDa heat shock protein, mitochondrial",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UDH0",
+            "xref_name": "10 kDa heat shock protein, mitochondrial",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "PROTEIN COMPLEX",
+    "tax_id": 9606
+  },
+  "ok": true
+}

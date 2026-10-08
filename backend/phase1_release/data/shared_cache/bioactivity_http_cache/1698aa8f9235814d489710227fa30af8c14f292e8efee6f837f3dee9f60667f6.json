@@ -1,0 +1,3485 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Rattus norvegicus",
+    "pref_name": "Serotonin (5-HT) receptor",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2094123",
+    "target_components": [
+      {
+        "accession": "P35563",
+        "component_description": "5-hydroxytryptamine receptor 3A",
+        "component_id": 752,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT-3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5ht3",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "5-HT3-A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT3A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT3R",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 3A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Htr3",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Htr3a",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serotonin-gated ion channel receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Serotonin receptor 3A",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099505",
+            "xref_name": "regulation of presynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0004888",
+            "xref_name": "transmembrane signaling receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005231",
+            "xref_name": "excitatory extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022850",
+            "xref_name": "serotonin-gated monoatomic cation channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051378",
+            "xref_name": "serotonin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099507",
+            "xref_name": "ligand-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904315",
+            "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006811",
+            "xref_name": "monoatomic ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007210",
+            "xref_name": "serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048149",
+            "xref_name": "behavioral response to ethanol",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060079",
+            "xref_name": "excitatory postsynaptic potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098662",
+            "xref_name": "inorganic cation transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0140227",
+            "xref_name": "serotonin-gated cation-selective signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042734",
+            "xref_name": "presynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098978",
+            "xref_name": "glutamatergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032154",
+            "xref_name": "cleavage furrow",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1904602",
+            "xref_name": "serotonin-activated cation-selective channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "P35563",
+            "xref_name": "5-hydroxytryptamine receptor 3A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P35563",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "R-RNO-112314",
+            "xref_name": "Neurotransmitter receptors and postsynaptic signal transmission",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "IPR008132",
+            "xref_name": "5HT3_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008133",
+            "xref_name": "5HT3_rcpt_A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR049944",
+            "xref_name": "LGIC_TM_5-HT3",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018000",
+            "xref_name": "Neurotransmitter_ion_chnl_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P35365",
+        "component_description": "5-hydroxytryptamine receptor 5B",
+        "component_id": 953,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT-5B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT5B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5ht5b",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 5B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Htr5b",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "MR22",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Serotonin receptor 5B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=5ht5b",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0098664",
+            "xref_name": "G protein-coupled serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001586",
+            "xref_name": "Gi/o-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001664",
+            "xref_name": "G protein-coupled receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004993",
+            "xref_name": "G protein-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051378",
+            "xref_name": "serotonin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007198",
+            "xref_name": "adenylate cyclase-inhibiting serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "P35365",
+            "xref_name": "5-hydroxytryptamine receptor 5B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P35365",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "IPR000431",
+            "xref_name": "5HT5B_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002231",
+            "xref_name": "5HT_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24248:SF202",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR 5A",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24248",
+            "xref_name": "ADRENERGIC RECEPTOR-RELATED G-PROTEIN COUPLED RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P32305",
+        "component_description": "5-hydroxytryptamine receptor 7",
+        "component_id": 1545,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT-7",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT7",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT-X",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 7",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GPRFO",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Htr7",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serotonin receptor 7",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004993",
+            "xref_name": "G protein-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007192",
+            "xref_name": "adenylate cyclase-activating serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007210",
+            "xref_name": "serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007613",
+            "xref_name": "memory",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007623",
+            "xref_name": "circadian rhythm",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010976",
+            "xref_name": "positive regulation of neuron projection development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014063",
+            "xref_name": "negative regulation of serotonin secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042310",
+            "xref_name": "vasoconstriction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048266",
+            "xref_name": "behavioral response to pain",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060291",
+            "xref_name": "long-term synaptic potentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0062086",
+            "xref_name": "regulation of vein smooth muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071542",
+            "xref_name": "dopaminergic neuron differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098664",
+            "xref_name": "G protein-coupled serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099171",
+            "xref_name": "presynaptic modulation of chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042734",
+            "xref_name": "presynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043679",
+            "xref_name": "axon terminus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "P97936",
+            "xref_name": "5-hydroxytryptamine receptor 7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P32305",
+            "xref_name": "5-hydroxytryptamine receptor 7",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P32305",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "R-RNO-390666",
+            "xref_name": "Serotonin receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-9706019",
+            "xref_name": "RHOBTB3 ATPase cycle",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P32305",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR001069",
+            "xref_name": "5HT_7_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24248",
+            "xref_name": "ADRENERGIC RECEPTOR-RELATED G-PROTEIN COUPLED RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24248:SF199",
+            "xref_name": "IP13425P-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P31388",
+        "component_description": "5-hydroxytryptamine receptor 6",
+        "component_id": 1694,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT-6",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT6",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 6",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Htr6",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serotonin receptor 6",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ST-B17",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004993",
+            "xref_name": "G protein-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007188",
+            "xref_name": "adenylate cyclase-modulating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007192",
+            "xref_name": "adenylate cyclase-activating serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007612",
+            "xref_name": "learning",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014050",
+            "xref_name": "negative regulation of glutamate secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014053",
+            "xref_name": "negative regulation of gamma-aminobutyric acid secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014054",
+            "xref_name": "positive regulation of gamma-aminobutyric acid secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014058",
+            "xref_name": "negative regulation of acetylcholine secretion, neurotransmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0021795",
+            "xref_name": "cerebral cortex cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032008",
+            "xref_name": "positive regulation of TOR signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0033603",
+            "xref_name": "positive regulation of dopamine secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060291",
+            "xref_name": "long-term synaptic potentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098664",
+            "xref_name": "G protein-coupled serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005929",
+            "xref_name": "cilium",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "P31388",
+            "xref_name": "5-hydroxytryptamine receptor 6",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P31388",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P31388",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "R-RNO-390666",
+            "xref_name": "Serotonin receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P31388",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "IPR002232",
+            "xref_name": "5HT6_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24247",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24247:SF236",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR 6",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "Q9JJ16",
+        "component_description": "5-hydroxytryptamine receptor 3B",
+        "component_id": 1779,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT3-B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT3B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 3B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Htr3b",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serotonin receptor 3B",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0007210",
+            "xref_name": "serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098655",
+            "xref_name": "monoatomic cation transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0004888",
+            "xref_name": "transmembrane signaling receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005230",
+            "xref_name": "extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005231",
+            "xref_name": "excitatory extracellular ligand-gated monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0022850",
+            "xref_name": "serotonin-gated monoatomic cation channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1904315",
+            "xref_name": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006811",
+            "xref_name": "monoatomic ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060078",
+            "xref_name": "regulation of postsynaptic membrane potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060079",
+            "xref_name": "excitatory postsynaptic potential",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098662",
+            "xref_name": "inorganic cation transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0140227",
+            "xref_name": "serotonin-gated cation-selective signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1902495",
+            "xref_name": "transmembrane transporter complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1904602",
+            "xref_name": "serotonin-activated cation-selective channel complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "Q9ERJ5",
+            "xref_name": "5-hydroxytryptamine receptor 3B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9JJ16",
+            "xref_name": "5-hydroxytryptamine receptor 3B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9JJ16",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "R-RNO-112314",
+            "xref_name": "Neurotransmitter receptors and postsynaptic signal transmission",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "IPR008132",
+            "xref_name": "5HT3_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008134",
+            "xref_name": "5HT3_rcpt_B",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR049944",
+            "xref_name": "LGIC_TM_5-HT3",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006202",
+            "xref_name": "Neur_chan_lig-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036734",
+            "xref_name": "Neur_chan_lig-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006201",
+            "xref_name": "Neur_channel",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036719",
+            "xref_name": "Neuro-gated_channel_TM_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR038050",
+            "xref_name": "Neuro_actylchol_rec",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006029",
+            "xref_name": "Neurotrans-gated_channel_TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR18945",
+            "xref_name": "NEUROTRANSMITTER GATED ION CHANNEL",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF02931",
+            "xref_name": "Neur_chan_LBD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02932",
+            "xref_name": "Neur_chan_memb",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P28564",
+        "component_description": "5-hydroxytryptamine receptor 1B",
+        "component_id": 1780,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT-1B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT1B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5ht1b",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 1B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Htr1b",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serotonin receptor 1B",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0007193",
+            "xref_name": "adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009636",
+            "xref_name": "response to toxic substance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046849",
+            "xref_name": "bone remodeling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001586",
+            "xref_name": "Gi/o-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004993",
+            "xref_name": "G protein-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051378",
+            "xref_name": "serotonin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099589",
+            "xref_name": "serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099626",
+            "xref_name": "voltage-gated calcium channel activity involved in regulation of presynaptic cytosolic calcium levels",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0002031",
+            "xref_name": "G protein-coupled receptor internalization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007198",
+            "xref_name": "adenylate cyclase-inhibiting serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007208",
+            "xref_name": "phospholipase C-activating serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007631",
+            "xref_name": "feeding behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014053",
+            "xref_name": "negative regulation of gamma-aminobutyric acid secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014059",
+            "xref_name": "regulation of dopamine secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014063",
+            "xref_name": "negative regulation of serotonin secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032229",
+            "xref_name": "negative regulation of synaptic transmission, GABAergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042310",
+            "xref_name": "vasoconstriction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042756",
+            "xref_name": "drinking behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050795",
+            "xref_name": "regulation of behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051967",
+            "xref_name": "negative regulation of synaptic transmission, glutamatergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071312",
+            "xref_name": "cellular response to alkaloid",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071466",
+            "xref_name": "cellular response to xenobiotic stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099171",
+            "xref_name": "presynaptic modulation of chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099509",
+            "xref_name": "regulation of presynaptic cytosolic calcium ion concentration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904707",
+            "xref_name": "positive regulation of vascular associated smooth muscle cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000300",
+            "xref_name": "regulation of synaptic vesicle exocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042734",
+            "xref_name": "presynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0044305",
+            "xref_name": "calyx of Held",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099154",
+            "xref_name": "serotonergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098666",
+            "xref_name": "G protein-coupled serotonin receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "P28564",
+            "xref_name": "5-hydroxytryptamine receptor 1B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P28564",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "R-RNO-390666",
+            "xref_name": "Serotonin receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-418594",
+            "xref_name": "G alpha (i) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "IPR002147",
+            "xref_name": "5HT1B_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002231",
+            "xref_name": "5HT_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24248:SF201",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR 1B",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24248",
+            "xref_name": "ADRENERGIC RECEPTOR-RELATED G-PROTEIN COUPLED RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P30994",
+        "component_description": "5-hydroxytryptamine receptor 2B",
+        "component_id": 2194,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT-2B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT2B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT-2F",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 2B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Htr2b",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serotonin receptor 2B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Srl",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Stomach fundus serotonin receptor",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0007507",
+            "xref_name": "heart development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001587",
+            "xref_name": "Gq/11-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001965",
+            "xref_name": "G-protein alpha-subunit binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004993",
+            "xref_name": "G protein-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005096",
+            "xref_name": "GTPase activator activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051378",
+            "xref_name": "serotonin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099589",
+            "xref_name": "serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001755",
+            "xref_name": "neural crest cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001819",
+            "xref_name": "positive regulation of cytokine production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001938",
+            "xref_name": "positive regulation of endothelial cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002031",
+            "xref_name": "G protein-coupled receptor internalization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0003007",
+            "xref_name": "heart morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006874",
+            "xref_name": "intracellular calcium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007208",
+            "xref_name": "phospholipase C-activating serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007210",
+            "xref_name": "serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008284",
+            "xref_name": "positive regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010513",
+            "xref_name": "positive regulation of phosphatidylinositol biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014033",
+            "xref_name": "neural crest cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019722",
+            "xref_name": "calcium-mediated signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019934",
+            "xref_name": "cGMP-mediated signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0034220",
+            "xref_name": "monoatomic ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035733",
+            "xref_name": "hepatic stellate cell activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042310",
+            "xref_name": "vasoconstriction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043066",
+            "xref_name": "negative regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043123",
+            "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043647",
+            "xref_name": "inositol phosphate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048598",
+            "xref_name": "embryonic morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050795",
+            "xref_name": "regulation of behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051209",
+            "xref_name": "release of sequestered calcium ion into cytosol",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051781",
+            "xref_name": "positive regulation of cell division",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070371",
+            "xref_name": "ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071418",
+            "xref_name": "cellular response to amine stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098664",
+            "xref_name": "G protein-coupled serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904015",
+            "xref_name": "cellular response to serotonin",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043005",
+            "xref_name": "neuron projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098666",
+            "xref_name": "G protein-coupled serotonin receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "Q9QW44",
+            "xref_name": "5-hydroxytryptamine receptor 2B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P30994",
+            "xref_name": "5-hydroxytryptamine receptor 2B",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P30994",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P30994",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "R-RNO-390666",
+            "xref_name": "Serotonin receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-416476",
+            "xref_name": "G alpha (q) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "IPR000482",
+            "xref_name": "5HT2B_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002231",
+            "xref_name": "5HT_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24247",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24247:SF31",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR 2B",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "Q62758",
+        "component_description": "5-hydroxytryptamine receptor 4",
+        "component_id": 2634,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT-4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Htr4",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serotonin receptor 4",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004993",
+            "xref_name": "G protein-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099589",
+            "xref_name": "serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007188",
+            "xref_name": "adenylate cyclase-modulating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007189",
+            "xref_name": "adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007192",
+            "xref_name": "adenylate cyclase-activating serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030277",
+            "xref_name": "maintenance of gastrointestinal epithelium",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032098",
+            "xref_name": "regulation of appetite",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050890",
+            "xref_name": "cognition",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070254",
+            "xref_name": "mucus secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098664",
+            "xref_name": "G protein-coupled serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0150052",
+            "xref_name": "regulation of postsynapse assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098794",
+            "xref_name": "postsynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098978",
+            "xref_name": "glutamatergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005768",
+            "xref_name": "endosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0010008",
+            "xref_name": "endosome membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "O89034",
+            "xref_name": "5-hydroxytryptamine receptor 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q62757",
+            "xref_name": "5-hydroxytryptamine receptor 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q63006",
+            "xref_name": "5-hydroxytryptamine receptor 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q62758",
+            "xref_name": "5-hydroxytryptamine receptor 4",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q62758",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "R-RNO-390666",
+            "xref_name": "Serotonin receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "IPR001520",
+            "xref_name": "5HT4_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24248",
+            "xref_name": "ADRENERGIC RECEPTOR-RELATED G-PROTEIN COUPLED RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24248:SF66",
+            "xref_name": "OCTOPAMINE RECEPTOR BETA-3R",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P08909",
+        "component_description": "5-hydroxytryptamine receptor 2C",
+        "component_id": 2748,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT-1C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT1C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5ht1c",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "5-HT-2C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT2C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HTR2C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 1C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 2C",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Htr1c",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Htr2c",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serotonin receptor 2C",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0045600",
+            "xref_name": "positive regulation of fat cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050850",
+            "xref_name": "positive regulation of calcium-mediated signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001587",
+            "xref_name": "Gq/11-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004993",
+            "xref_name": "G protein-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051378",
+            "xref_name": "serotonin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099589",
+            "xref_name": "serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001662",
+            "xref_name": "behavioral fear response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006874",
+            "xref_name": "intracellular calcium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007200",
+            "xref_name": "phospholipase C-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007208",
+            "xref_name": "phospholipase C-activating serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007210",
+            "xref_name": "serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007626",
+            "xref_name": "locomotory behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007631",
+            "xref_name": "feeding behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010513",
+            "xref_name": "positive regulation of phosphatidylinositol biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014054",
+            "xref_name": "positive regulation of gamma-aminobutyric acid secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014057",
+            "xref_name": "positive regulation of acetylcholine secretion, neurotransmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019934",
+            "xref_name": "cGMP-mediated signaling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031100",
+            "xref_name": "animal organ regeneration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031583",
+            "xref_name": "phospholipase D-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031644",
+            "xref_name": "regulation of nervous system process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032098",
+            "xref_name": "regulation of appetite",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035095",
+            "xref_name": "behavioral response to nicotine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043397",
+            "xref_name": "regulation of corticotropin-releasing hormone secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045907",
+            "xref_name": "positive regulation of vasoconstriction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045963",
+            "xref_name": "negative regulation of dopamine metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046960",
+            "xref_name": "sensitization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051209",
+            "xref_name": "release of sequestered calcium ion into cytosol",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098664",
+            "xref_name": "G protein-coupled serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009897",
+            "xref_name": "external side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098666",
+            "xref_name": "G protein-coupled serotonin receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "P08909",
+            "xref_name": "5-hydroxytryptamine receptor 2C",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "2MHO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P08909",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P08909",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "R-RNO-390666",
+            "xref_name": "Serotonin receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-416476",
+            "xref_name": "G alpha (q) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "IPR000377",
+            "xref_name": "5HT2C_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002231",
+            "xref_name": "5HT_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24247",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24247:SF32",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR 2C",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P14842",
+        "component_description": "5-hydroxytryptamine receptor 2A",
+        "component_id": 2961,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT-2A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 2A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Htr2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Htr2a",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serotonin receptor 2A",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "4OAJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "GO:0006096",
+            "xref_name": "glycolytic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0044380",
+            "xref_name": "protein localization to cytoskeleton",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045600",
+            "xref_name": "positive regulation of fat cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045821",
+            "xref_name": "positive regulation of glycolytic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050731",
+            "xref_name": "positive regulation of peptidyl-tyrosine phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001587",
+            "xref_name": "Gq/11-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004993",
+            "xref_name": "G protein-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051378",
+            "xref_name": "serotonin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099589",
+            "xref_name": "serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001659",
+            "xref_name": "temperature homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002720",
+            "xref_name": "positive regulation of cytokine production involved in immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006874",
+            "xref_name": "intracellular calcium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007204",
+            "xref_name": "positive regulation of cytosolic calcium ion concentration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007208",
+            "xref_name": "phospholipase C-activating serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007210",
+            "xref_name": "serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007613",
+            "xref_name": "memory",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008284",
+            "xref_name": "positive regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010513",
+            "xref_name": "positive regulation of phosphatidylinositol biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014059",
+            "xref_name": "regulation of dopamine secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014824",
+            "xref_name": "artery smooth muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031652",
+            "xref_name": "positive regulation of heat generation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043267",
+            "xref_name": "negative regulation of potassium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043525",
+            "xref_name": "positive regulation of neuron apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045907",
+            "xref_name": "positive regulation of vasoconstriction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046960",
+            "xref_name": "sensitization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048148",
+            "xref_name": "behavioral response to cocaine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050729",
+            "xref_name": "positive regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050951",
+            "xref_name": "sensory perception of temperature stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051209",
+            "xref_name": "release of sequestered calcium ion into cytosol",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051967",
+            "xref_name": "negative regulation of synaptic transmission, glutamatergic",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098664",
+            "xref_name": "G protein-coupled serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099171",
+            "xref_name": "presynaptic modulation of chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1900119",
+            "xref_name": "positive regulation of execution phase of apoptosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901731",
+            "xref_name": "positive regulation of platelet aggregation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000573",
+            "xref_name": "positive regulation of DNA biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042734",
+            "xref_name": "presynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098978",
+            "xref_name": "glutamatergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005883",
+            "xref_name": "neurofilament",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005901",
+            "xref_name": "caveola",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043198",
+            "xref_name": "dendritic shaft",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070852",
+            "xref_name": "cell body fiber",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098793",
+            "xref_name": "presynapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098666",
+            "xref_name": "G protein-coupled serotonin receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "P14842",
+            "xref_name": "5-hydroxytryptamine receptor 2A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "4OAJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "P14842",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P14842",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "R-RNO-390666",
+            "xref_name": "Serotonin receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-416476",
+            "xref_name": "G alpha (q) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "IPR000455",
+            "xref_name": "5HT2A_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002231",
+            "xref_name": "5HT_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24247",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24247:SF30",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR 2A",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P30940",
+        "component_description": "5-hydroxytryptamine receptor 1F",
+        "component_id": 2964,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT-1F",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT1F",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5ht1f",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 1F",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Htr1f",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serotonin receptor 1F",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0001586",
+            "xref_name": "Gi/o-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004993",
+            "xref_name": "G protein-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051378",
+            "xref_name": "serotonin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099589",
+            "xref_name": "serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007193",
+            "xref_name": "adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007198",
+            "xref_name": "adenylate cyclase-inhibiting serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045202",
+            "xref_name": "synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "P30940",
+            "xref_name": "5-hydroxytryptamine receptor 1F",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P30940",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "R-RNO-390666",
+            "xref_name": "Serotonin receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-418594",
+            "xref_name": "G alpha (i) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "IPR000450",
+            "xref_name": "5HT1F_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002231",
+            "xref_name": "5HT_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24248:SF196",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR 1D",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24248",
+            "xref_name": "ADRENERGIC RECEPTOR-RELATED G-PROTEIN COUPLED RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P35364",
+        "component_description": "5-hydroxytryptamine receptor 5A",
+        "component_id": 2973,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT-5A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT5A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5ht5a",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 5A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Htr5a",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "REC17",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Serotonin receptor 5A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=5ht5a",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0007189",
+            "xref_name": "adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001586",
+            "xref_name": "Gi/o-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004993",
+            "xref_name": "G protein-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051378",
+            "xref_name": "serotonin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099589",
+            "xref_name": "serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007198",
+            "xref_name": "adenylate cyclase-inhibiting serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0021766",
+            "xref_name": "hippocampus development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0099634",
+            "xref_name": "postsynaptic specialization membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043204",
+            "xref_name": "perikaryon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "P35364",
+            "xref_name": "5-hydroxytryptamine receptor 5A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P35364",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "R-RNO-390666",
+            "xref_name": "Serotonin receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-418594",
+            "xref_name": "G alpha (i) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "IPR001397",
+            "xref_name": "5HT5A_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002231",
+            "xref_name": "5HT_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24248:SF202",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR 5A",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24248",
+            "xref_name": "ADRENERGIC RECEPTOR-RELATED G-PROTEIN COUPLED RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P19327",
+        "component_description": "5-hydroxytryptamine receptor 1A",
+        "component_id": 3093,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT-1A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT1A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5ht1a",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 1A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Htr1a",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serotonin receptor 1A",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0007214",
+            "xref_name": "gamma-aminobutyric acid signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098664",
+            "xref_name": "G protein-coupled serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001586",
+            "xref_name": "Gi/o-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001965",
+            "xref_name": "G-protein alpha-subunit binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004993",
+            "xref_name": "G protein-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005102",
+            "xref_name": "signaling receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051378",
+            "xref_name": "serotonin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0090722",
+            "xref_name": "receptor-receptor interaction",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099589",
+            "xref_name": "serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001662",
+            "xref_name": "behavioral fear response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007198",
+            "xref_name": "adenylate cyclase-inhibiting serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007210",
+            "xref_name": "serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014053",
+            "xref_name": "negative regulation of gamma-aminobutyric acid secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0014062",
+            "xref_name": "regulation of serotonin secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019229",
+            "xref_name": "regulation of vasoconstriction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031117",
+            "xref_name": "positive regulation of microtubule depolymerization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035095",
+            "xref_name": "behavioral response to nicotine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035640",
+            "xref_name": "exploration behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042428",
+            "xref_name": "serotonin metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046883",
+            "xref_name": "regulation of hormone secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050795",
+            "xref_name": "regulation of behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060259",
+            "xref_name": "regulation of feeding behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0097114",
+            "xref_name": "NMDA glutamate receptor clustering",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099171",
+            "xref_name": "presynaptic modulation of chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042734",
+            "xref_name": "presynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098982",
+            "xref_name": "GABA-ergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0042995",
+            "xref_name": "cell projection",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043203",
+            "xref_name": "axon hillock",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "P19327",
+            "xref_name": "5-hydroxytryptamine receptor 1A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P19327",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P19327",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "R-RNO-390666",
+            "xref_name": "Serotonin receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "IPR000610",
+            "xref_name": "5HT1A_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002231",
+            "xref_name": "5HT_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24248:SF191",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR 1A",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24248",
+            "xref_name": "ADRENERGIC RECEPTOR-RELATED G-PROTEIN COUPLED RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      },
+      {
+        "accession": "P28565",
+        "component_description": "5-hydroxytryptamine receptor 1D",
+        "component_id": 3743,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5-HT-1D",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-HT1D",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "5-hydroxytryptamine receptor 1D",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Htr1d",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serotonin receptor 1D",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0009636",
+            "xref_name": "response to toxic substance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001586",
+            "xref_name": "Gi/o-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004993",
+            "xref_name": "G protein-coupled serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030594",
+            "xref_name": "neurotransmitter receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051378",
+            "xref_name": "serotonin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0099589",
+            "xref_name": "serotonin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007187",
+            "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007193",
+            "xref_name": "adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007198",
+            "xref_name": "adenylate cyclase-inhibiting serotonin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007268",
+            "xref_name": "chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0040012",
+            "xref_name": "regulation of locomotion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042310",
+            "xref_name": "vasoconstriction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050795",
+            "xref_name": "regulation of behavior",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:2000300",
+            "xref_name": "regulation of synaptic vesicle exocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030425",
+            "xref_name": "dendrite",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098978",
+            "xref_name": "glutamatergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "P28565",
+            "xref_name": "5-hydroxytryptamine receptor 1D",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P28565",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "R-RNO-390666",
+            "xref_name": "Serotonin receptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-RNO-418594",
+            "xref_name": "G alpha (i) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "IPR000505",
+            "xref_name": "5HT1D_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002231",
+            "xref_name": "5HT_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24248:SF196",
+            "xref_name": "5-HYDROXYTRYPTAMINE RECEPTOR 1D",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24248",
+            "xref_name": "ADRENERGIC RECEPTOR-RELATED G-PROTEIN COUPLED RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          }
+        ]
+      }
+    ],
+    "target_type": "PROTEIN FAMILY",
+    "tax_id": 10116
+  },
+  "ok": true
+}

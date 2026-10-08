@@ -1,0 +1,83 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Human rhinovirus sp.",
+    "pref_name": "Human rhinovirus A protease",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2857",
+    "target_components": [
+      {
+        "accession": "Q4U254",
+        "component_description": "Genome polyprotein",
+        "component_id": 1187,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Genome polyprotein",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "protease",
+            "syn_type": "GENE_SYMBOL"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0039618",
+            "xref_name": "T=pseudo3 icosahedral viral capsid",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043657",
+            "xref_name": "host cell",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000166",
+            "xref_name": "nucleotide binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003968",
+            "xref_name": "RNA-dependent RNA polymerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004197",
+            "xref_name": "cysteine-type endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008234",
+            "xref_name": "cysteine-type peptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0017111",
+            "xref_name": "ribonucleoside triphosphate phosphatase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "Q4U254",
+            "xref_name": null,
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 169066
+  },
+  "ok": true
+}

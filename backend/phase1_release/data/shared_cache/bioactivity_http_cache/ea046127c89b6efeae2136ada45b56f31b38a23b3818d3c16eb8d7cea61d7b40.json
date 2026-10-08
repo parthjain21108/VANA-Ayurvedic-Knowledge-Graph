@@ -1,0 +1,589 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "ATP-citrate synthase",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3720",
+    "target_components": [
+      {
+        "accession": "P53396",
+        "component_description": "ATP-citrate synthase",
+        "component_id": 2036,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.3.3.8",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "ACL",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ACLY",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "ATP-citrate (pro-S-)-lyase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "ATP-citrate synthase",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Citrate cleavage enzyme",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P53396",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P53396",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035578",
+            "xref_name": "azurophil granule lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1904813",
+            "xref_name": "ficolin-1-rich granule lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003878",
+            "xref_name": "ATP citrate synthase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016740",
+            "xref_name": "transferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046912",
+            "xref_name": "acyltransferase activity, acyl groups converted into alkyl on transfer",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006085",
+            "xref_name": "acetyl-CoA biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006101",
+            "xref_name": "citrate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006107",
+            "xref_name": "oxaloacetate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006629",
+            "xref_name": "lipid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006633",
+            "xref_name": "fatty acid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006695",
+            "xref_name": "cholesterol biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008610",
+            "xref_name": "lipid biosynthetic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0015936",
+            "xref_name": "coenzyme A metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:115",
+            "xref_name": "ACLY",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P53396",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR002020",
+            "xref_name": "Citrate_synthase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003781",
+            "xref_name": "CoA-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005811",
+            "xref_name": "SUCC_ACL_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR014608",
+            "xref_name": "ATP-citrate_synthase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016102",
+            "xref_name": "Succinyl-CoA_synth-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR016143",
+            "xref_name": "Citrate_synth-like_sm_a-sub",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017440",
+            "xref_name": "Cit_synth/succinyl-CoA_lig_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017866",
+            "xref_name": "Succ-CoA_synthase_bsu_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR032263",
+            "xref_name": "Citrate-bd",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033847",
+            "xref_name": "Citrt_syn/SCS-alpha_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036291",
+            "xref_name": "NAD(P)-bd_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036969",
+            "xref_name": "Citrate_synthase_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR056749",
+            "xref_name": "Citrate_synth_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR23118",
+            "xref_name": "ATP-CITRATE SYNTHASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR23118:SF42",
+            "xref_name": "ATP-CITRATE SYNTHASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "3MWD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3MWE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3PFF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5TDE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5TDF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5TDM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5TDZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5TE1",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5TEQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5TES",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5TET",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HXH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HXK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HXL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6HXM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6O0H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6POE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6POF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6QFB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6UI9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6UIA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6UUW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6UUZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6UV5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6Z2H",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7LIW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7LJ9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7LLA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7RIG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7RKZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7RMP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G1E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G1F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G5C",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8G5D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3MWD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3MWE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3PFF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5TDE",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5TDF",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5TDM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5TDZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5TE1",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5TEQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5TES",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5TET",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6HXH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6HXK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6HXL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6HXM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6QFB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6Z2H",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00285",
+            "xref_name": "Citrate_synt",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00549",
+            "xref_name": "Ligase_CoA",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02629",
+            "xref_name": "CoA_binding",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF16114",
+            "xref_name": "Citrate_bind",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF24948",
+            "xref_name": "Citrate_synth_N",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA24441",
+            "xref_name": "ATP citrate lyase",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P53396",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-163765",
+            "xref_name": "ChREBP activates metabolic gene expression",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6798695",
+            "xref_name": "Neutrophil degranulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-75105",
+            "xref_name": "Fatty acyl-CoA biosynthesis",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B4DIM0",
+            "xref_name": "ATP-citrate synthase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B4E3P0",
+            "xref_name": "ATP-citrate synthase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P53396",
+            "xref_name": "ATP-citrate synthase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q13037",
+            "xref_name": "ATP-citrate synthase",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9BRL0",
+            "xref_name": "ATP-citrate synthase",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,534 @@
+{
+  "data": {
+    "accession": "P05362",
+    "component_id": 1397,
+    "component_type": "PROTEIN",
+    "description": "Intercellular adhesion molecule 1",
+    "go_slims": [
+      {
+        "go_id": "GO:0001618"
+      },
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0005178"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005615"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0007155"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0044403"
+      },
+      {
+        "go_id": "GO:0048856"
+      },
+      {
+        "go_id": "GO:0048870"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 2
+      }
+    ],
+    "sequence": "MAPSSPRPALPALLVLLGALFPGPGNAQTSVSPSKVILPRGGSVLVTCSTSCDQPKLLGIETPLPKKELLLPGNNRKVYELSNVQEDSQPMCYSNCPDGQSTAKTFLTVYWTPERVELAPLPSWQPVGKNLTLRCQVEGGAPRANLTVVLLRGEKELKREPAVGEPAEVTTTVLVRRDHHGANFSCRTELDLRPQGLELFENTSAPYQLQTFVLPATPPQLVSPRVLEVDTQGTVVCSLDGLFPVSEAQVHLALGDQRLNPTVTYGNDSFSAKASVSVTAEDEGTQRLTCAVILGNQSQETLQTVTIYSFPAPNVILTKPEVSEGTEVTVKCEAHPRAKVTLNGVPAQPLGPRAQLLLKATPEDNGRSFSCSATLEVAGQLIHKNQTRELRVLYGPRLDERDCPGNWTWPENSQQTPMCQAWGNPLPELKCLKDGTFPLPIGESVTVTRDLEGTYLCRARSTQGEVTRKVTVNVLSPRYEIVIITVVAAAVIMGTAGLSTYLYNRQRKIKKYRLQQAQKGTPMKPNTQATPP",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "CD_antigen=CD54",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ICAM-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ICAM1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Intercellular adhesion molecule 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Major group rhinovirus receptor",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P05362",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P05362",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0001772",
+        "xref_name": "immunological synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005615",
+        "xref_name": "extracellular space",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005925",
+        "xref_name": "focal adhesion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0009897",
+        "xref_name": "external side of plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0009986",
+        "xref_name": "cell surface",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045121",
+        "xref_name": "membrane raft",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0001618",
+        "xref_name": "virus receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004888",
+        "xref_name": "transmembrane signaling receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005178",
+        "xref_name": "integrin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0038023",
+        "xref_name": "signaling receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001910",
+        "xref_name": "regulation of leukocyte mediated cytotoxicity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002291",
+        "xref_name": "T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002457",
+        "xref_name": "T cell antigen processing and presentation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002693",
+        "xref_name": "positive regulation of cellular extravasation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007155",
+        "xref_name": "cell adhesion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007157",
+        "xref_name": "heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007159",
+        "xref_name": "leukocyte cell-cell adhesion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0022614",
+        "xref_name": "membrane to membrane docking",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0033627",
+        "xref_name": "cell adhesion mediated by integrin",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0044406",
+        "xref_name": "adhesion of symbiont to host",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046718",
+        "xref_name": "symbiont entry into host cell",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046813",
+        "xref_name": "receptor-mediated virion attachment to host cell",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050900",
+        "xref_name": "leukocyte migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061028",
+        "xref_name": "establishment of endothelial barrier",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070374",
+        "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071333",
+        "xref_name": "cellular response to glucose stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0072683",
+        "xref_name": "T cell extravasation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0098609",
+        "xref_name": "cell-cell adhesion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1900027",
+        "xref_name": "regulation of ruffle assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902042",
+        "xref_name": "negative regulation of extrinsic apoptotic signaling pathway via death domain receptors",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904646",
+        "xref_name": "cellular response to amyloid-beta",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000352",
+        "xref_name": "negative regulation of endothelial cell apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:5344",
+        "xref_name": "ICAM1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P05362",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR003599",
+        "xref_name": "Ig_sub",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003987",
+        "xref_name": "ICAM_VCAM_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003988",
+        "xref_name": "ICAM",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013768",
+        "xref_name": "ICAM_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013783",
+        "xref_name": "Ig-like_fold",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036179",
+        "xref_name": "Ig-like_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR047012",
+        "xref_name": "ICAM_VCAM",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR048679",
+        "xref_name": "ICAM1_3_5_D2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR13771",
+        "xref_name": "INTERCELLULAR ADHESION MOLECULE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR13771:SF18",
+        "xref_name": "INTERCELLULAR ADHESION MOLECULE 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1D3E",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1D3I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1D3L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1IAM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1IC1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1MQ8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1P53",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1Z7Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2OZ4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3TCX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5MZA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6EIT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6S8U",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7BG7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1D3L",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1IAM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1IC1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1MQ8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1P53",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2OZ4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3TCX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5MZA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6S8U",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF03921",
+        "xref_name": "ICAM_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF13895",
+        "xref_name": "Ig_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF21146",
+        "xref_name": "ICAM1_3_5_D2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA29592",
+        "xref_name": "intercellular adhesion molecule 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P05362",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-198933",
+        "xref_name": "Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-216083",
+        "xref_name": "Integrin cell surface interactions",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6783783",
+        "xref_name": "Interleukin-10 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6785807",
+        "xref_name": "Interleukin-4 and Interleukin-13 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-877300",
+        "xref_name": "Interferon gamma signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B2R6M3",
+        "xref_name": "Intercellular adhesion molecule 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P05362",
+        "xref_name": "Intercellular adhesion molecule 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5NKV7",
+        "xref_name": "Intercellular adhesion molecule 1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96B50",
+        "xref_name": "Intercellular adhesion molecule 1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3070"
+      },
+      {
+        "target_chembl_id": "CHEMBL2096661"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

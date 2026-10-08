@@ -1,0 +1,542 @@
+{
+  "data": {
+    "accession": "Q9UBT6",
+    "component_id": 3661,
+    "component_type": "PROTEIN",
+    "description": "DNA polymerase kappa",
+    "go_slims": [
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016779"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 1
+      }
+    ],
+    "sequence": "MDSTKEKCDSYKDDLLLRMGLNDNKAGMEGLDKEKINKIIMEATKGSRFYGNELKKEKQVNQRIENMMQQKAQITSQQLRKAQLQVDRFAMELEQSRNLSNTIVHIDMDAFYAAVEMRDNPELKDKPIAVGSMSMLSTSNYHARRFGVRAAMPGFIAKRLCPQLIIVPPNFDKYRAVSKEVKEILADYDPNFMAMSLDEAYLNITKHLEERQNWPEDKRRYFIKMGSSVENDNPGKEVNKLSEHERSISPLLFEESPSDVQPPGDPFQVNFEEQNNPQILQNSVVFGTSAQEVVKEIRFRIEQKTTLTASAGIAPNTMLAKVCSDKNKPNGQYQILPNRQAVMDFIKDLPIRKVSGIGKVTEKMLKALGIITCTELYQQRALLSLLFSETSWHYFLHISLGLGSTHLTRDGERKSMSVERTFSEINKAEEQYSLCQELCSELAQDLQKERLKGRTVTIKLKNVNFEVKTRASTVSSVVSTAEEIFAIAKELLKTEIDADFPHPLRLRLMGVRISSFPNEEDRKHQQRSIIGFLQAGNQALSATECTLEKTDKDKFVKPLEMSHKKSFFDKKRSERKWSHQDTFKCEAVNKQSFQTSQPFQVLKKKMNENLEISENSDDCQILTCPVCFRAQGCISLEALNKHVDECLDGPSISENFKMFSCSHVSATKVNKKENVPASSLCEKQDYEAHPKIKEISSVDCIALVDTIDNSSKAESIDALSNKHSKEECSSLPSKSFNIEHCHQNSSSTVSLENEDVGSFRQEYRQPYLCEVKTGQALVCPVCNVEQKTSDLTLFNVHVDVCLNKSFIQELRKDKFNPVNQPKESSRSTGSSSGVQKAVTRTKRPGLMTKYSTSKKIKPNNPKHTLDIFFK",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "2.7.7.7",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "DINB1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "DINB protein",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "DINP",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "DNA polymerase kappa",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "POLK",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q9UBT6",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q9UBT6",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016604",
+        "xref_name": "nuclear body",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0090734",
+        "xref_name": "site of DNA damage",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003684",
+        "xref_name": "damaged DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003887",
+        "xref_name": "DNA-directed DNA polymerase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0034061",
+        "xref_name": "DNA polymerase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006259",
+        "xref_name": "DNA metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006281",
+        "xref_name": "DNA repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006297",
+        "xref_name": "nucleotide-excision repair, DNA gap filling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006974",
+        "xref_name": "DNA damage response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034644",
+        "xref_name": "cellular response to UV",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042276",
+        "xref_name": "error-prone translesion synthesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071897",
+        "xref_name": "DNA biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:9183",
+        "xref_name": "POLK",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q9UBT6",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001126",
+        "xref_name": "UmuC",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR006642",
+        "xref_name": "Rad18_UBZ4",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017961",
+        "xref_name": "DNA_pol_Y-fam_little_finger",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR022880",
+        "xref_name": "DNApol_IV",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR024728",
+        "xref_name": "PolY_HhH_motif",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036775",
+        "xref_name": "DNA_pol_Y-fam_lit_finger_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR043128",
+        "xref_name": "Rev_trsase/Diguanyl_cyclase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR043502",
+        "xref_name": "DNA/RNA_pol_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050116",
+        "xref_name": "DNA_polymerase-Y",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11076",
+        "xref_name": "DNA REPAIR POLYMERASE UMUC / TRANSFERASE FAMILY MEMBER",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR11076:SF33",
+        "xref_name": "DNA POLYMERASE KAPPA",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1T94",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2LSI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2OH2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2W7O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2W7P",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3IN5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3PZP",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4BA9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4GK5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4U6P",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4U7C",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5T14",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5W2A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5W2C",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6BRX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6BS1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CST",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7NV0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7NV1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1T94",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2OH2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2W7O",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2W7P",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3IN5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3PZP",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4BA9",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4GK5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4U6P",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4U7C",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5T14",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5W2A",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5W2C",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6BRX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6BS1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6CST",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00817",
+        "xref_name": "IMS",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF11798",
+        "xref_name": "IMS_HHH",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF11799",
+        "xref_name": "IMS_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA33503",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q9UBT6",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-5655862",
+        "xref_name": "Translesion synthesis by POLK",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5656169",
+        "xref_name": "Termination of translesion DNA synthesis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5685942",
+        "xref_name": "HDR through Homologous Recombination (HRR)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5696397",
+        "xref_name": "Gap-filling DNA repair synthesis and ligation in GG-NER",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5696400",
+        "xref_name": "Dual Incision in GG-NER",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6782135",
+        "xref_name": "Dual incision in TC-NER",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6782210",
+        "xref_name": "Gap-filling DNA repair synthesis and ligation in TC-NER",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B2RBD2",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5Q9G5",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5Q9G6",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5Q9G7",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5Q9G8",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q86VJ8",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8IZY0",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8IZY1",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8NB30",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96L01",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96Q86",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96Q87",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UBT6",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UHC5",
+        "xref_name": "DNA polymerase kappa",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5365"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

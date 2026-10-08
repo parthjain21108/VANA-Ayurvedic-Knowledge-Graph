@@ -1,0 +1,153 @@
+{
+  "data": {
+    "accession": "P86926",
+    "component_id": 17780,
+    "component_type": "PROTEIN",
+    "description": "RNA-editing ligase 1, mitochondrial",
+    "go_slims": [
+      {
+        "go_id": "GO:0003723"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005739"
+      },
+      {
+        "go_id": "GO:0006397"
+      },
+      {
+        "go_id": "GO:0016874"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Trypanosoma brucei brucei",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 645
+      }
+    ],
+    "sequence": "MQLQRLGAPLLKRLVGGCIRQSTAPIMPCVVVSGSGVFLTPVRTYMPLPNDQSDFSPYIEIDLPSESRIQSLHKSGLAAQEWVACEKVHGTNFGIYLINQGDHEVVRFAKRSGIMDPNENFFGYHILIDEFTAQIRILNDLLKQKYGLSRVGRLVLNGELFGAKYKHPLVPKSEKWCTLPNGKKFPIAGVQIQREPFPQYSPELHFFAFDIKYSVSGAEEDFVLLGYDEFVEFSSKVPNLLYARALVRGTLDECLAFDVENFMTPLPALLGLGNYPLEGNLAEGVVIRHVRRGDPAVEKHNVSTIIKLRCSSFMELKHPGKQKELKETFIDTVRSGALRRVRGNVTVISDSMLPQVEAAANDLLLNNVSDGRLSNVLSKIGREPLLSGEVSQVDVVLMLAKDALKDFLKEVDSLVLNTTLAFRKLLITNVYFESKRLVEQKWKELMQEEAAAQSEAIPPLSPAAPTKGE",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "6.5.1.3",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "REL1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "RNA-editing ligase 1, mitochondrial",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "RNA ligase 1",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P86926",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005739",
+        "xref_name": "mitochondrion",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0020023",
+        "xref_name": "kinetoplast",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031019",
+        "xref_name": "mitochondrial mRNA editing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003723",
+        "xref_name": "RNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003972",
+        "xref_name": "RNA ligase (ATP) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016874",
+        "xref_name": "ligase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006397",
+        "xref_name": "mRNA processing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR012647",
+        "xref_name": "RNA_lig_RNL2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR021122",
+        "xref_name": "RNA_ligase_dom_REL/Rnl2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR041948",
+        "xref_name": "Rnl1/2_C_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PF09414",
+        "xref_name": "RNA_ligase",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "P82863",
+        "xref_name": "RNA-editing ligase 1, mitochondrial",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P86926",
+        "xref_name": "RNA-editing ligase 1, mitochondrial",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q38FA5",
+        "xref_name": "RNA-editing ligase 1, mitochondrial",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4105928"
+      }
+    ],
+    "tax_id": 5702
+  },
+  "ok": true
+}

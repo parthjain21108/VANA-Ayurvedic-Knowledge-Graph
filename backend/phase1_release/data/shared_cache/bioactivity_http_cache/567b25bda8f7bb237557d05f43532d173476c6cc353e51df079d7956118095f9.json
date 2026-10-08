@@ -1,0 +1,360 @@
+{
+  "data": {
+    "accession": "Q969S8",
+    "component_id": 3409,
+    "component_type": "PROTEIN",
+    "description": "Polyamine deacetylase HDAC10",
+    "go_slims": [
+      {
+        "go_id": "GO:0003824"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0006914"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0009308"
+      },
+      {
+        "go_id": "GO:0016787"
+      },
+      {
+        "go_id": "GO:0016810"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 843
+      }
+    ],
+    "sequence": "MGTALVYHEDMTATRLLWDDPECEIERPERLTAALDRLRQRGLEQRCLRLSAREASEEELGLVHSPEYVSLVRETQVLGKEELQALSGQFDAIYFHPSTFHCARLAAGAGLQLVDAVLTGAVQNGLALVRPPGHHGQRAAANGFCVFNNVAIAAAHAKQKHGLHRILVVDWDVHHGQGIQYLFEDDPSVLYFSWHRYEHGRFWPFLRESDADAVGRGQGLGFTVNLPWNQVGMGNADYVAAFLHLLLPLAFEFDPELVLVSAGFDSAIGDPEGQMQATPECFAHLTQLLQVLAGGRVCAVLEGGYHLESLAESVCMTVQTLLGDPAPPLSGPMAPCQSALESIQSARAAQAPHWKSLQQQDVTAVPMSPSSHSPEGRPPPLLPGGPVCKAAASAPSSLLDQPCLCPAPSVRTAVALTTPDITLVLPPDVIQQEASALREETEAWARPHESLAREEALTALGKLLYLLDGMLDGQVNSGIAATPASAAAATLDVAVRRGLSHGAQRLLCVALGQLDRPPDLAHDGRSLWLNIRGKEAAALSMFHVSTPLPVMTGGFLSCILGLVLPLAYGFQPDLVLVALGPGHGLQGPHAALLAAMLRGLAGGRVLALLEENSTPQLAGILARVLNGEAPPSLGPSSVASPEDVQALMYLRGQLEPQWKMLQCHPHLVA",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.5.1.48",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "3.5.1.62",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "HD10",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "HDAC10",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Histone deacetylase 10",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Polyamine deacetylase HDAC10",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q969S8",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q969S8",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0000118",
+        "xref_name": "histone deacetylase complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004407",
+        "xref_name": "histone deacetylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016787",
+        "xref_name": "hydrolase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019213",
+        "xref_name": "deacetylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019899",
+        "xref_name": "enzyme binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0033558",
+        "xref_name": "protein lysine deacetylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042826",
+        "xref_name": "histone deacetylase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0047609",
+        "xref_name": "acetylputrescine deacetylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0047611",
+        "xref_name": "acetylspermidine deacetylase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000122",
+        "xref_name": "negative regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006281",
+        "xref_name": "DNA repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006310",
+        "xref_name": "DNA recombination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006914",
+        "xref_name": "autophagy",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016236",
+        "xref_name": "macroautophagy",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032425",
+        "xref_name": "positive regulation of mismatch repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035825",
+        "xref_name": "homologous recombination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045892",
+        "xref_name": "negative regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0106047",
+        "xref_name": "polyamine deacetylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0106048",
+        "xref_name": "spermidine deacetylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:18128",
+        "xref_name": "HDAC10",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q969S8",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000286",
+        "xref_name": "HDACs",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023696",
+        "xref_name": "Ureohydrolase_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023801",
+        "xref_name": "His_deacetylse_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR037138",
+        "xref_name": "His_deacetylse_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR10625",
+        "xref_name": "HISTONE DEACETYLASE HDAC1-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR10625:SF43",
+        "xref_name": "POLYAMINE DEACETYLASE HDAC10",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PF00850",
+        "xref_name": "Hist_deacetyl",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA38297",
+        "xref_name": "histone deacetylase 10",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q969S8",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-2122947",
+        "xref_name": "NOTCH1 Intracellular Domain Regulates Transcription",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2644606",
+        "xref_name": "Constitutive Signaling by NOTCH1 PEST Domain Mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2894862",
+        "xref_name": "Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-3214815",
+        "xref_name": "HDACs deacetylate histones",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-350054",
+        "xref_name": "Notch-HLH transcription pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q08AP4",
+        "xref_name": "Polyamine deacetylase HDAC10",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6STF9",
+        "xref_name": "Polyamine deacetylase HDAC10",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q969S8",
+        "xref_name": "Polyamine deacetylase HDAC10",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96P77",
+        "xref_name": "Polyamine deacetylase HDAC10",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q96P78",
+        "xref_name": "Polyamine deacetylase HDAC10",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9H028",
+        "xref_name": "Polyamine deacetylase HDAC10",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UGX1",
+        "xref_name": "Polyamine deacetylase HDAC10",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UGX2",
+        "xref_name": "Polyamine deacetylase HDAC10",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5103"
+      },
+      {
+        "target_chembl_id": "CHEMBL2093865"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

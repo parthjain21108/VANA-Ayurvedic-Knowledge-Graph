@@ -1,0 +1,604 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Transcription intermediary factor 1-alpha",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3108638",
+    "target_components": [
+      {
+        "accession": "O15164",
+        "component_description": "Transcription intermediary factor 1-alpha",
+        "component_id": 8284,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.3.2.27",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "E3 ubiquitin-protein ligase TRIM24",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "RING finger protein 82",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "RING-type E3 ubiquitin transferase TIF1-alpha",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "RNF82",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TIF1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TIF1A",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TIF1-alpha",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Transcription intermediary factor 1-alpha",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TRIM24",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Tripartite motif-containing protein 24",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "O15164",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "O15164",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000785",
+            "xref_name": "chromatin",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000791",
+            "xref_name": "euchromatin",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001673",
+            "xref_name": "male germ cell nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005726",
+            "xref_name": "perichromatin fibrils",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0002039",
+            "xref_name": "p53 binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003682",
+            "xref_name": "chromatin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003713",
+            "xref_name": "transcription coactivator activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004842",
+            "xref_name": "ubiquitin-protein transferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005102",
+            "xref_name": "signaling receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008270",
+            "xref_name": "zinc ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016740",
+            "xref_name": "transferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016922",
+            "xref_name": "nuclear receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034056",
+            "xref_name": "estrogen response element binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0035064",
+            "xref_name": "methylated histone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043565",
+            "xref_name": "sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0061630",
+            "xref_name": "ubiquitin protein ligase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070577",
+            "xref_name": "lysine-acetylated histone binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0010628",
+            "xref_name": "positive regulation of gene expression",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031647",
+            "xref_name": "regulation of protein stability",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042981",
+            "xref_name": "regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045892",
+            "xref_name": "negative regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045893",
+            "xref_name": "positive regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050673",
+            "xref_name": "epithelial cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050680",
+            "xref_name": "negative regulation of epithelial cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055074",
+            "xref_name": "calcium ion homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070562",
+            "xref_name": "regulation of vitamin D receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071391",
+            "xref_name": "cellular response to estrogen stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901796",
+            "xref_name": "regulation of signal transduction by p53 class mediator",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:11812",
+            "xref_name": "TRIM24",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "O15164",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000315",
+            "xref_name": "Znf_B-box",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001487",
+            "xref_name": "Bromodomain",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001841",
+            "xref_name": "Znf_RING",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001965",
+            "xref_name": "Znf_PHD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003649",
+            "xref_name": "Bbox_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011011",
+            "xref_name": "Znf_FYVE_PHD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013083",
+            "xref_name": "Znf_RING/FYVE/PHD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017907",
+            "xref_name": "Znf_RING_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018359",
+            "xref_name": "Bromodomain_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR019786",
+            "xref_name": "Zinc_finger_PHD-type_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR019787",
+            "xref_name": "Znf_PHD-finger",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036427",
+            "xref_name": "Bromodomain-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR45915",
+            "xref_name": "TRANSCRIPTION INTERMEDIARY FACTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR45915:SF4",
+            "xref_name": "TRANSCRIPTION INTERMEDIARY FACTOR 1-ALPHA",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2YYN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3O33",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3O34",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3O35",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3O36",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3O37",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4YAB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4YAD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4YAT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4YAX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4YBM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4YBS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4YBT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4YC9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4ZQL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5H1T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5H1U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5H1V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7B9X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9GD5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9GDG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2YYN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3O33",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3O34",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3O35",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3O36",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3O37",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4YAB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4YAD",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4YAT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4YAX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4YBM",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4YBS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4YBT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4YC9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4ZQL",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5H1T",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5H1U",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5H1V",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9GD5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9GDG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00439",
+            "xref_name": "Bromodomain",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00628",
+            "xref_name": "PHD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00643",
+            "xref_name": "zf-B_box",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA36519",
+            "xref_name": "tripartite motif containing 24",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "O15164",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1839117",
+            "xref_name": "Signaling by cytosolic FGFR1 fusion mutants",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5655302",
+            "xref_name": "Signaling by FGFR1 in disease",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6802952",
+            "xref_name": "Signaling by BRAF and RAF1 fusions",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A4D1R7",
+            "xref_name": "Transcription intermediary factor 1-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A4D1R8",
+            "xref_name": "Transcription intermediary factor 1-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O15164",
+            "xref_name": "Transcription intermediary factor 1-alpha",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "O95854",
+            "xref_name": "Transcription intermediary factor 1-alpha",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,1065 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Trypsin",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2095204",
+    "target_components": [
+      {
+        "accession": "P07477",
+        "component_description": "Serine protease 1",
+        "component_id": 95,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.4.21.4",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Alpha-trypsin chain 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Alpha-trypsin chain 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Anionic trypsin I",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Anionic trypsin-I",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Beta-trypsin",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Cationic trypsinogen",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Pretrypsinogen I",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PRSS1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serine protease 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=TRP1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TRP1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TRY1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TRYP1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Trypsin-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Trypsin I",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P07477",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P07477",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0072562",
+            "xref_name": "blood microparticle",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004252",
+            "xref_name": "serine-type endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008236",
+            "xref_name": "serine-type peptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007586",
+            "xref_name": "digestion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0022617",
+            "xref_name": "extracellular matrix disassembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9475",
+            "xref_name": "PRSS1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P07477",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001254",
+            "xref_name": "Trypsin_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001314",
+            "xref_name": "Peptidase_S1A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR009003",
+            "xref_name": "Peptidase_S1_PA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018114",
+            "xref_name": "TRYPSIN_HIS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033116",
+            "xref_name": "TRYPSIN_SER",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR043504",
+            "xref_name": "Peptidase_S1_PA_chymotrypsin",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050127",
+            "xref_name": "Serine_Proteases_S1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24264",
+            "xref_name": "TRYPSIN-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24264:SF73",
+            "xref_name": "SERINE PROTEASE 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1FXY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1TRN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2RA3",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4WWY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4WXV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QE8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7QE9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8H3S",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ZI4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ZIV",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ZIY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8ZJ4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1FXY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1TRN",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2RA3",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4WWY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4WXV",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7QE8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7QE9",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00089",
+            "xref_name": "Trypsin",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA33828",
+            "xref_name": "serine protease 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P07477",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1592389",
+            "xref_name": "Activation of Matrix Metalloproteinases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9758881",
+            "xref_name": "Uptake of dietary cobalamins into enterocytes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9925561",
+            "xref_name": "Developmental Lineage of Pancreatic Acinar Cells",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A1A509",
+            "xref_name": "Serine protease 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A6NJ71",
+            "xref_name": "Serine protease 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B2R5I5",
+            "xref_name": "Serine protease 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P07477",
+            "xref_name": "Serine protease 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5NV57",
+            "xref_name": "Serine protease 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q7M4N3",
+            "xref_name": "Serine protease 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q7M4N4",
+            "xref_name": "Serine protease 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q92955",
+            "xref_name": "Serine protease 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9HAN4",
+            "xref_name": "Serine protease 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9HAN5",
+            "xref_name": "Serine protease 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9HAN6",
+            "xref_name": "Serine protease 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9HAN7",
+            "xref_name": "Serine protease 1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      },
+      {
+        "accession": "P07478",
+        "component_description": "Trypsin-2",
+        "component_id": 1484,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.4.21.4",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Anionic trypsinogen",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PRSS2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Serine protease 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TRY2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TRYP2",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Trypsin-2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Trypsin II",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P07478",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P07478",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0035578",
+            "xref_name": "azurophil granule lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004222",
+            "xref_name": "metalloendopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004252",
+            "xref_name": "serine-type endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005509",
+            "xref_name": "calcium ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008236",
+            "xref_name": "serine-type peptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007586",
+            "xref_name": "digestion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019730",
+            "xref_name": "antimicrobial humoral response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0022617",
+            "xref_name": "extracellular matrix disassembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030307",
+            "xref_name": "positive regulation of cell growth",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030574",
+            "xref_name": "collagen catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045785",
+            "xref_name": "positive regulation of cell adhesion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9483",
+            "xref_name": "PRSS2",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P07478",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001254",
+            "xref_name": "Trypsin_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001314",
+            "xref_name": "Peptidase_S1A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR009003",
+            "xref_name": "Peptidase_S1_PA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018114",
+            "xref_name": "TRYPSIN_HIS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033116",
+            "xref_name": "TRYPSIN_SER",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR043504",
+            "xref_name": "Peptidase_S1_PA_chymotrypsin",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050127",
+            "xref_name": "Serine_Proteases_S1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24264",
+            "xref_name": "TRYPSIN-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24264:SF57",
+            "xref_name": "TRYPSIN-2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "7Z9F",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7Z9F",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00089",
+            "xref_name": "Trypsin",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA33833",
+            "xref_name": "serine protease 2",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P07478",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1442490",
+            "xref_name": "Collagen degradation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1462054",
+            "xref_name": "Alpha-defensins",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-1592389",
+            "xref_name": "Activation of Matrix Metalloproteinases",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6798695",
+            "xref_name": "Neutrophil degranulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6803157",
+            "xref_name": "Antimicrobial peptides",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "P07478",
+            "xref_name": "Trypsin-2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      },
+      {
+        "accession": "P35030",
+        "component_description": "Trypsin-3",
+        "component_id": 2868,
+        "component_type": "PROTEIN",
+        "relationship": "GROUP MEMBER",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.4.21.4",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Brain trypsinogen",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Mesotrypsin",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Mesotrypsinogen",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "PRSS3",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "PRSS4",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Serine protease 3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Serine protease 4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TRY3",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "TRY4",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Trypsin-3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Trypsin III",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Trypsin IV",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P35030",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005615",
+            "xref_name": "extracellular space",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:1904724",
+            "xref_name": "tertiary granule lumen",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004252",
+            "xref_name": "serine-type endopeptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005509",
+            "xref_name": "calcium ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008236",
+            "xref_name": "serine-type peptidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006508",
+            "xref_name": "proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007586",
+            "xref_name": "digestion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019730",
+            "xref_name": "antimicrobial humoral response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031638",
+            "xref_name": "zymogen activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043542",
+            "xref_name": "endothelial cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9486",
+            "xref_name": "PRSS3",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P35030",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001254",
+            "xref_name": "Trypsin_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001314",
+            "xref_name": "Peptidase_S1A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR009003",
+            "xref_name": "Peptidase_S1_PA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018114",
+            "xref_name": "TRYPSIN_HIS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR043504",
+            "xref_name": "Peptidase_S1_PA_chymotrypsin",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050127",
+            "xref_name": "Serine_Proteases_S1",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24264",
+            "xref_name": "TRYPSIN-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24264:SF48",
+            "xref_name": "TRYPSIN-3",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1H4W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2R9P",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3L33",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3L3T",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3P92",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3P95",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4DG4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4U30",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4U32",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5C67",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5JBT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5TP0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BX8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6GFI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9BOS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9BOT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1H4W",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2R9P",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3L33",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3L3T",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3P92",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3P95",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4DG4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4U30",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4U32",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5C67",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5JBT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5TP0",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6BX8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6GFI",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9BOS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "9BOT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00089",
+            "xref_name": "Trypsin",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA33838",
+            "xref_name": "serine protease 3",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P35030",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1462054",
+            "xref_name": "Alpha-defensins",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6798695",
+            "xref_name": "Neutrophil degranulation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6803157",
+            "xref_name": "Antimicrobial peptides",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9725554",
+            "xref_name": "Differentiation of Keratinocytes in Interfollicular Epidermis in Mammalian Skin",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9758881",
+            "xref_name": "Uptake of dietary cobalamins into enterocytes",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8CED1",
+            "xref_name": "Trypsin-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A8CED3",
+            "xref_name": "Trypsin-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "A9Z1Y4",
+            "xref_name": "Trypsin-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "E7ES07",
+            "xref_name": "Trypsin-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "F8W7P3",
+            "xref_name": "Trypsin-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P15951",
+            "xref_name": "Trypsin-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P35030",
+            "xref_name": "Trypsin-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q15665",
+            "xref_name": "Trypsin-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q5VXV0",
+            "xref_name": "Trypsin-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q6ISJ4",
+            "xref_name": "Trypsin-3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9UQV3",
+            "xref_name": "Trypsin-3",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "PROTEIN FAMILY",
+    "tax_id": 9606
+  },
+  "ok": true
+}

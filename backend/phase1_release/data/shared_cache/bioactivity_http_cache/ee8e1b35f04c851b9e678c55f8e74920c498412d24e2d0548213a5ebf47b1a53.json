@@ -1,0 +1,859 @@
+{
+  "data": {
+    "accession": "O96935",
+    "component_id": 2435,
+    "component_type": "PROTEIN",
+    "description": "Aminopeptidase N",
+    "go_slims": [
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005764"
+      },
+      {
+        "go_id": "GO:0005773"
+      },
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0008233"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Plasmodium falciparum (isolate 3D7)",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 31
+      }
+    ],
+    "sequence": "MKLTKGCAYKYIIFTVLILANILYDNKKRCMIKKNLRISSCGIISRLLKSNSNYNSFNKNYNFTSAISELQFSNFWNLDILQKDIFSNIHNNKNKPQSYIIHKRLMSEKGDNNNNNHQNNNGNDNKKRLGSVVNNEENTCSDKRMKPFEEGHGITQVDKMNNNSDHLQQNGVMNLNSNNVENNNNNNSVVVKKNEPKIHYRKDYKPSGFIINNVTLNINIHDNETIVRSVLDMDISKHNVGEDLVFDGVGLKINEISINNKKLVEGEEYTYDNEFLTIFSKFVPKSKFAFSSEVIIHPETNYALTGLYKSKNIIVSQCEATGFRRITFFIDRPDMMAKYDVTVTADKEKYPVLLSNGDKVNEFEIPGGRHGARFNDPHLKPCYLFAVVAGDLKHLSATYITKYTKKKVELYVFSEEKYVSKLQWALECLKKSMAFDEDYFGLEYDLSRLNLVAVSDFNVGAMENKGLNIFNANSLLASKKNSIDFSYARILTVVGHEYFHNYTGNRVTLRDWFQLTLKEGLTVHRENLFSEEMTKTVTTRLSHVDLLRSVQFLEDSSPLSHPIRPESYVSMENFYTTTVYDKGSEVMRMYLTILGEEYYKKGFDIYIKKNDGNTATCEDFNYAMEQAYKMKKADNSANLNQYLLWFSQSGTPHVSFKYNYDAEKKQYSIHVNQYTKPDENQKEKKPLFIPISVGLINPENGKEMISQTTLELTKESDTFVFNNIAVKPIPSLFRGFSAPVYIEDNLTDEERILLLKYDSDAFVRYNSCTNIYMKQILMNYNEFLKAKNEKLESFNLTPVNAQFIDAIKYLLEDPHADAGFKSYIVSLPQDRYIINFVSNLDTDVLADTKEYIYKQIGDKLNDVYYKMFKSLEAKADDLTYFNDESHVDFDQMNMRTLRNTLLSLLSKAQYPNILNEIIEHSKSPYPSNWLTSLSVSAYFDKYFELYDKTYKLSKDDELLLQEWLKTVSRSDRKDIYEILKKLENEVLKDSKNPNDIRAVYLPFTNNLRRFHDISGKGYKLIAEVITKTDKFNPMVATQLCEPFKLWNKLDTKRQELMLNEMNTMLQEPNISNNLKEYLLRLTNKL",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.4.11.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Aminopeptidase N",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "M1AAP",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "M1 alanyl aminopeptidase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "M1 family aminopeptidase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "p120 form",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "p35 form",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "p68 form",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "p96 form",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PfA-M1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PfM1AAP",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "O96935",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005773",
+        "xref_name": "vacuole",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005775",
+        "xref_name": "vacuolar lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0020005",
+        "xref_name": "symbiont-containing vacuole membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0020020",
+        "xref_name": "food vacuole",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004177",
+        "xref_name": "aminopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008237",
+        "xref_name": "metallopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008270",
+        "xref_name": "zinc ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016805",
+        "xref_name": "dipeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070006",
+        "xref_name": "metalloaminopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006508",
+        "xref_name": "proteolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "O96935",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001930",
+        "xref_name": "Peptidase_M1",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR012779",
+        "xref_name": "Peptidase_M1_pepN",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR014782",
+        "xref_name": "Peptidase_M1_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR024601",
+        "xref_name": "Peptidase_M1_pepN_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR027268",
+        "xref_name": "Peptidase_M4/M1_CTD_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR035414",
+        "xref_name": "Peptidase_M1_pepN_Ig-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR037144",
+        "xref_name": "Peptidase_M1_pepN_C_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR038438",
+        "xref_name": "PepN_Ig-like_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR042097",
+        "xref_name": "Aminopeptidase_N-like_N_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR045357",
+        "xref_name": "Aminopeptidase_N-like_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR46322",
+        "xref_name": "PUROMYCIN-SENSITIVE AMINOPEPTIDASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR46322:SF1",
+        "xref_name": "PUROMYCIN-SENSITIVE AMINOPEPTIDASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "3EBG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3EBH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3EBI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3Q43",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3Q44",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3T8V",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4J3B",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4K5L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4K5M",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4K5N",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4K5O",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4K5P",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4R5T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4R5V",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4R5X",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4X2U",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZQT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZW3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZW5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZW6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZW7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZW8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZX3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZX4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZX5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4ZX6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5XM7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Y19",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Y1H",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Y1K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Y1Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Y1R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Y1S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Y1T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Y1V",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Y1W",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Y1X",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5Y3I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6EA1",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6EA2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6EAA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6EAB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6EE3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6EE4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6EE6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6EED",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6SBQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6SBR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8EWZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8EX3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8EYD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8EYE",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8EYF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8EZ2",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8SLO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8SVL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8T6H",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8T7P",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8T83",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3EBG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3EBH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3EBI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3Q43",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3Q44",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3T8V",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4J3B",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4K5L",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4K5M",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4K5N",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4K5O",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4K5P",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4R5T",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4R5V",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4R5X",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4X2U",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZQT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZW3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZW5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZW6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZW7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZW8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZX3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZX4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZX5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4ZX6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5XM7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Y19",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Y1H",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Y1K",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Y1Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Y1R",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Y1S",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Y1T",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Y1V",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Y1W",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Y1X",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5Y3I",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6EA1",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6EA2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6EAA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6EAB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6EE3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6EE4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6EE6",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6EED",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6SBQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6SBR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8EWZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8EX3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8EYD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8EYE",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8EYF",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8EZ2",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8SLO",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8SVL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8T6H",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8T7P",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8T83",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF01433",
+        "xref_name": "Peptidase_M1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF11940",
+        "xref_name": "DUF3458",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF17432",
+        "xref_name": "DUF3458_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF17900",
+        "xref_name": "Peptidase_M1_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "O96935",
+        "xref_name": "Aminopeptidase N",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8IEK1",
+        "xref_name": "Aminopeptidase N",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4117"
+      }
+    ],
+    "tax_id": 36329
+  },
+  "ok": true
+}

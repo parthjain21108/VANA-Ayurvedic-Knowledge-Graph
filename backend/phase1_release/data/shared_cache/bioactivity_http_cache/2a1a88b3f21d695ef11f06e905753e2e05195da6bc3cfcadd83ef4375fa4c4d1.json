@@ -1,0 +1,371 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "UDP-glucuronosyltransferase 1A1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1287617",
+    "target_components": [
+      {
+        "accession": "P22309",
+        "component_description": "UDP-glucuronosyltransferase 1A1",
+        "component_id": 5442,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.4.1.17",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "Bilirubin-specific UDPGT isozyme 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "GNT1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "hUG-BR1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "UDP-glucuronosyltransferase 1-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "UDP-glucuronosyltransferase 1A1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "UDP-glucuronosyltransferase 1A isoform 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "UDPGT 1-1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "UGT1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "UGT1-01",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "UGT1*1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "UGT1.1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "UGT1A1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "UGT1A1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P22309",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P22309",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005783",
+            "xref_name": "endoplasmic reticulum",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005789",
+            "xref_name": "endoplasmic reticulum membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034663",
+            "xref_name": "endoplasmic reticulum chaperone complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048471",
+            "xref_name": "perinuclear region of cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070069",
+            "xref_name": "cytochrome complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0001972",
+            "xref_name": "retinoic acid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004857",
+            "xref_name": "enzyme inhibitor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005496",
+            "xref_name": "steroid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008194",
+            "xref_name": "UDP-glycosyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0015020",
+            "xref_name": "glucuronosyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016757",
+            "xref_name": "glycosyltransferase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019899",
+            "xref_name": "enzyme binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046982",
+            "xref_name": "protein heterodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001889",
+            "xref_name": "liver development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006629",
+            "xref_name": "lipid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006789",
+            "xref_name": "bilirubin conjugation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006805",
+            "xref_name": "xenobiotic metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008202",
+            "xref_name": "steroid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008210",
+            "xref_name": "estrogen metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031100",
+            "xref_name": "animal organ regeneration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032870",
+            "xref_name": "cellular response to hormone stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042573",
+            "xref_name": "retinoic acid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042594",
+            "xref_name": "response to starvation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045939",
+            "xref_name": "negative regulation of steroid metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051552",
+            "xref_name": "flavone metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0052695",
+            "xref_name": "cellular glucuronidation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0052696",
+            "xref_name": "flavonoid glucuronidation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0052697",
+            "xref_name": "xenobiotic glucuronidation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070980",
+            "xref_name": "biphenyl catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071361",
+            "xref_name": "cellular response to ethanol",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071385",
+            "xref_name": "cellular response to glucocorticoid stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071392",
+            "xref_name": "cellular response to estradiol stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071466",
+            "xref_name": "cellular response to xenobiotic stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:12530",
+            "xref_name": "UGT1A1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P22309",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR002213",
+            "xref_name": "UDP_glucos_trans",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035595",
+            "xref_name": "UDP_glycos_trans_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050271",
+            "xref_name": "UDP-glycosyltransferase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR48043",
+            "xref_name": "EG:EG0003.4 PROTEIN-RELATED",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR48043:SF161",
+            "xref_name": "UDP GLUCURONOSYLTRANSFERASE FAMILY 1 MEMBER A1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PF00201",
+            "xref_name": "UDPGT",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA420",
+            "xref_name": "UDP glucuronosyltransferase 1 family, polypeptide A1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P22309",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-156588",
+            "xref_name": "Glucuronidation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-189483",
+            "xref_name": "Heme degradation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5579002",
+            "xref_name": "Defective UGT1A1 causes hyperbilirubinemia",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9749641",
+            "xref_name": "Aspirin ADME",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9753281",
+            "xref_name": "Paracetamol ADME",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A6NJC3",
+            "xref_name": "UDP-glucuronosyltransferase 1A1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B8K286",
+            "xref_name": "UDP-glucuronosyltransferase 1A1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P22309",
+            "xref_name": "UDP-glucuronosyltransferase 1A1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

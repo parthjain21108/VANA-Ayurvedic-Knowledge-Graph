@@ -1,0 +1,473 @@
+{
+  "data": {
+    "accession": "Q96NY9",
+    "component_id": 22914,
+    "component_type": "PROTEIN",
+    "description": "Structure-specific endonuclease subunit MUS81",
+    "go_slims": [
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0004518"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005730"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0006950"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008283"
+      },
+      {
+        "go_id": "GO:0034655"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 646
+      }
+    ],
+    "sequence": "MAAPVRLGRKRPLPACPNPLFVRWLTEWRDEATRSRRRTRFVFQKALRSLRRYPLPLRSGKEAKILQHFGDGLCRMLDERLQRHRTSGGDHAPDSPSGENSPAPQGRLAEVQDSSMPVPAQPKAGGSGSYWPARHSGARVILLVLYREHLNPNGHHFLTKEELLQRCAQKSPRVAPGSARPWPALRSLLHRNLVLRTHQPARYSLTPEGLELAQKLAESEGLSLLNVGIGPKEPPGEETAVPGAASAELASEAGVQQQPLELRPGEYRVLLCVDIGETRGGGHRPELLRELQRLHVTHTVRKLHVGDFVWVAQETNPRDPANPGELVLDHIVERKRLDDLCSSIIDGRFREQKFRLKRCGLERRVYLVEEHGSVHNLSLPESTLLQAVTNTQVIDGFFVKRTADIKESAAYLALLTRGLQRLYQGHTLRSRPWGTPGNPESGAMTSPNPLCSLLTFSDFNAGAIKNKAQSVREVFARQLMQVRGVSGEKAAALVDRYSTPASLLAAYDACATPKEQETLLSTIKCGRLQRNLGPALSRTLSQLYCSYGPLT",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.1.22.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Crossover junction endonuclease MUS81",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MUS81",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "MUS81 endonuclease homolog",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Structure-specific endonuclease subunit MUS81",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "Q96NY9",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "Q96NY9",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005657",
+        "xref_name": "replication fork",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005730",
+        "xref_name": "nucleolus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043596",
+        "xref_name": "nuclear replication fork",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0048476",
+        "xref_name": "Holliday junction resolvase complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:1905347",
+        "xref_name": "endodeoxyribonuclease complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004519",
+        "xref_name": "endonuclease activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008821",
+        "xref_name": "crossover junction DNA endonuclease activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0048257",
+        "xref_name": "3'-flap endonuclease activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000712",
+        "xref_name": "resolution of meiotic recombination intermediates",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0000727",
+        "xref_name": "double-strand break repair via break-induced replication",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006281",
+        "xref_name": "DNA repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006302",
+        "xref_name": "double-strand break repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006308",
+        "xref_name": "DNA catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006310",
+        "xref_name": "DNA recombination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031297",
+        "xref_name": "replication fork processing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031573",
+        "xref_name": "mitotic intra-S DNA damage checkpoint signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0033687",
+        "xref_name": "osteoblast proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0072429",
+        "xref_name": "response to intra-S DNA damage checkpoint signaling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:29814",
+        "xref_name": "MUS81",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "Q96NY9",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR006166",
+        "xref_name": "ERCC4_domain",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR010996",
+        "xref_name": "HHH_MUS81",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR011335",
+        "xref_name": "Restrct_endonuc-II-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR027421",
+        "xref_name": "DNA_pol_lamdba_lyase_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR033309",
+        "xref_name": "Mus81",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036388",
+        "xref_name": "WH-like_DNA-bd_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR042530",
+        "xref_name": "EME1/EME2_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR047416",
+        "xref_name": "XPF_nuclease_Mus81",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR047417",
+        "xref_name": "WHD_MUS81",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR13451",
+        "xref_name": "CLASS II CROSSOVER JUNCTION ENDONUCLEASE MUS81",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR13451:SF0",
+        "xref_name": "CROSSOVER JUNCTION ENDONUCLEASE MUS81",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2MC3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ZIX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4P0P",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4P0Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4P0R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4P0S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6VWB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7BU5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7F6L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9F98",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9F99",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9F9A",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9F9K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9F9L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9F9M",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2ZIX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4P0P",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4P0Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4P0R",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4P0S",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7BU5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7F6L",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9F98",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9F99",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9F9A",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9F9K",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9F9L",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9F9M",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF02732",
+        "xref_name": "ERCC4",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF14716",
+        "xref_name": "HHH_8",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF21136",
+        "xref_name": "WHD_MUS81",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF21292",
+        "xref_name": "EME1-MUS81_C",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA134881809",
+        "xref_name": "MUS81 structure-specific endonuclease subunit",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "Q96NY9",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-5693568",
+        "xref_name": "Resolution of D-loop Structures through Holliday Junction Intermediates",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6783310",
+        "xref_name": "Fanconi Anemia Pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "Q96NY9",
+        "xref_name": "Structure-specific endonuclease subunit MUS81",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9H7D9",
+        "xref_name": "Structure-specific endonuclease subunit MUS81",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL5465380"
+      },
+      {
+        "target_chembl_id": "CHEMBL5465381"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

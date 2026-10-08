@@ -1,0 +1,878 @@
+{
+  "data": {
+    "accession": "P00747",
+    "component_id": 93,
+    "component_type": "PROTEIN",
+    "description": "Plasminogen",
+    "go_slims": [
+      {
+        "go_id": "GO:0003823"
+      },
+      {
+        "go_id": "GO:0004252"
+      },
+      {
+        "go_id": "GO:0005102"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005576"
+      },
+      {
+        "go_id": "GO:0005615"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006508"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008233"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0019904"
+      },
+      {
+        "go_id": "GO:0030198"
+      },
+      {
+        "go_id": "GO:0043226"
+      },
+      {
+        "go_id": "GO:0044403"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 38
+      }
+    ],
+    "sequence": "MEHKEVVLLLLLFLKSGQGEPLDDYVNTQGASLFSVTKKQLGAGSIEECAAKCEEDEEFTCRAFQYHSKEQQCVIMAENRKSSIIIRMRDVVLFEKKVYLSECKTGNGKNYRGTMSKTKNGITCQKWSSTSPHRPRFSPATHPSEGLEENYCRNPDNDPQGPWCYTTDPEKRYDYCDILECEEECMHCSGENYDGKISKTMSGLECQAWDSQSPHAHGYIPSKFPNKNLKKNYCRNPDRELRPWCFTTDPNKRWELCDIPRCTTPPPSSGPTYQCLKGTGENYRGNVAVTVSGHTCQHWSAQTPHTHNRTPENFPCKNLDENYCRNPDGKRAPWCHTTNSQVRWEYCKIPSCDSSPVSTEQLAPTAPPELTPVVQDCYHGDGQSYRGTSSTTTTGKKCQSWSSMTPHRHQKTPENYPNAGLTMNYCRNPDADKGPWCFTTDPSVRWEYCNLKKCSGTEASVVAPPPVVLLPDVETPSEEDCMFGNGKGYRGKRATTVTGTPCQDWAAQEPHRHSIFTPETNPRAGLEKNYCRNPDGDVGGPWCYTTNPRKLYDYCDVPQCAAPSFDCGKPQVEPKKCPGRVVGGCVAHPHSWPWQVSLRTRFGMHFCGGTLISPEWVLTAAHCLEKSPRPSSYKVILGAHQEVNLEPHVQEIEVSRLFLEPTRKDIALLKLSSPAVITDKVIPACLPSPNYVVADRTECFITGWGETQGTFGAGLLKEAQLPVIENKVCNRYEFLNGRVQSTELCAGHLAGGTDSCQGDSGGPLVCFEKDKYILQGVTSWGLGCARPNKPGVYVRVSRFVTWIEGVMRNN",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "3.4.21.7",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "Activation peptide",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Angiostatin",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Plasmin heavy chain A",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Plasmin heavy chain A, short form",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Plasmin light chain B",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Plasminogen",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "PLG",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P00747",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P00747",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005576",
+        "xref_name": "extracellular region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005615",
+        "xref_name": "extracellular space",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0009897",
+        "xref_name": "external side of plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0009986",
+        "xref_name": "cell surface",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0031093",
+        "xref_name": "platelet alpha granule lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0070062",
+        "xref_name": "extracellular exosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0072562",
+        "xref_name": "blood microparticle",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0002020",
+        "xref_name": "protease binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004175",
+        "xref_name": "endopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004252",
+        "xref_name": "serine-type endopeptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005102",
+        "xref_name": "signaling receptor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008236",
+        "xref_name": "serine-type peptidase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019899",
+        "xref_name": "enzyme binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019900",
+        "xref_name": "kinase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019904",
+        "xref_name": "protein domain specific binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0034185",
+        "xref_name": "apolipoprotein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0051087",
+        "xref_name": "protein-folding chaperone binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990405",
+        "xref_name": "protein antigen binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006508",
+        "xref_name": "proteolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007596",
+        "xref_name": "blood coagulation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008285",
+        "xref_name": "negative regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010812",
+        "xref_name": "negative regulation of cell-substrate adhesion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0022617",
+        "xref_name": "extracellular matrix disassembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042730",
+        "xref_name": "fibrinolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043536",
+        "xref_name": "positive regulation of blood vessel endothelial cell migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048771",
+        "xref_name": "tissue remodeling",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051702",
+        "xref_name": "biological process involved in interaction with symbiont",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051918",
+        "xref_name": "negative regulation of fibrinolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051919",
+        "xref_name": "positive regulation of fibrinolysis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000048",
+        "xref_name": "negative regulation of cell-cell adhesion mediated by cadherin",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:9071",
+        "xref_name": "PLG",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P00747",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000001",
+        "xref_name": "Kringle",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001254",
+        "xref_name": "Trypsin_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001314",
+        "xref_name": "Peptidase_S1A",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR003609",
+        "xref_name": "Pan_app",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR009003",
+        "xref_name": "Peptidase_S1_PA",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013806",
+        "xref_name": "Kringle-like",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018056",
+        "xref_name": "Kringle_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018114",
+        "xref_name": "TRYPSIN_HIS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023317",
+        "xref_name": "Pept_S1A_plasmin",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR033116",
+        "xref_name": "TRYPSIN_SER",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR038178",
+        "xref_name": "Kringle_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR043504",
+        "xref_name": "Peptidase_S1_PA_chymotrypsin",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050759",
+        "xref_name": "Serine_protease_kringle",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24261",
+        "xref_name": "PLASMINOGEN-RELATED",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR24261:SF2",
+        "xref_name": "LIPOPROTEIN(A)",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1B2I",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1BML",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1BUI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1CEA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1CEB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1DDJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1HPJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1HPK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1I5K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1KI0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1KRN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1L4D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1L4Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1PK4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1PKR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1PMK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1QRZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1RJX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2DOH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2DOI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2KNF",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2L0S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2PK4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3UIR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4A5T",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4CIK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4DCB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4DUR",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "4DUU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5HPG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5UGD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5UGG",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6D3X",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6D3Y",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6D3Z",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6D40",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6OG4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6OQJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6OQK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6Q1U",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UZ4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6UZ5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7E50",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7THS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "7UAH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8F7U",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8F7V",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8UQ6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9AZK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1BML",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1BUI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1CEA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1CEB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1DDJ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1I5K",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1KI0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1KRN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1L4D",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1L4Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1PK4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1PKR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1PMK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1QRZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1RJX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2DOH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2DOI",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2PK4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3UIR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4A5T",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4CIK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4DCB",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4DUR",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "4DUU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5HPG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5UGD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5UGG",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6D3X",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6D3Y",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6D3Z",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6D40",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6OG4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6Q1U",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7E50",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7THS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "7UAH",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8F7U",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "8F7V",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "9AZK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00024",
+        "xref_name": "PAN_1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00051",
+        "xref_name": "Kringle",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF00089",
+        "xref_name": "Trypsin",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA33405",
+        "xref_name": "plasminogen",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P00747",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-114608",
+        "xref_name": "Platelet degranulation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-1474228",
+        "xref_name": "Degradation of the extracellular matrix",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-1592389",
+        "xref_name": "Activation of Matrix Metalloproteinases",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-186797",
+        "xref_name": "Signaling by PDGF",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-381426",
+        "xref_name": "Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-75205",
+        "xref_name": "Dissolution of Fibrin Clot",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P00747",
+        "xref_name": "Plasminogen",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q15146",
+        "xref_name": "Plasminogen",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5TEH4",
+        "xref_name": "Plasminogen",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6PA00",
+        "xref_name": "Plasminogen",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL1801"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,437 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Aryl hydrocarbon receptor",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL3201",
+    "target_components": [
+      {
+        "accession": "P35869",
+        "component_description": "Aryl hydrocarbon receptor",
+        "component_id": 1524,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "AhR",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "AHR",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Ah receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Aryl hydrocarbon receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "bHLHe76",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "BHLHE76",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Class E basic helix-loop-helix protein 76",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=BHLHE76",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P35869",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P35869",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0000785",
+            "xref_name": "chromatin",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005667",
+            "xref_name": "transcription regulator complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032991",
+            "xref_name": "protein-containing complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034751",
+            "xref_name": "aryl hydrocarbon receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034752",
+            "xref_name": "cytosolic aryl hydrocarbon receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0034753",
+            "xref_name": "nuclear aryl hydrocarbon receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0000976",
+            "xref_name": "transcription cis-regulatory region binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000987",
+            "xref_name": "cis-regulatory region sequence-specific DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001094",
+            "xref_name": "TFIID-class transcription factor complex binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001223",
+            "xref_name": "transcription coactivator binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004879",
+            "xref_name": "nuclear receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0017025",
+            "xref_name": "TBP-class protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046982",
+            "xref_name": "protein heterodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046983",
+            "xref_name": "protein dimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051879",
+            "xref_name": "Hsp90 protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0061629",
+            "xref_name": "RNA polymerase II-specific DNA-binding transcription factor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0070888",
+            "xref_name": "E-box binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:1990837",
+            "xref_name": "sequence-specific double-stranded DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001568",
+            "xref_name": "blood vessel development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002819",
+            "xref_name": "regulation of adaptive immune response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002841",
+            "xref_name": "negative regulation of T cell mediated immune response to tumor cell",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006805",
+            "xref_name": "xenobiotic metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006915",
+            "xref_name": "apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009636",
+            "xref_name": "response to toxic substance",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030522",
+            "xref_name": "intracellular receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030888",
+            "xref_name": "regulation of B cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045892",
+            "xref_name": "negative regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045893",
+            "xref_name": "positive regulation of DNA-templated transcription",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045944",
+            "xref_name": "positive regulation of transcription by RNA polymerase II",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048511",
+            "xref_name": "rhythmic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050728",
+            "xref_name": "negative regulation of inflammatory response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071219",
+            "xref_name": "cellular response to molecule of bacterial origin",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071320",
+            "xref_name": "cellular response to cAMP",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904322",
+            "xref_name": "cellular response to forskolin",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1904613",
+            "xref_name": "cellular response to 2,3,7,8-tetrachlorodibenzodioxine",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:348",
+            "xref_name": "AHR",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P35869",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000014",
+            "xref_name": "PAS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001610",
+            "xref_name": "PAC",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011598",
+            "xref_name": "bHLH_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013655",
+            "xref_name": "PAS_fold_3",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013767",
+            "xref_name": "PAS_fold",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR033348",
+            "xref_name": "AHR_bHLH",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR035965",
+            "xref_name": "PAS-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036638",
+            "xref_name": "HLH_DNA-bd_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR039091",
+            "xref_name": "AHR/AHRR",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10649",
+            "xref_name": "ARYL HYDROCARBON RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10649:SF9",
+            "xref_name": "ARYL HYDROCARBON RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "5NJ8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7ZUB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8QMO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5NJ8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00010",
+            "xref_name": "HLH",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00989",
+            "xref_name": "PAS",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF08447",
+            "xref_name": "PAS_3",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA24641",
+            "xref_name": "aryl hydrocarbon receptor",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P35869",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-1989781",
+            "xref_name": "PPARA activates gene expression",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-211945",
+            "xref_name": "Phase I - Functionalization of compounds",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-211976",
+            "xref_name": "Endogenous sterols",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-211981",
+            "xref_name": "Xenobiotics",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8937144",
+            "xref_name": "Aryl hydrocarbon receptor signalling",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A4D130",
+            "xref_name": "Aryl hydrocarbon receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P35869",
+            "xref_name": "Aryl hydrocarbon receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q13728",
+            "xref_name": "Aryl hydrocarbon receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q13803",
+            "xref_name": "Aryl hydrocarbon receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q13804",
+            "xref_name": "Aryl hydrocarbon receptor",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,617 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Alpha-2A adrenergic receptor",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1867",
+    "target_components": [
+      {
+        "accession": "P08913",
+        "component_description": "Alpha-2A adrenergic receptor",
+        "component_id": 180,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "ADRA2A",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "ADRA2R",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "ADRAR",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Alpha-2A adrenergic receptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Alpha-2A adrenoceptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Alpha-2A adrenoreceptor",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Alpha-2AAR",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Alpha-2 adrenergic receptor subtype C10",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P08913",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016323",
+            "xref_name": "basolateral plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043025",
+            "xref_name": "neuronal cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043235",
+            "xref_name": "receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043679",
+            "xref_name": "axon terminus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0045211",
+            "xref_name": "postsynaptic membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0048787",
+            "xref_name": "presynaptic active zone membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098691",
+            "xref_name": "dopaminergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098839",
+            "xref_name": "postsynaptic density membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098978",
+            "xref_name": "glutamatergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0098982",
+            "xref_name": "GABA-ergic synapse",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004930",
+            "xref_name": "G protein-coupled receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004935",
+            "xref_name": "adrenergic receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0004938",
+            "xref_name": "alpha2-adrenergic receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005085",
+            "xref_name": "guanyl-nucleotide exchange factor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019901",
+            "xref_name": "protein kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031692",
+            "xref_name": "alpha-1B adrenergic receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031696",
+            "xref_name": "alpha-2C adrenergic receptor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0031996",
+            "xref_name": "thioesterase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046982",
+            "xref_name": "protein heterodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051379",
+            "xref_name": "epinephrine binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0051380",
+            "xref_name": "norepinephrine binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001819",
+            "xref_name": "positive regulation of cytokine production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006940",
+            "xref_name": "regulation of smooth muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007186",
+            "xref_name": "G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007189",
+            "xref_name": "adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007193",
+            "xref_name": "adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007265",
+            "xref_name": "Ras protein signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007266",
+            "xref_name": "Rho protein signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007565",
+            "xref_name": "female pregnancy",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008284",
+            "xref_name": "positive regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010700",
+            "xref_name": "negative regulation of norepinephrine secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0019229",
+            "xref_name": "regulation of vasoconstriction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030036",
+            "xref_name": "actin cytoskeleton organization",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030168",
+            "xref_name": "platelet activation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030335",
+            "xref_name": "positive regulation of cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032147",
+            "xref_name": "activation of protein kinase activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032148",
+            "xref_name": "activation of protein kinase B activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032811",
+            "xref_name": "negative regulation of epinephrine secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032870",
+            "xref_name": "cellular response to hormone stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035624",
+            "xref_name": "receptor transactivation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042311",
+            "xref_name": "vasodilation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042593",
+            "xref_name": "glucose homeostasis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042596",
+            "xref_name": "fear response",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043268",
+            "xref_name": "positive regulation of potassium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043406",
+            "xref_name": "positive regulation of MAP kinase activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043410",
+            "xref_name": "positive regulation of MAPK cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045742",
+            "xref_name": "positive regulation of epidermal growth factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045955",
+            "xref_name": "negative regulation of calcium ion-dependent exocytosis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046676",
+            "xref_name": "negative regulation of insulin secretion",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050955",
+            "xref_name": "thermoception",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0050995",
+            "xref_name": "negative regulation of lipid catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051044",
+            "xref_name": "positive regulation of membrane protein ectodomain proteolysis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051926",
+            "xref_name": "negative regulation of calcium ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061179",
+            "xref_name": "negative regulation of insulin secretion involved in cellular response to glucose stimulus",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070473",
+            "xref_name": "negative regulation of uterine smooth muscle contraction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071875",
+            "xref_name": "adrenergic receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071880",
+            "xref_name": "adenylate cyclase-activating adrenergic receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071881",
+            "xref_name": "adenylate cyclase-inhibiting adrenergic receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0071882",
+            "xref_name": "phospholipase C-activating adrenergic receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090303",
+            "xref_name": "positive regulation of wound healing",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0099171",
+            "xref_name": "presynaptic modulation of chemical synaptic transmission",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1901020",
+            "xref_name": "negative regulation of calcium ion transmembrane transporter activity",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:281",
+            "xref_name": "ADRA2A",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P08913",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000276",
+            "xref_name": "GPCR_Rhodpsn",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001946",
+            "xref_name": "ADRA2A_rcpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002233",
+            "xref_name": "ADR_fam",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017452",
+            "xref_name": "GPCR_Rhodpsn_7TM",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24248",
+            "xref_name": "ADRENERGIC RECEPTOR-RELATED G-PROTEIN COUPLED RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24248:SF24",
+            "xref_name": "ALPHA-2A ADRENERGIC RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1HLL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1HO9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1HOD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1HOF",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6K42",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6KUX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6KUY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7EJ0",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7EJ8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7EJA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7EJK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7W6P",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7W7E",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CBL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9CBM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9IQR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9PLN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9PLO",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9PQD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6KUX",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "6KUY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00001",
+            "xref_name": "7tm_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA35",
+            "xref_name": "adrenoceptor alpha 2A",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P08913",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-390696",
+            "xref_name": "Adrenoceptors",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-392023",
+            "xref_name": "Adrenaline signalling through Alpha-2 adrenergic receptor",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-400042",
+            "xref_name": "Adrenaline,noradrenaline inhibits insulin secretion",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-418594",
+            "xref_name": "G alpha (i) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-418597",
+            "xref_name": "G alpha (z) signalling events",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-5683826",
+            "xref_name": "Surfactant metabolism",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "B0LPF6",
+            "xref_name": "Alpha-2A adrenergic receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P08913",
+            "xref_name": "Alpha-2A adrenergic receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q2I8G2",
+            "xref_name": "Alpha-2A adrenergic receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q2XN99",
+            "xref_name": "Alpha-2A adrenergic receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86TH8",
+            "xref_name": "Alpha-2A adrenergic receptor",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9BZK1",
+            "xref_name": "Alpha-2A adrenergic receptor",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,440 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Rattus norvegicus",
+    "pref_name": "Transient receptor potential cation channel subfamily V member 2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2863",
+    "target_components": [
+      {
+        "accession": "Q9WUD2",
+        "component_description": "Transient receptor potential cation channel subfamily V member 2",
+        "component_id": 1193,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "Osm-9-like TRP channel 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "OTRPC2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sac2b",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Stretch-activated channel 2B",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Transient receptor potential cation channel subfamily V member 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Trpv2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "TrpV2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Vanilloid receptor-like protein 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Vrl1",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "VRL-1",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q9WUD2",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009986",
+            "xref_name": "cell surface",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030027",
+            "xref_name": "lamellipodium",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030424",
+            "xref_name": "axon",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032584",
+            "xref_name": "growth cone membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0044295",
+            "xref_name": "axonal growth cone",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0044297",
+            "xref_name": "cell body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005216",
+            "xref_name": "monoatomic ion channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005261",
+            "xref_name": "monoatomic cation channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005262",
+            "xref_name": "calcium channel activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0006811",
+            "xref_name": "monoatomic ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006915",
+            "xref_name": "apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008285",
+            "xref_name": "negative regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045773",
+            "xref_name": "positive regulation of axon extension",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0055085",
+            "xref_name": "transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070588",
+            "xref_name": "calcium ion transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0090280",
+            "xref_name": "positive regulation of calcium ion import",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0098703",
+            "xref_name": "calcium ion import across plasma membrane",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0120162",
+            "xref_name": "positive regulation of cold-induced thermogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR002110",
+            "xref_name": "Ankyrin_rpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005821",
+            "xref_name": "Ion_trans_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008347",
+            "xref_name": "TrpV1-4",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR024862",
+            "xref_name": "TRPV",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036770",
+            "xref_name": "Ankyrin_rpt-contain_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10582",
+            "xref_name": "TRANSIENT RECEPTOR POTENTIAL ION CHANNEL PROTEIN",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10582:SF5",
+            "xref_name": "TRANSIENT RECEPTOR POTENTIAL CATION CHANNEL SUBFAMILY V MEMBER 2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2ETA",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2ETB",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2ETC",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5HI9",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BO4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6BO5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6U84",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6U86",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6U88",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6U8A",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "6WKN",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7N0M",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7N0N",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7T37",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7T38",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7ZJD",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7ZJE",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7ZJG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7ZJH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7ZJI",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8EKP",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8EKQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8EKR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8EKS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8FFL",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8FFM",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SLX",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "8SLY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9B3U",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9B3V",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9B3W",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9B3X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9B3Y",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "9B3Z",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2ETA",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2ETB",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2ETC",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00520",
+            "xref_name": "Ion_trans",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF12796",
+            "xref_name": "Ank_2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-RNO-3295583",
+            "xref_name": "TRP channels",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q5FWT3",
+            "xref_name": "Transient receptor potential cation channel subfamily V member 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9JMI8",
+            "xref_name": "Transient receptor potential cation channel subfamily V member 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9QYH8",
+            "xref_name": "Transient receptor potential cation channel subfamily V member 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9WUD2",
+            "xref_name": "Transient receptor potential cation channel subfamily V member 2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 10116
+  },
+  "ok": true
+}

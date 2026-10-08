@@ -1,0 +1,370 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Saccharomyces cerevisiae S288c",
+    "pref_name": "DNA topoisomerase 2",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL5290",
+    "target_components": [
+      {
+        "accession": "P06786",
+        "component_description": "DNA topoisomerase 2",
+        "component_id": 3587,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "5.6.2.2",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "DNA topoisomerase 2",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "DNA topoisomerase II",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "TOP2",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "TOR3 ",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P06786",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0000795",
+            "xref_name": "synaptonemal complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097047",
+            "xref_name": "DNA replication termination region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0003677",
+            "xref_name": "DNA binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003916",
+            "xref_name": "DNA topoisomerase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0003918",
+            "xref_name": "DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0034335",
+            "xref_name": "DNA negative supercoiling activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042802",
+            "xref_name": "identical protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000712",
+            "xref_name": "resolution of meiotic recombination intermediates",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000722",
+            "xref_name": "telomere maintenance via recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000819",
+            "xref_name": "sister chromatid segregation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006259",
+            "xref_name": "DNA metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006265",
+            "xref_name": "DNA topological change",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006271",
+            "xref_name": "DNA strand elongation involved in DNA replication",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007131",
+            "xref_name": "reciprocal meiotic recombination",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0061982",
+            "xref_name": "meiosis I cell cycle process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "P06786",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR001154",
+            "xref_name": "TopoII_euk",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001241",
+            "xref_name": "Topo_IIA",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002205",
+            "xref_name": "Topo_IIA_dom_A",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003594",
+            "xref_name": "HATPase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR006171",
+            "xref_name": "TOPRIM_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013506",
+            "xref_name": "Topo_IIA_bsu_dom2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013757",
+            "xref_name": "Topo_IIA_A_a_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013758",
+            "xref_name": "Topo_IIA_A/C_ab",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013759",
+            "xref_name": "Topo_IIA_B_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013760",
+            "xref_name": "Topo_IIA-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR014721",
+            "xref_name": "Ribsml_uS5_D2-typ_fold_subgr",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR018522",
+            "xref_name": "TopoIIA_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020568",
+            "xref_name": "Ribosomal_Su5_D2-typ_SF",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR031660",
+            "xref_name": "TOPRIM_C",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR034157",
+            "xref_name": "TOPRIM_TopoII",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036890",
+            "xref_name": "HATPase_C_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050634",
+            "xref_name": "DNA_Topoisomerase_II",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10169",
+            "xref_name": "DNA TOPOISOMERASE/GYRASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10169:SF38",
+            "xref_name": "DNA TOPOISOMERASE 2",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "1BGW",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1BJT",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1PVG",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1QZR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2RGR",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3L4J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3L4K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4GFH",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "1BGW",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1BJT",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1PVG",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "1QZR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2RGR",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3L4J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3L4K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4GFH",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00204",
+            "xref_name": "DNA_gyraseB",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00521",
+            "xref_name": "DNA_topoisoIV",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF01751",
+            "xref_name": "Toprim",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF02518",
+            "xref_name": "HATPase_c",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF16898",
+            "xref_name": "TOPRIM_C",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "R-SCE-4615885",
+            "xref_name": "SUMOylation of DNA replication proteins",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "D6W191",
+            "xref_name": "DNA topoisomerase 2",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P06786",
+            "xref_name": "DNA topoisomerase 2",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 559292
+  },
+  "ok": true
+}

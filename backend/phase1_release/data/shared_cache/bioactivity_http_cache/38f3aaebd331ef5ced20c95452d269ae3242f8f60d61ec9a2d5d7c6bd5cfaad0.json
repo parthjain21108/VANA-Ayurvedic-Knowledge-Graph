@@ -1,0 +1,617 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Vascular endothelial growth factor receptor 3",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL1955",
+    "target_components": [
+      {
+        "accession": "P35916",
+        "component_description": "Vascular endothelial growth factor receptor 3",
+        "component_id": 279,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "2.7.10.1",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "FLT-4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "FLT4",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Fms-like tyrosine kinase 4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Tyrosine-protein kinase receptor FLT4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Vascular endothelial growth factor receptor 3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "VEGFR-3",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "VEGFR3",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P35916",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "P35916",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0043235",
+            "xref_name": "receptor complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004714",
+            "xref_name": "transmembrane receptor protein tyrosine kinase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005004",
+            "xref_name": "GPI-linked ephrin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005005",
+            "xref_name": "transmembrane-ephrin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005006",
+            "xref_name": "epidermal growth factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005007",
+            "xref_name": "fibroblast growth factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005008",
+            "xref_name": "hepatocyte growth factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005009",
+            "xref_name": "insulin receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005010",
+            "xref_name": "insulin-like growth factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005011",
+            "xref_name": "macrophage colony-stimulating factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005018",
+            "xref_name": "platelet-derived growth factor alpha-receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005019",
+            "xref_name": "platelet-derived growth factor beta-receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005020",
+            "xref_name": "stem cell factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005021",
+            "xref_name": "vascular endothelial growth factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005524",
+            "xref_name": "ATP binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008288",
+            "xref_name": "boss receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019838",
+            "xref_name": "growth factor binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019903",
+            "xref_name": "protein phosphatase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0036332",
+            "xref_name": "placental growth factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0038062",
+            "xref_name": "protein tyrosine kinase collagen receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0042803",
+            "xref_name": "protein homodimerization activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0060175",
+            "xref_name": "brain-derived neurotrophic factor receptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0001525",
+            "xref_name": "angiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001934",
+            "xref_name": "positive regulation of protein phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001938",
+            "xref_name": "positive regulation of endothelial cell proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001944",
+            "xref_name": "vasculature development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001945",
+            "xref_name": "lymph vessel development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0001946",
+            "xref_name": "lymphangiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0002040",
+            "xref_name": "sprouting angiogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007169",
+            "xref_name": "cell surface receptor protein tyrosine kinase signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007173",
+            "xref_name": "epidermal growth factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007585",
+            "xref_name": "respiratory gaseous exchange by respiratory system",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008284",
+            "xref_name": "positive regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008286",
+            "xref_name": "insulin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0008543",
+            "xref_name": "fibroblast growth factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010575",
+            "xref_name": "positive regulation of vascular endothelial growth factor production",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0010595",
+            "xref_name": "positive regulation of endothelial cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0018108",
+            "xref_name": "peptidyl-tyrosine phosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030335",
+            "xref_name": "positive regulation of cell migration",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0031547",
+            "xref_name": "brain-derived neurotrophic factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035790",
+            "xref_name": "platelet-derived growth factor receptor-alpha signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0035791",
+            "xref_name": "platelet-derived growth factor receptor-beta signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0036323",
+            "xref_name": "vascular endothelial growth factor receptor-1 signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038063",
+            "xref_name": "collagen-activated tyrosine kinase receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038084",
+            "xref_name": "vascular endothelial growth factor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038109",
+            "xref_name": "Kit signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0038145",
+            "xref_name": "macrophage colony-stimulating factor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0042127",
+            "xref_name": "regulation of cell population proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043066",
+            "xref_name": "negative regulation of apoptotic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0043410",
+            "xref_name": "positive regulation of MAPK cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046330",
+            "xref_name": "positive regulation of JNK cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0046777",
+            "xref_name": "protein autophosphorylation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048009",
+            "xref_name": "insulin-like growth factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048010",
+            "xref_name": "vascular endothelial growth factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048012",
+            "xref_name": "hepatocyte growth factor receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048013",
+            "xref_name": "ephrin receptor signaling pathway",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048286",
+            "xref_name": "lung alveolus development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0048514",
+            "xref_name": "blood vessel morphogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0060312",
+            "xref_name": "regulation of blood vessel remodeling",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0070374",
+            "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:3767",
+            "xref_name": "FLT4",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "P35916",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000719",
+            "xref_name": "Prot_kinase_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001245",
+            "xref_name": "Ser-Thr/Tyr_kinase_cat_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR001824",
+            "xref_name": "Tyr_kinase_rcpt_3_CS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003598",
+            "xref_name": "Ig_sub2",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR003599",
+            "xref_name": "Ig_sub",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR007110",
+            "xref_name": "Ig-like_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008266",
+            "xref_name": "Tyr_kinase_AS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011009",
+            "xref_name": "Kinase-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013098",
+            "xref_name": "Ig_I-set",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013783",
+            "xref_name": "Ig-like_fold",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR017441",
+            "xref_name": "Protein_kinase_ATP_BS",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR020635",
+            "xref_name": "Tyr_kinase_cat_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036179",
+            "xref_name": "Ig-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR041348",
+            "xref_name": "VEGFR-2_TMD",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR050122",
+            "xref_name": "RTK",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR055229",
+            "xref_name": "VEGFR1-3_5th",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR055238",
+            "xref_name": "VEGFR1-3_N_Ig-like",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR24416",
+            "xref_name": "TYROSINE-PROTEIN KINASE RECEPTOR",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR24416:SF49",
+            "xref_name": "VASCULAR ENDOTHELIAL GROWTH FACTOR RECEPTOR 3",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "4BSJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4BSK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4BSJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4BSK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF07679",
+            "xref_name": "I-set",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF07714",
+            "xref_name": "PK_Tyr_Ser-Thr",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF13927",
+            "xref_name": "Ig_3",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF17988",
+            "xref_name": "VEGFR-2_TMD",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF21339",
+            "xref_name": "VEGFR-1-like_Ig-like",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF22854",
+            "xref_name": "VEGFR1-3_N_Ig-like",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF22971",
+            "xref_name": "Ig_VEGFR-1-like_5th",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA28183",
+            "xref_name": "fms related receptor tyrosine kinase 4",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "P35916",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-195399",
+            "xref_name": "VEGF binds to VEGFR leading to receptor dimerization",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9013695",
+            "xref_name": "NOTCH4 Intracellular Domain Regulates Transcription",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9856530",
+            "xref_name": "High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "A8K6L4",
+            "xref_name": "Vascular endothelial growth factor receptor 3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "B5A926",
+            "xref_name": "Vascular endothelial growth factor receptor 3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "P35916",
+            "xref_name": "Vascular endothelial growth factor receptor 3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q16067",
+            "xref_name": "Vascular endothelial growth factor receptor 3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86W07",
+            "xref_name": "Vascular endothelial growth factor receptor 3",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q86W08",
+            "xref_name": "Vascular endothelial growth factor receptor 3",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

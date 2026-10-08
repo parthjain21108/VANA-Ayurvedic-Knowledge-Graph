@@ -1,0 +1,359 @@
+{
+  "data": {
+    "accession": "O95149",
+    "component_id": 8877,
+    "component_type": "PROTEIN",
+    "description": "Snurportin-1",
+    "go_slims": [
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0003723"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0007010"
+      },
+      {
+        "go_id": "GO:0065003"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 601
+      }
+    ],
+    "sequence": "MEELSQALASSFSVSQDLNSTAAPHPRLSQYKSKYSSLEQSERRRRLLELQKSKRLDYVNHARRLAEDDWTGMESEEENKKDDEEMDIDTVKKLPKHYANQLMLSEWLIDVPSDLGQEWIVVVCPVGKRALIVASRGSTSAYTKSGYCVNRFSSLLPGGNRRNSTAKDYTILDCIYNEVNQTYYVLDVMCWRGHPFYDCQTDFRFYWMHSKLPEEEGLGEKTKLNPFKFVGLKNFPCTPESLCDVLSMDFPFEVDGLLFYHKQTHYSPGSTPLVGWLRPYMVSDVLGVAVPAGPLTTKPDYAGHQLQQIMEHKKSQKEGMKEKLTHKASENGHYELEHLSTPKLKGSSHSPDHPGCLMEN",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "RNA U transporter 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "RNUT1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "SNUPN",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Snurportin-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "SPN1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "O95149",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "O95149",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005643",
+        "xref_name": "nuclear pore",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042564",
+        "xref_name": "NLS-dependent protein nuclear import complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000339",
+        "xref_name": "RNA cap binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003723",
+        "xref_name": "RNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0061608",
+        "xref_name": "nuclear import signal receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0007010",
+        "xref_name": "cytoskeleton organization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051259",
+        "xref_name": "protein complex oligomerization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051262",
+        "xref_name": "protein tetramerization",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:14245",
+        "xref_name": "SNUPN",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "O95149",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR002652",
+        "xref_name": "Importin-a_IBB",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017336",
+        "xref_name": "Snurportin-1",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR024721",
+        "xref_name": "Snurportin-1_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR047857",
+        "xref_name": "Snurportin1_C",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR13403",
+        "xref_name": "SNURPORTIN1 RNUT1 PROTEIN RNA, U TRANSPORTER 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR13403:SF6",
+        "xref_name": "SNURPORTIN-1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1XK5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2P8Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2Q5D",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2QNA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3GB8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3GJX",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3LWW",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3NBY",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3NBZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3NC0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5DIS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1XK5",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2P8Q",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2Q5D",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2QNA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3GB8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3GJX",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3LWW",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3NBY",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3NBZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3NC0",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "5DIS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF11538",
+        "xref_name": "Snurportin1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF21974",
+        "xref_name": "SPN1_m3Gcap_bd",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA34611",
+        "xref_name": "snurportin 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "O95149",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-191859",
+        "xref_name": "snRNP Assembly",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A6NE34",
+        "xref_name": "Snurportin-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "A8K0B0",
+        "xref_name": "Snurportin-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "D3DW76",
+        "xref_name": "Snurportin-1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O95149",
+        "xref_name": "Snurportin-1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL3885569"
+      },
+      {
+        "target_chembl_id": "CHEMBL3885594"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

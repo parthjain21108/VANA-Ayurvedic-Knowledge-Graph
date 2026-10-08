@@ -1,0 +1,491 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Homo sapiens",
+    "pref_name": "Rac GTPase-activating protein 1",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL2146306",
+    "target_components": [
+      {
+        "accession": "Q9H0H5",
+        "component_description": "Rac GTPase-activating protein 1",
+        "component_id": 6773,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "CYK4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "HsCYK-4",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Male germ cell RacGap",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MgcRacGAP",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "MGCRACGAP",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          },
+          {
+            "component_synonym": "Protein CYK4 homolog",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "RACGAP1",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Rac GTPase-activating protein 1",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Synonyms=KIAA1478",
+            "syn_type": "GENE_SYMBOL_OTHER"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "Q9H0H5",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "Q9H0H5",
+            "xref_name": null,
+            "xref_src_db": "ExpressionAtlas"
+          },
+          {
+            "xref_id": "GO:0005634",
+            "xref_name": "nucleus",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005654",
+            "xref_name": "nucleoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005739",
+            "xref_name": "mitochondrion",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005829",
+            "xref_name": "cytosol",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005856",
+            "xref_name": "cytoskeleton",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005874",
+            "xref_name": "microtubule",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005886",
+            "xref_name": "plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0009898",
+            "xref_name": "cytoplasmic side of plasma membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0030496",
+            "xref_name": "midbody",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0032154",
+            "xref_name": "cleavage furrow",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0051233",
+            "xref_name": "spindle midzone",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0070062",
+            "xref_name": "extracellular exosome",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0090543",
+            "xref_name": "Flemming body",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0097149",
+            "xref_name": "centralspindlin complex",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005096",
+            "xref_name": "GTPase activator activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005515",
+            "xref_name": "protein binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005547",
+            "xref_name": "phosphatidylinositol-3,4,5-trisphosphate binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008017",
+            "xref_name": "microtubule binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0008289",
+            "xref_name": "lipid binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0019901",
+            "xref_name": "protein kinase binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0030674",
+            "xref_name": "protein-macromolecule adaptor activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043014",
+            "xref_name": "alpha-tubulin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0043015",
+            "xref_name": "gamma-tubulin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0046872",
+            "xref_name": "metal ion binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0048487",
+            "xref_name": "beta-tubulin binding",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0000281",
+            "xref_name": "mitotic cytokinesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0000915",
+            "xref_name": "actomyosin contractile ring assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006811",
+            "xref_name": "monoatomic ion transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007165",
+            "xref_name": "signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007266",
+            "xref_name": "Rho protein signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007283",
+            "xref_name": "spermatogenesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0007405",
+            "xref_name": "neuroblast proliferation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030154",
+            "xref_name": "cell differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0030218",
+            "xref_name": "erythrocyte differentiation",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0032467",
+            "xref_name": "positive regulation of cytokinesis",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0045995",
+            "xref_name": "regulation of embryonic development",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051056",
+            "xref_name": "regulation of small GTPase mediated signal transduction",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051256",
+            "xref_name": "mitotic spindle midzone assembly",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051301",
+            "xref_name": "cell division",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0051988",
+            "xref_name": "regulation of attachment of spindle microtubules to kinetochore",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:1902358",
+            "xref_name": "sulfate transmembrane transport",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "HGNC:9804",
+            "xref_name": "RACGAP1",
+            "xref_src_db": "HGNC"
+          },
+          {
+            "xref_id": "Q9H0H5",
+            "xref_name": null,
+            "xref_src_db": "IntAct"
+          },
+          {
+            "xref_id": "IPR000198",
+            "xref_name": "RhoGAP_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR002219",
+            "xref_name": "PKC_DAG/PE",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR008936",
+            "xref_name": "Rho_GTPase_activation_prot",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR046349",
+            "xref_name": "C1-like_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR46199",
+            "xref_name": "RAC GTPASE-ACTIVATING PROTEIN 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR46199:SF3",
+            "xref_name": "RAC GTPASE-ACTIVATING PROTEIN 1",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2OVJ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3W6R",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3WPQ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "3WPS",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4B6D",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5C2J",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5C2K",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2OVJ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3W6R",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3WPQ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "3WPS",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4B6D",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5C2J",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5C2K",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF00130",
+            "xref_name": "C1_1",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF00620",
+            "xref_name": "RhoGAP",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PA34165",
+            "xref_name": "Rac GTPase activating protein 1",
+            "xref_src_db": "PharmGKB"
+          },
+          {
+            "xref_id": "Q9H0H5",
+            "xref_name": null,
+            "xref_src_db": "Pharos"
+          },
+          {
+            "xref_id": "R-HSA-2132295",
+            "xref_name": "MHC class II antigen presentation",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-6811434",
+            "xref_name": "COPI-dependent Golgi-to-ER retrograde traffic",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-8980692",
+            "xref_name": "RHOA GTPase cycle",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9013026",
+            "xref_name": "RHOB GTPase cycle",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9013106",
+            "xref_name": "RHOC GTPase cycle",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9013148",
+            "xref_name": "CDC42 GTPase cycle",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9013149",
+            "xref_name": "RAC1 GTPase cycle",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9013404",
+            "xref_name": "RAC2 GTPase cycle",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9013405",
+            "xref_name": "RHOD GTPase cycle",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-9013423",
+            "xref_name": "RAC3 GTPase cycle",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "R-HSA-983189",
+            "xref_name": "Kinesins",
+            "xref_src_db": "Reactome"
+          },
+          {
+            "xref_id": "Q6PJ26",
+            "xref_name": "Rac GTPase-activating protein 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9H0H5",
+            "xref_name": "Rac GTPase-activating protein 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9NWN2",
+            "xref_name": "Rac GTPase-activating protein 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9P250",
+            "xref_name": "Rac GTPase-activating protein 1",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q9P2W2",
+            "xref_name": "Rac GTPase-activating protein 1",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 9606
+  },
+  "ok": true
+}

@@ -1,0 +1,991 @@
+{
+  "data": {
+    "accession": "P40763",
+    "component_id": 2345,
+    "component_type": "PROTEIN",
+    "description": "Signal transducer and activator of transcription 3",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0003674"
+      },
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0003682"
+      },
+      {
+        "go_id": "GO:0003723"
+      },
+      {
+        "go_id": "GO:0005102"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008134"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008283"
+      },
+      {
+        "go_id": "GO:0016310"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0030674"
+      },
+      {
+        "go_id": "GO:0042592"
+      },
+      {
+        "go_id": "GO:0042802"
+      },
+      {
+        "go_id": "GO:0042803"
+      },
+      {
+        "go_id": "GO:0043085"
+      },
+      {
+        "go_id": "GO:0048856"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 12
+      }
+    ],
+    "sequence": "MAQWNQLQQLDTRYLEQLHQLYSDSFPMELRQFLAPWIESQDWAYAASKESHATLVFHNLLGEIDQQYSRFLQESNVLYQHNLRRIKQFLQSRYLEKPMEIARIVARCLWEESRLLQTAATAAQQGGQANHPTAAVVTEKQQMLEQHLQDVRKRVQDLEQKMKVVENLQDDFDFNYKTLKSQGDMQDLNGNNQSVTRQKMQQLEQMLTALDQMRRSIVSELAGLLSAMEYVQKTLTDEELADWKRRQQIACIGGPPNICLDRLENWITSLAESQLQTRQQIKKLEELQQKVSYKGDPIVQHRPMLEERIVELFRNLMKSAFVVERQPCMPMHPDRPLVIKTGVQFTTKVRLLVKFPELNYQLKIKVCIDKDSGDVAALRGSRKFNILGTNTKVMNMEESNNGSLSAEFKHLTLREQRCGNGGRANCDASLIVTEELHLITFETEVYHQGLKIDLETHSLPVVVISNICQMPNAWASILWYNMLTNNPKNVNFFTKPPIGTWDQVAEVLSWQFSSTTKRGLSIEQLTTLAEKLLGPGVNYSGCQITWAKFCKENMAGKGFSFWVWLDNIIDLVKKYILALWNEGYIMGFISKERERAILSTKPPGTFLLRFSESSKEGGVTFTWVEKDISGKTQIQSVEPYTKQQLNNMSFAEIIMGYKIMDATNILVSPLVYLYPDIPKEEAFGKYCRPESQEHPEADPGSAAPYLKTKFICVTPTTCSNTIDLPMSPRTLDSLMQFGNNGEGAEPSAGGQFESLTFDMELTSECATSPM",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "Acute-phase response factor",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Signal transducer and activator of transcription 3",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "STAT3",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Synonyms=APRF",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P40763",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P40763",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0000785",
+        "xref_name": "chromatin",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005667",
+        "xref_name": "transcription regulator complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032991",
+        "xref_name": "protein-containing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0090575",
+        "xref_name": "RNA polymerase II transcription regulator complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000976",
+        "xref_name": "transcription cis-regulatory region binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000978",
+        "xref_name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003723",
+        "xref_name": "RNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004879",
+        "xref_name": "nuclear receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005102",
+        "xref_name": "signaling receptor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019901",
+        "xref_name": "protein kinase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019903",
+        "xref_name": "protein phosphatase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031490",
+        "xref_name": "chromatin DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0035591",
+        "xref_name": "signaling adaptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042802",
+        "xref_name": "identical protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042803",
+        "xref_name": "protein homodimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0043565",
+        "xref_name": "sequence-specific DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046983",
+        "xref_name": "protein dimerization activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0061629",
+        "xref_name": "RNA polymerase II-specific DNA-binding transcription factor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070878",
+        "xref_name": "primary miRNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0106222",
+        "xref_name": "lncRNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140297",
+        "xref_name": "DNA-binding transcription factor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000122",
+        "xref_name": "negative regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001659",
+        "xref_name": "temperature homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001754",
+        "xref_name": "eye photoreceptor cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007165",
+        "xref_name": "signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007179",
+        "xref_name": "transforming growth factor beta receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007259",
+        "xref_name": "cell surface receptor signaling pathway via JAK-STAT",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007399",
+        "xref_name": "nervous system development",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008283",
+        "xref_name": "cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008285",
+        "xref_name": "negative regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010507",
+        "xref_name": "negative regulation of autophagy",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010575",
+        "xref_name": "positive regulation of vascular endothelial growth factor production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010628",
+        "xref_name": "positive regulation of gene expression",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010629",
+        "xref_name": "negative regulation of gene expression",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0016310",
+        "xref_name": "phosphorylation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019221",
+        "xref_name": "cytokine-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030154",
+        "xref_name": "cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030335",
+        "xref_name": "positive regulation of cell migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0030522",
+        "xref_name": "intracellular receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032731",
+        "xref_name": "positive regulation of interleukin-1 beta production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032733",
+        "xref_name": "positive regulation of interleukin-10 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032755",
+        "xref_name": "positive regulation of interleukin-6 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032757",
+        "xref_name": "positive regulation of interleukin-8 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032760",
+        "xref_name": "positive regulation of tumor necrosis factor production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032870",
+        "xref_name": "cellular response to hormone stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0033210",
+        "xref_name": "leptin-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035019",
+        "xref_name": "somatic stem cell population maintenance",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035723",
+        "xref_name": "interleukin-15-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0038110",
+        "xref_name": "interleukin-2-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0038113",
+        "xref_name": "interleukin-9-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0038154",
+        "xref_name": "interleukin-11-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0038155",
+        "xref_name": "interleukin-23-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0040014",
+        "xref_name": "regulation of multicellular organism growth",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042127",
+        "xref_name": "regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042593",
+        "xref_name": "glucose homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042755",
+        "xref_name": "eating behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043123",
+        "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043491",
+        "xref_name": "phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0044320",
+        "xref_name": "cellular response to leptin stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045648",
+        "xref_name": "positive regulation of erythrocyte differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045747",
+        "xref_name": "positive regulation of Notch signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045766",
+        "xref_name": "positive regulation of angiogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045820",
+        "xref_name": "negative regulation of glycolytic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045893",
+        "xref_name": "positive regulation of DNA-templated transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048708",
+        "xref_name": "astrocyte differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050728",
+        "xref_name": "negative regulation of inflammatory response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051726",
+        "xref_name": "regulation of cell cycle",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060019",
+        "xref_name": "radial glial cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060221",
+        "xref_name": "retinal rod cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060259",
+        "xref_name": "regulation of feeding behavior",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060396",
+        "xref_name": "growth hormone receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0060397",
+        "xref_name": "growth hormone receptor signaling pathway via JAK-STAT",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070102",
+        "xref_name": "interleukin-6-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0072538",
+        "xref_name": "T-helper 17 type immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0072540",
+        "xref_name": "T-helper 17 cell lineage commitment",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097009",
+        "xref_name": "energy homeostasis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097696",
+        "xref_name": "cell surface receptor signaling pathway via STAT",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0106015",
+        "xref_name": "negative regulation of inflammatory response to wounding",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0140105",
+        "xref_name": "interleukin-10-mediated signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1900017",
+        "xref_name": "positive regulation of cytokine production involved in inflammatory response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1902895",
+        "xref_name": "positive regulation of miRNA transcription",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904685",
+        "xref_name": "positive regulation of metalloendopeptidase activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1905564",
+        "xref_name": "positive regulation of vascular endothelial cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000635",
+        "xref_name": "negative regulation of primary miRNA processing",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000737",
+        "xref_name": "negative regulation of stem cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2001223",
+        "xref_name": "negative regulation of neuron migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:11364",
+        "xref_name": "STAT3",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P40763",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000980",
+        "xref_name": "SH2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001217",
+        "xref_name": "STAT",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR008967",
+        "xref_name": "p53-like_TF_DNA-bd_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR012345",
+        "xref_name": "STAT_TF_DNA-bd_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013799",
+        "xref_name": "STAT_TF_prot_interaction",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013800",
+        "xref_name": "STAT_TF_alpha",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR013801",
+        "xref_name": "STAT_TF_DNA-bd",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR015988",
+        "xref_name": "STAT_TF_CC",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR035855",
+        "xref_name": "STAT3_SH2",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036535",
+        "xref_name": "STAT_N_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036860",
+        "xref_name": "SH2_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR048988",
+        "xref_name": "STAT_linker",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11801",
+        "xref_name": "SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "5AX3",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5U5S",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6NJS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6NUQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6QHD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6TLC",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "5AX3",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6NJS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6NUQ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6QHD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6TLC",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00017",
+        "xref_name": "SH2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF01017",
+        "xref_name": "STAT_alpha",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02864",
+        "xref_name": "STAT_bind",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF02865",
+        "xref_name": "STAT_int",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF21354",
+        "xref_name": "STAT_linker",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA337",
+        "xref_name": "signal transducer and activator of transcription 3",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P40763",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1059683",
+        "xref_name": "Interleukin-6 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-111453",
+        "xref_name": "BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-1266695",
+        "xref_name": "Interleukin-7 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-1433557",
+        "xref_name": "Signaling by SCF-KIT",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-1839117",
+        "xref_name": "Signaling by cytosolic FGFR1 fusion mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-186763",
+        "xref_name": "Downstream signal transduction",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-198745",
+        "xref_name": "Signalling to STAT3",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-201556",
+        "xref_name": "Signaling by ALK",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2559582",
+        "xref_name": "Senescence-Associated Secretory Phenotype (SASP)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2586552",
+        "xref_name": "Signaling by Leptin",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-2892247",
+        "xref_name": "POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-390471",
+        "xref_name": "Association of TriC/CCT with target proteins during biosynthesis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-452723",
+        "xref_name": "Transcriptional regulation of pluripotent stem cells",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6783783",
+        "xref_name": "Interleukin-10 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6785807",
+        "xref_name": "Interleukin-4 and Interleukin-13 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8849474",
+        "xref_name": "PTK6 Activates STAT3",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8854691",
+        "xref_name": "Interleukin-20 family signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8875791",
+        "xref_name": "MET activates STAT3",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8983432",
+        "xref_name": "Interleukin-15 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8984722",
+        "xref_name": "Interleukin-35 Signalling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-8985947",
+        "xref_name": "Interleukin-9 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9008059",
+        "xref_name": "Interleukin-37 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9020933",
+        "xref_name": "Interleukin-23 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9020956",
+        "xref_name": "Interleukin-27 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9020958",
+        "xref_name": "Interleukin-21 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9616222",
+        "xref_name": "Transcriptional regulation of granulopoiesis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9670439",
+        "xref_name": "Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9673767",
+        "xref_name": "Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9673770",
+        "xref_name": "Signaling by PDGFRA extracellular domain mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9674555",
+        "xref_name": "Signaling by CSF3 (G-CSF)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9680350",
+        "xref_name": "Signaling by CSF1 (M-CSF) in myeloid cells",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9701898",
+        "xref_name": "STAT3 nuclear events downstream of ALK signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9705462",
+        "xref_name": "Inactivation of CSF3 (G-CSF) signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9707564",
+        "xref_name": "Cytoprotection by HMOX1",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9725370",
+        "xref_name": "Signaling by ALK fusions and activated point mutants",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9725371",
+        "xref_name": "Nuclear events stimulated by ALK signaling in cancer",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-982772",
+        "xref_name": "Growth hormone receptor signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9833482",
+        "xref_name": "PKR-mediated signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A8K7B8",
+        "xref_name": "Signal transducer and activator of transcription 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "K7ENL3",
+        "xref_name": "Signal transducer and activator of transcription 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "O14916",
+        "xref_name": "Signal transducer and activator of transcription 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P40763",
+        "xref_name": "Signal transducer and activator of transcription 3",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9BW54",
+        "xref_name": "Signal transducer and activator of transcription 3",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4026"
+      },
+      {
+        "target_chembl_id": "CHEMBL4296101"
+      },
+      {
+        "target_chembl_id": "CHEMBL4523691"
+      },
+      {
+        "target_chembl_id": "CHEMBL5482983"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

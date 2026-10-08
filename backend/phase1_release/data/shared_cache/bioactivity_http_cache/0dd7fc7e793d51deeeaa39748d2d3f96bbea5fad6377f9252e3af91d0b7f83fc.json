@@ -1,0 +1,613 @@
+{
+  "data": {
+    "accession": "P35372",
+    "component_id": 349,
+    "component_type": "PROTEIN",
+    "description": "Mu-type opioid receptor",
+    "go_slims": [
+      {
+        "go_id": "GO:0004930"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005768"
+      },
+      {
+        "go_id": "GO:0005783"
+      },
+      {
+        "go_id": "GO:0005794"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0022857"
+      },
+      {
+        "go_id": "GO:0032880"
+      },
+      {
+        "go_id": "GO:0042277"
+      },
+      {
+        "go_id": "GO:0050877"
+      },
+      {
+        "go_id": "GO:0055085"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 479
+      }
+    ],
+    "sequence": "MDSSAAPTNASNCTDALAYSSCSPAPSPGSWVNLSHLDGNLSDPCGPNRTDLGGRDSLCPPTGSPSMITAITIMALYSIVCVVGLFGNFLVMYVIVRYTKMKTATNIYIFNLALADALATSTLPFQSVNYLMGTWPFGTILCKIVISIDYYNMFTSIFTLCTMSVDRYIAVCHPVKALDFRTPRNAKIINVCNWILSSAIGLPVMFMATTKYRQGSIDCTLTFSHPTWYWENLLKICVFIFAFIMPVLIITVCYGLMILRLKSVRMLSGSKEKDRNLRRITRMVLVVVAVFIVCWTPIHIYVIIKALVTIPETTFQTVSWHFCIALGYTNSCLNPVLYAFLDENFKRCFREFCIPTSSNIEQQNSTRIRQNTRDHPSTANTVDRTNHQLENLEAETAPLP",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "hMOP",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MOP",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "M-OR-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MOR-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "MOR1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Mu opiate receptor",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Mu opioid receptor",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Mu-type opioid receptor",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "OPRM1",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P35372",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P35372",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005768",
+        "xref_name": "endosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005783",
+        "xref_name": "endoplasmic reticulum",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005794",
+        "xref_name": "Golgi apparatus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030424",
+        "xref_name": "axon",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030425",
+        "xref_name": "dendrite",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0042995",
+        "xref_name": "cell projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043005",
+        "xref_name": "neuron projection",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0043204",
+        "xref_name": "perikaryon",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045202",
+        "xref_name": "synapse",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0001965",
+        "xref_name": "G-protein alpha-subunit binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004930",
+        "xref_name": "G protein-coupled receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004979",
+        "xref_name": "beta-endorphin receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005245",
+        "xref_name": "voltage-gated calcium channel activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0031681",
+        "xref_name": "G-protein beta-subunit binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0038047",
+        "xref_name": "morphine receptor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042923",
+        "xref_name": "neuropeptide binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0007186",
+        "xref_name": "G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007187",
+        "xref_name": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007197",
+        "xref_name": "adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007200",
+        "xref_name": "phospholipase C-activating G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007218",
+        "xref_name": "neuropeptide signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007600",
+        "xref_name": "sensory perception",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0008285",
+        "xref_name": "negative regulation of cell population proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019233",
+        "xref_name": "sensory perception of pain",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0038003",
+        "xref_name": "G protein-coupled opioid receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0048149",
+        "xref_name": "behavioral response to ethanol",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050769",
+        "xref_name": "positive regulation of neurogenesis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0061358",
+        "xref_name": "negative regulation of Wnt protein secretion",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070374",
+        "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070588",
+        "xref_name": "calcium ion transmembrane transport",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071315",
+        "xref_name": "cellular response to morphine",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0080135",
+        "xref_name": "regulation of cellular response to stress",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000310",
+        "xref_name": "regulation of NMDA receptor activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:8156",
+        "xref_name": "OPRM1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P35372",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR000105",
+        "xref_name": "Mu_opioid_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR000276",
+        "xref_name": "GPCR_Rhodpsn",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR001418",
+        "xref_name": "Opioid_rcpt",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017452",
+        "xref_name": "GPCR_Rhodpsn_7TM",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR24229",
+        "xref_name": "NEUROPEPTIDES RECEPTOR",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR24229:SF7",
+        "xref_name": "MU-TYPE OPIOID RECEPTOR",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "8EF5",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8EF6",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8EFB",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8EFL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8EFO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8EFQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8F7Q",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8F7R",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8K9K",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8K9L",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Y72",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8Y73",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9MQH",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9MQI",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9MQJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "PF00001",
+        "xref_name": "7tm_1",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA31945",
+        "xref_name": "opioid receptor mu 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P35372",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-111885",
+        "xref_name": "Opioid Signalling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-202040",
+        "xref_name": "G-protein activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-375276",
+        "xref_name": "Peptide ligand-binding receptors",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-418594",
+        "xref_name": "G alpha (i) signalling events",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6785807",
+        "xref_name": "Interleukin-4 and Interleukin-13 signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-9022699",
+        "xref_name": "MECP2 regulates neuronal receptors and channels",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "B0FXJ1",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B2R9S7",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B8Q1L7",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B8Q1L8",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "B8Q1L9",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "E7EWZ3",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "G8XRH6",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "G8XRH8",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P35372",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q12930",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q4VWM1",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q4VWM2",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q4VWM3",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q4VWM4",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q4VWM6",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q4VWX6",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5TDA1",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6UPP1",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6UQ80",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q7Z2D8",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q86V80",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8IWW3",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q8IWW4",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UCZ4",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q9UN57",
+        "xref_name": "Mu-type opioid receptor",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL233"
+      },
+      {
+        "target_chembl_id": "CHEMBL2095149"
+      },
+      {
+        "target_chembl_id": "CHEMBL2095156"
+      },
+      {
+        "target_chembl_id": "CHEMBL2095181"
+      },
+      {
+        "target_chembl_id": "CHEMBL3301384"
+      },
+      {
+        "target_chembl_id": "CHEMBL3883321"
+      },
+      {
+        "target_chembl_id": "CHEMBL3885538"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}

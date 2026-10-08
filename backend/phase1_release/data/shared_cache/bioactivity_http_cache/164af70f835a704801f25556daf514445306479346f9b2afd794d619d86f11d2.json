@@ -1,0 +1,286 @@
+{
+  "data": {
+    "cross_references": [],
+    "organism": "Streptococcus pneumoniae",
+    "pref_name": "Sialidase A",
+    "species_group_flag": false,
+    "target_chembl_id": "CHEMBL4105839",
+    "target_components": [
+      {
+        "accession": "P62575",
+        "component_description": "Sialidase A",
+        "component_id": 17691,
+        "component_type": "PROTEIN",
+        "relationship": "SINGLE PROTEIN",
+        "target_component_synonyms": [
+          {
+            "component_synonym": "3.2.1.18",
+            "syn_type": "EC_NUMBER"
+          },
+          {
+            "component_synonym": "nanA",
+            "syn_type": "GENE_SYMBOL"
+          },
+          {
+            "component_synonym": "Neuraminidase A",
+            "syn_type": "UNIPROT"
+          },
+          {
+            "component_synonym": "Sialidase A",
+            "syn_type": "UNIPROT"
+          }
+        ],
+        "target_component_xrefs": [
+          {
+            "xref_id": "P62575",
+            "xref_name": null,
+            "xref_src_db": "AlphaFoldDB"
+          },
+          {
+            "xref_id": "GO:0005576",
+            "xref_name": "extracellular region",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0005737",
+            "xref_name": "cytoplasm",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0016020",
+            "xref_name": "membrane",
+            "xref_src_db": "GoComponent"
+          },
+          {
+            "xref_id": "GO:0004308",
+            "xref_name": "exo-alpha-sialidase activity",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0016798",
+            "xref_name": "hydrolase activity, acting on glycosyl bonds",
+            "xref_src_db": "GoFunction"
+          },
+          {
+            "xref_id": "GO:0005975",
+            "xref_name": "carbohydrate metabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0006689",
+            "xref_name": "ganglioside catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "GO:0009313",
+            "xref_name": "oligosaccharide catabolic process",
+            "xref_src_db": "GoProcess"
+          },
+          {
+            "xref_id": "IPR001791",
+            "xref_name": "Laminin_G",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR004124",
+            "xref_name": "Glyco_hydro_33_N",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR005877",
+            "xref_name": "YSIRK_signal_dom",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR011040",
+            "xref_name": "Sialidase",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR013320",
+            "xref_name": "ConA-like_dom_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR019931",
+            "xref_name": "LPXTG_anchor",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR023364",
+            "xref_name": "Trans_sialidase_dom3",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR026856",
+            "xref_name": "Sialidase_fam",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR036278",
+            "xref_name": "Sialidase_sf",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "IPR049964",
+            "xref_name": "NanA_rpt",
+            "xref_src_db": "InterPro"
+          },
+          {
+            "xref_id": "PTHR10628",
+            "xref_name": "SIALIDASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "PTHR10628:SF30",
+            "xref_name": "EXO-ALPHA-SIALIDASE",
+            "xref_src_db": "PANTHER"
+          },
+          {
+            "xref_id": "2VVZ",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2YA4",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2YA5",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2YA6",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2YA7",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2YA8",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4C1X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "4ZXK",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "5KKY",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A54",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "7A5X",
+            "xref_name": null,
+            "xref_src_db": "PDB"
+          },
+          {
+            "xref_id": "2VVZ",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2YA4",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2YA5",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2YA6",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2YA7",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "2YA8",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4C1X",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "4ZXK",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "5KKY",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A54",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "7A5X",
+            "xref_name": "A",
+            "xref_src_db": "PDBe"
+          },
+          {
+            "xref_id": "PF02973",
+            "xref_name": "Sialidase",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF04650",
+            "xref_name": "YSIRK_signal",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "PF13088",
+            "xref_name": "BNR_2",
+            "xref_src_db": "Pfam"
+          },
+          {
+            "xref_id": "P62575",
+            "xref_name": "Sialidase A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q54722",
+            "xref_name": "Sialidase A",
+            "xref_src_db": "UniProt"
+          },
+          {
+            "xref_id": "Q59959",
+            "xref_name": "Sialidase A",
+            "xref_src_db": "UniProt"
+          }
+        ]
+      }
+    ],
+    "target_type": "SINGLE PROTEIN",
+    "tax_id": 1313
+  },
+  "ok": true
+}

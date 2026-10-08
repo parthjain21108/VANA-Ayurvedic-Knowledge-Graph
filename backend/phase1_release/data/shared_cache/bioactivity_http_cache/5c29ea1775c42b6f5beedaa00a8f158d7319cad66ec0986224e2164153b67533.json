@@ -1,0 +1,463 @@
+{
+  "data": {
+    "accession": "P26769",
+    "component_id": 1289,
+    "component_type": "PROTEIN",
+    "description": "Adenylate cyclase type 2",
+    "go_slims": [
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016829"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0030554"
+      },
+      {
+        "go_id": "GO:0043167"
+      }
+    ],
+    "organism": "Rattus norvegicus",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 648
+      }
+    ],
+    "sequence": "MRRRRYLRDRAEAAAAAAAGGGEGLQRSRDWLYESYYCMSQQHPLIVFLLLIVMGACLALLAVFFALGLEVEDHVAFLITVPTALAIFFAIFILVCIESVFKKLLRVFSLVIWICLVAMGYLFMCFGGTVSAWDQVSFFLFIIFVVYTMLPFNMRDAIIASILTSSSHTIVLSVYLSATPGAKEHLFWQILANVIIFICGNLAGAYHKHLMELALQQTYRDTCNCIKSRIKLEFEKRQQERLLLSLLPAHIAMEMKAEIIQRLQGPKAGQMENTNNFHNLYVKRHTNVSILYADIVGFTRLASDCSPGELVHMLNELFGKFDQIAKENECMRIKILGDCYYCVSGLPISLPNHAKNCVKMGLDMCEAIKKVRDATGVDINMRVGVHSGNVLCGVIGLQKWQYDVWSHDVTLANHMEAGGVPGRVHISSVTLEHLNGAYKVEEGDGEIRDPYLKQHLVKTYFVINPKGERRSPQHLFRPRHTLDGAKMRASVRMTRYLESWGAAKPFAHLHHRDSMTTENGKISTTDVPMGQHNFQNRTLRTKSQKKRFEEELNERMIQAIDGINAQKQWLKSEDIQRISLLFYNKNIEKEYRATALPAFKYYVTCACLIFLCIFIVQILVLPKTSILGFSFGAAFLSLIFILFVCFAGQLLQCSKKASTSLMWLLKSSGIIANRPWPRISLTIVTTAIILTMAVFNMFFLSNSEETTLPTANTSNANVSVPDNQASILHARNLFFLPYFIYSCILGLISCSVFLRVNYELKMLIMMVALVGYNTILLHTHAHVLDAYSQVLFQRPGIWKDLKTMGSVSLSIFFITLLVLGRQSEYYCRLDFLWKNKFKKEREEIETMENLNRVLLENVLPAHVAEHFLARSLKNEELYHQSYDCVCVMFASIPDFKEFYTESDVNKEGLECLRLLNEIIADFDDLLSKPKFSGVEKIKTIGSTYMAATGLSAIPSQEHAQEPERQYMHIGTMVEFAYALVGKLDAINKHSFNDFKLRVGINHGPVIAGVIGAQKPQYDIWGNTVNVASRMDSTGVLDKIQVTEETSLILQTLGYTCTCRGIINVKGKGDLKTYFVNTEMSRSLSQSNLAS",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "4.6.1.1",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "AC2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Adcy2",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Adenylate cyclase type 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Adenylate cyclase type II",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Adenylyl cyclase 2",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ATP pyrophosphate-lyase 2",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P26769",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016020",
+        "xref_name": "membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0030425",
+        "xref_name": "dendrite",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0032991",
+        "xref_name": "protein-containing complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0045121",
+        "xref_name": "membrane raft",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000287",
+        "xref_name": "magnesium ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004016",
+        "xref_name": "adenylate cyclase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005524",
+        "xref_name": "ATP binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008179",
+        "xref_name": "adenylate cyclase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016829",
+        "xref_name": "lyase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0030145",
+        "xref_name": "manganese ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0046872",
+        "xref_name": "metal ion binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006171",
+        "xref_name": "cAMP biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007188",
+        "xref_name": "adenylate cyclase-modulating G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007189",
+        "xref_name": "adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007193",
+        "xref_name": "adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035556",
+        "xref_name": "intracellular signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1904322",
+        "xref_name": "cellular response to forskolin",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "P26769",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR001054",
+        "xref_name": "A/G_cyclase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR009398",
+        "xref_name": "Adcy_conserved_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR018297",
+        "xref_name": "A/G_cyclase_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR029787",
+        "xref_name": "Nucleotide_cyclase",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR030672",
+        "xref_name": "Adcy",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR032628",
+        "xref_name": "AC_N",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR45627",
+        "xref_name": "ADENYLATE CYCLASE TYPE 1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR45627:SF6",
+        "xref_name": "ADENYLATE CYCLASE TYPE 2",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1AB8",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1AZS",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1CJK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1CJT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1CJU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1CJV",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1CS4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1CUL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1TL7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1U0H",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2GVD",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2GVZ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3C14",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3C15",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3C16",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3G82",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3MAA",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1AB8",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1AZS",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1CJK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1CJT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1CJU",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1CJV",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1CS4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1CUL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1TL7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1U0H",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2GVD",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "2GVZ",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3C14",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3C15",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3C16",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3G82",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3MAA",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00211",
+        "xref_name": "Guanylate_cyc",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF06327",
+        "xref_name": "Adcy_cons_dom",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF16214",
+        "xref_name": "AC_N",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "R-RNO-163615",
+        "xref_name": "PKA activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-170660",
+        "xref_name": "Adenylate cyclase activating pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-170670",
+        "xref_name": "Adenylate cyclase inhibitory pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-418597",
+        "xref_name": "G alpha (z) signalling events",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-RNO-5610787",
+        "xref_name": "Hedgehog 'off' state",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "P26769",
+        "xref_name": "Adenylate cyclase type 2",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2958"
+      },
+      {
+        "target_chembl_id": "CHEMBL2095179"
+      }
+    ],
+    "tax_id": 10116
+  },
+  "ok": true
+}

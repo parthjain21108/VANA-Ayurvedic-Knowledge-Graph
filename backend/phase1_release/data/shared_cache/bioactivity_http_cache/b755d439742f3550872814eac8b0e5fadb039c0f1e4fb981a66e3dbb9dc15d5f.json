@@ -1,0 +1,338 @@
+{
+  "data": {
+    "accession": "P50578",
+    "component_id": 2368,
+    "component_type": "PROTEIN",
+    "description": "Aldo-keto reductase family 1 member A1",
+    "go_slims": [
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005829"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0005975"
+      },
+      {
+        "go_id": "GO:0006629"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008152"
+      },
+      {
+        "go_id": "GO:0009056"
+      },
+      {
+        "go_id": "GO:0009058"
+      },
+      {
+        "go_id": "GO:0016020"
+      },
+      {
+        "go_id": "GO:0016491"
+      },
+      {
+        "go_id": "GO:0044281"
+      }
+    ],
+    "organism": "Sus scrofa",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 10
+      }
+    ],
+    "sequence": "MAASCVLLHTGQKMPLIGLGTWKSEPGQVKAAIKYALTVGYRHIDCAAIYGNELEIGEALQETVGPGKAVPREELFVTSKLWNTKHHPEDVEPALRKTLADLQLEYLDLYLMHWPYAFERGDNPFPKNADGTIRYDATHYKDTWKALEALVAKGLVRALGLSNFSSRQIDDVLSVASVRPAVLQVECHPYLAQNELIAHCQARGLEVTAYSPLGSSDRAWRDPNEPVLLEEPVVQALAEKYNRSPAQILLRWQVQRKVICIPKSVTPSRILQNIQVFDFTFSPEEMKQLDALNKNLRFIVPMLTVDGKRVPRDAGHPLYPFNDPY",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "1.1.1.19",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.1.1.2",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.1.1.20",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.1.1.372",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.1.1.54",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "1.6.-.-",
+        "syn_type": "EC_NUMBER"
+      },
+      {
+        "component_synonym": "AKR1A1",
+        "syn_type": "GENE_SYMBOL"
+      },
+      {
+        "component_synonym": "Alcohol dehydrogenase [NADP(+)]",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Aldehyde reductase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Aldo-keto reductase family 1 member A1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ALR",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "ALR1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "Glucuronate reductase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "Glucuronolactone reductase",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "ScorR",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "S-nitroso-CoA reductase",
+        "syn_type": "UNIPROT"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P50578",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005829",
+        "xref_name": "cytosol",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0016324",
+        "xref_name": "apical plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0004032",
+        "xref_name": "aldose reductase (NADPH) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0004745",
+        "xref_name": "all-trans-retinol dehydrogenase (NAD+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008106",
+        "xref_name": "alcohol dehydrogenase (NADP+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016491",
+        "xref_name": "oxidoreductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0047655",
+        "xref_name": "allyl-alcohol dehydrogenase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0047939",
+        "xref_name": "L-glucuronate reductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0047941",
+        "xref_name": "glucuronolactone reductase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0047956",
+        "xref_name": "glycerol dehydrogenase (NADP+) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0160163",
+        "xref_name": "S-nitrosoglutathione reductase (NADPH) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:1990002",
+        "xref_name": "methylglyoxal reductase (NADPH) (acetol producing) activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0006629",
+        "xref_name": "lipid metabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0019853",
+        "xref_name": "L-ascorbic acid biosynthetic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042840",
+        "xref_name": "D-glucuronate catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046185",
+        "xref_name": "aldehyde catabolic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0110095",
+        "xref_name": "cellular detoxification of aldehyde",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "IPR018170",
+        "xref_name": "Aldo/ket_reductase_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR020471",
+        "xref_name": "AKR",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR023210",
+        "xref_name": "NADP_OxRdtase_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036812",
+        "xref_name": "NAD(P)_OxRdtase_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR044481",
+        "xref_name": "AKR1A",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR11732",
+        "xref_name": "ALDO/KETO REDUCTASE",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "1AE4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1CWN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1HQT",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3CV7",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3FX4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "3H4G",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "1AE4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1CWN",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "1HQT",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3CV7",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3FX4",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "3H4G",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00248",
+        "xref_name": "Aldo_ket_red",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA24674",
+        "xref_name": "aldo-keto reductase family 1 member A1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "I3L929",
+        "xref_name": "Aldo-keto reductase family 1 member A1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P50578",
+        "xref_name": "Aldo-keto reductase family 1 member A1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL4049"
+      }
+    ],
+    "tax_id": 9823
+  },
+  "ok": true
+}

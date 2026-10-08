@@ -1,0 +1,869 @@
+{
+  "data": {
+    "accession": "P09429",
+    "component_id": 7222,
+    "component_type": "PROTEIN",
+    "description": "High mobility group protein B1",
+    "go_slims": [
+      {
+        "go_id": "GO:0002376"
+      },
+      {
+        "go_id": "GO:0003677"
+      },
+      {
+        "go_id": "GO:0003723"
+      },
+      {
+        "go_id": "GO:0005102"
+      },
+      {
+        "go_id": "GO:0005125"
+      },
+      {
+        "go_id": "GO:0005178"
+      },
+      {
+        "go_id": "GO:0005515"
+      },
+      {
+        "go_id": "GO:0005575"
+      },
+      {
+        "go_id": "GO:0005576"
+      },
+      {
+        "go_id": "GO:0005615"
+      },
+      {
+        "go_id": "GO:0005634"
+      },
+      {
+        "go_id": "GO:0005654"
+      },
+      {
+        "go_id": "GO:0005694"
+      },
+      {
+        "go_id": "GO:0005737"
+      },
+      {
+        "go_id": "GO:0005768"
+      },
+      {
+        "go_id": "GO:0005783"
+      },
+      {
+        "go_id": "GO:0005886"
+      },
+      {
+        "go_id": "GO:0006259"
+      },
+      {
+        "go_id": "GO:0006810"
+      },
+      {
+        "go_id": "GO:0006914"
+      },
+      {
+        "go_id": "GO:0007165"
+      },
+      {
+        "go_id": "GO:0008134"
+      },
+      {
+        "go_id": "GO:0008150"
+      },
+      {
+        "go_id": "GO:0008289"
+      },
+      {
+        "go_id": "GO:0016192"
+      },
+      {
+        "go_id": "GO:0016829"
+      },
+      {
+        "go_id": "GO:0019899"
+      },
+      {
+        "go_id": "GO:0030154"
+      },
+      {
+        "go_id": "GO:0030674"
+      },
+      {
+        "go_id": "GO:0040011"
+      },
+      {
+        "go_id": "GO:0042056"
+      },
+      {
+        "go_id": "GO:0043065"
+      },
+      {
+        "go_id": "GO:0043085"
+      },
+      {
+        "go_id": "GO:0048018"
+      },
+      {
+        "go_id": "GO:0048870"
+      },
+      {
+        "go_id": "GO:0050790"
+      },
+      {
+        "go_id": "GO:0051276"
+      }
+    ],
+    "organism": "Homo sapiens",
+    "protein_classifications": [
+      {
+        "protein_classification_id": 601
+      }
+    ],
+    "sequence": "MGKGDPKKPRGKMSSYAFFVQTCREEHKKKHPDASVNFSEFSKKCSERWKTMSAKEKGKFEDMAKADKARYEREMKTYIPPKGETKKKFKDPNAPKRPPSAFFLFCSEYRPKIKGEHPGLSIGDVAKKLGEMWNNTAADDKQPYEKKAAKLKEKYEKDIAAYRAKGKPDAAKKGVVKAEKSKKKKEEEEDEEDEEDEEEEEDEEDEDEEEDDDDE",
+    "target_component_synonyms": [
+      {
+        "component_synonym": "High mobility group protein 1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "High mobility group protein B1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "HMG-1",
+        "syn_type": "UNIPROT"
+      },
+      {
+        "component_synonym": "HMG1",
+        "syn_type": "GENE_SYMBOL_OTHER"
+      },
+      {
+        "component_synonym": "HMGB1",
+        "syn_type": "GENE_SYMBOL"
+      }
+    ],
+    "target_component_xrefs": [
+      {
+        "xref_id": "P09429",
+        "xref_name": null,
+        "xref_src_db": "AlphaFoldDB"
+      },
+      {
+        "xref_id": "P09429",
+        "xref_name": null,
+        "xref_src_db": "ExpressionAtlas"
+      },
+      {
+        "xref_id": "GO:0000793",
+        "xref_name": "condensed chromosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005576",
+        "xref_name": "extracellular region",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005615",
+        "xref_name": "extracellular space",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005634",
+        "xref_name": "nucleus",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005654",
+        "xref_name": "nucleoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005694",
+        "xref_name": "chromosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005737",
+        "xref_name": "cytoplasm",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005768",
+        "xref_name": "endosome",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005783",
+        "xref_name": "endoplasmic reticulum",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0005886",
+        "xref_name": "plasma membrane",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0009986",
+        "xref_name": "cell surface",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0017053",
+        "xref_name": "transcription repressor complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0034774",
+        "xref_name": "secretory granule lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0035868",
+        "xref_name": "alphav-beta3 integrin-HMGB1 complex",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:1904813",
+        "xref_name": "ficolin-1-rich granule lumen",
+        "xref_src_db": "GoComponent"
+      },
+      {
+        "xref_id": "GO:0000400",
+        "xref_name": "four-way junction DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000405",
+        "xref_name": "bubble DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000976",
+        "xref_name": "transcription cis-regulatory region binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001530",
+        "xref_name": "lipopolysaccharide binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0001786",
+        "xref_name": "phosphatidylserine binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003677",
+        "xref_name": "DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003684",
+        "xref_name": "damaged DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003690",
+        "xref_name": "double-stranded DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003697",
+        "xref_name": "single-stranded DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003713",
+        "xref_name": "transcription coactivator activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003714",
+        "xref_name": "transcription corepressor activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0003723",
+        "xref_name": "RNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005125",
+        "xref_name": "cytokine activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005178",
+        "xref_name": "integrin binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0005515",
+        "xref_name": "protein binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0008301",
+        "xref_name": "DNA binding, bending",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0016829",
+        "xref_name": "lyase activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0019958",
+        "xref_name": "C-X-C chemokine binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0042056",
+        "xref_name": "chemoattractant activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0048018",
+        "xref_name": "receptor ligand activity",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0050786",
+        "xref_name": "RAGE receptor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0061629",
+        "xref_name": "RNA polymerase II-specific DNA-binding transcription factor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0070182",
+        "xref_name": "DNA polymerase binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0097100",
+        "xref_name": "supercoiled DNA binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0140297",
+        "xref_name": "DNA-binding transcription factor binding",
+        "xref_src_db": "GoFunction"
+      },
+      {
+        "xref_id": "GO:0000122",
+        "xref_name": "negative regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0001773",
+        "xref_name": "myeloid dendritic cell activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002218",
+        "xref_name": "activation of innate immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002250",
+        "xref_name": "adaptive immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002376",
+        "xref_name": "immune system process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002407",
+        "xref_name": "dendritic cell chemotaxis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002437",
+        "xref_name": "inflammatory response to antigenic stimulus",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002643",
+        "xref_name": "regulation of tolerance induction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0002840",
+        "xref_name": "regulation of T cell mediated immune response to tumor cell",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006265",
+        "xref_name": "DNA topological change",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006281",
+        "xref_name": "DNA repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006303",
+        "xref_name": "double-strand break repair via nonhomologous end joining",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006310",
+        "xref_name": "DNA recombination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006914",
+        "xref_name": "autophagy",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0006935",
+        "xref_name": "chemotaxis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007165",
+        "xref_name": "signal transduction",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0007204",
+        "xref_name": "positive regulation of cytosolic calcium ion concentration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0010508",
+        "xref_name": "positive regulation of autophagy",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0017055",
+        "xref_name": "negative regulation of RNA polymerase II transcription preinitiation complex assembly",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0031507",
+        "xref_name": "heterochromatin formation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032072",
+        "xref_name": "regulation of restriction endodeoxyribonuclease activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032392",
+        "xref_name": "DNA geometric change",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032425",
+        "xref_name": "positive regulation of mismatch repair",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032689",
+        "xref_name": "negative regulation of type II interferon production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032732",
+        "xref_name": "positive regulation of interleukin-1 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032733",
+        "xref_name": "positive regulation of interleukin-10 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032735",
+        "xref_name": "positive regulation of interleukin-12 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032755",
+        "xref_name": "positive regulation of interleukin-6 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032757",
+        "xref_name": "positive regulation of interleukin-8 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0032760",
+        "xref_name": "positive regulation of tumor necrosis factor production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0033151",
+        "xref_name": "V(D)J recombination",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0034165",
+        "xref_name": "positive regulation of toll-like receptor 9 signaling pathway",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0035711",
+        "xref_name": "T-helper 1 cell activation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0042104",
+        "xref_name": "positive regulation of activated T cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043065",
+        "xref_name": "positive regulation of apoptotic process",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043277",
+        "xref_name": "apoptotic cell clearance",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043371",
+        "xref_name": "negative regulation of CD4-positive, alpha-beta T cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043410",
+        "xref_name": "positive regulation of MAPK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043536",
+        "xref_name": "positive regulation of blood vessel endothelial cell migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0043537",
+        "xref_name": "negative regulation of blood vessel endothelial cell migration",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045063",
+        "xref_name": "T-helper 1 cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045087",
+        "xref_name": "innate immune response",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0045944",
+        "xref_name": "positive regulation of transcription by RNA polymerase II",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046330",
+        "xref_name": "positive regulation of JNK cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0046598",
+        "xref_name": "positive regulation of viral entry into host cell",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0050918",
+        "xref_name": "positive chemotaxis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0051106",
+        "xref_name": "positive regulation of DNA ligation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0070374",
+        "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0071222",
+        "xref_name": "cellular response to lipopolysaccharide",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0090026",
+        "xref_name": "positive regulation of monocyte chemotaxis",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:0097350",
+        "xref_name": "neutrophil clearance",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:1905564",
+        "xref_name": "positive regulation of vascular endothelial cell proliferation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000343",
+        "xref_name": "positive regulation of chemokine (C-X-C motif) ligand 2 production",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2000426",
+        "xref_name": "negative regulation of apoptotic cell clearance",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2001056",
+        "xref_name": "positive regulation of cysteine-type endopeptidase activity",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "GO:2001200",
+        "xref_name": "positive regulation of dendritic cell differentiation",
+        "xref_src_db": "GoProcess"
+      },
+      {
+        "xref_id": "HGNC:4983",
+        "xref_name": "HMGB1",
+        "xref_src_db": "HGNC"
+      },
+      {
+        "xref_id": "P09429",
+        "xref_name": null,
+        "xref_src_db": "IntAct"
+      },
+      {
+        "xref_id": "IPR009071",
+        "xref_name": "HMG_box_dom",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR017967",
+        "xref_name": "HMG_boxA_CS",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR036910",
+        "xref_name": "HMG_box_dom_sf",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "IPR050342",
+        "xref_name": "HMGB",
+        "xref_src_db": "InterPro"
+      },
+      {
+        "xref_id": "PTHR48112",
+        "xref_name": "HIGH MOBILITY GROUP PROTEIN DSP1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "PTHR48112:SF35",
+        "xref_name": "HIGH MOBILITY GROUP PROTEIN B1",
+        "xref_src_db": "PANTHER"
+      },
+      {
+        "xref_id": "2LY4",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2RTU",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "2YRQ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CG0",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CIJ",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CIK",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CIL",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CIM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6OEM",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6OEN",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6OEO",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "8I9M",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "9CG9",
+        "xref_name": null,
+        "xref_src_db": "PDB"
+      },
+      {
+        "xref_id": "6CIK",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6CIL",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "6CIM",
+        "xref_name": "A",
+        "xref_src_db": "PDBe"
+      },
+      {
+        "xref_id": "PF00505",
+        "xref_name": "HMG_box",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PF09011",
+        "xref_name": "HMG_box_2",
+        "xref_src_db": "Pfam"
+      },
+      {
+        "xref_id": "PA188",
+        "xref_name": "high mobility group box 1",
+        "xref_src_db": "PharmGKB"
+      },
+      {
+        "xref_id": "P09429",
+        "xref_name": null,
+        "xref_src_db": "Pharos"
+      },
+      {
+        "xref_id": "R-HSA-1236974",
+        "xref_name": "ER-Phagosome pathway",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-140342",
+        "xref_name": "Apoptosis induced DNA fragmentation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-166058",
+        "xref_name": "MyD88:MAL(TIRAP) cascade initiated on plasma membrane",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-445989",
+        "xref_name": "TAK1-dependent IKK and NF-kappa-B activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5602498",
+        "xref_name": "MyD88 deficiency (TLR2/4)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5603041",
+        "xref_name": "IRAK4 deficiency (TLR2/4)",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5620971",
+        "xref_name": "Pyroptosis",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-5686938",
+        "xref_name": "Regulation of TLR by endogenous ligand",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-6798695",
+        "xref_name": "Neutrophil degranulation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-879415",
+        "xref_name": "Advanced glycosylation endproduct receptor signaling",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "R-HSA-933542",
+        "xref_name": "TRAF6 mediated NF-kB activation",
+        "xref_src_db": "Reactome"
+      },
+      {
+        "xref_id": "A5D8W9",
+        "xref_name": "High mobility group protein B1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "P09429",
+        "xref_name": "High mobility group protein B1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q14321",
+        "xref_name": "High mobility group protein B1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q5T7C3",
+        "xref_name": "High mobility group protein B1",
+        "xref_src_db": "UniProt"
+      },
+      {
+        "xref_id": "Q6IBE1",
+        "xref_name": "High mobility group protein B1",
+        "xref_src_db": "UniProt"
+      }
+    ],
+    "targets": [
+      {
+        "target_chembl_id": "CHEMBL2311236"
+      }
+    ],
+    "tax_id": 9606
+  },
+  "ok": true
+}
