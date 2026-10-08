@@ -266,7 +266,7 @@ The whole stack runs from one `docker compose up`. Only the frontend container i
 
 ## 🖼️ Screenshots
 
-> Screenshots coming soon. Add images to `docs/assets/` and replace this block.
+> Screenshots coming soon. Thank you for your patience.
 
 <!--
 <p align="center">
