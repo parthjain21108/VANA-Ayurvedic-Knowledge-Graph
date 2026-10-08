@@ -363,6 +363,6 @@ VANA is a research and knowledge-exploration platform. Its output is not medical
 
 **Connecting traditional knowledge, modern biological data, and AI through a unified knowledge graph.**
 
-Built by **[Parth Jain](https://github.com/parthjain21108)**
+Built by **[Parth Jain](www.linkedin.com/in/parth-jain-cs357)**
 
 </div>
